@@ -10,11 +10,11 @@
 		region: "Negros Island Region (NIR)",
 		province: ["All", "Negros Occidental","Negros Oriental"]
 	});
-	// Regions.insert({
-	// 	id: 3,
-	// 	region: "National Capital Region (NCR)",
-	// 	province: ["All", "Metropolitan Manila"]
-	// });
+	Regions.insert({
+		id: 3,
+		region: "National Capital Region (NCR)",
+		province: ["All", "Metropolitan Manila"]
+	});
 	Regions.insert({
 		id: 4,
 		region: "Cordillera Administrative Region (CAR)",
@@ -28,7 +28,8 @@
 	Regions.insert({
 		id: 6,
 		region: "Region II: Cagayan Valley",
-		province: ["All", "Cagayan","Isabela","Nueva Vizcaya","Quirino"]
+		// province: ["All", "Cagayan","Isabela","Nueva Vizcaya","Quirino"]
+		province: ["All", "Batanes", "Cagayan","Isabela","Nueva Vizcaya","Quirino"]
 	});
 	Regions.insert({
 		id: 7,
@@ -58,7 +59,8 @@
 	Regions.insert({
 		id: 12,
 		region: "Region VII: Central Visayas",
-		province: ["All", "Bohol","Cebu"]
+		// province: ["All", "Bohol","Cebu"]
+		province: ["All", "Bohol","Cebu","Siquijor"]
 	});
 	Regions.insert({
 		id: 13,
@@ -68,7 +70,8 @@
 	Regions.insert({
 		id: 14,
 		region: "Region IX: Zamboanga Peninsula",
-		province: ["All", "Zamboanga del Norte","Zamboanga del Sur"]
+		// province: ["All", "Zamboanga del Norte","Zamboanga del Sur"]
+		province: ["All", "Zamboanga del Norte","Zamboanga del Sur","Zamboanga Sibugay"]
 	});
 	Regions.insert({
 		id: 15,
@@ -93,5 +96,6 @@
 	Regions.insert({
 		id: 19,
 		region: "ARMM",
-		province: ["All", "Basilan","Maguindanao","Shariff Kabunsuan","Sulu"]
+		// province: ["All", "Basilan","Maguindanao","Shariff Kabunsuan","Sulu"]
+		province: ["All", "Basilan","Maguindanao","Shariff Kabunsuan","Sulu","Tawi-tawi"]
 	});

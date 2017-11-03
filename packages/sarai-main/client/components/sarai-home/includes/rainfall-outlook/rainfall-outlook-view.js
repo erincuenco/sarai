@@ -71,16 +71,6 @@ Template.RainfallOutlookView.helpers({
         // })
 
         outlook.push({
-          head: 'Sept',
-          value: Math.round(weatherOutlook.data.month.Sept)
-        })
-
-        outlook.push({
-          head: 'Oct',
-          value: Math.round(weatherOutlook.data.month.Oct)
-        })
-
-        outlook.push({
           head: 'Nov',
           value: Math.round(weatherOutlook.data.month.Nov)
         })
@@ -93,6 +83,16 @@ Template.RainfallOutlookView.helpers({
         outlook.push({
           head: 'Jan',
           value: Math.round(weatherOutlook.data.month.Jan)
+        })
+
+        outlook.push({
+          head: 'Feb',
+          value: Math.round(weatherOutlook.data.month.Feb)
+        })
+
+        outlook.push({
+          head: 'Mar',
+          value: Math.round(weatherOutlook.data.month.Mar)
         })
 
         return outlook
