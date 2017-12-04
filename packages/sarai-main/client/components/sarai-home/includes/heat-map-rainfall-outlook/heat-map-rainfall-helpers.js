@@ -25,11 +25,11 @@ Meteor.RainfallHeatMap = {
 
     for (let a = 0; a < totalMunicipalities; a++) {                  // if all municipalities except "All" option which is the first element (weatherOutlook[0]) -> a=1
       rainfallOutlook.push({ x: weatherOutlook[a].municipality, y: [
-                                                                    Math.round(weatherOutlook[a].data.month.Nov),
                                                                     Math.round(weatherOutlook[a].data.month.Dec),
                                                                     Math.round(weatherOutlook[a].data.month.Jan),
                                                                     Math.round(weatherOutlook[a].data.month.Feb),
-                                                                    Math.round(weatherOutlook[a].data.month.Mar)]})
+                                                                    Math.round(weatherOutlook[a].data.month.Mar),
+                                                                    Math.round(weatherOutlook[a].data.month.Apr)]})
     }
     return rainfallOutlook
   },
@@ -51,7 +51,7 @@ Meteor.RainfallHeatMap = {
       },
 
       xAxis: {
-          categories: ['Nov', 'Dec', 'Jan', 'Feb', 'Mar', ],
+          categories: ['Dec', 'Jan', 'Feb', 'Mar', 'Apr' ],
           opposite: true
       },
 

@@ -6,11 +6,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 155.14, 
-			Dec: 45.81, 
-			Jan: 13.28, 
-			Feb: 12.64, 
-			Mar: 30.79 
+			Dec: 45.61, 
+			Jan: 13.37, 
+			Feb: 12.75, 
+			Mar: 29.71, 
+			Apr: 76.27 
 		}
 	}
 }); 
@@ -21,11 +21,11 @@ WeatherOutlook.insert({
 	municipality: "Bangued", 
 	data: {
 		month: {
-			Nov: 90.03, 
-			Dec: 16.35, 
-			Jan: 5.74, 
-			Feb: 10.91, 
-			Mar: 24.35 
+			Dec: 16.99, 
+			Jan: 5.43, 
+			Feb: 9.98, 
+			Mar: 21.41, 
+			Apr: 63.78 
 		}
 	}
 }); 
@@ -36,11 +36,11 @@ WeatherOutlook.insert({
 	municipality: "Boliney", 
 	data: {
 		month: {
-			Nov: 196.66, 
-			Dec: 69.13, 
-			Jan: 15.42, 
-			Feb: 15.28, 
-			Mar: 38.49 
+			Dec: 42.33, 
+			Jan: 10.93, 
+			Feb: 10.85, 
+			Mar: 29.55, 
+			Apr: 75.56 
 		}
 	}
 }); 
@@ -51,11 +51,11 @@ WeatherOutlook.insert({
 	municipality: "Bucay", 
 	data: {
 		month: {
-			Nov: 119.78, 
-			Dec: 17.98, 
-			Jan: 8.37, 
-			Feb: 13.14, 
-			Mar: 32.9 
+			Dec: 15.26, 
+			Jan: 7.30, 
+			Feb: 12.87, 
+			Mar: 29.23, 
+			Apr: 91.53 
 		}
 	}
 }); 
@@ -66,11 +66,11 @@ WeatherOutlook.insert({
 	municipality: "Bucloc", 
 	data: {
 		month: {
-			Nov: 176.07, 
-			Dec: 53.83, 
-			Jan: 14.69, 
-			Feb: 12.02, 
-			Mar: 34.53 
+			Dec: 39.32, 
+			Jan: 12.05, 
+			Feb: 11.18, 
+			Mar: 30.62, 
+			Apr: 83.88 
 		}
 	}
 }); 
@@ -81,11 +81,11 @@ WeatherOutlook.insert({
 	municipality: "Daguioman", 
 	data: {
 		month: {
-			Nov: 219.75, 
-			Dec: 82.14, 
-			Jan: 19.4, 
-			Feb: 17.98, 
-			Mar: 41.71 
+			Dec: 58.30, 
+			Jan: 15.01, 
+			Feb: 12.98, 
+			Mar: 34.69, 
+			Apr: 88.90 
 		}
 	}
 }); 
@@ -96,11 +96,11 @@ WeatherOutlook.insert({
 	municipality: "Danglas", 
 	data: {
 		month: {
-			Nov: 117.77, 
-			Dec: 25.78, 
-			Jan: 7.46, 
-			Feb: 9.23, 
-			Mar: 19.88 
+			Dec: 25.74, 
+			Jan: 7.53, 
+			Feb: 9.36, 
+			Mar: 19.00, 
+			Apr: 57.04 
 		}
 	}
 }); 
@@ -111,11 +111,11 @@ WeatherOutlook.insert({
 	municipality: "Dolores", 
 	data: {
 		month: {
-			Nov: 93.23, 
-			Dec: 12.68, 
-			Jan: 8.62, 
-			Feb: 10.9, 
-			Mar: 30.76 
+			Dec: 12.63, 
+			Jan: 8.69, 
+			Feb: 11.03, 
+			Mar: 29.88, 
+			Apr: 89.31 
 		}
 	}
 }); 
@@ -126,11 +126,11 @@ WeatherOutlook.insert({
 	municipality: "La Paz", 
 	data: {
 		month: {
-			Nov: 94.69, 
-			Dec: 16.21, 
-			Jan: 6.91, 
-			Feb: 10.81, 
-			Mar: 24.98 
+			Dec: 16.15, 
+			Jan: 6.97, 
+			Feb: 10.93, 
+			Mar: 24.09, 
+			Apr: 73.25 
 		}
 	}
 }); 
@@ -141,11 +141,11 @@ WeatherOutlook.insert({
 	municipality: "Lacub", 
 	data: {
 		month: {
-			Nov: 226.86, 
-			Dec: 79.33, 
-			Jan: 21.83, 
-			Feb: 16.23, 
-			Mar: 37.48 
+			Dec: 79.28, 
+			Jan: 21.92, 
+			Feb: 16.37, 
+			Mar: 36.64, 
+			Apr: 81.66 
 		}
 	}
 }); 
@@ -156,11 +156,11 @@ WeatherOutlook.insert({
 	municipality: "Lagangilang", 
 	data: {
 		month: {
-			Nov: 116.39, 
-			Dec: 19.34, 
-			Jan: 11.22, 
-			Feb: 9.94, 
-			Mar: 30.85 
+			Dec: 19.28, 
+			Jan: 11.28, 
+			Feb: 10.07, 
+			Mar: 29.96, 
+			Apr: 89.06 
 		}
 	}
 }); 
@@ -171,11 +171,11 @@ WeatherOutlook.insert({
 	municipality: "Lagayan", 
 	data: {
 		month: {
-			Nov: 140.74, 
-			Dec: 30.52, 
-			Jan: 11.72, 
-			Feb: 8.95, 
-			Mar: 22.83 
+			Dec: 30.48, 
+			Jan: 11.80, 
+			Feb: 9.10, 
+			Mar: 21.98, 
+			Apr: 61.31 
 		}
 	}
 }); 
@@ -186,11 +186,11 @@ WeatherOutlook.insert({
 	municipality: "Langiden", 
 	data: {
 		month: {
-			Nov: 71.64, 
-			Dec: 16.42, 
-			Jan: 4.53, 
-			Feb: 6.96, 
-			Mar: 17.55 
+			Dec: 16.39, 
+			Jan: 4.60, 
+			Feb: 7.10, 
+			Mar: 16.64, 
+			Apr: 49.60 
 		}
 	}
 }); 
@@ -201,11 +201,11 @@ WeatherOutlook.insert({
 	municipality: "Licuan-Baay", 
 	data: {
 		month: {
-			Nov: 182.94, 
-			Dec: 51.16, 
-			Jan: 16.36, 
-			Feb: 12.46, 
-			Mar: 33.11 
+			Dec: 44.41, 
+			Jan: 15.00, 
+			Feb: 12.51, 
+			Mar: 31.80, 
+			Apr: 89.47 
 		}
 	}
 }); 
@@ -216,11 +216,11 @@ WeatherOutlook.insert({
 	municipality: "Luba", 
 	data: {
 		month: {
-			Nov: 123.82, 
-			Dec: 37.06, 
-			Jan: 8.96, 
-			Feb: 9.68, 
-			Mar: 25.98 
+			Dec: 42.92, 
+			Jan: 10.20, 
+			Feb: 12.99, 
+			Mar: 27.01, 
+			Apr: 67.26 
 		}
 	}
 }); 
@@ -231,11 +231,11 @@ WeatherOutlook.insert({
 	municipality: "Malibcong", 
 	data: {
 		month: {
-			Nov: 241.36, 
-			Dec: 93.24, 
-			Jan: 23.58, 
-			Feb: 20.21, 
-			Mar: 42.24 
+			Dec: 84.09, 
+			Jan: 21.83, 
+			Feb: 18.53, 
+			Mar: 39.30, 
+			Apr: 91.47 
 		}
 	}
 }); 
@@ -246,11 +246,11 @@ WeatherOutlook.insert({
 	municipality: "Manabo", 
 	data: {
 		month: {
-			Nov: 122.88, 
-			Dec: 29.39, 
-			Jan: 9.46, 
-			Feb: 9.78, 
-			Mar: 27.21 
+			Dec: 23.03, 
+			Jan: 8.14, 
+			Feb: 10.99, 
+			Mar: 25.34, 
+			Apr: 69.41 
 		}
 	}
 }); 
@@ -261,11 +261,11 @@ WeatherOutlook.insert({
 	municipality: "Peñarrubia", 
 	data: {
 		month: {
-			Nov: 98.62, 
-			Dec: 12.22, 
-			Jan: 5.91, 
-			Feb: 14.13, 
-			Mar: 31.55 
+			Dec: 12.94, 
+			Jan: 5.54, 
+			Feb: 13.41, 
+			Mar: 28.91, 
+			Apr: 88.78 
 		}
 	}
 }); 
@@ -276,11 +276,11 @@ WeatherOutlook.insert({
 	municipality: "Pidigan", 
 	data: {
 		month: {
-			Nov: 71.8, 
-			Dec: 15.17, 
-			Jan: 4.83, 
-			Feb: 9.69, 
-			Mar: 23.31 
+			Dec: 33.13, 
+			Jan: 8.67, 
+			Feb: 11.91, 
+			Mar: 26.12, 
+			Apr: 65.17 
 		}
 	}
 }); 
@@ -291,11 +291,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 82.99, 
-			Dec: 20.99, 
-			Jan: 6.42, 
-			Feb: 9.63, 
-			Mar: 21.43 
+			Dec: 82.68, 
+			Jan: 19.15, 
+			Feb: 18.87, 
+			Mar: 42.00, 
+			Apr: 97.96 
 		}
 	}
 }); 
@@ -306,11 +306,11 @@ WeatherOutlook.insert({
 	municipality: "Sallapadan", 
 	data: {
 		month: {
-			Nov: 150.99, 
-			Dec: 37.4, 
-			Jan: 11.57, 
-			Feb: 10.94, 
-			Mar: 32.15 
+			Dec: 27.29, 
+			Jan: 9.51, 
+			Feb: 11.34, 
+			Mar: 28.82, 
+			Apr: 82.21 
 		}
 	}
 }); 
@@ -321,11 +321,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 83.51, 
-			Dec: 17.48, 
-			Jan: 6.26, 
-			Feb: 10.64, 
-			Mar: 24.67 
+			Dec: 37.42, 
+			Jan: 9.65, 
+			Feb: 11.40, 
+			Mar: 26.33, 
+			Apr: 66.40 
 		}
 	}
 }); 
@@ -336,11 +336,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 120.78, 
-			Dec: 26.32, 
-			Jan: 11.98, 
-			Feb: 7.76, 
-			Mar: 26.21 
+			Dec: 26.25, 
+			Jan: 12.05, 
+			Feb: 7.89, 
+			Mar: 25.33, 
+			Apr: 71.93 
 		}
 	}
 }); 
@@ -351,11 +351,11 @@ WeatherOutlook.insert({
 	municipality: "San Quintin", 
 	data: {
 		month: {
-			Nov: 65.56, 
-			Dec: 20.62, 
-			Jan: 4.1, 
-			Feb: 6.2, 
-			Mar: 17.89 
+			Dec: 53.56, 
+			Jan: 12.64, 
+			Feb: 11.44, 
+			Mar: 27.11, 
+			Apr: 66.67 
 		}
 	}
 }); 
@@ -366,11 +366,11 @@ WeatherOutlook.insert({
 	municipality: "Tayum", 
 	data: {
 		month: {
-			Nov: 85.08, 
-			Dec: 7.94, 
-			Jan: 5.94, 
-			Feb: 14.06, 
-			Mar: 31.68 
+			Dec: 7.85, 
+			Jan: 5.98, 
+			Feb: 14.17, 
+			Mar: 30.76, 
+			Apr: 98.08 
 		}
 	}
 }); 
@@ -381,11 +381,11 @@ WeatherOutlook.insert({
 	municipality: "Tineg", 
 	data: {
 		month: {
-			Nov: 231.56, 
-			Dec: 76.01, 
-			Jan: 22.7, 
-			Feb: 15.69, 
-			Mar: 34.11 
+			Dec: 75.98, 
+			Jan: 22.83, 
+			Feb: 15.86, 
+			Mar: 33.24, 
+			Apr: 71.31 
 		}
 	}
 }); 
@@ -396,11 +396,11 @@ WeatherOutlook.insert({
 	municipality: "Tubo", 
 	data: {
 		month: {
-			Nov: 165, 
-			Dec: 56.48, 
-			Jan: 11.97, 
-			Feb: 13.08, 
-			Mar: 36.6 
+			Dec: 50.75, 
+			Jan: 11.35, 
+			Feb: 12.02, 
+			Mar: 32.01, 
+			Apr: 77.23 
 		}
 	}
 }); 
@@ -411,11 +411,11 @@ WeatherOutlook.insert({
 	municipality: "Villaviciosa", 
 	data: {
 		month: {
-			Nov: 87.27, 
-			Dec: 21, 
-			Jan: 7.37, 
-			Feb: 11.05, 
-			Mar: 24.62 
+			Dec: 36.33, 
+			Jan: 8.99, 
+			Feb: 12.24, 
+			Mar: 26.11, 
+			Apr: 63.94 
 		}
 	}
 }); 
@@ -426,11 +426,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 300.55, 
-			Dec: 455.61, 
-			Jan: 474.71, 
-			Feb: 366.77, 
-			Mar: 317.49 
+			Dec: 450.12, 
+			Jan: 465.89, 
+			Feb: 361.18, 
+			Mar: 314.33, 
+			Apr: 206.90 
 		}
 	}
 }); 
@@ -441,11 +441,11 @@ WeatherOutlook.insert({
 	municipality: "Buenavista", 
 	data: {
 		month: {
-			Nov: 255.26, 
-			Dec: 317.84, 
-			Jan: 362.38, 
-			Feb: 316.5, 
-			Mar: 258.36 
+			Dec: 352.71, 
+			Jan: 378.38, 
+			Feb: 309.98, 
+			Mar: 273.33, 
+			Apr: 166.15 
 		}
 	}
 }); 
@@ -456,11 +456,11 @@ WeatherOutlook.insert({
 	municipality: "Butuan City", 
 	data: {
 		month: {
-			Nov: 264.15, 
-			Dec: 384.02, 
-			Jan: 456.75, 
-			Feb: 350.97, 
-			Mar: 302.87 
+			Dec: 341.21, 
+			Jan: 397.73, 
+			Feb: 335.15, 
+			Mar: 272.83, 
+			Apr: 166.16 
 		}
 	}
 }); 
@@ -471,11 +471,11 @@ WeatherOutlook.insert({
 	municipality: "Cabadbaran City", 
 	data: {
 		month: {
-			Nov: 326.54, 
-			Dec: 555.83, 
-			Jan: 558.07, 
-			Feb: 430.35, 
-			Mar: 375.25 
+			Dec: 543.83, 
+			Jan: 547.63, 
+			Feb: 427.77, 
+			Mar: 363.49, 
+			Apr: 237.35 
 		}
 	}
 }); 
@@ -486,11 +486,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 277.29, 
-			Dec: 358.5, 
-			Jan: 370.16, 
-			Feb: 292.27, 
-			Mar: 255.74 
+			Dec: 457.81, 
+			Jan: 500.25, 
+			Feb: 380.68, 
+			Mar: 343.04, 
+			Apr: 221.85 
 		}
 	}
 }); 
@@ -501,11 +501,11 @@ WeatherOutlook.insert({
 	municipality: "Jabonga", 
 	data: {
 		month: {
-			Nov: 352.78, 
-			Dec: 589.73, 
-			Jan: 549.8, 
-			Feb: 415.49, 
-			Mar: 351.46 
+			Dec: 553.98, 
+			Jan: 521.57, 
+			Feb: 385.23, 
+			Mar: 329.12, 
+			Apr: 238.63 
 		}
 	}
 }); 
@@ -516,11 +516,11 @@ WeatherOutlook.insert({
 	municipality: "Kitcharao", 
 	data: {
 		month: {
-			Nov: 367.63, 
-			Dec: 604.64, 
-			Jan: 559.35, 
-			Feb: 413.1, 
-			Mar: 357.27 
+			Dec: 591.87, 
+			Jan: 546.62, 
+			Feb: 400.20, 
+			Mar: 339.11, 
+			Apr: 244.96 
 		}
 	}
 }); 
@@ -531,11 +531,11 @@ WeatherOutlook.insert({
 	municipality: "Las Nieves", 
 	data: {
 		month: {
-			Nov: 270.51, 
-			Dec: 345.71, 
-			Jan: 417.07, 
-			Feb: 300.96, 
-			Mar: 293.79 
+			Dec: 348.12, 
+			Jan: 416.24, 
+			Feb: 304.63, 
+			Mar: 294.89, 
+			Apr: 193.35 
 		}
 	}
 }); 
@@ -546,11 +546,11 @@ WeatherOutlook.insert({
 	municipality: "Magallanes", 
 	data: {
 		month: {
-			Nov: 277.41, 
-			Dec: 417.91, 
-			Jan: 470.69, 
-			Feb: 358.32, 
-			Mar: 291.56 
+			Dec: 414.49, 
+			Jan: 442.72, 
+			Feb: 343.92, 
+			Mar: 283.13, 
+			Apr: 178.06 
 		}
 	}
 }); 
@@ -561,11 +561,11 @@ WeatherOutlook.insert({
 	municipality: "Mainit Lake", 
 	data: {
 		month: {
-			Nov: 361.2, 
-			Dec: 586.4, 
-			Jan: 547.36, 
-			Feb: 393.61, 
-			Mar: 327.92 
+			Dec: 393.30, 
+			Jan: 364.94, 
+			Feb: 272.36, 
+			Mar: 239.34, 
+			Apr: 186.59 
 		}
 	}
 }); 
@@ -576,11 +576,11 @@ WeatherOutlook.insert({
 	municipality: "Nasipit", 
 	data: {
 		month: {
-			Nov: 261.01, 
-			Dec: 336.28, 
-			Jan: 358.59, 
-			Feb: 311.37, 
-			Mar: 259.57 
+			Dec: 406.15, 
+			Jan: 429.03, 
+			Feb: 330.10, 
+			Mar: 304.28, 
+			Apr: 189.72 
 		}
 	}
 }); 
@@ -591,11 +591,11 @@ WeatherOutlook.insert({
 	municipality: "Remedios T. Romualdez", 
 	data: {
 		month: {
-			Nov: 303.4, 
-			Dec: 500.03, 
-			Jan: 524.7, 
-			Feb: 390.26, 
-			Mar: 356.15 
+			Dec: 441.93, 
+			Jan: 494.52, 
+			Feb: 368.82, 
+			Mar: 312.31, 
+			Apr: 214.97 
 		}
 	}
 }); 
@@ -606,11 +606,11 @@ WeatherOutlook.insert({
 	municipality: "Santiago", 
 	data: {
 		month: {
-			Nov: 351.29, 
-			Dec: 614.29, 
-			Jan: 562.6, 
-			Feb: 446.95, 
-			Mar: 382.81 
+			Dec: 607.39, 
+			Jan: 560.12, 
+			Feb: 439.57, 
+			Mar: 376.57, 
+			Apr: 249.28 
 		}
 	}
 }); 
@@ -621,11 +621,11 @@ WeatherOutlook.insert({
 	municipality: "Tubay", 
 	data: {
 		month: {
-			Nov: 321.76, 
-			Dec: 530.56, 
-			Jan: 540.58, 
-			Feb: 416.72, 
-			Mar: 334.71 
+			Dec: 603.30, 
+			Jan: 568.31, 
+			Feb: 442.61, 
+			Mar: 382.67, 
+			Apr: 254.37 
 		}
 	}
 }); 
@@ -636,11 +636,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 279.87, 
-			Dec: 437.24, 
-			Jan: 497.69, 
-			Feb: 319.3, 
-			Mar: 363.41 
+			Dec: 436.69, 
+			Jan: 497.10, 
+			Feb: 319.30, 
+			Mar: 364.84, 
+			Apr: 242.22 
 		}
 	}
 }); 
@@ -651,11 +651,11 @@ WeatherOutlook.insert({
 	municipality: "Bayugan City", 
 	data: {
 		month: {
-			Nov: 291.84, 
-			Dec: 450.95, 
-			Jan: 538.66, 
-			Feb: 358.64, 
-			Mar: 372.46 
+			Dec: 427.57, 
+			Jan: 518.32, 
+			Feb: 350.25, 
+			Mar: 354.00, 
+			Apr: 224.90 
 		}
 	}
 }); 
@@ -666,11 +666,11 @@ WeatherOutlook.insert({
 	municipality: "Bunawan", 
 	data: {
 		month: {
-			Nov: 311.16, 
-			Dec: 521.23, 
-			Jan: 572.67, 
-			Feb: 346.23, 
-			Mar: 413.1 
+			Dec: 475.02, 
+			Jan: 542.31, 
+			Feb: 328.09, 
+			Mar: 403.16, 
+			Apr: 269.91 
 		}
 	}
 }); 
@@ -681,11 +681,11 @@ WeatherOutlook.insert({
 	municipality: "Esperanza", 
 	data: {
 		month: {
-			Nov: 260.06, 
-			Dec: 375.7, 
-			Jan: 460.21, 
-			Feb: 303.07, 
-			Mar: 320.66 
+			Dec: 409.21, 
+			Jan: 483.12, 
+			Feb: 318.48, 
+			Mar: 338.25, 
+			Apr: 214.01 
 		}
 	}
 }); 
@@ -696,11 +696,11 @@ WeatherOutlook.insert({
 	municipality: "La Paz", 
 	data: {
 		month: {
-			Nov: 260.03, 
-			Dec: 376.9, 
-			Jan: 442.87, 
-			Feb: 285.55, 
-			Mar: 337.7 
+			Dec: 425.26, 
+			Jan: 467.16, 
+			Feb: 300.95, 
+			Mar: 348.80, 
+			Apr: 247.94 
 		}
 	}
 }); 
@@ -711,11 +711,11 @@ WeatherOutlook.insert({
 	municipality: "Loreto", 
 	data: {
 		month: {
-			Nov: 260.91, 
-			Dec: 371.29, 
-			Jan: 412.57, 
-			Feb: 266.73, 
-			Mar: 338.94 
+			Dec: 402.20, 
+			Jan: 436.73, 
+			Feb: 281.78, 
+			Mar: 344.00, 
+			Apr: 255.31 
 		}
 	}
 }); 
@@ -726,11 +726,11 @@ WeatherOutlook.insert({
 	municipality: "Prosperidad", 
 	data: {
 		month: {
-			Nov: 308.96, 
-			Dec: 496.44, 
-			Jan: 573.26, 
-			Feb: 366.34, 
-			Mar: 389.85 
+			Dec: 437.31, 
+			Jan: 535.37, 
+			Feb: 345.60, 
+			Mar: 370.10, 
+			Apr: 222.02 
 		}
 	}
 }); 
@@ -741,11 +741,11 @@ WeatherOutlook.insert({
 	municipality: "Rosario", 
 	data: {
 		month: {
-			Nov: 326.64, 
-			Dec: 561.55, 
-			Jan: 582.84, 
-			Feb: 361.6, 
-			Mar: 402.28 
+			Dec: 500.49, 
+			Jan: 558.69, 
+			Feb: 345.96, 
+			Mar: 396.24, 
+			Apr: 262.23 
 		}
 	}
 }); 
@@ -756,11 +756,11 @@ WeatherOutlook.insert({
 	municipality: "San Francisco", 
 	data: {
 		month: {
-			Nov: 302.87, 
-			Dec: 510.5, 
-			Jan: 574.14, 
-			Feb: 351.1, 
-			Mar: 394.64 
+			Dec: 455.86, 
+			Jan: 548.97, 
+			Feb: 335.75, 
+			Mar: 382.03, 
+			Apr: 228.00 
 		}
 	}
 }); 
@@ -771,11 +771,11 @@ WeatherOutlook.insert({
 	municipality: "San Luis", 
 	data: {
 		month: {
-			Nov: 244.38, 
-			Dec: 367.11, 
-			Jan: 449.56, 
-			Feb: 292.45, 
-			Mar: 329.71 
+			Dec: 402.08, 
+			Jan: 461.27, 
+			Feb: 299.46, 
+			Mar: 337.57, 
+			Apr: 217.24 
 		}
 	}
 }); 
@@ -786,11 +786,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Josefa", 
 	data: {
 		month: {
-			Nov: 267.69, 
-			Dec: 457.1, 
-			Jan: 523.27, 
-			Feb: 315.7, 
-			Mar: 401.29 
+			Dec: 444.86, 
+			Jan: 491.32, 
+			Feb: 298.13, 
+			Mar: 402.39, 
+			Apr: 264.13 
 		}
 	}
 }); 
@@ -801,11 +801,11 @@ WeatherOutlook.insert({
 	municipality: "Sibagat", 
 	data: {
 		month: {
-			Nov: 312.81, 
-			Dec: 511.94, 
-			Jan: 553.39, 
-			Feb: 394.06, 
-			Mar: 384.98 
+			Dec: 517.74, 
+			Jan: 558.55, 
+			Feb: 395.08, 
+			Mar: 392.10, 
+			Apr: 250.09 
 		}
 	}
 }); 
@@ -816,11 +816,11 @@ WeatherOutlook.insert({
 	municipality: "Talacogon", 
 	data: {
 		month: {
-			Nov: 251.27, 
-			Dec: 438.39, 
-			Jan: 536.26, 
-			Feb: 331.19, 
-			Mar: 375.52 
+			Dec: 402.70, 
+			Jan: 537.32, 
+			Feb: 331.30, 
+			Mar: 377.90, 
+			Apr: 214.48 
 		}
 	}
 }); 
@@ -831,11 +831,11 @@ WeatherOutlook.insert({
 	municipality: "Trento", 
 	data: {
 		month: {
-			Nov: 315.72, 
-			Dec: 504.72, 
-			Jan: 564.96, 
-			Feb: 343.15, 
-			Mar: 398.39 
+			Dec: 480.28, 
+			Jan: 545.35, 
+			Feb: 328.26, 
+			Mar: 409.77, 
+			Apr: 275.77 
 		}
 	}
 }); 
@@ -846,11 +846,11 @@ WeatherOutlook.insert({
 	municipality: "Veruela", 
 	data: {
 		month: {
-			Nov: 254.42, 
-			Dec: 388.87, 
-			Jan: 414.8, 
-			Feb: 269.35, 
-			Mar: 352.09 
+			Dec: 393.15, 
+			Jan: 420.19, 
+			Feb: 274.85, 
+			Mar: 344.96, 
+			Apr: 253.20 
 		}
 	}
 }); 
@@ -861,11 +861,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 361.06, 
-			Dec: 281.42, 
-			Jan: 142.6, 
-			Feb: 89.72, 
-			Mar: 116.12 
+			Dec: 286.15, 
+			Jan: 152.55, 
+			Feb: 95.98, 
+			Mar: 122.93, 
+			Apr: 82.41 
 		}
 	}
 }); 
@@ -876,11 +876,11 @@ WeatherOutlook.insert({
 	municipality: "Altavas", 
 	data: {
 		month: {
-			Nov: 340.77, 
-			Dec: 288.91, 
-			Jan: 153.47, 
-			Feb: 102.61, 
-			Mar: 127.07 
+			Dec: 333.10, 
+			Jan: 172.17, 
+			Feb: 116.63, 
+			Mar: 150.93, 
+			Apr: 82.48 
 		}
 	}
 }); 
@@ -891,11 +891,11 @@ WeatherOutlook.insert({
 	municipality: "Balete", 
 	data: {
 		month: {
-			Nov: 378.14, 
-			Dec: 335.69, 
-			Jan: 173.06, 
-			Feb: 118.95, 
-			Mar: 154.45 
+			Dec: 302.54, 
+			Jan: 148.47, 
+			Feb: 98.28, 
+			Mar: 140.85, 
+			Apr: 86.12 
 		}
 	}
 }); 
@@ -906,11 +906,11 @@ WeatherOutlook.insert({
 	municipality: "Banga", 
 	data: {
 		month: {
-			Nov: 361.85, 
-			Dec: 269.26, 
-			Jan: 149.08, 
-			Feb: 99.5, 
-			Mar: 128.43 
+			Dec: 278.95, 
+			Jan: 144.09, 
+			Feb: 92.61, 
+			Mar: 126.19, 
+			Apr: 82.22 
 		}
 	}
 }); 
@@ -921,11 +921,11 @@ WeatherOutlook.insert({
 	municipality: "Batan", 
 	data: {
 		month: {
-			Nov: 358.58, 
-			Dec: 305.66, 
-			Jan: 156.83, 
-			Feb: 103.79, 
-			Mar: 123.92 
+			Dec: 312.19, 
+			Jan: 165.54, 
+			Feb: 110.15, 
+			Mar: 137.25, 
+			Apr: 78.32 
 		}
 	}
 }); 
@@ -936,11 +936,11 @@ WeatherOutlook.insert({
 	municipality: "Buruanga", 
 	data: {
 		month: {
-			Nov: 333.27, 
-			Dec: 259.14, 
-			Jan: 128.69, 
-			Feb: 71.97, 
-			Mar: 75.88 
+			Dec: 258.87, 
+			Jan: 133.69, 
+			Feb: 74.97, 
+			Mar: 79.23, 
+			Apr: 64.59 
 		}
 	}
 }); 
@@ -951,11 +951,11 @@ WeatherOutlook.insert({
 	municipality: "Ibajay", 
 	data: {
 		month: {
-			Nov: 397.3, 
-			Dec: 306.09, 
-			Jan: 156.8, 
-			Feb: 91.23, 
-			Mar: 109.71 
+			Dec: 278.72, 
+			Jan: 143.81, 
+			Feb: 85.30, 
+			Mar: 99.58, 
+			Apr: 71.03 
 		}
 	}
 }); 
@@ -966,11 +966,11 @@ WeatherOutlook.insert({
 	municipality: "Kalibo", 
 	data: {
 		month: {
-			Nov: 352.03, 
-			Dec: 227.93, 
-			Jan: 128.02, 
-			Feb: 83.19, 
-			Mar: 97.68 
+			Dec: 253.04, 
+			Jan: 136.62, 
+			Feb: 85.46, 
+			Mar: 104.95, 
+			Apr: 78.69 
 		}
 	}
 }); 
@@ -981,11 +981,11 @@ WeatherOutlook.insert({
 	municipality: "Lezo", 
 	data: {
 		month: {
-			Nov: 351.06, 
-			Dec: 218.61, 
-			Jan: 124.46, 
-			Feb: 81.93, 
-			Mar: 99.36 
+			Dec: 245.95, 
+			Jan: 133.80, 
+			Feb: 81.47, 
+			Mar: 104.91, 
+			Apr: 76.83 
 		}
 	}
 }); 
@@ -996,11 +996,11 @@ WeatherOutlook.insert({
 	municipality: "Libacao", 
 	data: {
 		month: {
-			Nov: 353.87, 
-			Dec: 291.11, 
-			Jan: 136.65, 
-			Feb: 96.57, 
-			Mar: 145.25 
+			Dec: 280.17, 
+			Jan: 131.21, 
+			Feb: 89.60, 
+			Mar: 135.32, 
+			Apr: 88.80 
 		}
 	}
 }); 
@@ -1011,11 +1011,11 @@ WeatherOutlook.insert({
 	municipality: "Madalag", 
 	data: {
 		month: {
-			Nov: 352.67, 
-			Dec: 281.55, 
-			Jan: 128.35, 
-			Feb: 80.87, 
-			Mar: 131.86 
+			Dec: 282.12, 
+			Jan: 136.57, 
+			Feb: 89.13, 
+			Mar: 127.30, 
+			Apr: 84.66 
 		}
 	}
 }); 
@@ -1026,11 +1026,11 @@ WeatherOutlook.insert({
 	municipality: "Makato", 
 	data: {
 		month: {
-			Nov: 357.4, 
-			Dec: 246.83, 
-			Jan: 129.87, 
-			Feb: 81.25, 
-			Mar: 100.46 
+			Dec: 274.94, 
+			Jan: 144.00, 
+			Feb: 88.01, 
+			Mar: 104.42, 
+			Apr: 74.61 
 		}
 	}
 }); 
@@ -1041,11 +1041,11 @@ WeatherOutlook.insert({
 	municipality: "Malay", 
 	data: {
 		month: {
-			Nov: 325.97, 
-			Dec: 247.49, 
-			Jan: 122.44, 
-			Feb: 67.54, 
-			Mar: 71.03 
+			Dec: 319.19, 
+			Jan: 261.04, 
+			Feb: 154.65, 
+			Mar: 181.73, 
+			Apr: 133.76 
 		}
 	}
 }); 
@@ -1056,11 +1056,11 @@ WeatherOutlook.insert({
 	municipality: "Malinao", 
 	data: {
 		month: {
-			Nov: 379.47, 
-			Dec: 287.6, 
-			Jan: 142.29, 
-			Feb: 86.6, 
-			Mar: 123.39 
+			Dec: 291.89, 
+			Jan: 147.62, 
+			Feb: 91.65, 
+			Mar: 118.70, 
+			Apr: 80.23 
 		}
 	}
 }); 
@@ -1071,11 +1071,11 @@ WeatherOutlook.insert({
 	municipality: "Nabas", 
 	data: {
 		month: {
-			Nov: 374.68, 
-			Dec: 278.26, 
-			Jan: 150.97, 
-			Feb: 82.27, 
-			Mar: 93.76 
+			Dec: 270.02, 
+			Jan: 163.28, 
+			Feb: 93.96, 
+			Mar: 105.88, 
+			Apr: 79.96 
 		}
 	}
 }); 
@@ -1086,11 +1086,11 @@ WeatherOutlook.insert({
 	municipality: "New Washington", 
 	data: {
 		month: {
-			Nov: 355.09, 
-			Dec: 278.78, 
-			Jan: 145.06, 
-			Feb: 95.89, 
-			Mar: 110.32 
+			Dec: 291.19, 
+			Jan: 155.03, 
+			Feb: 102.97, 
+			Mar: 129.88, 
+			Apr: 77.95 
 		}
 	}
 }); 
@@ -1101,11 +1101,11 @@ WeatherOutlook.insert({
 	municipality: "Numancia", 
 	data: {
 		month: {
-			Nov: 358.18, 
-			Dec: 228.09, 
-			Jan: 123.77, 
-			Feb: 80.82, 
-			Mar: 96.59 
+			Dec: 241.88, 
+			Jan: 134.86, 
+			Feb: 85.71, 
+			Mar: 105.54, 
+			Apr: 79.11 
 		}
 	}
 }); 
@@ -1116,11 +1116,11 @@ WeatherOutlook.insert({
 	municipality: "Tangalan", 
 	data: {
 		month: {
-			Nov: 364.39, 
-			Dec: 267.23, 
-			Jan: 138.91, 
-			Feb: 84.71, 
-			Mar: 98.11 
+			Dec: 276.87, 
+			Jan: 145.71, 
+			Feb: 87.90, 
+			Mar: 100.59, 
+			Apr: 72.95 
 		}
 	}
 }); 
@@ -1131,11 +1131,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 376.43, 
-			Dec: 424.58, 
-			Jan: 240.19, 
-			Feb: 163.15, 
-			Mar: 165.25 
+			Dec: 422.37, 
+			Jan: 238.15, 
+			Feb: 161.55, 
+			Mar: 166.02, 
+			Apr: 130.50 
 		}
 	}
 }); 
@@ -1146,11 +1146,11 @@ WeatherOutlook.insert({
 	municipality: "Bacacay", 
 	data: {
 		month: {
-			Nov: 412.99, 
-			Dec: 467.81, 
-			Jan: 290.19, 
-			Feb: 198.27, 
-			Mar: 189.61 
+			Dec: 494.22, 
+			Jan: 302.54, 
+			Feb: 206.06, 
+			Mar: 223.06, 
+			Apr: 170.81 
 		}
 	}
 }); 
@@ -1161,11 +1161,11 @@ WeatherOutlook.insert({
 	municipality: "Bato Lake", 
 	data: {
 		month: {
-			Nov: 378.01, 
-			Dec: 404.43, 
-			Jan: 183.37, 
-			Feb: 128.07, 
-			Mar: 122.52 
+			Dec: 451.73, 
+			Jan: 286.25, 
+			Feb: 195.63, 
+			Mar: 179.34, 
+			Apr: 146.05 
 		}
 	}
 }); 
@@ -1176,11 +1176,11 @@ WeatherOutlook.insert({
 	municipality: "Camalig", 
 	data: {
 		month: {
-			Nov: 375.67, 
-			Dec: 434.8, 
-			Jan: 249.36, 
-			Feb: 169.25, 
-			Mar: 175.01 
+			Dec: 400.27, 
+			Jan: 205.94, 
+			Feb: 135.61, 
+			Mar: 137.71, 
+			Apr: 110.04 
 		}
 	}
 }); 
@@ -1191,11 +1191,11 @@ WeatherOutlook.insert({
 	municipality: "Daraga", 
 	data: {
 		month: {
-			Nov: 413.85, 
-			Dec: 454.74, 
-			Jan: 281.75, 
-			Feb: 194.21, 
-			Mar: 201.59 
+			Dec: 424.00, 
+			Jan: 242.09, 
+			Feb: 158.43, 
+			Mar: 169.23, 
+			Apr: 130.40 
 		}
 	}
 }); 
@@ -1206,11 +1206,11 @@ WeatherOutlook.insert({
 	municipality: "Guinobatan", 
 	data: {
 		month: {
-			Nov: 328.48, 
-			Dec: 410.04, 
-			Jan: 209.62, 
-			Feb: 136.93, 
-			Mar: 140.85 
+			Dec: 391.22, 
+			Jan: 203.68, 
+			Feb: 134.84, 
+			Mar: 137.98, 
+			Apr: 110.49 
 		}
 	}
 }); 
@@ -1221,11 +1221,11 @@ WeatherOutlook.insert({
 	municipality: "Jovellar", 
 	data: {
 		month: {
-			Nov: 320.05, 
-			Dec: 384.65, 
-			Jan: 211.91, 
-			Feb: 144.39, 
-			Mar: 128.93 
+			Dec: 363.01, 
+			Jan: 189.48, 
+			Feb: 123.42, 
+			Mar: 117.34, 
+			Apr: 90.33 
 		}
 	}
 }); 
@@ -1236,11 +1236,11 @@ WeatherOutlook.insert({
 	municipality: "Legazpi City", 
 	data: {
 		month: {
-			Nov: 390.33, 
-			Dec: 437.77, 
-			Jan: 273.58, 
-			Feb: 189.61, 
-			Mar: 190.23 
+			Dec: 412.87, 
+			Jan: 238.49, 
+			Feb: 162.69, 
+			Mar: 160.50, 
+			Apr: 127.17 
 		}
 	}
 }); 
@@ -1251,11 +1251,11 @@ WeatherOutlook.insert({
 	municipality: "Libon", 
 	data: {
 		month: {
-			Nov: 359.49, 
-			Dec: 383.05, 
-			Jan: 185.17, 
-			Feb: 124.97, 
-			Mar: 122.13 
+			Dec: 445.12, 
+			Jan: 262.16, 
+			Feb: 174.27, 
+			Mar: 164.81, 
+			Apr: 131.19 
 		}
 	}
 }); 
@@ -1266,11 +1266,11 @@ WeatherOutlook.insert({
 	municipality: "Ligao City", 
 	data: {
 		month: {
-			Nov: 335.51, 
-			Dec: 388.79, 
-			Jan: 203.16, 
-			Feb: 136.15, 
-			Mar: 134.71 
+			Dec: 375.15, 
+			Jan: 197.11, 
+			Feb: 133.04, 
+			Mar: 130.17, 
+			Apr: 105.49 
 		}
 	}
 }); 
@@ -1281,11 +1281,11 @@ WeatherOutlook.insert({
 	municipality: "Malilipot", 
 	data: {
 		month: {
-			Nov: 444.09, 
-			Dec: 498.9, 
-			Jan: 299.65, 
-			Feb: 199.25, 
-			Mar: 220.98 
+			Dec: 484.02, 
+			Jan: 286.43, 
+			Feb: 194.95, 
+			Mar: 217.14, 
+			Apr: 167.18 
 		}
 	}
 }); 
@@ -1296,11 +1296,11 @@ WeatherOutlook.insert({
 	municipality: "Malinao", 
 	data: {
 		month: {
-			Nov: 448.81, 
-			Dec: 468.9, 
-			Jan: 263.31, 
-			Feb: 192.83, 
-			Mar: 211.06 
+			Dec: 453.69, 
+			Jan: 247.16, 
+			Feb: 169.85, 
+			Mar: 194.21, 
+			Apr: 153.11 
 		}
 	}
 }); 
@@ -1311,11 +1311,11 @@ WeatherOutlook.insert({
 	municipality: "Manito", 
 	data: {
 		month: {
-			Nov: 268.3, 
-			Dec: 353.12, 
-			Jan: 213.54, 
-			Feb: 145.95, 
-			Mar: 134.22 
+			Dec: 411.72, 
+			Jan: 244.16, 
+			Feb: 180.73, 
+			Mar: 156.58, 
+			Apr: 134.69 
 		}
 	}
 }); 
@@ -1326,11 +1326,11 @@ WeatherOutlook.insert({
 	municipality: "Oas", 
 	data: {
 		month: {
-			Nov: 337.74, 
-			Dec: 369.82, 
-			Jan: 192.59, 
-			Feb: 129.57, 
-			Mar: 128.84 
+			Dec: 399.61, 
+			Jan: 223.81, 
+			Feb: 149.06, 
+			Mar: 142.34, 
+			Apr: 113.01 
 		}
 	}
 }); 
@@ -1341,11 +1341,11 @@ WeatherOutlook.insert({
 	municipality: "Pio Duran", 
 	data: {
 		month: {
-			Nov: 310.48, 
-			Dec: 365.87, 
-			Jan: 190.22, 
-			Feb: 123.84, 
-			Mar: 116.17 
+			Dec: 340.00, 
+			Jan: 185.22, 
+			Feb: 123.01, 
+			Mar: 117.76, 
+			Apr: 89.40 
 		}
 	}
 }); 
@@ -1356,11 +1356,11 @@ WeatherOutlook.insert({
 	municipality: "Polangui", 
 	data: {
 		month: {
-			Nov: 378.41, 
-			Dec: 413.69, 
-			Jan: 206.2, 
-			Feb: 144.56, 
-			Mar: 145.05 
+			Dec: 423.03, 
+			Jan: 212.07, 
+			Feb: 156.11, 
+			Mar: 153.93, 
+			Apr: 126.67 
 		}
 	}
 }); 
@@ -1371,11 +1371,11 @@ WeatherOutlook.insert({
 	municipality: "Rapu-Rapu", 
 	data: {
 		month: {
-			Nov: 371.24, 
-			Dec: 455.44, 
-			Jan: 293.11, 
-			Feb: 186.67, 
-			Mar: 174.78 
+			Dec: 472.49, 
+			Jan: 295.62, 
+			Feb: 201.00, 
+			Mar: 202.61, 
+			Apr: 157.75 
 		}
 	}
 }); 
@@ -1386,11 +1386,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Domingo", 
 	data: {
 		month: {
-			Nov: 469.78, 
-			Dec: 507.27, 
-			Jan: 321.27, 
-			Feb: 212.53, 
-			Mar: 241.43 
+			Dec: 509.11, 
+			Jan: 313.75, 
+			Feb: 205.38, 
+			Mar: 246.24, 
+			Apr: 177.50 
 		}
 	}
 }); 
@@ -1401,11 +1401,11 @@ WeatherOutlook.insert({
 	municipality: "Tabaco City", 
 	data: {
 		month: {
-			Nov: 430.59, 
-			Dec: 473.1, 
-			Jan: 276.8, 
-			Feb: 191.33, 
-			Mar: 201.75 
+			Dec: 460.76, 
+			Jan: 257.86, 
+			Feb: 180.64, 
+			Mar: 194.99, 
+			Apr: 155.37 
 		}
 	}
 }); 
@@ -1416,11 +1416,11 @@ WeatherOutlook.insert({
 	municipality: "Tiwi", 
 	data: {
 		month: {
-			Nov: 457.1, 
-			Dec: 468.81, 
-			Jan: 259.14, 
-			Feb: 188.46, 
-			Mar: 206.86 
+			Dec: 391.06, 
+			Jan: 204.26, 
+			Feb: 140.93, 
+			Mar: 177.71, 
+			Apr: 134.45 
 		}
 	}
 }); 
@@ -1431,11 +1431,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 241.31, 
-			Dec: 162.42, 
-			Jan: 70.01, 
-			Feb: 40.61, 
-			Mar: 58.55 
+			Dec: 169.14, 
+			Jan: 73.77, 
+			Feb: 43.20, 
+			Mar: 62.00, 
+			Apr: 59.64 
 		}
 	}
 }); 
@@ -1446,11 +1446,11 @@ WeatherOutlook.insert({
 	municipality: "Anini-Y", 
 	data: {
 		month: {
-			Nov: 145.61, 
-			Dec: 80.4, 
-			Jan: 33.39, 
-			Feb: 17.04, 
-			Mar: 31.1 
+			Dec: 97.13, 
+			Jan: 36.62, 
+			Feb: 21.09, 
+			Mar: 70.79, 
+			Apr: 58.54 
 		}
 	}
 }); 
@@ -1461,11 +1461,11 @@ WeatherOutlook.insert({
 	municipality: "Barbaza", 
 	data: {
 		month: {
-			Nov: 265.95, 
-			Dec: 186.2, 
-			Jan: 71.05, 
-			Feb: 40.09, 
-			Mar: 74.71 
+			Dec: 177.32, 
+			Jan: 68.24, 
+			Feb: 39.41, 
+			Mar: 70.72, 
+			Apr: 64.06 
 		}
 	}
 }); 
@@ -1476,11 +1476,11 @@ WeatherOutlook.insert({
 	municipality: "Belison", 
 	data: {
 		month: {
-			Nov: 189.77, 
-			Dec: 110.18, 
-			Jan: 44.35, 
-			Feb: 30.26, 
-			Mar: 37.53 
+			Dec: 113.43, 
+			Jan: 46.98, 
+			Feb: 30.08, 
+			Mar: 41.82, 
+			Apr: 50.98 
 		}
 	}
 }); 
@@ -1491,11 +1491,11 @@ WeatherOutlook.insert({
 	municipality: "Bugasong", 
 	data: {
 		month: {
-			Nov: 230.47, 
-			Dec: 140.13, 
-			Jan: 54.62, 
-			Feb: 31.03, 
-			Mar: 53.85 
+			Dec: 136.30, 
+			Jan: 51.53, 
+			Feb: 29.83, 
+			Mar: 50.69, 
+			Apr: 58.10 
 		}
 	}
 }); 
@@ -1506,11 +1506,11 @@ WeatherOutlook.insert({
 	municipality: "Caluya", 
 	data: {
 		month: {
-			Nov: 176.5, 
-			Dec: 112.4, 
-			Jan: 47.7, 
-			Feb: 27.2, 
-			Mar: 24.39 
+			Dec: 186.19, 
+			Jan: 90.89, 
+			Feb: 55.05, 
+			Mar: 50.02, 
+			Apr: 51.07 
 		}
 	}
 }); 
@@ -1521,11 +1521,11 @@ WeatherOutlook.insert({
 	municipality: "Culasi", 
 	data: {
 		month: {
-			Nov: 290.5, 
-			Dec: 230.11, 
-			Jan: 84.91, 
-			Feb: 48.6, 
-			Mar: 81.71 
+			Dec: 266.87, 
+			Jan: 99.97, 
+			Feb: 56.00, 
+			Mar: 92.90, 
+			Apr: 78.57 
 		}
 	}
 }); 
@@ -1536,11 +1536,11 @@ WeatherOutlook.insert({
 	municipality: "Hamtic", 
 	data: {
 		month: {
-			Nov: 180.84, 
-			Dec: 102.05, 
-			Jan: 42.2, 
-			Feb: 25.55, 
-			Mar: 37.98 
+			Dec: 101.92, 
+			Jan: 41.00, 
+			Feb: 24.64, 
+			Mar: 38.07, 
+			Apr: 41.42 
 		}
 	}
 }); 
@@ -1551,11 +1551,11 @@ WeatherOutlook.insert({
 	municipality: "Laua-An", 
 	data: {
 		month: {
-			Nov: 234.91, 
-			Dec: 154.5, 
-			Jan: 54.48, 
-			Feb: 33.18, 
-			Mar: 50.71 
+			Dec: 156.14, 
+			Jan: 57.03, 
+			Feb: 33.61, 
+			Mar: 56.91, 
+			Apr: 57.64 
 		}
 	}
 }); 
@@ -1566,11 +1566,11 @@ WeatherOutlook.insert({
 	municipality: "Libertad", 
 	data: {
 		month: {
-			Nov: 325.9, 
-			Dec: 251.13, 
-			Jan: 125.52, 
-			Feb: 70.61, 
-			Mar: 78.07 
+			Dec: 286.99, 
+			Jan: 150.94, 
+			Feb: 83.13, 
+			Mar: 93.82, 
+			Apr: 66.82 
 		}
 	}
 }); 
@@ -1581,11 +1581,11 @@ WeatherOutlook.insert({
 	municipality: "Pandan", 
 	data: {
 		month: {
-			Nov: 444.23, 
-			Dec: 336.9, 
-			Jan: 184.66, 
-			Feb: 103.86, 
-			Mar: 114.66 
+			Dec: 330.85, 
+			Jan: 177.87, 
+			Feb: 102.71, 
+			Mar: 108.71, 
+			Apr: 75.88 
 		}
 	}
 }); 
@@ -1596,11 +1596,11 @@ WeatherOutlook.insert({
 	municipality: "Patnongon", 
 	data: {
 		month: {
-			Nov: 198.19, 
-			Dec: 110.19, 
-			Jan: 45.27, 
-			Feb: 25.98, 
-			Mar: 34.58 
+			Dec: 107.73, 
+			Jan: 43.95, 
+			Feb: 23.97, 
+			Mar: 36.51, 
+			Apr: 54.12 
 		}
 	}
 }); 
@@ -1611,11 +1611,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 180.11, 
-			Dec: 74.76, 
-			Jan: 35.94, 
-			Feb: 28.39, 
-			Mar: 31.71 
+			Dec: 100.80, 
+			Jan: 43.01, 
+			Feb: 29.02, 
+			Mar: 40.38, 
+			Apr: 43.61 
 		}
 	}
 }); 
@@ -1626,11 +1626,11 @@ WeatherOutlook.insert({
 	municipality: "San Remigio", 
 	data: {
 		month: {
-			Nov: 194.94, 
-			Dec: 114.05, 
-			Jan: 52.3, 
-			Feb: 31.09, 
-			Mar: 53.98 
+			Dec: 110.22, 
+			Jan: 50.85, 
+			Feb: 32.45, 
+			Mar: 52.41, 
+			Apr: 61.18 
 		}
 	}
 }); 
@@ -1641,11 +1641,11 @@ WeatherOutlook.insert({
 	municipality: "Sebaste", 
 	data: {
 		month: {
-			Nov: 442.67, 
-			Dec: 347.57, 
-			Jan: 173.38, 
-			Feb: 96.74, 
-			Mar: 122.99 
+			Dec: 259.38, 
+			Jan: 117.59, 
+			Feb: 67.27, 
+			Mar: 86.92, 
+			Apr: 65.35 
 		}
 	}
 }); 
@@ -1656,11 +1656,11 @@ WeatherOutlook.insert({
 	municipality: "Sibalom", 
 	data: {
 		month: {
-			Nov: 190.08, 
-			Dec: 111.64, 
-			Jan: 48.36, 
-			Feb: 29.51, 
-			Mar: 47.1 
+			Dec: 104.46, 
+			Jan: 46.10, 
+			Feb: 28.41, 
+			Mar: 44.25, 
+			Apr: 47.06 
 		}
 	}
 }); 
@@ -1671,11 +1671,11 @@ WeatherOutlook.insert({
 	municipality: "Tibiao", 
 	data: {
 		month: {
-			Nov: 309.47, 
-			Dec: 241.48, 
-			Jan: 81.12, 
-			Feb: 47.54, 
-			Mar: 77.15 
+			Dec: 228.96, 
+			Jan: 86.63, 
+			Feb: 47.53, 
+			Mar: 96.38, 
+			Apr: 81.20 
 		}
 	}
 }); 
@@ -1686,11 +1686,11 @@ WeatherOutlook.insert({
 	municipality: "Tobias Fornier", 
 	data: {
 		month: {
-			Nov: 152.48, 
-			Dec: 92.11, 
-			Jan: 33.03, 
-			Feb: 18.54, 
-			Mar: 29.69 
+			Dec: 88.13, 
+			Jan: 33.00, 
+			Feb: 18.08, 
+			Mar: 30.65, 
+			Apr: 37.18 
 		}
 	}
 }); 
@@ -1701,11 +1701,11 @@ WeatherOutlook.insert({
 	municipality: "Valderrama", 
 	data: {
 		month: {
-			Nov: 210.17, 
-			Dec: 130.42, 
-			Jan: 55.19, 
-			Feb: 32.96, 
-			Mar: 59.92 
+			Dec: 126.44, 
+			Jan: 52.97, 
+			Feb: 32.29, 
+			Mar: 52.74, 
+			Apr: 62.45 
 		}
 	}
 }); 
@@ -1716,11 +1716,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 370.89, 
-			Dec: 154.03, 
-			Jan: 47.96, 
-			Feb: 30.31, 
-			Mar: 61.86 
+			Dec: 156.89, 
+			Jan: 48.87, 
+			Feb: 31.30, 
+			Mar: 61.30, 
+			Apr: 71.15 
 		}
 	}
 }); 
@@ -1731,11 +1731,11 @@ WeatherOutlook.insert({
 	municipality: "Calanasan", 
 	data: {
 		month: {
-			Nov: 333, 
-			Dec: 122.63, 
-			Jan: 37.53, 
-			Feb: 26.88, 
-			Mar: 67.17 
+			Dec: 151.42, 
+			Jan: 45.03, 
+			Feb: 30.63, 
+			Mar: 72.84, 
+			Apr: 76.68 
 		}
 	}
 }); 
@@ -1746,11 +1746,11 @@ WeatherOutlook.insert({
 	municipality: "Conner", 
 	data: {
 		month: {
-			Nov: 366.09, 
-			Dec: 154.09, 
-			Jan: 38.37, 
-			Feb: 25.71, 
-			Mar: 48.1 
+			Dec: 167.76, 
+			Jan: 42.56, 
+			Feb: 30.53, 
+			Mar: 52.74, 
+			Apr: 74.70 
 		}
 	}
 }); 
@@ -1761,11 +1761,11 @@ WeatherOutlook.insert({
 	municipality: "Flora", 
 	data: {
 		month: {
-			Nov: 346.47, 
-			Dec: 148.66, 
-			Jan: 58.72, 
-			Feb: 35.05, 
-			Mar: 56.3 
+			Dec: 124.44, 
+			Jan: 45.68, 
+			Feb: 28.75, 
+			Mar: 46.47, 
+			Apr: 65.42 
 		}
 	}
 }); 
@@ -1776,11 +1776,11 @@ WeatherOutlook.insert({
 	municipality: "Kabugao", 
 	data: {
 		month: {
-			Nov: 417.49, 
-			Dec: 172.76, 
-			Jan: 49.9, 
-			Feb: 27.45, 
-			Mar: 52.15 
+			Dec: 173.70, 
+			Jan: 50.98, 
+			Feb: 28.50, 
+			Mar: 52.78, 
+			Apr: 71.65 
 		}
 	}
 }); 
@@ -1791,11 +1791,11 @@ WeatherOutlook.insert({
 	municipality: "Luna", 
 	data: {
 		month: {
-			Nov: 368.16, 
-			Dec: 163.43, 
-			Jan: 53.85, 
-			Feb: 36.25, 
-			Mar: 86.33 
+			Dec: 149.25, 
+			Jan: 52.30, 
+			Feb: 34.71, 
+			Mar: 76.83, 
+			Apr: 68.76 
 		}
 	}
 }); 
@@ -1806,11 +1806,11 @@ WeatherOutlook.insert({
 	municipality: "Pudtol", 
 	data: {
 		month: {
-			Nov: 400.48, 
-			Dec: 168.83, 
-			Jan: 57.16, 
-			Feb: 35.97, 
-			Mar: 64.5 
+			Dec: 154.78, 
+			Jan: 58.28, 
+			Feb: 36.08, 
+			Mar: 60.60, 
+			Apr: 63.18 
 		}
 	}
 }); 
@@ -1821,11 +1821,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Marcela", 
 	data: {
 		month: {
-			Nov: 300.45, 
-			Dec: 162.03, 
-			Jan: 79.47, 
-			Feb: 44.37, 
-			Mar: 69.98 
+			Dec: 140.59, 
+			Jan: 62.93, 
+			Feb: 38.55, 
+			Mar: 64.10, 
+			Apr: 57.92 
 		}
 	}
 }); 
@@ -1836,11 +1836,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 445.32, 
-			Dec: 300.48, 
-			Jan: 127.89, 
-			Feb: 106.12, 
-			Mar: 158.7 
+			Dec: 297.17, 
+			Jan: 127.26, 
+			Feb: 105.54, 
+			Mar: 157.35, 
+			Apr: 128.24 
 		}
 	}
 }); 
@@ -1851,11 +1851,11 @@ WeatherOutlook.insert({
 	municipality: "Baler", 
 	data: {
 		month: {
-			Nov: 383.43, 
-			Dec: 173.79, 
-			Jan: 155.13, 
-			Feb: 138.66, 
-			Mar: 201.24 
+			Dec: 180.09, 
+			Jan: 126.09, 
+			Feb: 109.94, 
+			Mar: 157.15, 
+			Apr: 153.94 
 		}
 	}
 }); 
@@ -1866,11 +1866,11 @@ WeatherOutlook.insert({
 	municipality: "Casiguran", 
 	data: {
 		month: {
-			Nov: 563.19, 
-			Dec: 463.65, 
-			Jan: 161.33, 
-			Feb: 124.06, 
-			Mar: 201.06 
+			Dec: 427.18, 
+			Jan: 151.05, 
+			Feb: 118.44, 
+			Mar: 189.67, 
+			Apr: 120.49 
 		}
 	}
 }); 
@@ -1881,11 +1881,11 @@ WeatherOutlook.insert({
 	municipality: "Dilasag", 
 	data: {
 		month: {
-			Nov: 571.19, 
-			Dec: 482.15, 
-			Jan: 148.55, 
-			Feb: 128.32, 
-			Mar: 184.09 
+			Dec: 470.02, 
+			Jan: 145.34, 
+			Feb: 126.41, 
+			Mar: 183.02, 
+			Apr: 122.82 
 		}
 	}
 }); 
@@ -1896,11 +1896,11 @@ WeatherOutlook.insert({
 	municipality: "Dinalungan", 
 	data: {
 		month: {
-			Nov: 475.4, 
-			Dec: 352.52, 
-			Jan: 123.32, 
-			Feb: 105.44, 
-			Mar: 164.4 
+			Dec: 402.66, 
+			Jan: 141.45, 
+			Feb: 112.57, 
+			Mar: 181.10, 
+			Apr: 114.75 
 		}
 	}
 }); 
@@ -1911,11 +1911,11 @@ WeatherOutlook.insert({
 	municipality: "Dingalan", 
 	data: {
 		month: {
-			Nov: 389.74, 
-			Dec: 228.81, 
-			Jan: 92.11, 
-			Feb: 63.46, 
-			Mar: 98.01 
+			Dec: 223.83, 
+			Jan: 90.57, 
+			Feb: 63.31, 
+			Mar: 95.71, 
+			Apr: 103.99 
 		}
 	}
 }); 
@@ -1926,11 +1926,11 @@ WeatherOutlook.insert({
 	municipality: "Dipaculao", 
 	data: {
 		month: {
-			Nov: 386.45, 
-			Dec: 234.83, 
-			Jan: 110.58, 
-			Feb: 98.19, 
-			Mar: 149.37 
+			Dec: 250.02, 
+			Jan: 113.36, 
+			Feb: 98.85, 
+			Mar: 148.29, 
+			Apr: 126.50 
 		}
 	}
 }); 
@@ -1941,11 +1941,11 @@ WeatherOutlook.insert({
 	municipality: "Maria Aurora", 
 	data: {
 		month: {
-			Nov: 343.6, 
-			Dec: 173.58, 
-			Jan: 106.61, 
-			Feb: 98.56, 
-			Mar: 137.92 
+			Dec: 171.66, 
+			Jan: 119.94, 
+			Feb: 111.86, 
+			Mar: 157.32, 
+			Apr: 150.90 
 		}
 	}
 }); 
@@ -1956,11 +1956,11 @@ WeatherOutlook.insert({
 	municipality: "San Luis", 
 	data: {
 		month: {
-			Nov: 371.47, 
-			Dec: 172.03, 
-			Jan: 121.61, 
-			Feb: 102.7, 
-			Mar: 139.74 
+			Dec: 173.66, 
+			Jan: 123.50, 
+			Feb: 103.85, 
+			Mar: 142.28, 
+			Apr: 145.85 
 		}
 	}
 }); 
@@ -1971,11 +1971,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 162.53, 
-			Dec: 116.67, 
-			Jan: 100.91, 
-			Feb: 85.94, 
-			Mar: 103.98 
+			Dec: 116.04, 
+			Jan: 99.91, 
+			Feb: 85.48, 
+			Mar: 104.32, 
+			Apr: 115.02 
 		}
 	}
 }); 
@@ -1986,11 +1986,11 @@ WeatherOutlook.insert({
 	municipality: "Akbar", 
 	data: {
 		month: {
-			Nov: 157.26, 
-			Dec: 102.18, 
-			Jan: 118.95, 
-			Feb: 100.6, 
-			Mar: 117.91 
+			Dec: 106.61, 
+			Jan: 109.14, 
+			Feb: 99.96, 
+			Mar: 108.14, 
+			Apr: 125.79 
 		}
 	}
 }); 
@@ -2001,11 +2001,11 @@ WeatherOutlook.insert({
 	municipality: "Al-Barka", 
 	data: {
 		month: {
-			Nov: 140.12, 
-			Dec: 89.98, 
-			Jan: 89.09, 
-			Feb: 79.83, 
-			Mar: 91.58 
+			Dec: 104.15, 
+			Jan: 101.13, 
+			Feb: 90.28, 
+			Mar: 104.32, 
+			Apr: 111.13 
 		}
 	}
 }); 
@@ -2016,11 +2016,11 @@ WeatherOutlook.insert({
 	municipality: "Hadji Mohammad Ajul", 
 	data: {
 		month: {
-			Nov: 178.12, 
-			Dec: 119.39, 
-			Jan: 105.83, 
-			Feb: 92, 
-			Mar: 103.73 
+			Dec: 89.27, 
+			Jan: 74.15, 
+			Feb: 58.37, 
+			Mar: 80.04, 
+			Apr: 87.25 
 		}
 	}
 }); 
@@ -2031,11 +2031,11 @@ WeatherOutlook.insert({
 	municipality: "Isabela City", 
 	data: {
 		month: {
-			Nov: 162.52, 
-			Dec: 138.76, 
-			Jan: 99.68, 
-			Feb: 90.1, 
-			Mar: 98.93 
+			Dec: 124.00, 
+			Jan: 101.49, 
+			Feb: 92.69, 
+			Mar: 103.19, 
+			Apr: 115.70 
 		}
 	}
 }); 
@@ -2046,11 +2046,11 @@ WeatherOutlook.insert({
 	municipality: "Lamitan City", 
 	data: {
 		month: {
-			Nov: 156.49, 
-			Dec: 103.89, 
-			Jan: 105.14, 
-			Feb: 99.36, 
-			Mar: 103.84 
+			Dec: 99.80, 
+			Jan: 106.20, 
+			Feb: 93.43, 
+			Mar: 105.77, 
+			Apr: 119.78 
 		}
 	}
 }); 
@@ -2061,11 +2061,11 @@ WeatherOutlook.insert({
 	municipality: "Lantawan", 
 	data: {
 		month: {
-			Nov: 156.41, 
-			Dec: 120.98, 
-			Jan: 86.7, 
-			Feb: 69.59, 
-			Mar: 92.58 
+			Dec: 125.99, 
+			Jan: 91.02, 
+			Feb: 75.23, 
+			Mar: 95.20, 
+			Apr: 106.79 
 		}
 	}
 }); 
@@ -2076,11 +2076,11 @@ WeatherOutlook.insert({
 	municipality: "Maluso", 
 	data: {
 		month: {
-			Nov: 119.13, 
-			Dec: 89.33, 
-			Jan: 72.26, 
-			Feb: 51.12, 
-			Mar: 85.33 
+			Dec: 138.27, 
+			Jan: 103.29, 
+			Feb: 82.84, 
+			Mar: 121.31, 
+			Apr: 132.67 
 		}
 	}
 }); 
@@ -2091,11 +2091,11 @@ WeatherOutlook.insert({
 	municipality: "Sumisip", 
 	data: {
 		month: {
-			Nov: 186.35, 
-			Dec: 137.41, 
-			Jan: 115.41, 
-			Feb: 92.96, 
-			Mar: 120.71 
+			Dec: 124.05, 
+			Jan: 106.60, 
+			Feb: 88.40, 
+			Mar: 111.56, 
+			Apr: 118.10 
 		}
 	}
 }); 
@@ -2106,11 +2106,11 @@ WeatherOutlook.insert({
 	municipality: "Tipo-Tipo", 
 	data: {
 		month: {
-			Nov: 176.66, 
-			Dec: 111.62, 
-			Jan: 111.94, 
-			Feb: 101.07, 
-			Mar: 114.49 
+			Dec: 122.07, 
+			Jan: 114.57, 
+			Feb: 95.59, 
+			Mar: 122.66, 
+			Apr: 133.29 
 		}
 	}
 }); 
@@ -2121,11 +2121,11 @@ WeatherOutlook.insert({
 	municipality: "Tuburan", 
 	data: {
 		month: {
-			Nov: 168.28, 
-			Dec: 109.61, 
-			Jan: 110.33, 
-			Feb: 100.37, 
-			Mar: 108.57 
+			Dec: 115.18, 
+			Jan: 108.52, 
+			Feb: 97.77, 
+			Mar: 109.80, 
+			Apr: 124.87 
 		}
 	}
 }); 
@@ -2136,11 +2136,11 @@ WeatherOutlook.insert({
 	municipality: "Ungkaya Pukan", 
 	data: {
 		month: {
-			Nov: 184.66, 
-			Dec: 121.04, 
-			Jan: 114.93, 
-			Feb: 98.08, 
-			Mar: 117.08 
+			Dec: 96.84, 
+			Jan: 91.45, 
+			Feb: 81.72, 
+			Mar: 94.27, 
+			Apr: 100.94 
 		}
 	}
 }); 
@@ -2151,11 +2151,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 97.57, 
-			Dec: 48.03, 
-			Jan: 4.82, 
-			Feb: 5.1, 
-			Mar: 6.4 
+			Dec: 47.54, 
+			Jan: 5.25, 
+			Feb: 5.25, 
+			Mar: 5.62, 
+			Apr: 24.48 
 		}
 	}
 }); 
@@ -2166,11 +2166,11 @@ WeatherOutlook.insert({
 	municipality: "Abucay", 
 	data: {
 		month: {
-			Nov: 115.62, 
-			Dec: 56.17, 
-			Jan: 4.62, 
-			Feb: 5.13, 
-			Mar: 5.89 
+			Dec: 50.33, 
+			Jan: 4.30, 
+			Feb: 6.33, 
+			Mar: 5.38, 
+			Apr: 25.38 
 		}
 	}
 }); 
@@ -2181,11 +2181,11 @@ WeatherOutlook.insert({
 	municipality: "Bagac", 
 	data: {
 		month: {
-			Nov: 93.95, 
-			Dec: 50.44, 
-			Jan: 4.67, 
-			Feb: 4.09, 
-			Mar: 5.55 
+			Dec: 48.82, 
+			Jan: 4.83, 
+			Feb: 4.72, 
+			Mar: 4.81, 
+			Apr: 24.17 
 		}
 	}
 }); 
@@ -2196,11 +2196,11 @@ WeatherOutlook.insert({
 	municipality: "Balanga City", 
 	data: {
 		month: {
-			Nov: 105.7, 
-			Dec: 50.03, 
-			Jan: 4.51, 
-			Feb: 7.68, 
-			Mar: 5.85 
+			Dec: 48.90, 
+			Jan: 4.48, 
+			Feb: 7.13, 
+			Mar: 5.18, 
+			Apr: 23.07 
 		}
 	}
 }); 
@@ -2211,11 +2211,11 @@ WeatherOutlook.insert({
 	municipality: "Dinalupihan", 
 	data: {
 		month: {
-			Nov: 86.68, 
-			Dec: 40.27, 
-			Jan: 3.94, 
-			Feb: 6.32, 
-			Mar: 10.11 
+			Dec: 37.26, 
+			Jan: 3.81, 
+			Feb: 5.84, 
+			Mar: 8.13, 
+			Apr: 27.36 
 		}
 	}
 }); 
@@ -2226,11 +2226,11 @@ WeatherOutlook.insert({
 	municipality: "Hermosa", 
 	data: {
 		month: {
-			Nov: 100.11, 
-			Dec: 42.51, 
-			Jan: 4.06, 
-			Feb: 4.91, 
-			Mar: 7.53 
+			Dec: 48.03, 
+			Jan: 4.12, 
+			Feb: 4.61, 
+			Mar: 6.01, 
+			Apr: 26.49 
 		}
 	}
 }); 
@@ -2241,11 +2241,11 @@ WeatherOutlook.insert({
 	municipality: "Limay", 
 	data: {
 		month: {
-			Nov: 102.72, 
-			Dec: 53.23, 
-			Jan: 7.73, 
-			Feb: 6.05, 
-			Mar: 5.99 
+			Dec: 50.86, 
+			Jan: 5.94, 
+			Feb: 5.65, 
+			Mar: 4.95, 
+			Apr: 20.53 
 		}
 	}
 }); 
@@ -2256,11 +2256,11 @@ WeatherOutlook.insert({
 	municipality: "Mariveles", 
 	data: {
 		month: {
-			Nov: 82.68, 
-			Dec: 45.33, 
-			Jan: 5.6, 
-			Feb: 4.77, 
-			Mar: 5.26 
+			Dec: 43.90, 
+			Jan: 10.13, 
+			Feb: 6.93, 
+			Mar: 6.26, 
+			Apr: 20.41 
 		}
 	}
 }); 
@@ -2271,11 +2271,11 @@ WeatherOutlook.insert({
 	municipality: "Morong", 
 	data: {
 		month: {
-			Nov: 93.13, 
-			Dec: 50.47, 
-			Jan: 4.58, 
-			Feb: 3.24, 
-			Mar: 5.85 
+			Dec: 51.66, 
+			Jan: 4.12, 
+			Feb: 3.38, 
+			Mar: 4.79, 
+			Apr: 26.48 
 		}
 	}
 }); 
@@ -2286,11 +2286,11 @@ WeatherOutlook.insert({
 	municipality: "Orani", 
 	data: {
 		month: {
-			Nov: 106.99, 
-			Dec: 46.5, 
-			Jan: 4.22, 
-			Feb: 4.72, 
-			Mar: 6.67 
+			Dec: 52.51, 
+			Jan: 4.28, 
+			Feb: 4.03, 
+			Mar: 5.16, 
+			Apr: 25.73 
 		}
 	}
 }); 
@@ -2301,11 +2301,11 @@ WeatherOutlook.insert({
 	municipality: "Orion", 
 	data: {
 		month: {
-			Nov: 101.76, 
-			Dec: 46.19, 
-			Jan: 6.11, 
-			Feb: 6.95, 
-			Mar: 6.92 
+			Dec: 50.96, 
+			Jan: 5.16, 
+			Feb: 5.52, 
+			Mar: 5.54, 
+			Apr: 23.00 
 		}
 	}
 }); 
@@ -2316,11 +2316,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 95.61, 
-			Dec: 44.17, 
-			Jan: 4.74, 
-			Feb: 6.79, 
-			Mar: 5.91 
+			Dec: 41.41, 
+			Jan: 6.14, 
+			Feb: 6.00, 
+			Mar: 6.55, 
+			Apr: 23.78 
 		}
 	}
 }); 
@@ -2331,11 +2331,11 @@ WeatherOutlook.insert({
 	municipality: "Samal", 
 	data: {
 		month: {
-			Nov: 111.65, 
-			Dec: 51.73, 
-			Jan: 4.39, 
-			Feb: 4.82, 
-			Mar: 6.43 
+			Dec: 46.17, 
+			Jan: 4.14, 
+			Feb: 4.46, 
+			Mar: 5.12, 
+			Apr: 25.80 
 		}
 	}
 }); 
@@ -2346,11 +2346,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 216.76, 
-			Dec: 99.55, 
-			Jan: 121.44, 
-			Feb: 83.87, 
-			Mar: 71.93 
+			Dec: 101.39, 
+			Jan: 119.86, 
+			Feb: 83.32, 
+			Mar: 70.86, 
+			Apr: 48.50 
 		}
 	}
 }); 
@@ -2361,11 +2361,11 @@ WeatherOutlook.insert({
 	municipality: "Basco", 
 	data: {
 		month: {
-			Nov: 257.2, 
-			Dec: 121.6, 
-			Jan: 151.73, 
-			Feb: 129.62, 
-			Mar: 112.73 
+			Dec: 102.53, 
+			Jan: 132.64, 
+			Feb: 103.05, 
+			Mar: 88.16, 
+			Apr: 51.26 
 		}
 	}
 }); 
@@ -2376,11 +2376,11 @@ WeatherOutlook.insert({
 	municipality: "Itbayat", 
 	data: {
 		month: {
-			Nov: 179.89, 
-			Dec: 81.6, 
-			Jan: 100.62, 
-			Feb: 53.33, 
-			Mar: 43.95 
+			Dec: 91.55, 
+			Jan: 113.87, 
+			Feb: 66.44, 
+			Mar: 54.98, 
+			Apr: 47.06 
 		}
 	}
 }); 
@@ -2391,11 +2391,11 @@ WeatherOutlook.insert({
 	municipality: "Ivana", 
 	data: {
 		month: {
-			Nov: 225.11, 
-			Dec: 99.86, 
-			Jan: 127.08, 
-			Feb: 100.71, 
-			Mar: 86.72 
+			Dec: 123.78, 
+			Jan: 148.53, 
+			Feb: 117.75, 
+			Mar: 101.61, 
+			Apr: 54.88 
 		}
 	}
 }); 
@@ -2406,11 +2406,11 @@ WeatherOutlook.insert({
 	municipality: "Mahatao", 
 	data: {
 		month: {
-			Nov: 244.41, 
-			Dec: 112.73, 
-			Jan: 146.71, 
-			Feb: 130.98, 
-			Mar: 110.23 
+			Dec: 118.86, 
+			Jan: 147.76, 
+			Feb: 123.22, 
+			Mar: 104.33, 
+			Apr: 56.15 
 		}
 	}
 }); 
@@ -2421,11 +2421,11 @@ WeatherOutlook.insert({
 	municipality: "Sabtang", 
 	data: {
 		month: {
-			Nov: 255.63, 
-			Dec: 120.99, 
-			Jan: 136.43, 
-			Feb: 92.02, 
-			Mar: 82.43 
+			Dec: 94.90, 
+			Jan: 88.40, 
+			Feb: 65.18, 
+			Mar: 56.80, 
+			Apr: 41.25 
 		}
 	}
 }); 
@@ -2436,11 +2436,11 @@ WeatherOutlook.insert({
 	municipality: "Uyugan", 
 	data: {
 		month: {
-			Nov: 228.9, 
-			Dec: 102.78, 
-			Jan: 123.86, 
-			Feb: 92.26, 
-			Mar: 80.56 
+			Dec: 115.57, 
+			Jan: 134.47, 
+			Feb: 97.72, 
+			Mar: 85.49, 
+			Apr: 51.43 
 		}
 	}
 }); 
@@ -2451,11 +2451,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 172.84, 
-			Dec: 138.3, 
-			Jan: 33.8, 
+			Dec: 137.70, 
+			Jan: 33.69, 
 			Feb: 23.18, 
-			Mar: 27.74 
+			Mar: 27.31, 
+			Apr: 39.30 
 		}
 	}
 }); 
@@ -2466,11 +2466,11 @@ WeatherOutlook.insert({
 	municipality: "Agoncillo", 
 	data: {
 		month: {
-			Nov: 182.87, 
-			Dec: 143.88, 
-			Jan: 25.13, 
-			Feb: 17.03, 
-			Mar: 19.5 
+			Dec: 151.37, 
+			Jan: 24.44, 
+			Feb: 17.45, 
+			Mar: 20.97, 
+			Apr: 33.41 
 		}
 	}
 }); 
@@ -2481,11 +2481,11 @@ WeatherOutlook.insert({
 	municipality: "Alitagtag", 
 	data: {
 		month: {
-			Nov: 192.18, 
-			Dec: 136.96, 
-			Jan: 32.58, 
-			Feb: 23.83, 
-			Mar: 27.29 
+			Dec: 136.73, 
+			Jan: 32.41, 
+			Feb: 23.70, 
+			Mar: 26.59, 
+			Apr: 39.12 
 		}
 	}
 }); 
@@ -2496,11 +2496,11 @@ WeatherOutlook.insert({
 	municipality: "Balayan", 
 	data: {
 		month: {
-			Nov: 115.63, 
-			Dec: 96.1, 
-			Jan: 20.62, 
-			Feb: 15.18, 
-			Mar: 8.92 
+			Dec: 96.63, 
+			Jan: 21.26, 
+			Feb: 15.53, 
+			Mar: 10.15, 
+			Apr: 26.85 
 		}
 	}
 }); 
@@ -2511,11 +2511,11 @@ WeatherOutlook.insert({
 	municipality: "Balete", 
 	data: {
 		month: {
-			Nov: 220.55, 
-			Dec: 171.34, 
-			Jan: 33.86, 
-			Feb: 26.69, 
-			Mar: 34.41 
+			Dec: 170.77, 
+			Jan: 33.55, 
+			Feb: 26.49, 
+			Mar: 33.56, 
+			Apr: 47.33 
 		}
 	}
 }); 
@@ -2526,11 +2526,11 @@ WeatherOutlook.insert({
 	municipality: "Batangas City", 
 	data: {
 		month: {
-			Nov: 185.78, 
-			Dec: 150.73, 
-			Jan: 39.26, 
-			Feb: 22.34, 
-			Mar: 32.62 
+			Dec: 142.40, 
+			Jan: 43.32, 
+			Feb: 24.55, 
+			Mar: 35.51, 
+			Apr: 46.70 
 		}
 	}
 }); 
@@ -2541,11 +2541,11 @@ WeatherOutlook.insert({
 	municipality: "Bauan", 
 	data: {
 		month: {
-			Nov: 197.36, 
-			Dec: 137.11, 
-			Jan: 27.24, 
-			Feb: 19.73, 
-			Mar: 21.66 
+			Dec: 127.66, 
+			Jan: 27.21, 
+			Feb: 20.70, 
+			Mar: 21.90, 
+			Apr: 37.31 
 		}
 	}
 }); 
@@ -2556,11 +2556,11 @@ WeatherOutlook.insert({
 	municipality: "Calaca", 
 	data: {
 		month: {
-			Nov: 120.27, 
-			Dec: 99.62, 
-			Jan: 22.17, 
-			Feb: 15.14, 
-			Mar: 12.35 
+			Dec: 112.55, 
+			Jan: 23.24, 
+			Feb: 15.15, 
+			Mar: 15.00, 
+			Apr: 30.67 
 		}
 	}
 }); 
@@ -2571,11 +2571,11 @@ WeatherOutlook.insert({
 	municipality: "Calatagan", 
 	data: {
 		month: {
-			Nov: 125.83, 
-			Dec: 101.51, 
-			Jan: 18.66, 
-			Feb: 15.04, 
-			Mar: 7.49 
+			Dec: 112.81, 
+			Jan: 23.08, 
+			Feb: 16.07, 
+			Mar: 14.32, 
+			Apr: 30.48 
 		}
 	}
 }); 
@@ -2586,11 +2586,11 @@ WeatherOutlook.insert({
 	municipality: "Cuenca", 
 	data: {
 		month: {
-			Nov: 229.52, 
-			Dec: 174.39, 
-			Jan: 33.7, 
-			Feb: 22.03, 
-			Mar: 28.88 
+			Dec: 158.62, 
+			Jan: 35.32, 
+			Feb: 24.72, 
+			Mar: 30.86, 
+			Apr: 42.95 
 		}
 	}
 }); 
@@ -2601,11 +2601,11 @@ WeatherOutlook.insert({
 	municipality: "Ibaan", 
 	data: {
 		month: {
-			Nov: 139.37, 
-			Dec: 127.13, 
-			Jan: 41.55, 
-			Feb: 31.38, 
-			Mar: 35.64 
+			Dec: 136.24, 
+			Jan: 47.22, 
+			Feb: 35.50, 
+			Mar: 40.34, 
+			Apr: 47.69 
 		}
 	}
 }); 
@@ -2616,11 +2616,11 @@ WeatherOutlook.insert({
 	municipality: "Laurel", 
 	data: {
 		month: {
-			Nov: 174.13, 
-			Dec: 121.36, 
-			Jan: 24.66, 
-			Feb: 13.38, 
-			Mar: 21.76 
+			Dec: 140.01, 
+			Jan: 23.52, 
+			Feb: 13.55, 
+			Mar: 20.57, 
+			Apr: 34.26 
 		}
 	}
 }); 
@@ -2631,11 +2631,11 @@ WeatherOutlook.insert({
 	municipality: "Lemery", 
 	data: {
 		month: {
-			Nov: 142.28, 
-			Dec: 110.59, 
-			Jan: 24.02, 
-			Feb: 17.29, 
-			Mar: 17.87 
+			Dec: 132.56, 
+			Jan: 26.19, 
+			Feb: 19.02, 
+			Mar: 20.47, 
+			Apr: 33.97 
 		}
 	}
 }); 
@@ -2646,11 +2646,11 @@ WeatherOutlook.insert({
 	municipality: "Lian", 
 	data: {
 		month: {
-			Nov: 76.32, 
-			Dec: 87.75, 
-			Jan: 16.18, 
-			Feb: 15.06, 
-			Mar: 6.72 
+			Dec: 94.93, 
+			Jan: 18.25, 
+			Feb: 16.29, 
+			Mar: 7.96, 
+			Apr: 24.72 
 		}
 	}
 }); 
@@ -2661,11 +2661,11 @@ WeatherOutlook.insert({
 	municipality: "Lipa City", 
 	data: {
 		month: {
-			Nov: 179.89, 
-			Dec: 150.47, 
-			Jan: 44.17, 
-			Feb: 33.9, 
-			Mar: 42.87 
+			Dec: 135.92, 
+			Jan: 37.41, 
+			Feb: 28.86, 
+			Mar: 32.02, 
+			Apr: 42.86 
 		}
 	}
 }); 
@@ -2676,11 +2676,11 @@ WeatherOutlook.insert({
 	municipality: "Lobo", 
 	data: {
 		month: {
-			Nov: 201.04, 
-			Dec: 167.36, 
-			Jan: 55.48, 
-			Feb: 26.08, 
-			Mar: 41.34 
+			Dec: 171.94, 
+			Jan: 55.68, 
+			Feb: 30.30, 
+			Mar: 45.49, 
+			Apr: 51.49 
 		}
 	}
 }); 
@@ -2691,11 +2691,11 @@ WeatherOutlook.insert({
 	municipality: "Mabini", 
 	data: {
 		month: {
-			Nov: 211.97, 
-			Dec: 146.78, 
-			Jan: 24.93, 
-			Feb: 15.03, 
-			Mar: 20.54 
+			Dec: 143.37, 
+			Jan: 27.09, 
+			Feb: 17.35, 
+			Mar: 21.73, 
+			Apr: 37.32 
 		}
 	}
 }); 
@@ -2706,11 +2706,11 @@ WeatherOutlook.insert({
 	municipality: "Malvar", 
 	data: {
 		month: {
-			Nov: 208.67, 
-			Dec: 164.4, 
-			Jan: 36.65, 
-			Feb: 28.52, 
-			Mar: 36.96 
+			Dec: 166.30, 
+			Jan: 36.35, 
+			Feb: 27.76, 
+			Mar: 35.16, 
+			Apr: 46.61 
 		}
 	}
 }); 
@@ -2721,11 +2721,11 @@ WeatherOutlook.insert({
 	municipality: "Mataas Na Kahoy", 
 	data: {
 		month: {
-			Nov: 262.66, 
-			Dec: 195.4, 
-			Jan: 31.55, 
-			Feb: 22.27, 
-			Mar: 30.61 
+			Dec: 156.17, 
+			Jan: 37.33, 
+			Feb: 30.58, 
+			Mar: 37.60, 
+			Apr: 48.63 
 		}
 	}
 }); 
@@ -2736,11 +2736,11 @@ WeatherOutlook.insert({
 	municipality: "Nasugbu", 
 	data: {
 		month: {
-			Nov: 111.05, 
-			Dec: 76.31, 
-			Jan: 11.78, 
-			Feb: 10.21, 
-			Mar: 8.37 
+			Dec: 92.84, 
+			Jan: 17.22, 
+			Feb: 12.41, 
+			Mar: 11.99, 
+			Apr: 30.08 
 		}
 	}
 }); 
@@ -2751,11 +2751,11 @@ WeatherOutlook.insert({
 	municipality: "Padre Garcia", 
 	data: {
 		month: {
-			Nov: 152.17, 
-			Dec: 149.56, 
-			Jan: 51.89, 
-			Feb: 41.64, 
-			Mar: 46.11 
+			Dec: 135.61, 
+			Jan: 44.66, 
+			Feb: 35.73, 
+			Mar: 36.53, 
+			Apr: 43.43 
 		}
 	}
 }); 
@@ -2766,11 +2766,11 @@ WeatherOutlook.insert({
 	municipality: "Rosario", 
 	data: {
 		month: {
-			Nov: 157.5, 
-			Dec: 147.3, 
-			Jan: 55.6, 
-			Feb: 38.65, 
-			Mar: 45.86 
+			Dec: 162.33, 
+			Jan: 55.47, 
+			Feb: 37.32, 
+			Mar: 43.60, 
+			Apr: 46.64 
 		}
 	}
 }); 
@@ -2781,11 +2781,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 174.92, 
-			Dec: 144.53, 
-			Jan: 37.73, 
-			Feb: 27.86, 
-			Mar: 33.85 
+			Dec: 141.57, 
+			Jan: 40.95, 
+			Feb: 31.00, 
+			Mar: 36.53, 
+			Apr: 45.89 
 		}
 	}
 }); 
@@ -2796,11 +2796,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 212.76, 
-			Dec: 193.75, 
-			Jan: 64, 
-			Feb: 43.14, 
-			Mar: 48.63 
+			Dec: 163.20, 
+			Jan: 43.10, 
+			Feb: 27.96, 
+			Mar: 30.99, 
+			Apr: 39.53 
 		}
 	}
 }); 
@@ -2811,11 +2811,11 @@ WeatherOutlook.insert({
 	municipality: "San Luis", 
 	data: {
 		month: {
-			Nov: 180.9, 
-			Dec: 118.63, 
-			Jan: 30.04, 
-			Feb: 20.69, 
-			Mar: 23.41 
+			Dec: 123.51, 
+			Jan: 27.46, 
+			Feb: 20.25, 
+			Mar: 23.20, 
+			Apr: 36.76 
 		}
 	}
 }); 
@@ -2826,11 +2826,11 @@ WeatherOutlook.insert({
 	municipality: "San Nicolas", 
 	data: {
 		month: {
-			Nov: 209.78, 
-			Dec: 159.66, 
-			Jan: 25.5, 
-			Feb: 20.17, 
-			Mar: 24.49 
+			Dec: 155.21, 
+			Jan: 26.74, 
+			Feb: 20.02, 
+			Mar: 23.95, 
+			Apr: 37.05 
 		}
 	}
 }); 
@@ -2841,11 +2841,11 @@ WeatherOutlook.insert({
 	municipality: "San Pascual", 
 	data: {
 		month: {
-			Nov: 185.34, 
-			Dec: 134.96, 
-			Jan: 29.73, 
-			Feb: 22.3, 
-			Mar: 24.85 
+			Dec: 125.54, 
+			Jan: 35.22, 
+			Feb: 27.17, 
+			Mar: 30.30, 
+			Apr: 41.00 
 		}
 	}
 }); 
@@ -2856,11 +2856,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Teresita", 
 	data: {
 		month: {
-			Nov: 183.72, 
-			Dec: 131.82, 
-			Jan: 30.37, 
-			Feb: 23.08, 
-			Mar: 26.45 
+			Dec: 157.01, 
+			Jan: 31.71, 
+			Feb: 21.83, 
+			Mar: 26.28, 
+			Apr: 39.04 
 		}
 	}
 }); 
@@ -2871,11 +2871,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 192.65, 
-			Dec: 145.74, 
-			Jan: 40.48, 
-			Feb: 28.63, 
-			Mar: 38.55 
+			Dec: 109.48, 
+			Jan: 26.79, 
+			Feb: 20.01, 
+			Mar: 22.90, 
+			Apr: 35.46 
 		}
 	}
 }); 
@@ -2886,11 +2886,11 @@ WeatherOutlook.insert({
 	municipality: "Taal", 
 	data: {
 		month: {
-			Nov: 175.16, 
-			Dec: 128.62, 
-			Jan: 28.28, 
-			Feb: 21.5, 
-			Mar: 23.26 
+			Dec: 143.28, 
+			Jan: 28.66, 
+			Feb: 22.12, 
+			Mar: 24.64, 
+			Apr: 36.60 
 		}
 	}
 }); 
@@ -2901,11 +2901,11 @@ WeatherOutlook.insert({
 	municipality: "Taal lake", 
 	data: {
 		month: {
-			Nov: 223.97, 
-			Dec: 166.22, 
-			Jan: 25.99, 
-			Feb: 18.46, 
-			Mar: 24.88 
+			Dec: 167.24, 
+			Jan: 29.34, 
+			Feb: 21.76, 
+			Mar: 27.47, 
+			Apr: 40.32 
 		}
 	}
 }); 
@@ -2916,11 +2916,11 @@ WeatherOutlook.insert({
 	municipality: "Talisay", 
 	data: {
 		month: {
-			Nov: 216.37, 
-			Dec: 157.3, 
-			Jan: 23.27, 
-			Feb: 14.18, 
-			Mar: 23.33 
+			Dec: 159.84, 
+			Jan: 27.26, 
+			Feb: 18.50, 
+			Mar: 26.18, 
+			Apr: 40.25 
 		}
 	}
 }); 
@@ -2931,11 +2931,11 @@ WeatherOutlook.insert({
 	municipality: "Tanauan City", 
 	data: {
 		month: {
-			Nov: 199.18, 
-			Dec: 154.27, 
-			Jan: 30.87, 
-			Feb: 21.53, 
-			Mar: 29.96 
+			Dec: 141.44, 
+			Jan: 27.64, 
+			Feb: 20.50, 
+			Mar: 26.40, 
+			Apr: 39.45 
 		}
 	}
 }); 
@@ -2946,11 +2946,11 @@ WeatherOutlook.insert({
 	municipality: "Taysan", 
 	data: {
 		month: {
-			Nov: 157.51, 
-			Dec: 147.66, 
-			Jan: 53.1, 
-			Feb: 35.33, 
-			Mar: 44.39 
+			Dec: 149.80, 
+			Jan: 56.96, 
+			Feb: 39.52, 
+			Mar: 46.52, 
+			Apr: 48.70 
 		}
 	}
 }); 
@@ -2961,11 +2961,11 @@ WeatherOutlook.insert({
 	municipality: "Tingloy", 
 	data: {
 		month: {
-			Nov: 218.27, 
-			Dec: 156.83, 
-			Jan: 29.67, 
-			Feb: 18.11, 
-			Mar: 25.17 
+			Dec: 160.58, 
+			Jan: 31.48, 
+			Feb: 15.67, 
+			Mar: 26.52, 
+			Apr: 40.71 
 		}
 	}
 }); 
@@ -2976,11 +2976,11 @@ WeatherOutlook.insert({
 	municipality: "Tuy", 
 	data: {
 		month: {
-			Nov: 98.73, 
-			Dec: 91.9, 
-			Jan: 19.21, 
-			Feb: 14.96, 
-			Mar: 8.64 
+			Dec: 92.71, 
+			Jan: 21.41, 
+			Feb: 14.54, 
+			Mar: 11.58, 
+			Apr: 29.38 
 		}
 	}
 }); 
@@ -2991,11 +2991,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 123.23, 
-			Dec: 50.7, 
-			Jan: 11.74, 
-			Feb: 21.11, 
-			Mar: 48.08 
+			Dec: 53.92, 
+			Jan: 14.55, 
+			Feb: 22.80, 
+			Mar: 48.43, 
+			Apr: 113.00 
 		}
 	}
 }); 
@@ -3006,11 +3006,11 @@ WeatherOutlook.insert({
 	municipality: "Atok", 
 	data: {
 		month: {
-			Nov: 123.5, 
-			Dec: 45.33, 
-			Jan: 10.36, 
-			Feb: 23.98, 
-			Mar: 50.29 
+			Dec: 47.54, 
+			Jan: 11.66, 
+			Feb: 23.29, 
+			Mar: 50.52, 
+			Apr: 117.75 
 		}
 	}
 }); 
@@ -3021,11 +3021,11 @@ WeatherOutlook.insert({
 	municipality: "Baguio City", 
 	data: {
 		month: {
-			Nov: 92.67, 
-			Dec: 37.35, 
-			Jan: 10.3, 
-			Feb: 16.34, 
-			Mar: 34.48 
+			Dec: 42.03, 
+			Jan: 10.73, 
+			Feb: 19.29, 
+			Mar: 38.38, 
+			Apr: 108.06 
 		}
 	}
 }); 
@@ -3036,11 +3036,11 @@ WeatherOutlook.insert({
 	municipality: "Bakun", 
 	data: {
 		month: {
-			Nov: 116.55, 
-			Dec: 35.33, 
-			Jan: 9.86, 
-			Feb: 16.5, 
-			Mar: 52.2 
+			Dec: 41.55, 
+			Jan: 11.81, 
+			Feb: 20.45, 
+			Mar: 58.65, 
+			Apr: 117.29 
 		}
 	}
 }); 
@@ -3051,11 +3051,11 @@ WeatherOutlook.insert({
 	municipality: "Bokod", 
 	data: {
 		month: {
-			Nov: 146.06, 
-			Dec: 72.08, 
-			Jan: 17.59, 
-			Feb: 35.56, 
-			Mar: 54.7 
+			Dec: 60.52, 
+			Jan: 13.70, 
+			Feb: 22.32, 
+			Mar: 44.26, 
+			Apr: 111.98 
 		}
 	}
 }); 
@@ -3066,11 +3066,11 @@ WeatherOutlook.insert({
 	municipality: "Buguias", 
 	data: {
 		month: {
-			Nov: 151.21, 
-			Dec: 53.46, 
-			Jan: 16.19, 
-			Feb: 24.47, 
-			Mar: 73.36 
+			Dec: 45.02, 
+			Jan: 12.01, 
+			Feb: 19.80, 
+			Mar: 56.65, 
+			Apr: 112.05 
 		}
 	}
 }); 
@@ -3081,11 +3081,11 @@ WeatherOutlook.insert({
 	municipality: "Itogon", 
 	data: {
 		month: {
-			Nov: 116.36, 
-			Dec: 60.84, 
-			Jan: 11.92, 
-			Feb: 20.79, 
-			Mar: 37.53 
+			Dec: 87.50, 
+			Jan: 32.55, 
+			Feb: 35.12, 
+			Mar: 49.46, 
+			Apr: 115.29 
 		}
 	}
 }); 
@@ -3096,11 +3096,11 @@ WeatherOutlook.insert({
 	municipality: "Kabayan", 
 	data: {
 		month: {
-			Nov: 148.74, 
-			Dec: 60.29, 
-			Jan: 17.53, 
-			Feb: 24.34, 
-			Mar: 66.39 
+			Dec: 51.42, 
+			Jan: 13.19, 
+			Feb: 20.94, 
+			Mar: 51.26, 
+			Apr: 109.34 
 		}
 	}
 }); 
@@ -3111,11 +3111,11 @@ WeatherOutlook.insert({
 	municipality: "Kapangan", 
 	data: {
 		month: {
-			Nov: 112.95, 
-			Dec: 41.21, 
-			Jan: 8.36, 
-			Feb: 20.51, 
-			Mar: 44.77 
+			Dec: 43.63, 
+			Jan: 9.47, 
+			Feb: 21.51, 
+			Mar: 48.79, 
+			Apr: 107.56 
 		}
 	}
 }); 
@@ -3126,11 +3126,11 @@ WeatherOutlook.insert({
 	municipality: "Kibungan", 
 	data: {
 		month: {
-			Nov: 131.42, 
-			Dec: 44.07, 
-			Jan: 9.88, 
-			Feb: 16.11, 
-			Mar: 51.49 
+			Dec: 43.17, 
+			Jan: 11.74, 
+			Feb: 16.52, 
+			Mar: 57.59, 
+			Apr: 113.95 
 		}
 	}
 }); 
@@ -3141,11 +3141,11 @@ WeatherOutlook.insert({
 	municipality: "La Trinidad", 
 	data: {
 		month: {
-			Nov: 102.27, 
-			Dec: 40.34, 
-			Jan: 10.41, 
-			Feb: 20.91, 
-			Mar: 41.16 
+			Dec: 41.21, 
+			Jan: 11.73, 
+			Feb: 30.39, 
+			Mar: 41.53, 
+			Apr: 113.13 
 		}
 	}
 }); 
@@ -3156,11 +3156,11 @@ WeatherOutlook.insert({
 	municipality: "Mankayan", 
 	data: {
 		month: {
-			Nov: 136.43, 
-			Dec: 46, 
-			Jan: 12.77, 
-			Feb: 24.96, 
-			Mar: 65.45 
+			Dec: 47.77, 
+			Jan: 12.69, 
+			Feb: 24.93, 
+			Mar: 61.64, 
+			Apr: 124.10 
 		}
 	}
 }); 
@@ -3171,11 +3171,11 @@ WeatherOutlook.insert({
 	municipality: "Sablan", 
 	data: {
 		month: {
-			Nov: 102.75, 
-			Dec: 42.42, 
-			Jan: 7.7, 
-			Feb: 13.99, 
-			Mar: 31.2 
+			Dec: 43.42, 
+			Jan: 9.14, 
+			Feb: 18.42, 
+			Mar: 36.39, 
+			Apr: 101.39 
 		}
 	}
 }); 
@@ -3186,11 +3186,11 @@ WeatherOutlook.insert({
 	municipality: "Tuba", 
 	data: {
 		month: {
-			Nov: 104.87, 
-			Dec: 49.95, 
-			Jan: 7.45, 
-			Feb: 7.81, 
-			Mar: 28.64 
+			Dec: 54.44, 
+			Jan: 8.75, 
+			Feb: 11.36, 
+			Mar: 31.00, 
+			Apr: 107.71 
 		}
 	}
 }); 
@@ -3201,11 +3201,11 @@ WeatherOutlook.insert({
 	municipality: "Tublay", 
 	data: {
 		month: {
-			Nov: 107.59, 
-			Dec: 41.44, 
-			Jan: 10.07, 
-			Feb: 26.88, 
-			Mar: 46 
+			Dec: 45.37, 
+			Jan: 10.62, 
+			Feb: 33.41, 
+			Mar: 45.66, 
+			Apr: 115.93 
 		}
 	}
 }); 
@@ -3216,11 +3216,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 322.32, 
-			Dec: 382.45, 
-			Jan: 304.48, 
-			Feb: 180.3, 
-			Mar: 197.98 
+			Dec: 379.96, 
+			Jan: 302.62, 
+			Feb: 179.34, 
+			Mar: 197.72, 
+			Apr: 115.56 
 		}
 	}
 }); 
@@ -3231,11 +3231,11 @@ WeatherOutlook.insert({
 	municipality: "Almeria", 
 	data: {
 		month: {
-			Nov: 306.74, 
-			Dec: 366.48, 
-			Jan: 294.76, 
-			Feb: 174.75, 
-			Mar: 181.46 
+			Dec: 374.47, 
+			Jan: 301.81, 
+			Feb: 178.98, 
+			Mar: 199.04, 
+			Apr: 116.19 
 		}
 	}
 }); 
@@ -3246,11 +3246,11 @@ WeatherOutlook.insert({
 	municipality: "Biliran", 
 	data: {
 		month: {
-			Nov: 333.05, 
-			Dec: 391.87, 
-			Jan: 310.09, 
-			Feb: 179.92, 
-			Mar: 194.46 
+			Dec: 397.00, 
+			Jan: 318.07, 
+			Feb: 185.12, 
+			Mar: 204.16, 
+			Apr: 121.43 
 		}
 	}
 }); 
@@ -3261,11 +3261,11 @@ WeatherOutlook.insert({
 	municipality: "Cabucgayan", 
 	data: {
 		month: {
-			Nov: 341.34, 
-			Dec: 408.56, 
-			Jan: 329.86, 
-			Feb: 190.2, 
-			Mar: 216.63 
+			Dec: 362.42, 
+			Jan: 290.34, 
+			Feb: 171.35, 
+			Mar: 188.56, 
+			Apr: 107.02 
 		}
 	}
 }); 
@@ -3276,11 +3276,11 @@ WeatherOutlook.insert({
 	municipality: "Caibiran", 
 	data: {
 		month: {
-			Nov: 329.31, 
-			Dec: 408.81, 
-			Jan: 318.86, 
-			Feb: 188.83, 
-			Mar: 223.56 
+			Dec: 396.84, 
+			Jan: 310.30, 
+			Feb: 183.08, 
+			Mar: 200.61, 
+			Apr: 118.87 
 		}
 	}
 }); 
@@ -3291,11 +3291,11 @@ WeatherOutlook.insert({
 	municipality: "Culaba", 
 	data: {
 		month: {
-			Nov: 324.92, 
-			Dec: 387.57, 
-			Jan: 305.31, 
-			Feb: 183.93, 
-			Mar: 207.11 
+			Dec: 395.41, 
+			Jan: 307.53, 
+			Feb: 184.64, 
+			Mar: 206.58, 
+			Apr: 118.99 
 		}
 	}
 }); 
@@ -3306,11 +3306,11 @@ WeatherOutlook.insert({
 	municipality: "Kawayan", 
 	data: {
 		month: {
-			Nov: 318.36, 
-			Dec: 364.85, 
-			Jan: 296.51, 
-			Feb: 177.68, 
-			Mar: 194.67 
+			Dec: 355.40, 
+			Jan: 293.26, 
+			Feb: 174.38, 
+			Mar: 188.92, 
+			Apr: 109.82 
 		}
 	}
 }); 
@@ -3321,11 +3321,11 @@ WeatherOutlook.insert({
 	municipality: "Maripipi", 
 	data: {
 		month: {
-			Nov: 310.29, 
-			Dec: 354.05, 
-			Jan: 282.39, 
-			Feb: 169.15, 
-			Mar: 185.55 
+			Dec: 356.99, 
+			Jan: 286.87, 
+			Feb: 172.04, 
+			Mar: 187.62, 
+			Apr: 109.70 
 		}
 	}
 }); 
@@ -3336,11 +3336,11 @@ WeatherOutlook.insert({
 	municipality: "Naval", 
 	data: {
 		month: {
-			Nov: 317.64, 
-			Dec: 375.73, 
-			Jan: 298.91, 
-			Feb: 177.23, 
-			Mar: 181.71 
+			Dec: 386.81, 
+			Jan: 304.14, 
+			Feb: 180.14, 
+			Mar: 199.61, 
+			Apr: 117.69 
 		}
 	}
 }); 
@@ -3351,11 +3351,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 216.27, 
-			Dec: 210.51, 
-			Jan: 177.41, 
-			Feb: 112.2, 
-			Mar: 123.23 
+			Dec: 210.64, 
+			Jan: 177.40, 
+			Feb: 112.37, 
+			Mar: 125.06, 
+			Apr: 69.43 
 		}
 	}
 }); 
@@ -3366,11 +3366,11 @@ WeatherOutlook.insert({
 	municipality: "Albuquerque", 
 	data: {
 		month: {
-			Nov: 192.38, 
-			Dec: 158.18, 
-			Jan: 123.76, 
-			Feb: 77.33, 
-			Mar: 109.39 
+			Dec: 168.25, 
+			Jan: 130.62, 
+			Feb: 78.14, 
+			Mar: 112.37, 
+			Apr: 66.90 
 		}
 	}
 }); 
@@ -3381,11 +3381,11 @@ WeatherOutlook.insert({
 	municipality: "Alicia", 
 	data: {
 		month: {
-			Nov: 233.34, 
-			Dec: 227.36, 
-			Jan: 222.49, 
-			Feb: 142.51, 
-			Mar: 139.29 
+			Dec: 237.36, 
+			Jan: 226.62, 
+			Feb: 144.63, 
+			Mar: 139.73, 
+			Apr: 80.47 
 		}
 	}
 }); 
@@ -3396,11 +3396,11 @@ WeatherOutlook.insert({
 	municipality: "Anda", 
 	data: {
 		month: {
-			Nov: 238.49, 
-			Dec: 269.22, 
-			Jan: 238.32, 
-			Feb: 149.72, 
-			Mar: 133.4 
+			Dec: 179.33, 
+			Jan: 142.42, 
+			Feb: 96.90, 
+			Mar: 120.38, 
+			Apr: 79.96 
 		}
 	}
 }); 
@@ -3411,11 +3411,11 @@ WeatherOutlook.insert({
 	municipality: "Antequera", 
 	data: {
 		month: {
-			Nov: 208.42, 
-			Dec: 184.82, 
-			Jan: 130.21, 
-			Feb: 90.59, 
-			Mar: 109.27 
+			Dec: 187.97, 
+			Jan: 135.53, 
+			Feb: 89.95, 
+			Mar: 114.52, 
+			Apr: 71.50 
 		}
 	}
 }); 
@@ -3426,11 +3426,11 @@ WeatherOutlook.insert({
 	municipality: "Baclayon", 
 	data: {
 		month: {
-			Nov: 185.69, 
-			Dec: 146.45, 
-			Jan: 118.96, 
-			Feb: 73.66, 
-			Mar: 105.26 
+			Dec: 175.22, 
+			Jan: 141.53, 
+			Feb: 97.73, 
+			Mar: 130.25, 
+			Apr: 81.47 
 		}
 	}
 }); 
@@ -3441,11 +3441,11 @@ WeatherOutlook.insert({
 	municipality: "Balilihan", 
 	data: {
 		month: {
-			Nov: 218, 
-			Dec: 196.74, 
-			Jan: 143.7, 
-			Feb: 92.33, 
-			Mar: 114.25 
+			Dec: 202.68, 
+			Jan: 151.59, 
+			Feb: 92.11, 
+			Mar: 120.70, 
+			Apr: 63.66 
 		}
 	}
 }); 
@@ -3456,11 +3456,11 @@ WeatherOutlook.insert({
 	municipality: "Batuan", 
 	data: {
 		month: {
-			Nov: 247.08, 
-			Dec: 237.6, 
-			Jan: 186.06, 
-			Feb: 102.54, 
-			Mar: 134.85 
+			Dec: 218.66, 
+			Jan: 178.80, 
+			Feb: 105.90, 
+			Mar: 133.07, 
+			Apr: 59.62 
 		}
 	}
 }); 
@@ -3471,11 +3471,11 @@ WeatherOutlook.insert({
 	municipality: "Bien Unido", 
 	data: {
 		month: {
-			Nov: 222.27, 
-			Dec: 255.8, 
-			Jan: 258.24, 
-			Feb: 149.26, 
-			Mar: 131.41 
+			Dec: 233.02, 
+			Jan: 219.26, 
+			Feb: 130.41, 
+			Mar: 118.65, 
+			Apr: 69.28 
 		}
 	}
 }); 
@@ -3486,11 +3486,11 @@ WeatherOutlook.insert({
 	municipality: "Bilar", 
 	data: {
 		month: {
-			Nov: 229.33, 
-			Dec: 222.22, 
-			Jan: 169.25, 
-			Feb: 91.2, 
-			Mar: 128.72 
+			Dec: 227.90, 
+			Jan: 175.24, 
+			Feb: 94.70, 
+			Mar: 131.70, 
+			Apr: 53.35 
 		}
 	}
 }); 
@@ -3501,11 +3501,11 @@ WeatherOutlook.insert({
 	municipality: "Buenavista", 
 	data: {
 		month: {
-			Nov: 199.59, 
-			Dec: 208.76, 
-			Jan: 165.53, 
-			Feb: 114.81, 
-			Mar: 115.05 
+			Dec: 227.32, 
+			Jan: 188.69, 
+			Feb: 129.19, 
+			Mar: 131.85, 
+			Apr: 73.15 
 		}
 	}
 }); 
@@ -3516,11 +3516,11 @@ WeatherOutlook.insert({
 	municipality: "Calape", 
 	data: {
 		month: {
-			Nov: 213.39, 
-			Dec: 189.13, 
-			Jan: 130.04, 
-			Feb: 93.52, 
-			Mar: 110.33 
+			Dec: 195.27, 
+			Jan: 140.25, 
+			Feb: 96.96, 
+			Mar: 117.39, 
+			Apr: 71.33 
 		}
 	}
 }); 
@@ -3531,11 +3531,11 @@ WeatherOutlook.insert({
 	municipality: "Candijay", 
 	data: {
 		month: {
-			Nov: 240.68, 
-			Dec: 254.27, 
-			Jan: 225.67, 
-			Feb: 144.41, 
-			Mar: 133.72 
+			Dec: 243.79, 
+			Jan: 209.90, 
+			Feb: 136.77, 
+			Mar: 131.78, 
+			Apr: 81.91 
 		}
 	}
 }); 
@@ -3546,11 +3546,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 235.5, 
-			Dec: 211.89, 
-			Jan: 191.19, 
-			Feb: 118.72, 
-			Mar: 138.92 
+			Dec: 211.48, 
+			Jan: 191.15, 
+			Feb: 120.84, 
+			Mar: 139.97, 
+			Apr: 65.89 
 		}
 	}
 }); 
@@ -3561,11 +3561,11 @@ WeatherOutlook.insert({
 	municipality: "Catigbian", 
 	data: {
 		month: {
-			Nov: 225.72, 
-			Dec: 210, 
-			Jan: 160.89, 
-			Feb: 101.51, 
-			Mar: 121.33 
+			Dec: 215.23, 
+			Jan: 170.33, 
+			Feb: 104.59, 
+			Mar: 128.78, 
+			Apr: 61.22 
 		}
 	}
 }); 
@@ -3576,11 +3576,11 @@ WeatherOutlook.insert({
 	municipality: "Clarin", 
 	data: {
 		month: {
-			Nov: 218.81, 
-			Dec: 207.95, 
-			Jan: 160.53, 
-			Feb: 106.6, 
-			Mar: 120.7 
+			Dec: 212.25, 
+			Jan: 164.23, 
+			Feb: 108.65, 
+			Mar: 124.28, 
+			Apr: 67.91 
 		}
 	}
 }); 
@@ -3591,11 +3591,11 @@ WeatherOutlook.insert({
 	municipality: "Corella", 
 	data: {
 		month: {
-			Nov: 190.13, 
-			Dec: 154.5, 
-			Jan: 122.5, 
-			Feb: 77.12, 
-			Mar: 109.72 
+			Dec: 173.88, 
+			Jan: 132.61, 
+			Feb: 81.39, 
+			Mar: 112.81, 
+			Apr: 66.97 
 		}
 	}
 }); 
@@ -3606,11 +3606,11 @@ WeatherOutlook.insert({
 	municipality: "Cortes", 
 	data: {
 		month: {
-			Nov: 198.3, 
-			Dec: 160.82, 
-			Jan: 122.79, 
-			Feb: 80.66, 
-			Mar: 107.84 
+			Dec: 171.63, 
+			Jan: 128.32, 
+			Feb: 83.97, 
+			Mar: 110.49, 
+			Apr: 71.34 
 		}
 	}
 }); 
@@ -3621,11 +3621,11 @@ WeatherOutlook.insert({
 	municipality: "Dagohoy", 
 	data: {
 		month: {
-			Nov: 232.46, 
-			Dec: 199.51, 
-			Jan: 199.78, 
-			Feb: 138.18, 
-			Mar: 141.96 
+			Dec: 208.03, 
+			Jan: 206.80, 
+			Feb: 137.69, 
+			Mar: 139.93, 
+			Apr: 75.25 
 		}
 	}
 }); 
@@ -3636,11 +3636,11 @@ WeatherOutlook.insert({
 	municipality: "Danao", 
 	data: {
 		month: {
-			Nov: 226.83, 
-			Dec: 213.78, 
-			Jan: 190.71, 
-			Feb: 128.82, 
-			Mar: 137.48 
+			Dec: 213.02, 
+			Jan: 196.75, 
+			Feb: 134.46, 
+			Mar: 140.57, 
+			Apr: 74.82 
 		}
 	}
 }); 
@@ -3651,11 +3651,11 @@ WeatherOutlook.insert({
 	municipality: "Dauis", 
 	data: {
 		month: {
-			Nov: 170.5, 
-			Dec: 122.58, 
-			Jan: 106.97, 
-			Feb: 72.2, 
-			Mar: 103.79 
+			Dec: 120.18, 
+			Jan: 96.94, 
+			Feb: 61.78, 
+			Mar: 89.99, 
+			Apr: 64.05 
 		}
 	}
 }); 
@@ -3666,11 +3666,11 @@ WeatherOutlook.insert({
 	municipality: "Dimiao", 
 	data: {
 		month: {
-			Nov: 206.6, 
-			Dec: 206.09, 
-			Jan: 176.74, 
-			Feb: 95.43, 
-			Mar: 120.75 
+			Dec: 187.18, 
+			Jan: 144.90, 
+			Feb: 78.22, 
+			Mar: 124.92, 
+			Apr: 50.55 
 		}
 	}
 }); 
@@ -3681,11 +3681,11 @@ WeatherOutlook.insert({
 	municipality: "Duero", 
 	data: {
 		month: {
-			Nov: 234.24, 
-			Dec: 246.98, 
-			Jan: 198.62, 
-			Feb: 124.85, 
-			Mar: 137.22 
+			Dec: 227.49, 
+			Jan: 192.37, 
+			Feb: 121.46, 
+			Mar: 133.21, 
+			Apr: 70.47 
 		}
 	}
 }); 
@@ -3696,11 +3696,11 @@ WeatherOutlook.insert({
 	municipality: "Garcia Hernandez", 
 	data: {
 		month: {
-			Nov: 185.14, 
-			Dec: 187.99, 
-			Jan: 149.56, 
-			Feb: 84.98, 
-			Mar: 116.81 
+			Dec: 194.70, 
+			Jan: 155.57, 
+			Feb: 90.04, 
+			Mar: 109.47, 
+			Apr: 52.99 
 		}
 	}
 }); 
@@ -3711,11 +3711,11 @@ WeatherOutlook.insert({
 	municipality: "Guindulman", 
 	data: {
 		month: {
-			Nov: 235.96, 
-			Dec: 249.28, 
-			Jan: 211.85, 
-			Feb: 135.29, 
-			Mar: 134.05 
+			Dec: 251.72, 
+			Jan: 222.20, 
+			Feb: 140.46, 
+			Mar: 136.08, 
+			Apr: 79.38 
 		}
 	}
 }); 
@@ -3726,11 +3726,11 @@ WeatherOutlook.insert({
 	municipality: "Inabanga", 
 	data: {
 		month: {
-			Nov: 201.21, 
-			Dec: 201.44, 
-			Jan: 159.05, 
-			Feb: 107.58, 
-			Mar: 105.43 
+			Dec: 224.53, 
+			Jan: 174.56, 
+			Feb: 119.81, 
+			Mar: 124.19, 
+			Apr: 69.59 
 		}
 	}
 }); 
@@ -3741,11 +3741,11 @@ WeatherOutlook.insert({
 	municipality: "Jagna", 
 	data: {
 		month: {
-			Nov: 227.11, 
-			Dec: 239.81, 
-			Jan: 190.72, 
-			Feb: 113.26, 
-			Mar: 130.55 
+			Dec: 206.86, 
+			Jan: 170.41, 
+			Feb: 107.21, 
+			Mar: 129.48, 
+			Apr: 71.24 
 		}
 	}
 }); 
@@ -3756,11 +3756,11 @@ WeatherOutlook.insert({
 	municipality: "Jetafe", 
 	data: {
 		month: {
-			Nov: 217.22, 
-			Dec: 235.25, 
-			Jan: 190.08, 
-			Feb: 125.5, 
-			Mar: 119.81 
+			Dec: 245.57, 
+			Jan: 198.97, 
+			Feb: 130.98, 
+			Mar: 129.26, 
+			Apr: 72.84 
 		}
 	}
 }); 
@@ -3771,11 +3771,11 @@ WeatherOutlook.insert({
 	municipality: "Lila", 
 	data: {
 		month: {
-			Nov: 200.8, 
-			Dec: 189.46, 
-			Jan: 151.2, 
-			Feb: 84.6, 
-			Mar: 119.31 
+			Dec: 138.85, 
+			Jan: 110.54, 
+			Feb: 62.50, 
+			Mar: 90.39, 
+			Apr: 45.57 
 		}
 	}
 }); 
@@ -3786,11 +3786,11 @@ WeatherOutlook.insert({
 	municipality: "Loay", 
 	data: {
 		month: {
-			Nov: 162.9, 
-			Dec: 141.87, 
-			Jan: 112.74, 
-			Feb: 63.91, 
-			Mar: 91.61 
+			Dec: 182.62, 
+			Jan: 157.34, 
+			Feb: 88.06, 
+			Mar: 112.46, 
+			Apr: 58.36 
 		}
 	}
 }); 
@@ -3801,11 +3801,11 @@ WeatherOutlook.insert({
 	municipality: "Loboc", 
 	data: {
 		month: {
-			Nov: 201.83, 
-			Dec: 179.67, 
-			Jan: 138.99, 
-			Feb: 81.01, 
-			Mar: 115.61 
+			Dec: 182.69, 
+			Jan: 144.65, 
+			Feb: 82.51, 
+			Mar: 120.67, 
+			Apr: 60.60 
 		}
 	}
 }); 
@@ -3816,11 +3816,11 @@ WeatherOutlook.insert({
 	municipality: "Loon", 
 	data: {
 		month: {
-			Nov: 208.15, 
-			Dec: 172.67, 
-			Jan: 121.3, 
-			Feb: 89.23, 
-			Mar: 113.18 
+			Dec: 179.97, 
+			Jan: 126.29, 
+			Feb: 89.89, 
+			Mar: 113.20, 
+			Apr: 75.11 
 		}
 	}
 }); 
@@ -3831,11 +3831,11 @@ WeatherOutlook.insert({
 	municipality: "Mabini", 
 	data: {
 		month: {
-			Nov: 243.77, 
-			Dec: 264.6, 
-			Jan: 242.37, 
-			Feb: 151.61, 
-			Mar: 134.78 
+			Dec: 220.59, 
+			Jan: 178.60, 
+			Feb: 118.46, 
+			Mar: 120.86, 
+			Apr: 77.12 
 		}
 	}
 }); 
@@ -3846,11 +3846,11 @@ WeatherOutlook.insert({
 	municipality: "Maribojoc", 
 	data: {
 		month: {
-			Nov: 204.16, 
-			Dec: 170.4, 
-			Jan: 121.51, 
-			Feb: 85.08, 
-			Mar: 112.73 
+			Dec: 171.33, 
+			Jan: 124.64, 
+			Feb: 85.49, 
+			Mar: 114.39, 
+			Apr: 75.36 
 		}
 	}
 }); 
@@ -3861,11 +3861,11 @@ WeatherOutlook.insert({
 	municipality: "Panglao", 
 	data: {
 		month: {
-			Nov: 108.45, 
-			Dec: 75.04, 
-			Jan: 69.15, 
-			Feb: 46.47, 
-			Mar: 69.96 
+			Dec: 109.26, 
+			Jan: 96.15, 
+			Feb: 61.39, 
+			Mar: 89.95, 
+			Apr: 63.62 
 		}
 	}
 }); 
@@ -3876,11 +3876,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 231.3, 
-			Dec: 213.18, 
-			Jan: 204.4, 
-			Feb: 133.87, 
-			Mar: 138.55 
+			Dec: 227.37, 
+			Jan: 205.08, 
+			Feb: 134.90, 
+			Mar: 139.72, 
+			Apr: 72.31 
 		}
 	}
 }); 
@@ -3891,11 +3891,11 @@ WeatherOutlook.insert({
 	municipality: "Pres. Carlos P. Garcia", 
 	data: {
 		month: {
-			Nov: 231.47, 
-			Dec: 274.46, 
-			Jan: 246.05, 
-			Feb: 149.57, 
-			Mar: 130.63 
+			Dec: 197.05, 
+			Jan: 168.96, 
+			Feb: 105.82, 
+			Mar: 96.36, 
+			Apr: 59.48 
 		}
 	}
 }); 
@@ -3906,11 +3906,11 @@ WeatherOutlook.insert({
 	municipality: "Sagbayan", 
 	data: {
 		month: {
-			Nov: 222.99, 
-			Dec: 213.41, 
-			Jan: 173.07, 
-			Feb: 111.1, 
-			Mar: 125.1 
+			Dec: 210.71, 
+			Jan: 180.69, 
+			Feb: 117.17, 
+			Mar: 134.01, 
+			Apr: 66.33 
 		}
 	}
 }); 
@@ -3921,11 +3921,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 213.49, 
-			Dec: 194.68, 
-			Jan: 137.48, 
-			Feb: 95.38, 
-			Mar: 112.41 
+			Dec: 202.16, 
+			Jan: 147.93, 
+			Feb: 97.79, 
+			Mar: 117.71, 
+			Apr: 68.52 
 		}
 	}
 }); 
@@ -3936,11 +3936,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 229.39, 
-			Dec: 222.44, 
-			Jan: 210.78, 
-			Feb: 138.96, 
-			Mar: 137.08 
+			Dec: 226.08, 
+			Jan: 218.43, 
+			Feb: 141.59, 
+			Mar: 138.14, 
+			Apr: 80.59 
 		}
 	}
 }); 
@@ -3951,11 +3951,11 @@ WeatherOutlook.insert({
 	municipality: "Sevilla", 
 	data: {
 		month: {
-			Nov: 209.55, 
-			Dec: 191.87, 
-			Jan: 145.17, 
-			Feb: 85.32, 
-			Mar: 116.08 
+			Dec: 204.00, 
+			Jan: 157.35, 
+			Feb: 89.09, 
+			Mar: 125.46, 
+			Apr: 57.73 
 		}
 	}
 }); 
@@ -3966,11 +3966,11 @@ WeatherOutlook.insert({
 	municipality: "Sierra Bullones", 
 	data: {
 		month: {
-			Nov: 233.73, 
-			Dec: 215.39, 
-			Jan: 190.2, 
-			Feb: 122.02, 
-			Mar: 136.78 
+			Dec: 225.37, 
+			Jan: 195.65, 
+			Feb: 125.52, 
+			Mar: 137.01, 
+			Apr: 69.34 
 		}
 	}
 }); 
@@ -3981,11 +3981,11 @@ WeatherOutlook.insert({
 	municipality: "Sikatuna", 
 	data: {
 		month: {
-			Nov: 197.37, 
-			Dec: 166.99, 
-			Jan: 131.71, 
-			Feb: 78.91, 
-			Mar: 112.92 
+			Dec: 181.05, 
+			Jan: 138.81, 
+			Feb: 83.39, 
+			Mar: 116.94, 
+			Apr: 63.72 
 		}
 	}
 }); 
@@ -3996,11 +3996,11 @@ WeatherOutlook.insert({
 	municipality: "Tagbilaran City", 
 	data: {
 		month: {
-			Nov: 185.42, 
-			Dec: 140.83, 
-			Jan: 114.66, 
-			Feb: 75.41, 
-			Mar: 108.74 
+			Dec: 147.71, 
+			Jan: 118.26, 
+			Feb: 76.94, 
+			Mar: 109.56, 
+			Apr: 76.69 
 		}
 	}
 }); 
@@ -4011,11 +4011,11 @@ WeatherOutlook.insert({
 	municipality: "Talibon", 
 	data: {
 		month: {
-			Nov: 229.44, 
-			Dec: 249.55, 
-			Jan: 216.56, 
-			Feb: 136.85, 
-			Mar: 128.84 
+			Dec: 236.86, 
+			Jan: 227.80, 
+			Feb: 136.62, 
+			Mar: 125.58, 
+			Apr: 70.66 
 		}
 	}
 }); 
@@ -4026,11 +4026,11 @@ WeatherOutlook.insert({
 	municipality: "Trinidad", 
 	data: {
 		month: {
-			Nov: 228.77, 
-			Dec: 239.98, 
-			Jan: 207.22, 
-			Feb: 135.51, 
-			Mar: 135.56 
+			Dec: 246.53, 
+			Jan: 216.40, 
+			Feb: 139.59, 
+			Mar: 138.41, 
+			Apr: 80.22 
 		}
 	}
 }); 
@@ -4041,11 +4041,11 @@ WeatherOutlook.insert({
 	municipality: "Tubigon", 
 	data: {
 		month: {
-			Nov: 176.08, 
-			Dec: 163.06, 
-			Jan: 127.8, 
-			Feb: 84.45, 
-			Mar: 94.49 
+			Dec: 209.17, 
+			Jan: 166.75, 
+			Feb: 108.38, 
+			Mar: 118.29, 
+			Apr: 66.65 
 		}
 	}
 }); 
@@ -4056,11 +4056,11 @@ WeatherOutlook.insert({
 	municipality: "Ubay", 
 	data: {
 		month: {
-			Nov: 240.85, 
-			Dec: 255.44, 
-			Jan: 235.13, 
-			Feb: 147.31, 
-			Mar: 136.46 
+			Dec: 259.30, 
+			Jan: 229.56, 
+			Feb: 144.53, 
+			Mar: 134.09, 
+			Apr: 83.56 
 		}
 	}
 }); 
@@ -4071,11 +4071,11 @@ WeatherOutlook.insert({
 	municipality: "Valencia", 
 	data: {
 		month: {
-			Nov: 196.43, 
-			Dec: 198.47, 
-			Jan: 157.79, 
-			Feb: 86.13, 
-			Mar: 115.04 
+			Dec: 204.75, 
+			Jan: 162.93, 
+			Feb: 91.72, 
+			Mar: 117.18, 
+			Apr: 55.27 
 		}
 	}
 }); 
@@ -4086,11 +4086,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 225.48, 
-			Dec: 212.63, 
-			Jan: 170.21, 
-			Feb: 157.61, 
-			Mar: 194.14 
+			Dec: 212.66, 
+			Jan: 169.70, 
+			Feb: 157.36, 
+			Mar: 194.72, 
+			Apr: 157.85 
 		}
 	}
 }); 
@@ -4101,11 +4101,11 @@ WeatherOutlook.insert({
 	municipality: "Baungon", 
 	data: {
 		month: {
-			Nov: 213.67, 
-			Dec: 180.75, 
-			Jan: 122.34, 
-			Feb: 115.34, 
-			Mar: 148.42 
+			Dec: 195.22, 
+			Jan: 118.99, 
+			Feb: 115.77, 
+			Mar: 154.45, 
+			Apr: 117.72 
 		}
 	}
 }); 
@@ -4116,11 +4116,11 @@ WeatherOutlook.insert({
 	municipality: "Cabanglasan", 
 	data: {
 		month: {
-			Nov: 230.45, 
-			Dec: 246.49, 
-			Jan: 242.22, 
-			Feb: 203.47, 
-			Mar: 237.05 
+			Dec: 252.09, 
+			Jan: 212.37, 
+			Feb: 182.50, 
+			Mar: 221.08, 
+			Apr: 182.62 
 		}
 	}
 }); 
@@ -4131,11 +4131,11 @@ WeatherOutlook.insert({
 	municipality: "Damulog", 
 	data: {
 		month: {
-			Nov: 192.28, 
-			Dec: 173.31, 
-			Jan: 160.2, 
-			Feb: 143.08, 
-			Mar: 187.43 
+			Dec: 168.98, 
+			Jan: 145.51, 
+			Feb: 130.49, 
+			Mar: 170.53, 
+			Apr: 166.45 
 		}
 	}
 }); 
@@ -4146,11 +4146,11 @@ WeatherOutlook.insert({
 	municipality: "Dangcagan", 
 	data: {
 		month: {
-			Nov: 193.87, 
-			Dec: 178.49, 
-			Jan: 166.27, 
-			Feb: 153.68, 
-			Mar: 197.64 
+			Dec: 182.13, 
+			Jan: 170.29, 
+			Feb: 158.62, 
+			Mar: 197.81, 
+			Apr: 185.11 
 		}
 	}
 }); 
@@ -4161,11 +4161,11 @@ WeatherOutlook.insert({
 	municipality: "Don Carlos", 
 	data: {
 		month: {
-			Nov: 193.2, 
-			Dec: 166.88, 
-			Jan: 160.59, 
-			Feb: 151.73, 
-			Mar: 184.68 
+			Dec: 172.61, 
+			Jan: 167.51, 
+			Feb: 156.25, 
+			Mar: 189.98, 
+			Apr: 181.78 
 		}
 	}
 }); 
@@ -4176,11 +4176,11 @@ WeatherOutlook.insert({
 	municipality: "Impasug-Ong", 
 	data: {
 		month: {
-			Nov: 249.04, 
-			Dec: 279.67, 
-			Jan: 230.29, 
-			Feb: 189.44, 
-			Mar: 221.27 
+			Dec: 254.52, 
+			Jan: 216.84, 
+			Feb: 176.03, 
+			Mar: 206.40, 
+			Apr: 137.93 
 		}
 	}
 }); 
@@ -4191,11 +4191,11 @@ WeatherOutlook.insert({
 	municipality: "Kadingilan", 
 	data: {
 		month: {
-			Nov: 197.17, 
-			Dec: 183.9, 
-			Jan: 151.34, 
-			Feb: 147.56, 
-			Mar: 192.19 
+			Dec: 181.19, 
+			Jan: 157.56, 
+			Feb: 148.75, 
+			Mar: 193.55, 
+			Apr: 184.58 
 		}
 	}
 }); 
@@ -4206,11 +4206,11 @@ WeatherOutlook.insert({
 	municipality: "Kalilangan", 
 	data: {
 		month: {
-			Nov: 244.88, 
-			Dec: 199.87, 
-			Jan: 142.07, 
-			Feb: 147.28, 
-			Mar: 190.32 
+			Dec: 202.36, 
+			Jan: 142.49, 
+			Feb: 148.89, 
+			Mar: 191.62, 
+			Apr: 181.36 
 		}
 	}
 }); 
@@ -4221,11 +4221,11 @@ WeatherOutlook.insert({
 	municipality: "Kibawe", 
 	data: {
 		month: {
-			Nov: 202, 
-			Dec: 185.95, 
-			Jan: 166.77, 
-			Feb: 156.94, 
-			Mar: 198.64 
+			Dec: 186.10, 
+			Jan: 164.67, 
+			Feb: 155.56, 
+			Mar: 199.40, 
+			Apr: 184.92 
 		}
 	}
 }); 
@@ -4236,11 +4236,11 @@ WeatherOutlook.insert({
 	municipality: "Kitaotao", 
 	data: {
 		month: {
-			Nov: 209.15, 
-			Dec: 186.88, 
-			Jan: 172.46, 
-			Feb: 163.48, 
-			Mar: 200.71 
+			Dec: 192.11, 
+			Jan: 170.82, 
+			Feb: 164.01, 
+			Mar: 202.70, 
+			Apr: 183.52 
 		}
 	}
 }); 
@@ -4251,11 +4251,11 @@ WeatherOutlook.insert({
 	municipality: "Lantapan", 
 	data: {
 		month: {
-			Nov: 222.77, 
-			Dec: 183.07, 
-			Jan: 135.3, 
-			Feb: 145.02, 
-			Mar: 177.61 
+			Dec: 185.16, 
+			Jan: 144.44, 
+			Feb: 147.27, 
+			Mar: 176.61, 
+			Apr: 133.96 
 		}
 	}
 }); 
@@ -4266,11 +4266,11 @@ WeatherOutlook.insert({
 	municipality: "Libona", 
 	data: {
 		month: {
-			Nov: 194.4, 
-			Dec: 175.79, 
-			Jan: 114.04, 
-			Feb: 102.13, 
-			Mar: 140.37 
+			Dec: 187.07, 
+			Jan: 115.92, 
+			Feb: 103.67, 
+			Mar: 145.92, 
+			Apr: 110.52 
 		}
 	}
 }); 
@@ -4281,11 +4281,11 @@ WeatherOutlook.insert({
 	municipality: "Malaybalay City", 
 	data: {
 		month: {
-			Nov: 227.09, 
-			Dec: 232.43, 
-			Jan: 203.41, 
-			Feb: 178.65, 
-			Mar: 209.81 
+			Dec: 230.16, 
+			Jan: 200.75, 
+			Feb: 175.26, 
+			Mar: 208.95, 
+			Apr: 157.70 
 		}
 	}
 }); 
@@ -4296,11 +4296,11 @@ WeatherOutlook.insert({
 	municipality: "Malitbog", 
 	data: {
 		month: {
-			Nov: 224.18, 
-			Dec: 255.13, 
-			Jan: 205.33, 
-			Feb: 165.08, 
-			Mar: 199.64 
+			Dec: 292.34, 
+			Jan: 228.52, 
+			Feb: 186.68, 
+			Mar: 222.85, 
+			Apr: 131.83 
 		}
 	}
 }); 
@@ -4311,11 +4311,11 @@ WeatherOutlook.insert({
 	municipality: "Manolo Fortich", 
 	data: {
 		month: {
-			Nov: 206.53, 
-			Dec: 208.47, 
-			Jan: 144.39, 
-			Feb: 121.27, 
-			Mar: 160.97 
+			Dec: 219.60, 
+			Jan: 162.43, 
+			Feb: 138.03, 
+			Mar: 177.23, 
+			Apr: 113.97 
 		}
 	}
 }); 
@@ -4326,11 +4326,11 @@ WeatherOutlook.insert({
 	municipality: "Maramag", 
 	data: {
 		month: {
-			Nov: 198.27, 
-			Dec: 163.83, 
-			Jan: 161.97, 
-			Feb: 153, 
-			Mar: 185.62 
+			Dec: 165.69, 
+			Jan: 167.37, 
+			Feb: 153.76, 
+			Mar: 184.84, 
+			Apr: 170.51 
 		}
 	}
 }); 
@@ -4341,11 +4341,11 @@ WeatherOutlook.insert({
 	municipality: "Pangantucan", 
 	data: {
 		month: {
-			Nov: 233.52, 
-			Dec: 205.25, 
-			Jan: 143.47, 
-			Feb: 150.21, 
-			Mar: 191.75 
+			Dec: 191.23, 
+			Jan: 149.31, 
+			Feb: 150.74, 
+			Mar: 190.52, 
+			Apr: 179.52 
 		}
 	}
 }); 
@@ -4356,11 +4356,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 231.63, 
-			Dec: 214.36, 
-			Jan: 187.42, 
-			Feb: 178.24, 
-			Mar: 211.39 
+			Dec: 225.09, 
+			Jan: 193.09, 
+			Feb: 184.80, 
+			Mar: 220.40, 
+			Apr: 183.85 
 		}
 	}
 }); 
@@ -4371,11 +4371,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando", 
 	data: {
 		month: {
-			Nov: 239.64, 
-			Dec: 248.06, 
-			Jan: 225.09, 
-			Feb: 205.56, 
-			Mar: 241.33 
+			Dec: 223.53, 
+			Jan: 184.86, 
+			Feb: 177.02, 
+			Mar: 218.22, 
+			Apr: 188.01 
 		}
 	}
 }); 
@@ -4386,11 +4386,11 @@ WeatherOutlook.insert({
 	municipality: "Sumilao", 
 	data: {
 		month: {
-			Nov: 221.16, 
-			Dec: 202.7, 
-			Jan: 138.77, 
-			Feb: 135.71, 
-			Mar: 174.1 
+			Dec: 198.33, 
+			Jan: 149.93, 
+			Feb: 144.95, 
+			Mar: 180.58, 
+			Apr: 127.47 
 		}
 	}
 }); 
@@ -4401,11 +4401,11 @@ WeatherOutlook.insert({
 	municipality: "Talakag", 
 	data: {
 		month: {
-			Nov: 268.21, 
-			Dec: 227.49, 
-			Jan: 130.19, 
-			Feb: 134.45, 
-			Mar: 176.7 
+			Dec: 228.38, 
+			Jan: 127.37, 
+			Feb: 136.63, 
+			Mar: 180.61, 
+			Apr: 151.75 
 		}
 	}
 }); 
@@ -4416,11 +4416,11 @@ WeatherOutlook.insert({
 	municipality: "Valencia City", 
 	data: {
 		month: {
-			Nov: 218.96, 
-			Dec: 196.34, 
-			Jan: 167.35, 
-			Feb: 162.38, 
-			Mar: 195.95 
+			Dec: 199.46, 
+			Jan: 179.00, 
+			Feb: 170.19, 
+			Mar: 203.41, 
+			Apr: 161.54 
 		}
 	}
 }); 
@@ -4431,11 +4431,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 186.39, 
-			Dec: 121.36, 
-			Jan: 31.2, 
-			Feb: 25.44, 
-			Mar: 39 
+			Dec: 121.57, 
+			Jan: 32.18, 
+			Feb: 25.76, 
+			Mar: 38.28, 
+			Apr: 54.84 
 		}
 	}
 }); 
@@ -4446,11 +4446,11 @@ WeatherOutlook.insert({
 	municipality: "Angat", 
 	data: {
 		month: {
-			Nov: 129.55, 
-			Dec: 112.08, 
-			Jan: 27.39, 
-			Feb: 23.59, 
-			Mar: 36.3 
+			Dec: 138.54, 
+			Jan: 32.62, 
+			Feb: 28.02, 
+			Mar: 40.98, 
+			Apr: 61.54 
 		}
 	}
 }); 
@@ -4461,11 +4461,11 @@ WeatherOutlook.insert({
 	municipality: "Balagtas", 
 	data: {
 		month: {
-			Nov: 142, 
-			Dec: 87.61, 
-			Jan: 16.89, 
-			Feb: 13.85, 
-			Mar: 21.98 
+			Dec: 79.04, 
+			Jan: 18.95, 
+			Feb: 15.76, 
+			Mar: 24.47, 
+			Apr: 38.85 
 		}
 	}
 }); 
@@ -4476,11 +4476,11 @@ WeatherOutlook.insert({
 	municipality: "Baliuag", 
 	data: {
 		month: {
-			Nov: 106.58, 
-			Dec: 76.78, 
-			Jan: 17.96, 
-			Feb: 18.08, 
-			Mar: 26.74 
+			Dec: 75.93, 
+			Jan: 21.24, 
+			Feb: 20.61, 
+			Mar: 28.45, 
+			Apr: 49.40 
 		}
 	}
 }); 
@@ -4491,11 +4491,11 @@ WeatherOutlook.insert({
 	municipality: "Bocaue", 
 	data: {
 		month: {
-			Nov: 149.91, 
-			Dec: 91.59, 
-			Jan: 16.61, 
-			Feb: 13.63, 
-			Mar: 22.3 
+			Dec: 89.54, 
+			Jan: 18.97, 
+			Feb: 15.77, 
+			Mar: 24.90, 
+			Apr: 37.90 
 		}
 	}
 }); 
@@ -4506,11 +4506,11 @@ WeatherOutlook.insert({
 	municipality: "Bulacan", 
 	data: {
 		month: {
-			Nov: 121.23, 
-			Dec: 69.83, 
-			Jan: 8.69, 
-			Feb: 7.75, 
-			Mar: 14.84 
+			Dec: 70.84, 
+			Jan: 13.02, 
+			Feb: 10.39, 
+			Mar: 17.19, 
+			Apr: 29.37 
 		}
 	}
 }); 
@@ -4521,11 +4521,11 @@ WeatherOutlook.insert({
 	municipality: "Bustos", 
 	data: {
 		month: {
-			Nov: 104.39, 
-			Dec: 77.85, 
-			Jan: 20.65, 
-			Feb: 18.57, 
-			Mar: 28.49 
+			Dec: 88.43, 
+			Jan: 22.56, 
+			Feb: 19.84, 
+			Mar: 28.66, 
+			Apr: 48.74 
 		}
 	}
 }); 
@@ -4536,11 +4536,11 @@ WeatherOutlook.insert({
 	municipality: "Calumpit", 
 	data: {
 		month: {
-			Nov: 125.88, 
-			Dec: 59.89, 
-			Jan: 8.17, 
-			Feb: 8.92, 
-			Mar: 16.35 
+			Dec: 65.90, 
+			Jan: 11.67, 
+			Feb: 11.43, 
+			Mar: 18.89, 
+			Apr: 37.64 
 		}
 	}
 }); 
@@ -4551,11 +4551,11 @@ WeatherOutlook.insert({
 	municipality: "Doña Remedios Trinidad", 
 	data: {
 		month: {
-			Nov: 315.19, 
-			Dec: 206.49, 
-			Jan: 61.79, 
-			Feb: 47.48, 
-			Mar: 70.97 
+			Dec: 166.79, 
+			Jan: 50.39, 
+			Feb: 39.77, 
+			Mar: 58.61, 
+			Apr: 74.39 
 		}
 	}
 }); 
@@ -4566,11 +4566,11 @@ WeatherOutlook.insert({
 	municipality: "Guiguinto", 
 	data: {
 		month: {
-			Nov: 154.16, 
-			Dec: 86.17, 
-			Jan: 14.89, 
-			Feb: 13.1, 
-			Mar: 21.41 
+			Dec: 74.17, 
+			Jan: 17.63, 
+			Feb: 15.56, 
+			Mar: 22.61, 
+			Apr: 41.73 
 		}
 	}
 }); 
@@ -4581,11 +4581,11 @@ WeatherOutlook.insert({
 	municipality: "Hagonoy", 
 	data: {
 		month: {
-			Nov: 148.92, 
-			Dec: 65.09, 
-			Jan: 5.98, 
-			Feb: 6.48, 
-			Mar: 10.38 
+			Dec: 70.44, 
+			Jan: 7.20, 
+			Feb: 7.10, 
+			Mar: 11.17, 
+			Apr: 31.45 
 		}
 	}
 }); 
@@ -4596,11 +4596,11 @@ WeatherOutlook.insert({
 	municipality: "Malolos City", 
 	data: {
 		month: {
-			Nov: 150.4, 
-			Dec: 74.28, 
-			Jan: 10.52, 
-			Feb: 9.01, 
-			Mar: 16.19 
+			Dec: 76.15, 
+			Jan: 9.96, 
+			Feb: 9.33, 
+			Mar: 14.82, 
+			Apr: 33.26 
 		}
 	}
 }); 
@@ -4611,11 +4611,11 @@ WeatherOutlook.insert({
 	municipality: "Marilao", 
 	data: {
 		month: {
-			Nov: 167.09, 
-			Dec: 85.13, 
-			Jan: 17.47, 
-			Feb: 13.91, 
-			Mar: 24.44 
+			Dec: 86.86, 
+			Jan: 17.52, 
+			Feb: 13.71, 
+			Mar: 23.95, 
+			Apr: 34.31 
 		}
 	}
 }); 
@@ -4626,11 +4626,11 @@ WeatherOutlook.insert({
 	municipality: "Meycauayan City", 
 	data: {
 		month: {
-			Nov: 164.35, 
-			Dec: 77.62, 
-			Jan: 16.99, 
-			Feb: 13.57, 
-			Mar: 24.58 
+			Dec: 85.43, 
+			Jan: 15.48, 
+			Feb: 13.18, 
+			Mar: 24.64, 
+			Apr: 30.82 
 		}
 	}
 }); 
@@ -4641,11 +4641,11 @@ WeatherOutlook.insert({
 	municipality: "Norzagaray", 
 	data: {
 		month: {
-			Nov: 265.09, 
-			Dec: 201.39, 
-			Jan: 53.8, 
-			Feb: 40.45, 
-			Mar: 62.52 
+			Dec: 166.21, 
+			Jan: 43.54, 
+			Feb: 32.73, 
+			Mar: 49.77, 
+			Apr: 66.04 
 		}
 	}
 }); 
@@ -4656,11 +4656,11 @@ WeatherOutlook.insert({
 	municipality: "Obando", 
 	data: {
 		month: {
-			Nov: 107.86, 
-			Dec: 43.22, 
-			Jan: 9.45, 
-			Feb: 6.27, 
-			Mar: 14.08 
+			Dec: 99.17, 
+			Jan: 68.96, 
+			Feb: 28.88, 
+			Mar: 35.22, 
+			Apr: 37.97 
 		}
 	}
 }); 
@@ -4671,11 +4671,11 @@ WeatherOutlook.insert({
 	municipality: "Pandi", 
 	data: {
 		month: {
-			Nov: 109.86, 
-			Dec: 80.16, 
-			Jan: 20.74, 
-			Feb: 17.17, 
-			Mar: 26.5 
+			Dec: 109.84, 
+			Jan: 24.48, 
+			Feb: 21.03, 
+			Mar: 32.49, 
+			Apr: 52.00 
 		}
 	}
 }); 
@@ -4686,11 +4686,11 @@ WeatherOutlook.insert({
 	municipality: "Paombong", 
 	data: {
 		month: {
-			Nov: 152.62, 
-			Dec: 67.15, 
-			Jan: 6.02, 
-			Feb: 6.09, 
-			Mar: 10.26 
+			Dec: 76.11, 
+			Jan: 11.59, 
+			Feb: 10.47, 
+			Mar: 16.80, 
+			Apr: 34.60 
 		}
 	}
 }); 
@@ -4701,11 +4701,11 @@ WeatherOutlook.insert({
 	municipality: "Plaridel", 
 	data: {
 		month: {
-			Nov: 118.35, 
-			Dec: 65.06, 
-			Jan: 15.53, 
-			Feb: 14.56, 
-			Mar: 23.58 
+			Dec: 73.38, 
+			Jan: 17.08, 
+			Feb: 15.79, 
+			Mar: 23.54, 
+			Apr: 44.25 
 		}
 	}
 }); 
@@ -4716,11 +4716,11 @@ WeatherOutlook.insert({
 	municipality: "Pulilan", 
 	data: {
 		month: {
-			Nov: 114.77, 
-			Dec: 67.22, 
-			Jan: 14.28, 
-			Feb: 14.1, 
-			Mar: 22.93 
+			Dec: 70.70, 
+			Jan: 15.95, 
+			Feb: 15.11, 
+			Mar: 22.96, 
+			Apr: 43.04 
 		}
 	}
 }); 
@@ -4731,11 +4731,11 @@ WeatherOutlook.insert({
 	municipality: "San Ildefonso", 
 	data: {
 		month: {
-			Nov: 168.04, 
-			Dec: 117.05, 
-			Jan: 33.64, 
-			Feb: 30.53, 
-			Mar: 40.99 
+			Dec: 150.29, 
+			Jan: 40.76, 
+			Feb: 34.71, 
+			Mar: 47.13, 
+			Apr: 67.09 
 		}
 	}
 }); 
@@ -4746,11 +4746,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose del Monte City", 
 	data: {
 		month: {
-			Nov: 202.44, 
-			Dec: 151.27, 
-			Jan: 35.54, 
-			Feb: 28.01, 
-			Mar: 46.12 
+			Dec: 129.71, 
+			Jan: 31.49, 
+			Feb: 24.61, 
+			Mar: 38.96, 
+			Apr: 51.09 
 		}
 	}
 }); 
@@ -4761,11 +4761,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 175.39, 
-			Dec: 108.67, 
-			Jan: 33.12, 
-			Feb: 27.94, 
-			Mar: 41.19 
+			Dec: 146.73, 
+			Jan: 43.58, 
+			Feb: 35.19, 
+			Mar: 51.47, 
+			Apr: 68.77 
 		}
 	}
 }); 
@@ -4776,11 +4776,11 @@ WeatherOutlook.insert({
 	municipality: "San Rafael", 
 	data: {
 		month: {
-			Nov: 136.89, 
-			Dec: 107.32, 
-			Jan: 28.73, 
-			Feb: 26.13, 
-			Mar: 35.93 
+			Dec: 118.97, 
+			Jan: 31.21, 
+			Feb: 27.42, 
+			Mar: 37.52, 
+			Apr: 58.89 
 		}
 	}
 }); 
@@ -4791,11 +4791,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 134.83, 
-			Dec: 98.09, 
-			Jan: 22.08, 
-			Feb: 18.57, 
-			Mar: 30.44 
+			Dec: 133.30, 
+			Jan: 28.43, 
+			Feb: 23.79, 
+			Mar: 37.84, 
+			Apr: 53.32 
 		}
 	}
 }); 
@@ -4806,11 +4806,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 368.63, 
-			Dec: 206.92, 
-			Jan: 71.99, 
-			Feb: 38.8, 
-			Mar: 59.09 
+			Dec: 207.19, 
+			Jan: 71.91, 
+			Feb: 38.91, 
+			Mar: 58.71, 
+			Apr: 54.19 
 		}
 	}
 }); 
@@ -4821,11 +4821,11 @@ WeatherOutlook.insert({
 	municipality: "Abulug", 
 	data: {
 		month: {
-			Nov: 299.93, 
-			Dec: 173.81, 
-			Jan: 78.44, 
-			Feb: 38.95, 
-			Mar: 72.55 
+			Dec: 198.43, 
+			Jan: 97.15, 
+			Feb: 45.40, 
+			Mar: 64.52, 
+			Apr: 44.93 
 		}
 	}
 }); 
@@ -4836,11 +4836,11 @@ WeatherOutlook.insert({
 	municipality: "Alcala", 
 	data: {
 		month: {
-			Nov: 336.79, 
-			Dec: 137.79, 
-			Jan: 46.09, 
-			Feb: 22.38, 
-			Mar: 38.83 
+			Dec: 141.59, 
+			Jan: 47.92, 
+			Feb: 23.76, 
+			Mar: 39.87, 
+			Apr: 51.28 
 		}
 	}
 }); 
@@ -4851,11 +4851,11 @@ WeatherOutlook.insert({
 	municipality: "Allacapan", 
 	data: {
 		month: {
-			Nov: 284.7, 
-			Dec: 163.24, 
-			Jan: 81.71, 
-			Feb: 47.01, 
-			Mar: 54.77 
+			Dec: 178.03, 
+			Jan: 86.12, 
+			Feb: 47.75, 
+			Mar: 52.03, 
+			Apr: 44.27 
 		}
 	}
 }); 
@@ -4866,11 +4866,11 @@ WeatherOutlook.insert({
 	municipality: "Amulung", 
 	data: {
 		month: {
-			Nov: 317.38, 
-			Dec: 166.83, 
-			Jan: 57.48, 
-			Feb: 29.94, 
-			Mar: 48.5 
+			Dec: 191.94, 
+			Jan: 62.19, 
+			Feb: 33.77, 
+			Mar: 50.69, 
+			Apr: 50.53 
 		}
 	}
 }); 
@@ -4881,11 +4881,11 @@ WeatherOutlook.insert({
 	municipality: "Aparri", 
 	data: {
 		month: {
-			Nov: 266.41, 
-			Dec: 181.93, 
-			Jan: 96.51, 
-			Feb: 50, 
-			Mar: 58.12 
+			Dec: 203.96, 
+			Jan: 101.26, 
+			Feb: 49.36, 
+			Mar: 55.45, 
+			Apr: 37.74 
 		}
 	}
 }); 
@@ -4896,11 +4896,11 @@ WeatherOutlook.insert({
 	municipality: "Baggao", 
 	data: {
 		month: {
-			Nov: 491.69, 
-			Dec: 291.53, 
-			Jan: 81.92, 
-			Feb: 47.61, 
-			Mar: 61.83 
+			Dec: 285.96, 
+			Jan: 79.23, 
+			Feb: 46.57, 
+			Mar: 61.34, 
+			Apr: 61.60 
 		}
 	}
 }); 
@@ -4911,11 +4911,11 @@ WeatherOutlook.insert({
 	municipality: "Ballesteros", 
 	data: {
 		month: {
-			Nov: 272.7, 
-			Dec: 194.03, 
-			Jan: 106.2, 
-			Feb: 52.3, 
-			Mar: 61.17 
+			Dec: 213.02, 
+			Jan: 118.25, 
+			Feb: 56.18, 
+			Mar: 57.22, 
+			Apr: 37.78 
 		}
 	}
 }); 
@@ -4926,11 +4926,11 @@ WeatherOutlook.insert({
 	municipality: "Buguey", 
 	data: {
 		month: {
-			Nov: 346.23, 
-			Dec: 251.06, 
-			Jan: 99.29, 
-			Feb: 46.47, 
-			Mar: 52.91 
+			Dec: 257.57, 
+			Jan: 97.72, 
+			Feb: 44.19, 
+			Mar: 55.19, 
+			Apr: 46.09 
 		}
 	}
 }); 
@@ -4941,11 +4941,11 @@ WeatherOutlook.insert({
 	municipality: "Calayan", 
 	data: {
 		month: {
-			Nov: 288.83, 
-			Dec: 134.32, 
-			Jan: 88.16, 
-			Feb: 58.69, 
-			Mar: 56.37 
+			Dec: 125.60, 
+			Jan: 79.38, 
+			Feb: 56.40, 
+			Mar: 60.73, 
+			Apr: 36.56 
 		}
 	}
 }); 
@@ -4956,11 +4956,11 @@ WeatherOutlook.insert({
 	municipality: "Camalaniugan", 
 	data: {
 		month: {
-			Nov: 298.27, 
-			Dec: 232.58, 
-			Jan: 113.24, 
-			Feb: 56.53, 
-			Mar: 54.27 
+			Dec: 242.93, 
+			Jan: 106.51, 
+			Feb: 51.74, 
+			Mar: 53.30, 
+			Apr: 41.17 
 		}
 	}
 }); 
@@ -4971,11 +4971,11 @@ WeatherOutlook.insert({
 	municipality: "Claveria", 
 	data: {
 		month: {
-			Nov: 298.46, 
-			Dec: 133.73, 
-			Jan: 41.89, 
-			Feb: 26.68, 
-			Mar: 143.01 
+			Dec: 139.64, 
+			Jan: 45.94, 
+			Feb: 27.51, 
+			Mar: 132.87, 
+			Apr: 84.72 
 		}
 	}
 }); 
@@ -4986,11 +4986,11 @@ WeatherOutlook.insert({
 	municipality: "Enrile", 
 	data: {
 		month: {
-			Nov: 207.22, 
-			Dec: 104.13, 
-			Jan: 38.89, 
-			Feb: 17, 
-			Mar: 37.64 
+			Dec: 116.44, 
+			Jan: 41.28, 
+			Feb: 18.62, 
+			Mar: 38.08, 
+			Apr: 41.94 
 		}
 	}
 }); 
@@ -5001,11 +5001,11 @@ WeatherOutlook.insert({
 	municipality: "Gattaran", 
 	data: {
 		month: {
-			Nov: 449.54, 
-			Dec: 251.58, 
-			Jan: 72.66, 
-			Feb: 37.55, 
-			Mar: 54.32 
+			Dec: 260.71, 
+			Jan: 75.93, 
+			Feb: 39.73, 
+			Mar: 57.21, 
+			Apr: 59.22 
 		}
 	}
 }); 
@@ -5016,11 +5016,11 @@ WeatherOutlook.insert({
 	municipality: "Gonzaga", 
 	data: {
 		month: {
-			Nov: 460.18, 
-			Dec: 304.11, 
-			Jan: 99.29, 
-			Feb: 41.91, 
-			Mar: 62.98 
+			Dec: 300.92, 
+			Jan: 99.52, 
+			Feb: 42.98, 
+			Mar: 63.32, 
+			Apr: 59.74 
 		}
 	}
 }); 
@@ -5031,11 +5031,11 @@ WeatherOutlook.insert({
 	municipality: "Iguig", 
 	data: {
 		month: {
-			Nov: 286.79, 
-			Dec: 164.7, 
-			Jan: 53.11, 
-			Feb: 27.31, 
-			Mar: 46.74 
+			Dec: 180.46, 
+			Jan: 56.65, 
+			Feb: 30.14, 
+			Mar: 47.81, 
+			Apr: 47.06 
 		}
 	}
 }); 
@@ -5046,11 +5046,11 @@ WeatherOutlook.insert({
 	municipality: "Lal-Lo", 
 	data: {
 		month: {
-			Nov: 411.61, 
-			Dec: 264.34, 
-			Jan: 84.55, 
-			Feb: 43.14, 
-			Mar: 57.5 
+			Dec: 256.69, 
+			Jan: 81.03, 
+			Feb: 41.17, 
+			Mar: 55.44, 
+			Apr: 55.19 
 		}
 	}
 }); 
@@ -5061,11 +5061,11 @@ WeatherOutlook.insert({
 	municipality: "Lasam", 
 	data: {
 		month: {
-			Nov: 352.31, 
-			Dec: 106.28, 
-			Jan: 32.01, 
-			Feb: 17.85, 
-			Mar: 31.63 
+			Dec: 116.31, 
+			Jan: 34.67, 
+			Feb: 18.45, 
+			Mar: 30.81, 
+			Apr: 54.24 
 		}
 	}
 }); 
@@ -5076,11 +5076,11 @@ WeatherOutlook.insert({
 	municipality: "Pamplona", 
 	data: {
 		month: {
-			Nov: 322.83, 
-			Dec: 174.5, 
-			Jan: 61.61, 
-			Feb: 33.41, 
-			Mar: 86.4 
+			Dec: 187.80, 
+			Jan: 76.23, 
+			Feb: 37.67, 
+			Mar: 75.24, 
+			Apr: 53.65 
 		}
 	}
 }); 
@@ -5091,11 +5091,11 @@ WeatherOutlook.insert({
 	municipality: "Peñablanca", 
 	data: {
 		month: {
-			Nov: 532.61, 
-			Dec: 333.71, 
-			Jan: 79.48, 
-			Feb: 51.94, 
-			Mar: 59.96 
+			Dec: 319.41, 
+			Jan: 76.54, 
+			Feb: 50.26, 
+			Mar: 58.64, 
+			Apr: 65.60 
 		}
 	}
 }); 
@@ -5106,11 +5106,11 @@ WeatherOutlook.insert({
 	municipality: "Piat", 
 	data: {
 		month: {
-			Nov: 267.12, 
-			Dec: 120.5, 
-			Jan: 43.46, 
-			Feb: 22.01, 
-			Mar: 43.49 
+			Dec: 123.04, 
+			Jan: 44.68, 
+			Feb: 22.32, 
+			Mar: 42.59, 
+			Apr: 50.80 
 		}
 	}
 }); 
@@ -5121,11 +5121,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 356.64, 
-			Dec: 143.6, 
-			Jan: 41.01, 
-			Feb: 23.48, 
-			Mar: 45.28 
+			Dec: 138.71, 
+			Jan: 41.76, 
+			Feb: 22.67, 
+			Mar: 42.62, 
+			Apr: 58.88 
 		}
 	}
 }); 
@@ -5136,11 +5136,11 @@ WeatherOutlook.insert({
 	municipality: "Sanchez-Mira", 
 	data: {
 		month: {
-			Nov: 311.98, 
-			Dec: 151.76, 
-			Jan: 49.89, 
-			Feb: 29.27, 
-			Mar: 115.16 
+			Dec: 166.30, 
+			Jan: 59.08, 
+			Feb: 31.48, 
+			Mar: 99.75, 
+			Apr: 68.72 
 		}
 	}
 }); 
@@ -5151,11 +5151,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Ana", 
 	data: {
 		month: {
-			Nov: 425.52, 
-			Dec: 277.63, 
-			Jan: 107.99, 
-			Feb: 42.5, 
-			Mar: 62.08 
+			Dec: 215.82, 
+			Jan: 84.10, 
+			Feb: 39.41, 
+			Mar: 74.39, 
+			Apr: 61.16 
 		}
 	}
 }); 
@@ -5166,11 +5166,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Praxedes", 
 	data: {
 		month: {
-			Nov: 293.79, 
-			Dec: 114.76, 
-			Jan: 33.71, 
-			Feb: 24.42, 
-			Mar: 125.61 
+			Dec: 139.67, 
+			Jan: 43.59, 
+			Feb: 28.67, 
+			Mar: 133.34, 
+			Apr: 87.92 
 		}
 	}
 }); 
@@ -5181,11 +5181,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Teresita", 
 	data: {
 		month: {
-			Nov: 370.68, 
-			Dec: 263.18, 
-			Jan: 91.01, 
-			Feb: 41.48, 
-			Mar: 55.05 
+			Dec: 270.18, 
+			Jan: 92.64, 
+			Feb: 39.89, 
+			Mar: 56.90, 
+			Apr: 50.50 
 		}
 	}
 }); 
@@ -5196,11 +5196,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Niño", 
 	data: {
 		month: {
-			Nov: 354.76, 
-			Dec: 129.53, 
-			Jan: 38.12, 
-			Feb: 19.68, 
-			Mar: 38.16 
+			Dec: 127.13, 
+			Jan: 39.24, 
+			Feb: 19.62, 
+			Mar: 36.73, 
+			Apr: 55.87 
 		}
 	}
 }); 
@@ -5211,11 +5211,11 @@ WeatherOutlook.insert({
 	municipality: "Solana", 
 	data: {
 		month: {
-			Nov: 238.66, 
-			Dec: 115.74, 
-			Jan: 44.52, 
-			Feb: 21.75, 
-			Mar: 42.88 
+			Dec: 122.49, 
+			Jan: 44.11, 
+			Feb: 21.10, 
+			Mar: 41.10, 
+			Apr: 44.22 
 		}
 	}
 }); 
@@ -5226,11 +5226,11 @@ WeatherOutlook.insert({
 	municipality: "Tuao", 
 	data: {
 		month: {
-			Nov: 269.33, 
-			Dec: 119.16, 
-			Jan: 39.49, 
-			Feb: 21.44, 
-			Mar: 42.72 
+			Dec: 112.81, 
+			Jan: 41.69, 
+			Feb: 21.13, 
+			Mar: 42.24, 
+			Apr: 50.87 
 		}
 	}
 }); 
@@ -5241,11 +5241,11 @@ WeatherOutlook.insert({
 	municipality: "Tuguegarao City", 
 	data: {
 		month: {
-			Nov: 269.04, 
-			Dec: 133.17, 
-			Jan: 43.03, 
-			Feb: 19.59, 
-			Mar: 39.95 
+			Dec: 186.41, 
+			Jan: 52.54, 
+			Feb: 28.24, 
+			Mar: 45.00, 
+			Apr: 46.41 
 		}
 	}
 }); 
@@ -5256,11 +5256,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 523.34, 
-			Dec: 574.28, 
-			Jan: 235.94, 
-			Feb: 161.76, 
-			Mar: 197.95 
+			Dec: 573.84, 
+			Jan: 235.84, 
+			Feb: 161.66, 
+			Mar: 198.64, 
+			Apr: 113.09 
 		}
 	}
 }); 
@@ -5271,11 +5271,11 @@ WeatherOutlook.insert({
 	municipality: "Basud", 
 	data: {
 		month: {
-			Nov: 544.69, 
-			Dec: 583.18, 
-			Jan: 275.26, 
-			Feb: 184.5, 
-			Mar: 222.88 
+			Dec: 582.81, 
+			Jan: 275.23, 
+			Feb: 184.41, 
+			Mar: 223.93, 
+			Apr: 126.97 
 		}
 	}
 }); 
@@ -5286,11 +5286,11 @@ WeatherOutlook.insert({
 	municipality: "Capalonga", 
 	data: {
 		month: {
-			Nov: 492.99, 
-			Dec: 553.33, 
-			Jan: 181.64, 
-			Feb: 127.2, 
-			Mar: 167.6 
+			Dec: 553.08, 
+			Jan: 181.60, 
+			Feb: 127.17, 
+			Mar: 167.98, 
+			Apr: 90.70 
 		}
 	}
 }); 
@@ -5301,11 +5301,11 @@ WeatherOutlook.insert({
 	municipality: "Daet", 
 	data: {
 		month: {
-			Nov: 574.52, 
-			Dec: 620.71, 
-			Jan: 304.03, 
-			Feb: 208.73, 
-			Mar: 238.33 
+			Dec: 620.33, 
+			Jan: 303.99, 
+			Feb: 208.64, 
+			Mar: 239.29, 
+			Apr: 141.21 
 		}
 	}
 }); 
@@ -5316,11 +5316,11 @@ WeatherOutlook.insert({
 	municipality: "Jose Panganiban", 
 	data: {
 		month: {
-			Nov: 479.27, 
-			Dec: 552.11, 
-			Jan: 199.94, 
-			Feb: 139.67, 
-			Mar: 178.05 
+			Dec: 551.83, 
+			Jan: 199.89, 
+			Feb: 139.62, 
+			Mar: 178.56, 
+			Apr: 99.21 
 		}
 	}
 }); 
@@ -5331,11 +5331,11 @@ WeatherOutlook.insert({
 	municipality: "Labo", 
 	data: {
 		month: {
-			Nov: 547.62, 
-			Dec: 602.79, 
-			Jan: 229.05, 
-			Feb: 163.83, 
-			Mar: 210.7 
+			Dec: 602.52, 
+			Jan: 229.01, 
+			Feb: 163.78, 
+			Mar: 211.32, 
+			Apr: 116.79 
 		}
 	}
 }); 
@@ -5346,11 +5346,11 @@ WeatherOutlook.insert({
 	municipality: "Mercedes", 
 	data: {
 		month: {
-			Nov: 517, 
-			Dec: 559.99, 
-			Jan: 265.38, 
-			Feb: 166.01, 
-			Mar: 195.32 
+			Dec: 559.54, 
+			Jan: 265.32, 
+			Feb: 165.91, 
+			Mar: 196.32, 
+			Apr: 118.41 
 		}
 	}
 }); 
@@ -5361,11 +5361,11 @@ WeatherOutlook.insert({
 	municipality: "Paracale", 
 	data: {
 		month: {
-			Nov: 531.81, 
-			Dec: 619.33, 
-			Jan: 251.38, 
-			Feb: 168.35, 
-			Mar: 205.19 
+			Dec: 619.09, 
+			Jan: 251.37, 
+			Feb: 168.31, 
+			Mar: 205.83, 
+			Apr: 116.03 
 		}
 	}
 }); 
@@ -5376,11 +5376,11 @@ WeatherOutlook.insert({
 	municipality: "San Lorenzo Ruiz", 
 	data: {
 		month: {
-			Nov: 601.86, 
-			Dec: 620.35, 
-			Jan: 293.38, 
-			Feb: 207.5, 
-			Mar: 249.13 
+			Dec: 619.93, 
+			Jan: 293.32, 
+			Feb: 207.40, 
+			Mar: 250.08, 
+			Apr: 140.26 
 		}
 	}
 }); 
@@ -5391,11 +5391,11 @@ WeatherOutlook.insert({
 	municipality: "San Vicente", 
 	data: {
 		month: {
-			Nov: 620.81, 
-			Dec: 630.18, 
-			Jan: 298.4, 
-			Feb: 208, 
-			Mar: 253.8 
+			Dec: 629.64, 
+			Jan: 298.28, 
+			Feb: 207.88, 
+			Mar: 254.68, 
+			Apr: 145.11 
 		}
 	}
 }); 
@@ -5406,11 +5406,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Elena", 
 	data: {
 		month: {
-			Nov: 487.61, 
-			Dec: 550.53, 
-			Jan: 165.34, 
-			Feb: 121.01, 
-			Mar: 161.28 
+			Dec: 550.24, 
+			Jan: 165.27, 
+			Feb: 120.96, 
+			Mar: 161.63, 
+			Apr: 86.66 
 		}
 	}
 }); 
@@ -5421,11 +5421,11 @@ WeatherOutlook.insert({
 	municipality: "Talisay", 
 	data: {
 		month: {
-			Nov: 567.43, 
-			Dec: 620.89, 
-			Jan: 300, 
-			Feb: 202.91, 
-			Mar: 233.16 
+			Dec: 620.57, 
+			Jan: 299.97, 
+			Feb: 202.84, 
+			Mar: 234.04, 
+			Apr: 137.68 
 		}
 	}
 }); 
@@ -5436,11 +5436,11 @@ WeatherOutlook.insert({
 	municipality: "Vinzons", 
 	data: {
 		month: {
-			Nov: 445.71, 
-			Dec: 479.83, 
-			Jan: 210.88, 
-			Feb: 138.81, 
-			Mar: 150.57 
+			Dec: 479.29, 
+			Jan: 210.71, 
+			Feb: 138.68, 
+			Mar: 151.18, 
+			Apr: 95.21 
 		}
 	}
 }); 
@@ -5451,11 +5451,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 405.92, 
-			Dec: 437.17, 
-			Jan: 198.01, 
-			Feb: 132.48, 
-			Mar: 147.11 
+			Dec: 436.98, 
+			Jan: 198.00, 
+			Feb: 132.42, 
+			Mar: 147.90, 
+			Apr: 100.35 
 		}
 	}
 }); 
@@ -5466,11 +5466,11 @@ WeatherOutlook.insert({
 	municipality: "Baao", 
 	data: {
 		month: {
-			Nov: 360.98, 
-			Dec: 378.1, 
-			Jan: 176.76, 
-			Feb: 123.69, 
-			Mar: 125.72 
+			Dec: 377.95, 
+			Jan: 176.78, 
+			Feb: 123.67, 
+			Mar: 126.52, 
+			Apr: 101.45 
 		}
 	}
 }); 
@@ -5481,11 +5481,11 @@ WeatherOutlook.insert({
 	municipality: "Balatan", 
 	data: {
 		month: {
-			Nov: 358.19, 
-			Dec: 384.69, 
-			Jan: 169.5, 
-			Feb: 117.42, 
-			Mar: 112.81 
+			Dec: 384.53, 
+			Jan: 169.51, 
+			Feb: 117.38, 
+			Mar: 113.59, 
+			Apr: 91.57 
 		}
 	}
 }); 
@@ -5496,11 +5496,11 @@ WeatherOutlook.insert({
 	municipality: "Bato", 
 	data: {
 		month: {
-			Nov: 371.42, 
-			Dec: 393.39, 
-			Jan: 179.75, 
-			Feb: 123.57, 
-			Mar: 118.54 
+			Dec: 393.20, 
+			Jan: 179.73, 
+			Feb: 123.50, 
+			Mar: 119.33, 
+			Apr: 99.29 
 		}
 	}
 }); 
@@ -5511,11 +5511,11 @@ WeatherOutlook.insert({
 	municipality: "Bato Lake", 
 	data: {
 		month: {
-			Nov: 380.57, 
-			Dec: 395.4, 
-			Jan: 179.5, 
-			Feb: 125.02, 
-			Mar: 118.82 
+			Dec: 395.22, 
+			Jan: 179.48, 
+			Feb: 124.96, 
+			Mar: 119.61, 
+			Apr: 99.03 
 		}
 	}
 }); 
@@ -5526,11 +5526,11 @@ WeatherOutlook.insert({
 	municipality: "Bombon", 
 	data: {
 		month: {
-			Nov: 367.61, 
-			Dec: 402.38, 
-			Jan: 158.71, 
-			Feb: 114.46, 
-			Mar: 118.17 
+			Dec: 402.19, 
+			Jan: 158.68, 
+			Feb: 114.38, 
+			Mar: 118.92, 
+			Apr: 84.81 
 		}
 	}
 }); 
@@ -5541,11 +5541,11 @@ WeatherOutlook.insert({
 	municipality: "Buhi", 
 	data: {
 		month: {
-			Nov: 422.94, 
-			Dec: 442.48, 
-			Jan: 221.02, 
-			Feb: 147.82, 
-			Mar: 164.22 
+			Dec: 442.37, 
+			Jan: 221.06, 
+			Feb: 147.81, 
+			Mar: 165.09, 
+			Apr: 126.22 
 		}
 	}
 }); 
@@ -5556,11 +5556,11 @@ WeatherOutlook.insert({
 	municipality: "Buhi Lake", 
 	data: {
 		month: {
-			Nov: 434.76, 
-			Dec: 451.01, 
-			Jan: 215.74, 
-			Feb: 142.14, 
-			Mar: 160.33 
+			Dec: 450.82, 
+			Jan: 215.72, 
+			Feb: 142.08, 
+			Mar: 161.15, 
+			Apr: 123.06 
 		}
 	}
 }); 
@@ -5571,11 +5571,11 @@ WeatherOutlook.insert({
 	municipality: "Bula", 
 	data: {
 		month: {
-			Nov: 329.74, 
-			Dec: 344.1, 
-			Jan: 144.38, 
-			Feb: 105.48, 
-			Mar: 100.78 
+			Dec: 343.94, 
+			Jan: 144.40, 
+			Feb: 105.45, 
+			Mar: 101.55, 
+			Apr: 92.03 
 		}
 	}
 }); 
@@ -5586,11 +5586,11 @@ WeatherOutlook.insert({
 	municipality: "Cabusao", 
 	data: {
 		month: {
-			Nov: 366.67, 
-			Dec: 433.28, 
-			Jan: 183.84, 
-			Feb: 128.1, 
-			Mar: 137.09 
+			Dec: 433.04, 
+			Jan: 183.82, 
+			Feb: 128.03, 
+			Mar: 137.90, 
+			Apr: 87.23 
 		}
 	}
 }); 
@@ -5601,11 +5601,11 @@ WeatherOutlook.insert({
 	municipality: "Calabanga", 
 	data: {
 		month: {
-			Nov: 393.45, 
-			Dec: 431.34, 
-			Jan: 180.01, 
-			Feb: 117.98, 
-			Mar: 140.96 
+			Dec: 431.12, 
+			Jan: 180.00, 
+			Feb: 117.94, 
+			Mar: 141.75, 
+			Apr: 94.60 
 		}
 	}
 }); 
@@ -5616,11 +5616,11 @@ WeatherOutlook.insert({
 	municipality: "Camaligan", 
 	data: {
 		month: {
-			Nov: 302.97, 
-			Dec: 358.97, 
-			Jan: 136.33, 
-			Feb: 102.94, 
-			Mar: 100.48 
+			Dec: 358.75, 
+			Jan: 136.31, 
+			Feb: 102.88, 
+			Mar: 101.22, 
+			Apr: 81.45 
 		}
 	}
 }); 
@@ -5631,11 +5631,11 @@ WeatherOutlook.insert({
 	municipality: "Canaman", 
 	data: {
 		month: {
-			Nov: 312.98, 
-			Dec: 369.36, 
-			Jan: 141.3, 
-			Feb: 105.14, 
-			Mar: 103.6 
+			Dec: 369.15, 
+			Jan: 141.26, 
+			Feb: 105.07, 
+			Mar: 104.34, 
+			Apr: 81.84 
 		}
 	}
 }); 
@@ -5646,11 +5646,11 @@ WeatherOutlook.insert({
 	municipality: "Caramoan", 
 	data: {
 		month: {
-			Nov: 455.99, 
-			Dec: 476.45, 
-			Jan: 263.83, 
-			Feb: 162.36, 
-			Mar: 172.24 
+			Dec: 476.29, 
+			Jan: 263.85, 
+			Feb: 162.31, 
+			Mar: 173.23, 
+			Apr: 108.40 
 		}
 	}
 }); 
@@ -5661,11 +5661,11 @@ WeatherOutlook.insert({
 	municipality: "Del Gallego", 
 	data: {
 		month: {
-			Nov: 507.25, 
-			Dec: 565.31, 
-			Jan: 210.37, 
-			Feb: 148.3, 
-			Mar: 187.48 
+			Dec: 565.01, 
+			Jan: 210.32, 
+			Feb: 148.23, 
+			Mar: 188.16, 
+			Apr: 109.20 
 		}
 	}
 }); 
@@ -5676,11 +5676,11 @@ WeatherOutlook.insert({
 	municipality: "Gainza", 
 	data: {
 		month: {
-			Nov: 309.98, 
-			Dec: 349.82, 
-			Jan: 139.78, 
-			Feb: 105.72, 
-			Mar: 102.29 
+			Dec: 349.61, 
+			Jan: 139.76, 
+			Feb: 105.66, 
+			Mar: 103.03, 
+			Apr: 82.64 
 		}
 	}
 }); 
@@ -5691,11 +5691,11 @@ WeatherOutlook.insert({
 	municipality: "Garchitorena", 
 	data: {
 		month: {
-			Nov: 439.44, 
-			Dec: 467.83, 
-			Jan: 247.45, 
-			Feb: 149.62, 
-			Mar: 168.35 
+			Dec: 467.61, 
+			Jan: 247.43, 
+			Feb: 149.56, 
+			Mar: 169.19, 
+			Apr: 106.23 
 		}
 	}
 }); 
@@ -5706,11 +5706,11 @@ WeatherOutlook.insert({
 	municipality: "Goa", 
 	data: {
 		month: {
-			Nov: 438.53, 
-			Dec: 450.29, 
+			Dec: 450.10, 
 			Jan: 215.74, 
-			Feb: 140.32, 
-			Mar: 167.37 
+			Feb: 140.28, 
+			Mar: 168.16, 
+			Apr: 111.73 
 		}
 	}
 }); 
@@ -5721,11 +5721,11 @@ WeatherOutlook.insert({
 	municipality: "Iriga City", 
 	data: {
 		month: {
-			Nov: 377.96, 
-			Dec: 407.76, 
-			Jan: 189.99, 
-			Feb: 127.78, 
-			Mar: 134.82 
+			Dec: 407.61, 
+			Jan: 190.01, 
+			Feb: 127.75, 
+			Mar: 135.64, 
+			Apr: 104.08 
 		}
 	}
 }); 
@@ -5736,11 +5736,11 @@ WeatherOutlook.insert({
 	municipality: "Lagonoy", 
 	data: {
 		month: {
-			Nov: 461.44, 
-			Dec: 479.83, 
-			Jan: 242.45, 
-			Feb: 152.98, 
-			Mar: 174 
+			Dec: 479.65, 
+			Jan: 242.46, 
+			Feb: 152.95, 
+			Mar: 174.82, 
+			Apr: 114.43 
 		}
 	}
 }); 
@@ -5751,11 +5751,11 @@ WeatherOutlook.insert({
 	municipality: "Libmanan", 
 	data: {
 		month: {
-			Nov: 363.23, 
-			Dec: 404.47, 
-			Jan: 167.49, 
-			Feb: 115.01, 
-			Mar: 126.97 
+			Dec: 404.23, 
+			Jan: 167.47, 
+			Feb: 114.96, 
+			Mar: 127.71, 
+			Apr: 82.09 
 		}
 	}
 }); 
@@ -5766,11 +5766,11 @@ WeatherOutlook.insert({
 	municipality: "Lupi", 
 	data: {
 		month: {
-			Nov: 478.57, 
-			Dec: 537.21, 
-			Jan: 225.33, 
-			Feb: 155.93, 
-			Mar: 189.22 
+			Dec: 536.82, 
+			Jan: 225.28, 
+			Feb: 155.85, 
+			Mar: 190.09, 
+			Apr: 106.78 
 		}
 	}
 }); 
@@ -5781,11 +5781,11 @@ WeatherOutlook.insert({
 	municipality: "Magarao", 
 	data: {
 		month: {
-			Nov: 358.05, 
-			Dec: 396.23, 
-			Jan: 156.09, 
-			Feb: 113.52, 
-			Mar: 116.28 
+			Dec: 396.00, 
+			Jan: 156.08, 
+			Feb: 113.48, 
+			Mar: 117.05, 
+			Apr: 84.31 
 		}
 	}
 }); 
@@ -5796,11 +5796,11 @@ WeatherOutlook.insert({
 	municipality: "Milaor", 
 	data: {
 		month: {
-			Nov: 294.53, 
-			Dec: 308.18, 
-			Jan: 119.78, 
-			Feb: 92.74, 
-			Mar: 89.04 
+			Dec: 307.97, 
+			Jan: 119.76, 
+			Feb: 92.69, 
+			Mar: 89.78, 
+			Apr: 81.01 
 		}
 	}
 }); 
@@ -5811,11 +5811,11 @@ WeatherOutlook.insert({
 	municipality: "Minalabac", 
 	data: {
 		month: {
-			Nov: 309, 
-			Dec: 310.41, 
+			Dec: 310.23, 
 			Jan: 123.68, 
-			Feb: 91.12, 
-			Mar: 88.03 
+			Feb: 91.09, 
+			Mar: 88.78, 
+			Apr: 85.36 
 		}
 	}
 }); 
@@ -5826,11 +5826,11 @@ WeatherOutlook.insert({
 	municipality: "Nabua", 
 	data: {
 		month: {
-			Nov: 366.83, 
-			Dec: 391.62, 
-			Jan: 175.29, 
-			Feb: 121.6, 
-			Mar: 120.27 
+			Dec: 391.47, 
+			Jan: 175.30, 
+			Feb: 121.57, 
+			Mar: 121.07, 
+			Apr: 98.10 
 		}
 	}
 }); 
@@ -5841,11 +5841,11 @@ WeatherOutlook.insert({
 	municipality: "Naga City", 
 	data: {
 		month: {
-			Nov: 349.62, 
-			Dec: 395.2, 
+			Dec: 395.00, 
 			Jan: 149.23, 
-			Feb: 104.02, 
-			Mar: 116.82 
+			Feb: 103.98, 
+			Mar: 117.59, 
+			Apr: 89.98 
 		}
 	}
 }); 
@@ -5856,11 +5856,11 @@ WeatherOutlook.insert({
 	municipality: "Ocampo", 
 	data: {
 		month: {
-			Nov: 354.69, 
-			Dec: 372.92, 
-			Jan: 182.72, 
-			Feb: 123.68, 
-			Mar: 137.6 
+			Dec: 372.75, 
+			Jan: 182.73, 
+			Feb: 123.65, 
+			Mar: 138.39, 
+			Apr: 103.03 
 		}
 	}
 }); 
@@ -5871,11 +5871,11 @@ WeatherOutlook.insert({
 	municipality: "Pamplona", 
 	data: {
 		month: {
-			Nov: 336.13, 
-			Dec: 378.61, 
-			Jan: 151.64, 
-			Feb: 110.16, 
-			Mar: 110.76 
+			Dec: 378.39, 
+			Jan: 151.63, 
+			Feb: 110.12, 
+			Mar: 111.50, 
+			Apr: 84.63 
 		}
 	}
 }); 
@@ -5886,11 +5886,11 @@ WeatherOutlook.insert({
 	municipality: "Pasacao", 
 	data: {
 		month: {
-			Nov: 340.18, 
-			Dec: 356.63, 
-			Jan: 148.44, 
-			Feb: 102.28, 
-			Mar: 108.26 
+			Dec: 356.40, 
+			Jan: 148.41, 
+			Feb: 102.22, 
+			Mar: 108.96, 
+			Apr: 81.69 
 		}
 	}
 }); 
@@ -5901,11 +5901,11 @@ WeatherOutlook.insert({
 	municipality: "Pili", 
 	data: {
 		month: {
-			Nov: 302.82, 
-			Dec: 313.03, 
-			Jan: 125.4, 
-			Feb: 94.32, 
-			Mar: 94.71 
+			Dec: 312.84, 
+			Jan: 125.40, 
+			Feb: 94.28, 
+			Mar: 95.48, 
+			Apr: 87.07 
 		}
 	}
 }); 
@@ -5916,11 +5916,11 @@ WeatherOutlook.insert({
 	municipality: "Presentacion", 
 	data: {
 		month: {
-			Nov: 465.48, 
-			Dec: 479.52, 
-			Jan: 258.81, 
-			Feb: 161.96, 
-			Mar: 186.15 
+			Dec: 479.34, 
+			Jan: 258.83, 
+			Feb: 161.92, 
+			Mar: 187.07, 
+			Apr: 121.00 
 		}
 	}
 }); 
@@ -5931,11 +5931,11 @@ WeatherOutlook.insert({
 	municipality: "Ragay", 
 	data: {
 		month: {
-			Nov: 452.8, 
-			Dec: 520.2, 
-			Jan: 199.37, 
-			Feb: 138.52, 
-			Mar: 166.73 
+			Dec: 519.96, 
+			Jan: 199.35, 
+			Feb: 138.47, 
+			Mar: 167.47, 
+			Apr: 95.32 
 		}
 	}
 }); 
@@ -5946,11 +5946,11 @@ WeatherOutlook.insert({
 	municipality: "Sagnay", 
 	data: {
 		month: {
-			Nov: 427.32, 
-			Dec: 454.01, 
-			Jan: 233.77, 
-			Feb: 159.77, 
-			Mar: 169.91 
+			Dec: 453.86, 
+			Jan: 233.79, 
+			Feb: 159.75, 
+			Mar: 170.75, 
+			Apr: 124.89 
 		}
 	}
 }); 
@@ -5961,11 +5961,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando", 
 	data: {
 		month: {
-			Nov: 317.48, 
-			Dec: 339.25, 
-			Jan: 133.4, 
-			Feb: 93.53, 
-			Mar: 106.44 
+			Dec: 339.04, 
+			Jan: 133.38, 
+			Feb: 93.48, 
+			Mar: 107.17, 
+			Apr: 82.50 
 		}
 	}
 }); 
@@ -5976,11 +5976,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 448.35, 
-			Dec: 449.8, 
-			Jan: 239.67, 
-			Feb: 169.21, 
-			Mar: 169.91 
+			Dec: 449.60, 
+			Jan: 239.66, 
+			Feb: 169.16, 
+			Mar: 170.74, 
+			Apr: 119.13 
 		}
 	}
 }); 
@@ -5991,11 +5991,11 @@ WeatherOutlook.insert({
 	municipality: "Sipocot", 
 	data: {
 		month: {
-			Nov: 424.22, 
-			Dec: 481.66, 
-			Jan: 204.14, 
-			Feb: 139.09, 
-			Mar: 163.15 
+			Dec: 481.39, 
+			Jan: 204.12, 
+			Feb: 139.03, 
+			Mar: 164.01, 
+			Apr: 95.74 
 		}
 	}
 }); 
@@ -6006,11 +6006,11 @@ WeatherOutlook.insert({
 	municipality: "Siruma", 
 	data: {
 		month: {
-			Nov: 472.69, 
-			Dec: 514.24, 
-			Jan: 240.88, 
-			Feb: 147, 
-			Mar: 176.46 
+			Dec: 513.96, 
+			Jan: 240.86, 
+			Feb: 146.95, 
+			Mar: 177.27, 
+			Apr: 100.18 
 		}
 	}
 }); 
@@ -6021,11 +6021,11 @@ WeatherOutlook.insert({
 	municipality: "Tigaon", 
 	data: {
 		month: {
-			Nov: 417.74, 
-			Dec: 438.2, 
-			Jan: 215.02, 
-			Feb: 143.57, 
-			Mar: 162.74 
+			Dec: 438.01, 
+			Jan: 215.01, 
+			Feb: 143.52, 
+			Mar: 163.55, 
+			Apr: 114.71 
 		}
 	}
 }); 
@@ -6036,11 +6036,11 @@ WeatherOutlook.insert({
 	municipality: "Tinambac", 
 	data: {
 		month: {
-			Nov: 451.48, 
-			Dec: 483.11, 
+			Dec: 482.87, 
 			Jan: 221.61, 
-			Feb: 142.87, 
-			Mar: 167.02 
+			Feb: 142.84, 
+			Mar: 167.82, 
+			Apr: 102.91 
 		}
 	}
 }); 
@@ -6051,11 +6051,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 250.89, 
-			Dec: 340.37, 
-			Jan: 360.76, 
-			Feb: 183.32, 
-			Mar: 173.33 
+			Dec: 340.66, 
+			Jan: 360.75, 
+			Feb: 183.41, 
+			Mar: 175.02, 
+			Apr: 72.11 
 		}
 	}
 }); 
@@ -6066,11 +6066,11 @@ WeatherOutlook.insert({
 	municipality: "Catarman", 
 	data: {
 		month: {
-			Nov: 252.77, 
-			Dec: 339.11, 
-			Jan: 356.28, 
-			Feb: 174.39, 
-			Mar: 165.36 
+			Dec: 339.39, 
+			Jan: 356.26, 
+			Feb: 174.47, 
+			Mar: 166.98, 
+			Apr: 67.04 
 		}
 	}
 }); 
@@ -6081,11 +6081,11 @@ WeatherOutlook.insert({
 	municipality: "Guinsiliban", 
 	data: {
 		month: {
-			Nov: 254.26, 
-			Dec: 343.47, 
-			Jan: 352.23, 
-			Feb: 184.03, 
-			Mar: 176.18 
+			Dec: 343.71, 
+			Jan: 352.16, 
+			Feb: 184.09, 
+			Mar: 177.91, 
+			Apr: 78.30 
 		}
 	}
 }); 
@@ -6096,11 +6096,11 @@ WeatherOutlook.insert({
 	municipality: "Mahinog", 
 	data: {
 		month: {
-			Nov: 258.85, 
-			Dec: 360.35, 
-			Jan: 374.28, 
-			Feb: 193.2, 
-			Mar: 185.41 
+			Dec: 360.63, 
+			Jan: 374.25, 
+			Feb: 193.29, 
+			Mar: 187.15, 
+			Apr: 78.77 
 		}
 	}
 }); 
@@ -6111,11 +6111,11 @@ WeatherOutlook.insert({
 	municipality: "Mambajao", 
 	data: {
 		month: {
-			Nov: 259, 
-			Dec: 372.02, 
-			Jan: 395.79, 
-			Feb: 192.34, 
-			Mar: 190.7 
+			Dec: 372.38, 
+			Jan: 395.86, 
+			Feb: 192.49, 
+			Mar: 192.38, 
+			Apr: 68.10 
 		}
 	}
 }); 
@@ -6126,11 +6126,11 @@ WeatherOutlook.insert({
 	municipality: "Sagay", 
 	data: {
 		month: {
-			Nov: 227.51, 
-			Dec: 278.04, 
-			Jan: 313.58, 
-			Feb: 174.28, 
-			Mar: 146.96 
+			Dec: 278.44, 
+			Jan: 313.68, 
+			Feb: 174.46, 
+			Mar: 148.71, 
+			Apr: 74.26 
 		}
 	}
 }); 
@@ -6141,11 +6141,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 279.77, 
-			Dec: 223.24, 
+			Dec: 223.18, 
 			Jan: 122.63, 
-			Feb: 83.35, 
-			Mar: 111.19 
+			Feb: 83.37, 
+			Mar: 111.83, 
+			Apr: 73.67 
 		}
 	}
 }); 
@@ -6156,11 +6156,11 @@ WeatherOutlook.insert({
 	municipality: "Cuartero", 
 	data: {
 		month: {
-			Nov: 264.42, 
-			Dec: 207.57, 
-			Jan: 120.93, 
-			Feb: 86.18, 
-			Mar: 102.92 
+			Dec: 207.56, 
+			Jan: 120.97, 
+			Feb: 86.22, 
+			Mar: 103.60, 
+			Apr: 72.01 
 		}
 	}
 }); 
@@ -6171,11 +6171,11 @@ WeatherOutlook.insert({
 	municipality: "Dao", 
 	data: {
 		month: {
-			Nov: 259.25, 
-			Dec: 202.11, 
-			Jan: 118.31, 
-			Feb: 84.65, 
-			Mar: 98.51 
+			Dec: 202.10, 
+			Jan: 118.35, 
+			Feb: 84.70, 
+			Mar: 99.19, 
+			Apr: 73.59 
 		}
 	}
 }); 
@@ -6186,11 +6186,11 @@ WeatherOutlook.insert({
 	municipality: "Dumalag", 
 	data: {
 		month: {
-			Nov: 276.63, 
-			Dec: 221.64, 
-			Jan: 116.76, 
-			Feb: 90.8, 
-			Mar: 105.14 
+			Dec: 221.60, 
+			Jan: 116.77, 
+			Feb: 90.84, 
+			Mar: 105.75, 
+			Apr: 80.69 
 		}
 	}
 }); 
@@ -6201,11 +6201,11 @@ WeatherOutlook.insert({
 	municipality: "Dumarao", 
 	data: {
 		month: {
-			Nov: 264.05, 
-			Dec: 213.7, 
-			Jan: 118.2, 
-			Feb: 89.77, 
-			Mar: 99.77 
+			Dec: 213.72, 
+			Jan: 118.27, 
+			Feb: 89.83, 
+			Mar: 100.48, 
+			Apr: 67.45 
 		}
 	}
 }); 
@@ -6216,11 +6216,11 @@ WeatherOutlook.insert({
 	municipality: "Ivisan", 
 	data: {
 		month: {
-			Nov: 259, 
-			Dec: 212.77, 
-			Jan: 105.25, 
-			Feb: 65.46, 
-			Mar: 91.12 
+			Dec: 212.71, 
+			Jan: 105.26, 
+			Feb: 65.48, 
+			Mar: 91.76, 
+			Apr: 62.45 
 		}
 	}
 }); 
@@ -6231,11 +6231,11 @@ WeatherOutlook.insert({
 	municipality: "Jamindan", 
 	data: {
 		month: {
-			Nov: 312.17, 
-			Dec: 247.93, 
-			Jan: 120.37, 
-			Feb: 86.31, 
-			Mar: 126.55 
+			Dec: 247.81, 
+			Jan: 120.32, 
+			Feb: 86.32, 
+			Mar: 127.01, 
+			Apr: 87.98 
 		}
 	}
 }); 
@@ -6246,11 +6246,11 @@ WeatherOutlook.insert({
 	municipality: "Ma-Ayon", 
 	data: {
 		month: {
-			Nov: 255.48, 
-			Dec: 203.37, 
-			Jan: 130.69, 
-			Feb: 84.16, 
-			Mar: 111.21 
+			Dec: 203.40, 
+			Jan: 130.77, 
+			Feb: 84.22, 
+			Mar: 111.96, 
+			Apr: 63.54 
 		}
 	}
 }); 
@@ -6261,11 +6261,11 @@ WeatherOutlook.insert({
 	municipality: "Mambusao", 
 	data: {
 		month: {
-			Nov: 277.51, 
-			Dec: 217.43, 
-			Jan: 117.8, 
-			Feb: 82.34, 
-			Mar: 106.61 
+			Dec: 217.37, 
+			Jan: 117.80, 
+			Feb: 82.37, 
+			Mar: 107.21, 
+			Apr: 78.04 
 		}
 	}
 }); 
@@ -6276,11 +6276,11 @@ WeatherOutlook.insert({
 	municipality: "Panay", 
 	data: {
 		month: {
-			Nov: 278.64, 
-			Dec: 223.08, 
-			Jan: 128.93, 
-			Feb: 77.47, 
-			Mar: 99.3 
+			Dec: 223.07, 
+			Jan: 128.98, 
+			Feb: 77.51, 
+			Mar: 100.03, 
+			Apr: 61.71 
 		}
 	}
 }); 
@@ -6291,11 +6291,11 @@ WeatherOutlook.insert({
 	municipality: "Panitan", 
 	data: {
 		month: {
-			Nov: 242.22, 
-			Dec: 191.52, 
-			Jan: 117.5, 
-			Feb: 76.86, 
-			Mar: 97.68 
+			Dec: 191.50, 
+			Jan: 117.54, 
+			Feb: 76.90, 
+			Mar: 98.38, 
+			Apr: 63.77 
 		}
 	}
 }); 
@@ -6306,11 +6306,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 326.7, 
-			Dec: 278.9, 
-			Jan: 178.09, 
-			Feb: 101.56, 
-			Mar: 154.13 
+			Dec: 278.93, 
+			Jan: 178.16, 
+			Feb: 101.61, 
+			Mar: 154.93, 
+			Apr: 70.78 
 		}
 	}
 }); 
@@ -6321,11 +6321,11 @@ WeatherOutlook.insert({
 	municipality: "Pontevedra", 
 	data: {
 		month: {
-			Nov: 282.12, 
-			Dec: 228.5, 
-			Jan: 138.66, 
-			Feb: 85.59, 
-			Mar: 116.56 
+			Dec: 228.50, 
+			Jan: 138.72, 
+			Feb: 85.64, 
+			Mar: 117.30, 
+			Apr: 65.32 
 		}
 	}
 }); 
@@ -6336,11 +6336,11 @@ WeatherOutlook.insert({
 	municipality: "President Roxas", 
 	data: {
 		month: {
-			Nov: 325.83, 
-			Dec: 278.96, 
-			Jan: 173.87, 
-			Feb: 100.64, 
-			Mar: 156.48 
+			Dec: 278.98, 
+			Jan: 173.95, 
+			Feb: 100.69, 
+			Mar: 157.26, 
+			Apr: 73.18 
 		}
 	}
 }); 
@@ -6351,11 +6351,11 @@ WeatherOutlook.insert({
 	municipality: "Roxas City", 
 	data: {
 		month: {
-			Nov: 239.74, 
-			Dec: 193.42, 
-			Jan: 103.02, 
-			Feb: 60.54, 
-			Mar: 82.91 
+			Dec: 193.39, 
+			Jan: 103.07, 
+			Feb: 60.58, 
+			Mar: 83.61, 
+			Apr: 57.54 
 		}
 	}
 }); 
@@ -6366,11 +6366,11 @@ WeatherOutlook.insert({
 	municipality: "Sapi-An", 
 	data: {
 		month: {
-			Nov: 286.79, 
-			Dec: 227.12, 
-			Jan: 119.01, 
-			Feb: 79.98, 
-			Mar: 103.13 
+			Dec: 227.01, 
+			Jan: 118.97, 
+			Feb: 79.97, 
+			Mar: 103.71, 
+			Apr: 73.91 
 		}
 	}
 }); 
@@ -6381,11 +6381,11 @@ WeatherOutlook.insert({
 	municipality: "Sigma", 
 	data: {
 		month: {
-			Nov: 253.61, 
-			Dec: 199, 
-			Jan: 113.37, 
-			Feb: 79.53, 
-			Mar: 98.36 
+			Dec: 198.94, 
+			Jan: 113.38, 
+			Feb: 79.56, 
+			Mar: 99.00, 
+			Apr: 71.45 
 		}
 	}
 }); 
@@ -6396,11 +6396,11 @@ WeatherOutlook.insert({
 	municipality: "Tapaz", 
 	data: {
 		month: {
-			Nov: 283.96, 
-			Dec: 214.96, 
-			Jan: 100.92, 
-			Feb: 79.11, 
-			Mar: 111.66 
+			Dec: 214.85, 
+			Jan: 100.87, 
+			Feb: 79.12, 
+			Mar: 112.12, 
+			Apr: 85.88 
 		}
 	}
 }); 
@@ -6411,11 +6411,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 466.33, 
-			Dec: 486.51, 
-			Jan: 306.4, 
-			Feb: 157.88, 
-			Mar: 177.81 
+			Dec: 486.38, 
+			Jan: 306.43, 
+			Feb: 157.84, 
+			Mar: 178.84, 
+			Apr: 120.10 
 		}
 	}
 }); 
@@ -6426,11 +6426,11 @@ WeatherOutlook.insert({
 	municipality: "Bagamanoc", 
 	data: {
 		month: {
-			Nov: 504.29, 
-			Dec: 498.05, 
-			Jan: 290.05, 
-			Feb: 157.19, 
-			Mar: 186.19 
+			Dec: 497.97, 
+			Jan: 290.10, 
+			Feb: 157.15, 
+			Mar: 187.21, 
+			Apr: 110.49 
 		}
 	}
 }); 
@@ -6441,11 +6441,11 @@ WeatherOutlook.insert({
 	municipality: "Baras", 
 	data: {
 		month: {
-			Nov: 439.88, 
-			Dec: 483.56, 
-			Jan: 380.36, 
-			Feb: 156.93, 
-			Mar: 176.75 
+			Dec: 483.44, 
+			Jan: 380.41, 
+			Feb: 156.91, 
+			Mar: 177.79, 
+			Apr: 130.03 
 		}
 	}
 }); 
@@ -6456,11 +6456,11 @@ WeatherOutlook.insert({
 	municipality: "Bato", 
 	data: {
 		month: {
-			Nov: 381.07, 
-			Dec: 423.41, 
-			Jan: 345.26, 
-			Feb: 135.34, 
-			Mar: 142.9 
+			Dec: 423.31, 
+			Jan: 345.32, 
+			Feb: 135.33, 
+			Mar: 143.96, 
+			Apr: 119.45 
 		}
 	}
 }); 
@@ -6471,11 +6471,11 @@ WeatherOutlook.insert({
 	municipality: "Caramoran", 
 	data: {
 		month: {
-			Nov: 502.46, 
-			Dec: 503.32, 
-			Jan: 291.37, 
-			Feb: 161.03, 
-			Mar: 183.69 
+			Dec: 503.18, 
+			Jan: 291.40, 
+			Feb: 160.98, 
+			Mar: 184.75, 
+			Apr: 115.84 
 		}
 	}
 }); 
@@ -6486,11 +6486,11 @@ WeatherOutlook.insert({
 	municipality: "Gigmoto", 
 	data: {
 		month: {
-			Nov: 461.05, 
-			Dec: 499.85, 
-			Jan: 347.15, 
-			Feb: 162.62, 
-			Mar: 188.86 
+			Dec: 499.70, 
+			Jan: 347.19, 
+			Feb: 162.60, 
+			Mar: 189.88, 
+			Apr: 128.32 
 		}
 	}
 }); 
@@ -6501,11 +6501,11 @@ WeatherOutlook.insert({
 	municipality: "Pandan", 
 	data: {
 		month: {
-			Nov: 463.66, 
-			Dec: 476.81, 
-			Jan: 263.97, 
-			Feb: 151.84, 
-			Mar: 172.34 
+			Dec: 476.63, 
+			Jan: 264.00, 
+			Feb: 151.78, 
+			Mar: 173.40, 
+			Apr: 97.62 
 		}
 	}
 }); 
@@ -6516,11 +6516,11 @@ WeatherOutlook.insert({
 	municipality: "Panganiban", 
 	data: {
 		month: {
-			Nov: 492.65, 
-			Dec: 487.97, 
-			Jan: 301.9, 
-			Feb: 161.45, 
-			Mar: 185.45 
+			Dec: 487.79, 
+			Jan: 301.93, 
+			Feb: 161.41, 
+			Mar: 186.48, 
+			Apr: 114.26 
 		}
 	}
 }); 
@@ -6531,11 +6531,11 @@ WeatherOutlook.insert({
 	municipality: "San Andres", 
 	data: {
 		month: {
-			Nov: 459.74, 
-			Dec: 472.29, 
-			Jan: 273.58, 
-			Feb: 161.07, 
-			Mar: 169.87 
+			Dec: 472.14, 
+			Jan: 273.62, 
+			Feb: 161.04, 
+			Mar: 170.89, 
+			Apr: 124.14 
 		}
 	}
 }); 
@@ -6546,11 +6546,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 458.96, 
-			Dec: 495.9, 
-			Jan: 351.84, 
-			Feb: 157.54, 
-			Mar: 184.4 
+			Dec: 495.76, 
+			Jan: 351.87, 
+			Feb: 157.51, 
+			Mar: 185.42, 
+			Apr: 133.37 
 		}
 	}
 }); 
@@ -6561,11 +6561,11 @@ WeatherOutlook.insert({
 	municipality: "Viga", 
 	data: {
 		month: {
-			Nov: 477.68, 
-			Dec: 497.92, 
-			Jan: 313.94, 
-			Feb: 163.56, 
-			Mar: 188.98 
+			Dec: 497.76, 
+			Jan: 313.97, 
+			Feb: 163.52, 
+			Mar: 190.00, 
+			Apr: 120.67 
 		}
 	}
 }); 
@@ -6576,11 +6576,11 @@ WeatherOutlook.insert({
 	municipality: "Virac", 
 	data: {
 		month: {
-			Nov: 432.13, 
-			Dec: 477.03, 
-			Jan: 270.69, 
-			Feb: 155.47, 
-			Mar: 160.95 
+			Dec: 476.91, 
+			Jan: 270.74, 
+			Feb: 155.45, 
+			Mar: 161.97, 
+			Apr: 128.71 
 		}
 	}
 }); 
@@ -6591,11 +6591,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 119.6, 
-			Dec: 78.64, 
-			Jan: 16.84, 
-			Feb: 12.88, 
-			Mar: 16.54 
+			Dec: 78.29, 
+			Jan: 16.68, 
+			Feb: 12.80, 
+			Mar: 15.86, 
+			Apr: 28.65 
 		}
 	}
 }); 
@@ -6606,11 +6606,11 @@ WeatherOutlook.insert({
 	municipality: "Alfonso", 
 	data: {
 		month: {
-			Nov: 139.57, 
-			Dec: 88.29, 
-			Jan: 22.94, 
-			Feb: 16.97, 
-			Mar: 24.19 
+			Dec: 87.87, 
+			Jan: 22.73, 
+			Feb: 16.85, 
+			Mar: 23.41, 
+			Apr: 37.22 
 		}
 	}
 }); 
@@ -6621,11 +6621,11 @@ WeatherOutlook.insert({
 	municipality: "Amadeo", 
 	data: {
 		month: {
-			Nov: 168.55, 
-			Dec: 109.14, 
-			Jan: 30.75, 
-			Feb: 21.32, 
-			Mar: 36.15 
+			Dec: 108.75, 
+			Jan: 30.59, 
+			Feb: 21.24, 
+			Mar: 35.42, 
+			Apr: 39.88 
 		}
 	}
 }); 
@@ -6636,11 +6636,11 @@ WeatherOutlook.insert({
 	municipality: "Bacoor", 
 	data: {
 		month: {
-			Nov: 126.99, 
-			Dec: 62.67, 
-			Jan: 11.83, 
-			Feb: 8.36, 
-			Mar: 8.69 
+			Dec: 62.33, 
+			Jan: 11.67, 
+			Feb: 8.29, 
+			Mar: 8.08, 
+			Apr: 18.74 
 		}
 	}
 }); 
@@ -6651,11 +6651,11 @@ WeatherOutlook.insert({
 	municipality: "Carmona", 
 	data: {
 		month: {
-			Nov: 158.56, 
-			Dec: 126.14, 
-			Jan: 31.5, 
-			Feb: 19.33, 
-			Mar: 23.97 
+			Dec: 125.76, 
+			Jan: 31.32, 
+			Feb: 19.24, 
+			Mar: 23.35, 
+			Apr: 30.75 
 		}
 	}
 }); 
@@ -6666,11 +6666,11 @@ WeatherOutlook.insert({
 	municipality: "Cavite City", 
 	data: {
 		month: {
-			Nov: 78.18, 
-			Dec: 22.92, 
-			Jan: 7.08, 
-			Feb: 3.31, 
-			Mar: 7.91 
+			Dec: 22.60, 
+			Jan: 6.93, 
+			Feb: 3.25, 
+			Mar: 7.27, 
+			Apr: 14.67 
 		}
 	}
 }); 
@@ -6681,11 +6681,11 @@ WeatherOutlook.insert({
 	municipality: "Dasmariñas", 
 	data: {
 		month: {
-			Nov: 74.92, 
-			Dec: 78.86, 
-			Jan: 22.04, 
-			Feb: 15.18, 
-			Mar: 17.52 
+			Dec: 78.54, 
+			Jan: 21.90, 
+			Feb: 15.12, 
+			Mar: 16.90, 
+			Apr: 25.12 
 		}
 	}
 }); 
@@ -6696,11 +6696,11 @@ WeatherOutlook.insert({
 	municipality: "General Emilio Aguinaldo", 
 	data: {
 		month: {
-			Nov: 125.67, 
-			Dec: 67.89, 
-			Jan: 12.97, 
-			Feb: 12.16, 
-			Mar: 13.99 
+			Dec: 67.56, 
+			Jan: 12.85, 
+			Feb: 12.13, 
+			Mar: 13.31, 
+			Apr: 32.51 
 		}
 	}
 }); 
@@ -6711,11 +6711,11 @@ WeatherOutlook.insert({
 	municipality: "General Mariano Alvarez", 
 	data: {
 		month: {
-			Nov: 138.02, 
-			Dec: 110.37, 
-			Jan: 27.74, 
-			Feb: 18.18, 
-			Mar: 22.13 
+			Dec: 109.99, 
+			Jan: 27.56, 
+			Feb: 18.09, 
+			Mar: 21.50, 
+			Apr: 29.01 
 		}
 	}
 }); 
@@ -6726,11 +6726,11 @@ WeatherOutlook.insert({
 	municipality: "General Trias", 
 	data: {
 		month: {
-			Nov: 84.54, 
-			Dec: 78.33, 
-			Jan: 15.54, 
-			Feb: 12.32, 
-			Mar: 14.85 
+			Dec: 78.02, 
+			Jan: 15.41, 
+			Feb: 12.27, 
+			Mar: 14.22, 
+			Apr: 25.73 
 		}
 	}
 }); 
@@ -6741,11 +6741,11 @@ WeatherOutlook.insert({
 	municipality: "Imus", 
 	data: {
 		month: {
-			Nov: 82.18, 
-			Dec: 46.98, 
-			Jan: 9.88, 
-			Feb: 7.89, 
-			Mar: 7.45 
+			Dec: 46.69, 
+			Jan: 9.75, 
+			Feb: 7.84, 
+			Mar: 6.84, 
+			Apr: 19.41 
 		}
 	}
 }); 
@@ -6756,11 +6756,11 @@ WeatherOutlook.insert({
 	municipality: "Indang", 
 	data: {
 		month: {
-			Nov: 156.62, 
-			Dec: 99.63, 
-			Jan: 23.91, 
-			Feb: 18.57, 
-			Mar: 28.5 
+			Dec: 99.30, 
+			Jan: 23.80, 
+			Feb: 18.54, 
+			Mar: 27.80, 
+			Apr: 38.19 
 		}
 	}
 }); 
@@ -6771,11 +6771,11 @@ WeatherOutlook.insert({
 	municipality: "Kawit", 
 	data: {
 		month: {
-			Nov: 81.12, 
-			Dec: 16.6, 
-			Jan: 5.5, 
-			Feb: 4.74, 
-			Mar: 4.82 
+			Dec: 16.27, 
+			Jan: 5.35, 
+			Feb: 4.68, 
+			Mar: 4.19, 
+			Apr: 15.45 
 		}
 	}
 }); 
@@ -6786,11 +6786,11 @@ WeatherOutlook.insert({
 	municipality: "Magallanes", 
 	data: {
 		month: {
-			Nov: 121, 
-			Dec: 70.8, 
-			Jan: 11.45, 
-			Feb: 11.35, 
-			Mar: 10.47 
+			Dec: 70.48, 
+			Jan: 11.34, 
+			Feb: 11.32, 
+			Mar: 9.80, 
+			Apr: 31.17 
 		}
 	}
 }); 
@@ -6801,11 +6801,11 @@ WeatherOutlook.insert({
 	municipality: "Maragondon", 
 	data: {
 		month: {
-			Nov: 120.2, 
-			Dec: 65.64, 
-			Jan: 7.27, 
-			Feb: 8.75, 
-			Mar: 8.11 
+			Dec: 65.32, 
+			Jan: 7.12, 
+			Feb: 8.68, 
+			Mar: 7.43, 
+			Apr: 27.35 
 		}
 	}
 }); 
@@ -6816,11 +6816,11 @@ WeatherOutlook.insert({
 	municipality: "Mendez", 
 	data: {
 		month: {
-			Nov: 156.1, 
-			Dec: 103.11, 
-			Jan: 27.38, 
-			Feb: 21.18, 
-			Mar: 32.99 
+			Dec: 102.75, 
+			Jan: 27.26, 
+			Feb: 21.14, 
+			Mar: 32.25, 
+			Apr: 40.42 
 		}
 	}
 }); 
@@ -6831,11 +6831,11 @@ WeatherOutlook.insert({
 	municipality: "Naic", 
 	data: {
 		month: {
-			Nov: 108.96, 
-			Dec: 67.43, 
-			Jan: 8.26, 
-			Feb: 11.73, 
-			Mar: 8.94 
+			Dec: 67.11, 
+			Jan: 8.11, 
+			Feb: 11.66, 
+			Mar: 8.27, 
+			Apr: 25.27 
 		}
 	}
 }); 
@@ -6846,11 +6846,11 @@ WeatherOutlook.insert({
 	municipality: "Noveleta", 
 	data: {
 		month: {
-			Nov: 80.81, 
-			Dec: 15.95, 
-			Jan: 5.45, 
-			Feb: 4.69, 
-			Mar: 4.75 
+			Dec: 15.67, 
+			Jan: 5.32, 
+			Feb: 4.65, 
+			Mar: 4.12, 
+			Apr: 15.41 
 		}
 	}
 }); 
@@ -6861,11 +6861,11 @@ WeatherOutlook.insert({
 	municipality: "Rosario", 
 	data: {
 		month: {
-			Nov: 31.5, 
-			Dec: 20.94, 
-			Jan: 4.05, 
-			Feb: 5.44, 
-			Mar: 6.86 
+			Dec: 20.63, 
+			Jan: 3.91, 
+			Feb: 5.39, 
+			Mar: 6.22, 
+			Apr: 18.95 
 		}
 	}
 }); 
@@ -6876,11 +6876,11 @@ WeatherOutlook.insert({
 	municipality: "Silang", 
 	data: {
 		month: {
-			Nov: 151.62, 
-			Dec: 119.99, 
-			Jan: 32.81, 
-			Feb: 20.14, 
-			Mar: 32.01 
+			Dec: 119.60, 
+			Jan: 32.64, 
+			Feb: 20.06, 
+			Mar: 31.30, 
+			Apr: 36.17 
 		}
 	}
 }); 
@@ -6891,11 +6891,11 @@ WeatherOutlook.insert({
 	municipality: "Tagaytay City", 
 	data: {
 		month: {
-			Nov: 169.08, 
-			Dec: 117.38, 
-			Jan: 28.8, 
-			Feb: 13.04, 
-			Mar: 26.45 
+			Dec: 116.89, 
+			Jan: 28.56, 
+			Feb: 12.90, 
+			Mar: 25.61, 
+			Apr: 38.91 
 		}
 	}
 }); 
@@ -6906,11 +6906,11 @@ WeatherOutlook.insert({
 	municipality: "Tanza", 
 	data: {
 		month: {
-			Nov: 81.82, 
-			Dec: 57.83, 
-			Jan: 5.77, 
-			Feb: 9.3, 
-			Mar: 6.56 
+			Dec: 57.53, 
+			Jan: 5.63, 
+			Feb: 9.25, 
+			Mar: 5.92, 
+			Apr: 20.62 
 		}
 	}
 }); 
@@ -6921,11 +6921,11 @@ WeatherOutlook.insert({
 	municipality: "Ternate", 
 	data: {
 		month: {
-			Nov: 116.04, 
-			Dec: 63.7, 
-			Jan: 5.94, 
-			Feb: 6.34, 
-			Mar: 5.42 
+			Dec: 63.36, 
+			Jan: 5.79, 
+			Feb: 6.28, 
+			Mar: 4.75, 
+			Apr: 24.63 
 		}
 	}
 }); 
@@ -6936,11 +6936,11 @@ WeatherOutlook.insert({
 	municipality: "Trece Martires City", 
 	data: {
 		month: {
-			Nov: 106.29, 
-			Dec: 78.21, 
-			Jan: 14.56, 
-			Feb: 13.88, 
-			Mar: 14.19 
+			Dec: 77.89, 
+			Jan: 14.43, 
+			Feb: 13.83, 
+			Mar: 13.54, 
+			Apr: 27.10 
 		}
 	}
 }); 
@@ -6951,11 +6951,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 198.76, 
-			Dec: 179.66, 
-			Jan: 142.77, 
-			Feb: 88.87, 
-			Mar: 107.44 
+			Dec: 179.89, 
+			Jan: 142.87, 
+			Feb: 88.96, 
+			Mar: 108.76, 
+			Apr: 67.92 
 		}
 	}
 }); 
@@ -6966,11 +6966,11 @@ WeatherOutlook.insert({
 	municipality: "Alcantara", 
 	data: {
 		month: {
-			Nov: 213.14, 
-			Dec: 176.28, 
-			Jan: 119.09, 
-			Feb: 81.5, 
-			Mar: 122.51 
+			Dec: 176.52, 
+			Jan: 119.16, 
+			Feb: 81.59, 
+			Mar: 123.57, 
+			Apr: 67.31 
 		}
 	}
 }); 
@@ -6981,11 +6981,11 @@ WeatherOutlook.insert({
 	municipality: "Alcoy", 
 	data: {
 		month: {
-			Nov: 215.72, 
-			Dec: 192.26, 
-			Jan: 140.25, 
-			Feb: 84.27, 
-			Mar: 148.47 
+			Dec: 192.48, 
+			Jan: 140.26, 
+			Feb: 84.32, 
+			Mar: 149.49, 
+			Apr: 58.59 
 		}
 	}
 }); 
@@ -6996,11 +6996,11 @@ WeatherOutlook.insert({
 	municipality: "Alegria", 
 	data: {
 		month: {
-			Nov: 230.25, 
-			Dec: 202.95, 
-			Jan: 145.06, 
-			Feb: 87.56, 
-			Mar: 154.09 
+			Dec: 203.17, 
+			Jan: 145.09, 
+			Feb: 87.64, 
+			Mar: 155.06, 
+			Apr: 58.11 
 		}
 	}
 }); 
@@ -7011,11 +7011,11 @@ WeatherOutlook.insert({
 	municipality: "Aloguinsan", 
 	data: {
 		month: {
-			Nov: 202.05, 
-			Dec: 187.25, 
-			Jan: 114.31, 
-			Feb: 82.63, 
-			Mar: 102.9 
+			Dec: 187.43, 
+			Jan: 114.33, 
+			Feb: 82.69, 
+			Mar: 104.09, 
+			Apr: 73.10 
 		}
 	}
 }); 
@@ -7026,11 +7026,11 @@ WeatherOutlook.insert({
 	municipality: "Argao", 
 	data: {
 		month: {
-			Nov: 201.27, 
-			Dec: 169.83, 
-			Jan: 121.23, 
-			Feb: 83.2, 
-			Mar: 119.3 
+			Dec: 170.07, 
+			Jan: 121.30, 
+			Feb: 83.28, 
+			Mar: 120.47, 
+			Apr: 68.21 
 		}
 	}
 }); 
@@ -7041,11 +7041,11 @@ WeatherOutlook.insert({
 	municipality: "Asturias", 
 	data: {
 		month: {
-			Nov: 197.18, 
-			Dec: 176.13, 
-			Jan: 146.27, 
-			Feb: 89.94, 
-			Mar: 98.83 
+			Dec: 176.35, 
+			Jan: 146.41, 
+			Feb: 90.05, 
+			Mar: 100.19, 
+			Apr: 57.25 
 		}
 	}
 }); 
@@ -7056,11 +7056,11 @@ WeatherOutlook.insert({
 	municipality: "Badian", 
 	data: {
 		month: {
-			Nov: 213.44, 
-			Dec: 182.2, 
-			Jan: 128.93, 
-			Feb: 83.73, 
-			Mar: 132.11 
+			Dec: 182.43, 
+			Jan: 128.97, 
+			Feb: 83.81, 
+			Mar: 133.11, 
+			Apr: 64.35 
 		}
 	}
 }); 
@@ -7071,11 +7071,11 @@ WeatherOutlook.insert({
 	municipality: "Balamban", 
 	data: {
 		month: {
-			Nov: 184.86, 
-			Dec: 172.45, 
-			Jan: 124.42, 
-			Feb: 84.04, 
-			Mar: 96.52 
+			Dec: 172.66, 
+			Jan: 124.52, 
+			Feb: 84.13, 
+			Mar: 97.83, 
+			Apr: 68.47 
 		}
 	}
 }); 
@@ -7086,11 +7086,11 @@ WeatherOutlook.insert({
 	municipality: "Bantayan", 
 	data: {
 		month: {
-			Nov: 221.02, 
-			Dec: 183.34, 
-			Jan: 158.6, 
-			Feb: 86.3, 
-			Mar: 79.79 
+			Dec: 183.52, 
+			Jan: 158.78, 
+			Feb: 86.41, 
+			Mar: 81.12, 
+			Apr: 61.79 
 		}
 	}
 }); 
@@ -7101,11 +7101,11 @@ WeatherOutlook.insert({
 	municipality: "Barili", 
 	data: {
 		month: {
-			Nov: 218.14, 
-			Dec: 191.78, 
-			Jan: 118.74, 
-			Feb: 83.56, 
-			Mar: 119.4 
+			Dec: 192.01, 
+			Jan: 118.81, 
+			Feb: 83.65, 
+			Mar: 120.55, 
+			Apr: 69.91 
 		}
 	}
 }); 
@@ -7116,11 +7116,11 @@ WeatherOutlook.insert({
 	municipality: "Bogo City", 
 	data: {
 		month: {
-			Nov: 165.87, 
-			Dec: 109.08, 
-			Jan: 125.78, 
-			Feb: 68.06, 
-			Mar: 69.04 
+			Dec: 109.48, 
+			Jan: 126.19, 
+			Feb: 68.26, 
+			Mar: 70.85, 
+			Apr: 62.98 
 		}
 	}
 }); 
@@ -7131,11 +7131,11 @@ WeatherOutlook.insert({
 	municipality: "Boljoon", 
 	data: {
 		month: {
-			Nov: 211.03, 
-			Dec: 177, 
-			Jan: 133.11, 
-			Feb: 82.67, 
-			Mar: 147.64 
+			Dec: 177.24, 
+			Jan: 133.13, 
+			Feb: 82.74, 
+			Mar: 148.64, 
+			Apr: 57.81 
 		}
 	}
 }); 
@@ -7146,11 +7146,11 @@ WeatherOutlook.insert({
 	municipality: "Borbon", 
 	data: {
 		month: {
-			Nov: 196.07, 
-			Dec: 170.14, 
-			Jan: 162.93, 
-			Feb: 89.21, 
-			Mar: 96.33 
+			Dec: 170.50, 
+			Jan: 163.27, 
+			Feb: 89.37, 
+			Mar: 98.01, 
+			Apr: 70.51 
 		}
 	}
 }); 
@@ -7161,11 +7161,11 @@ WeatherOutlook.insert({
 	municipality: "Carcar", 
 	data: {
 		month: {
-			Nov: 197.88, 
-			Dec: 172.45, 
-			Jan: 112.38, 
-			Feb: 83.06, 
-			Mar: 102.5 
+			Dec: 172.69, 
+			Jan: 112.46, 
+			Feb: 83.15, 
+			Mar: 103.78, 
+			Apr: 76.26 
 		}
 	}
 }); 
@@ -7176,11 +7176,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 197.92, 
-			Dec: 200.01, 
-			Jan: 164.8, 
-			Feb: 100.73, 
-			Mar: 118.52 
+			Dec: 200.25, 
+			Jan: 164.97, 
+			Feb: 100.85, 
+			Mar: 119.97, 
+			Apr: 64.85 
 		}
 	}
 }); 
@@ -7191,11 +7191,11 @@ WeatherOutlook.insert({
 	municipality: "Catmon", 
 	data: {
 		month: {
-			Nov: 200.63, 
-			Dec: 201.8, 
-			Jan: 170.76, 
-			Feb: 102.33, 
-			Mar: 117.16 
+			Dec: 202.07, 
+			Jan: 170.98, 
+			Feb: 102.48, 
+			Mar: 118.67, 
+			Apr: 61.60 
 		}
 	}
 }); 
@@ -7206,11 +7206,11 @@ WeatherOutlook.insert({
 	municipality: "Cebu City", 
 	data: {
 		month: {
-			Nov: 152.5, 
-			Dec: 148.04, 
-			Jan: 110.15, 
-			Feb: 80.47, 
-			Mar: 90.08 
+			Dec: 148.28, 
+			Jan: 110.26, 
+			Feb: 80.57, 
+			Mar: 91.48, 
+			Apr: 66.81 
 		}
 	}
 }); 
@@ -7221,11 +7221,11 @@ WeatherOutlook.insert({
 	municipality: "Compostela", 
 	data: {
 		month: {
-			Nov: 169.58, 
-			Dec: 168.56, 
-			Jan: 141.77, 
-			Feb: 90.5, 
-			Mar: 98.79 
+			Dec: 168.82, 
+			Jan: 141.93, 
+			Feb: 90.63, 
+			Mar: 100.23, 
+			Apr: 66.81 
 		}
 	}
 }); 
@@ -7236,11 +7236,11 @@ WeatherOutlook.insert({
 	municipality: "Consolacion", 
 	data: {
 		month: {
-			Nov: 155.87, 
-			Dec: 147.76, 
-			Jan: 121.7, 
-			Feb: 83.32, 
-			Mar: 84.83 
+			Dec: 147.99, 
+			Jan: 121.80, 
+			Feb: 83.41, 
+			Mar: 86.27, 
+			Apr: 59.50 
 		}
 	}
 }); 
@@ -7251,11 +7251,11 @@ WeatherOutlook.insert({
 	municipality: "Cordoba", 
 	data: {
 		month: {
-			Nov: 146.49, 
-			Dec: 159.93, 
-			Jan: 174.07, 
-			Feb: 97, 
-			Mar: 79.95 
+			Dec: 160.22, 
+			Jan: 174.21, 
+			Feb: 97.11, 
+			Mar: 81.51, 
+			Apr: 52.32 
 		}
 	}
 }); 
@@ -7266,11 +7266,11 @@ WeatherOutlook.insert({
 	municipality: "Daanbantayan", 
 	data: {
 		month: {
-			Nov: 231.98, 
-			Dec: 234.95, 
-			Jan: 195.43, 
-			Feb: 111.26, 
-			Mar: 103.74 
+			Dec: 235.18, 
+			Jan: 195.64, 
+			Feb: 111.36, 
+			Mar: 105.25, 
+			Apr: 78.63 
 		}
 	}
 }); 
@@ -7281,11 +7281,11 @@ WeatherOutlook.insert({
 	municipality: "Dalaguete", 
 	data: {
 		month: {
-			Nov: 203.8, 
-			Dec: 180.17, 
-			Jan: 129.09, 
-			Feb: 83.75, 
-			Mar: 136.08 
+			Dec: 180.40, 
+			Jan: 129.13, 
+			Feb: 83.83, 
+			Mar: 137.16, 
+			Apr: 65.09 
 		}
 	}
 }); 
@@ -7296,11 +7296,11 @@ WeatherOutlook.insert({
 	municipality: "Danao City", 
 	data: {
 		month: {
-			Nov: 188.03, 
-			Dec: 189.11, 
-			Jan: 155.78, 
-			Feb: 96.34, 
-			Mar: 109.06 
+			Dec: 189.34, 
+			Jan: 155.92, 
+			Feb: 96.44, 
+			Mar: 110.50, 
+			Apr: 67.20 
 		}
 	}
 }); 
@@ -7311,11 +7311,11 @@ WeatherOutlook.insert({
 	municipality: "Danao Lake", 
 	data: {
 		month: {
-			Nov: 245.5, 
-			Dec: 269.62, 
-			Jan: 249.21, 
-			Feb: 132.25, 
-			Mar: 140.53 
+			Dec: 269.82, 
+			Jan: 249.33, 
+			Feb: 132.34, 
+			Mar: 142.14, 
+			Apr: 93.37 
 		}
 	}
 }); 
@@ -7326,11 +7326,11 @@ WeatherOutlook.insert({
 	municipality: "Dumanjug", 
 	data: {
 		month: {
-			Nov: 226.53, 
-			Dec: 190.52, 
-			Jan: 120.17, 
-			Feb: 82.84, 
-			Mar: 125.81 
+			Dec: 190.77, 
+			Jan: 120.26, 
+			Feb: 82.95, 
+			Mar: 126.90, 
+			Apr: 67.07 
 		}
 	}
 }); 
@@ -7341,11 +7341,11 @@ WeatherOutlook.insert({
 	municipality: "Ginatilan", 
 	data: {
 		month: {
-			Nov: 209.55, 
-			Dec: 169.16, 
-			Jan: 128.43, 
-			Feb: 78.63, 
-			Mar: 144.54 
+			Dec: 169.38, 
+			Jan: 128.41, 
+			Feb: 78.66, 
+			Mar: 145.43, 
+			Apr: 58.19 
 		}
 	}
 }); 
@@ -7356,11 +7356,11 @@ WeatherOutlook.insert({
 	municipality: "Lapu-Lapu City", 
 	data: {
 		month: {
-			Nov: 165.05, 
-			Dec: 153.93, 
-			Jan: 121.36, 
-			Feb: 87.5, 
-			Mar: 78.78 
+			Dec: 154.19, 
+			Jan: 121.47, 
+			Feb: 87.59, 
+			Mar: 80.31, 
+			Apr: 54.76 
 		}
 	}
 }); 
@@ -7371,11 +7371,11 @@ WeatherOutlook.insert({
 	municipality: "Liloan", 
 	data: {
 		month: {
-			Nov: 164.55, 
-			Dec: 162.42, 
-			Jan: 133.64, 
-			Feb: 87.56, 
-			Mar: 91.61 
+			Dec: 162.65, 
+			Jan: 133.75, 
+			Feb: 87.66, 
+			Mar: 93.06, 
+			Apr: 64.01 
 		}
 	}
 }); 
@@ -7386,11 +7386,11 @@ WeatherOutlook.insert({
 	municipality: "Madridejos", 
 	data: {
 		month: {
-			Nov: 235.35, 
-			Dec: 190.96, 
-			Jan: 175.3, 
-			Feb: 90.14, 
-			Mar: 89.57 
+			Dec: 191.12, 
+			Jan: 175.45, 
+			Feb: 90.23, 
+			Mar: 90.89, 
+			Apr: 64.04 
 		}
 	}
 }); 
@@ -7401,11 +7401,11 @@ WeatherOutlook.insert({
 	municipality: "Malabuyoc", 
 	data: {
 		month: {
-			Nov: 230.16, 
-			Dec: 194.32, 
-			Jan: 143.51, 
-			Feb: 85.88, 
-			Mar: 161.8 
+			Dec: 194.54, 
+			Jan: 143.52, 
+			Feb: 85.93, 
+			Mar: 162.74, 
+			Apr: 56.61 
 		}
 	}
 }); 
@@ -7416,11 +7416,11 @@ WeatherOutlook.insert({
 	municipality: "Mandaue City", 
 	data: {
 		month: {
-			Nov: 138.28, 
-			Dec: 124.69, 
-			Jan: 109.95, 
-			Feb: 78.24, 
-			Mar: 75.64 
+			Dec: 124.94, 
+			Jan: 110.06, 
+			Feb: 78.34, 
+			Mar: 77.11, 
+			Apr: 54.39 
 		}
 	}
 }); 
@@ -7431,11 +7431,11 @@ WeatherOutlook.insert({
 	municipality: "Medellin", 
 	data: {
 		month: {
-			Nov: 204.35, 
-			Dec: 167.07, 
-			Jan: 157.96, 
-			Feb: 87.87, 
-			Mar: 84.41 
+			Dec: 167.40, 
+			Jan: 158.29, 
+			Feb: 88.05, 
+			Mar: 86.08, 
+			Apr: 74.03 
 		}
 	}
 }); 
@@ -7446,11 +7446,11 @@ WeatherOutlook.insert({
 	municipality: "Minglanilla", 
 	data: {
 		month: {
-			Nov: 181.05, 
-			Dec: 176.95, 
-			Jan: 94.78, 
-			Feb: 80.73, 
-			Mar: 95.11 
+			Dec: 177.16, 
+			Jan: 94.85, 
+			Feb: 80.81, 
+			Mar: 96.48, 
+			Apr: 84.07 
 		}
 	}
 }); 
@@ -7461,11 +7461,11 @@ WeatherOutlook.insert({
 	municipality: "Moalboal", 
 	data: {
 		month: {
-			Nov: 193.87, 
-			Dec: 165.43, 
+			Dec: 165.61, 
 			Jan: 121.85, 
-			Feb: 80.06, 
-			Mar: 114.33 
+			Feb: 80.10, 
+			Mar: 115.32, 
+			Apr: 65.40 
 		}
 	}
 }); 
@@ -7476,11 +7476,11 @@ WeatherOutlook.insert({
 	municipality: "Naga City", 
 	data: {
 		month: {
-			Nov: 184.45, 
-			Dec: 175.45, 
-			Jan: 97.94, 
-			Feb: 81.76, 
-			Mar: 96.99 
+			Dec: 175.71, 
+			Jan: 98.05, 
+			Feb: 81.86, 
+			Mar: 98.35, 
+			Apr: 83.73 
 		}
 	}
 }); 
@@ -7491,11 +7491,11 @@ WeatherOutlook.insert({
 	municipality: "Oslob", 
 	data: {
 		month: {
-			Nov: 192.17, 
-			Dec: 154.08, 
-			Jan: 120.56, 
-			Feb: 74.91, 
-			Mar: 133.22 
+			Dec: 154.32, 
+			Jan: 120.54, 
+			Feb: 74.95, 
+			Mar: 134.13, 
+			Apr: 56.33 
 		}
 	}
 }); 
@@ -7506,11 +7506,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 274.79, 
-			Dec: 310.6, 
-			Jan: 308.67, 
-			Feb: 151.24, 
-			Mar: 147.4 
+			Dec: 310.78, 
+			Jan: 308.78, 
+			Feb: 151.32, 
+			Mar: 149.15, 
+			Apr: 111.29 
 		}
 	}
 }); 
@@ -7521,11 +7521,11 @@ WeatherOutlook.insert({
 	municipality: "Pinamungahan", 
 	data: {
 		month: {
-			Nov: 192.95, 
-			Dec: 176.45, 
-			Jan: 107.82, 
-			Feb: 82.32, 
-			Mar: 93.83 
+			Dec: 176.69, 
+			Jan: 107.92, 
+			Feb: 82.43, 
+			Mar: 95.06, 
+			Apr: 74.15 
 		}
 	}
 }); 
@@ -7536,11 +7536,11 @@ WeatherOutlook.insert({
 	municipality: "Poro", 
 	data: {
 		month: {
-			Nov: 253.45, 
-			Dec: 281.62, 
-			Jan: 264.41, 
-			Feb: 139.74, 
-			Mar: 146.38 
+			Dec: 281.81, 
+			Jan: 264.51, 
+			Feb: 139.82, 
+			Mar: 148.03, 
+			Apr: 99.81 
 		}
 	}
 }); 
@@ -7551,11 +7551,11 @@ WeatherOutlook.insert({
 	municipality: "Ronda", 
 	data: {
 		month: {
-			Nov: 218.98, 
-			Dec: 180.54, 
+			Dec: 180.70, 
 			Jan: 119.27, 
-			Feb: 82, 
-			Mar: 124.8 
+			Feb: 82.04, 
+			Mar: 125.85, 
+			Apr: 67.15 
 		}
 	}
 }); 
@@ -7566,11 +7566,11 @@ WeatherOutlook.insert({
 	municipality: "Samboan", 
 	data: {
 		month: {
-			Nov: 193.15, 
-			Dec: 149.66, 
-			Jan: 115.7, 
-			Feb: 70, 
-			Mar: 129.2 
+			Dec: 149.87, 
+			Jan: 115.65, 
+			Feb: 70.01, 
+			Mar: 130.07, 
+			Apr: 57.45 
 		}
 	}
 }); 
@@ -7581,11 +7581,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando", 
 	data: {
 		month: {
-			Nov: 191.11, 
-			Dec: 174.94, 
-			Jan: 105.3, 
-			Feb: 82.17, 
-			Mar: 98.41 
+			Dec: 175.19, 
+			Jan: 105.40, 
+			Feb: 82.27, 
+			Mar: 99.72, 
+			Apr: 79.03 
 		}
 	}
 }); 
@@ -7596,11 +7596,11 @@ WeatherOutlook.insert({
 	municipality: "San Francisco", 
 	data: {
 		month: {
-			Nov: 237.3, 
-			Dec: 260.94, 
-			Jan: 245.5, 
-			Feb: 131.19, 
-			Mar: 135.89 
+			Dec: 261.20, 
+			Jan: 245.67, 
+			Feb: 131.32, 
+			Mar: 137.50, 
+			Apr: 89.77 
 		}
 	}
 }); 
@@ -7611,11 +7611,11 @@ WeatherOutlook.insert({
 	municipality: "San Remigio", 
 	data: {
 		month: {
-			Nov: 170.63, 
-			Dec: 120.44, 
-			Jan: 130.6, 
-			Feb: 71.33, 
-			Mar: 71.18 
+			Dec: 120.80, 
+			Jan: 130.97, 
+			Feb: 71.52, 
+			Mar: 72.95, 
+			Apr: 68.77 
 		}
 	}
 }); 
@@ -7626,11 +7626,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Fe", 
 	data: {
 		month: {
-			Nov: 189.41, 
-			Dec: 164.57, 
-			Jan: 144.51, 
-			Feb: 76.67, 
-			Mar: 70.54 
+			Dec: 164.69, 
+			Jan: 144.63, 
+			Feb: 76.74, 
+			Mar: 71.96, 
+			Apr: 54.64 
 		}
 	}
 }); 
@@ -7641,11 +7641,11 @@ WeatherOutlook.insert({
 	municipality: "Santander", 
 	data: {
 		month: {
-			Nov: 182.74, 
-			Dec: 137.79, 
-			Jan: 108.36, 
-			Feb: 65.34, 
-			Mar: 113.88 
+			Dec: 138.01, 
+			Jan: 108.31, 
+			Feb: 65.36, 
+			Mar: 114.74, 
+			Apr: 54.53 
 		}
 	}
 }); 
@@ -7656,11 +7656,11 @@ WeatherOutlook.insert({
 	municipality: "Sibonga", 
 	data: {
 		month: {
-			Nov: 208.7, 
-			Dec: 174.35, 
-			Jan: 117.56, 
-			Feb: 83.96, 
-			Mar: 116.73 
+			Dec: 174.61, 
+			Jan: 117.66, 
+			Feb: 84.06, 
+			Mar: 117.95, 
+			Apr: 70.42 
 		}
 	}
 }); 
@@ -7671,11 +7671,11 @@ WeatherOutlook.insert({
 	municipality: "Sogod", 
 	data: {
 		month: {
-			Nov: 201.31, 
-			Dec: 190.57, 
-			Jan: 175.2, 
-			Feb: 99.74, 
-			Mar: 110.58 
+			Dec: 190.84, 
+			Jan: 175.45, 
+			Feb: 99.90, 
+			Mar: 112.16, 
+			Apr: 60.62 
 		}
 	}
 }); 
@@ -7686,11 +7686,11 @@ WeatherOutlook.insert({
 	municipality: "Tabogon", 
 	data: {
 		month: {
-			Nov: 179.08, 
-			Dec: 141.94, 
-			Jan: 142.24, 
-			Feb: 76.93, 
-			Mar: 83.1 
+			Dec: 142.33, 
+			Jan: 142.63, 
+			Feb: 77.12, 
+			Mar: 84.87, 
+			Apr: 70.87 
 		}
 	}
 }); 
@@ -7701,11 +7701,11 @@ WeatherOutlook.insert({
 	municipality: "Tabuelan", 
 	data: {
 		month: {
-			Nov: 200.1, 
-			Dec: 165.6, 
-			Jan: 156.66, 
-			Feb: 86.17, 
-			Mar: 91.12 
+			Dec: 165.93, 
+			Jan: 156.98, 
+			Feb: 86.35, 
+			Mar: 92.78, 
+			Apr: 68.04 
 		}
 	}
 }); 
@@ -7716,11 +7716,11 @@ WeatherOutlook.insert({
 	municipality: "Talisay City", 
 	data: {
 		month: {
-			Nov: 168.93, 
-			Dec: 161.76, 
-			Jan: 95.05, 
-			Feb: 82.57, 
-			Mar: 87.87 
+			Dec: 162.02, 
+			Jan: 95.17, 
+			Feb: 82.68, 
+			Mar: 89.29, 
+			Apr: 79.13 
 		}
 	}
 }); 
@@ -7731,11 +7731,11 @@ WeatherOutlook.insert({
 	municipality: "Toledo City", 
 	data: {
 		month: {
-			Nov: 186.81, 
-			Dec: 168.49, 
-			Jan: 109.41, 
-			Feb: 82.99, 
-			Mar: 90.49 
+			Dec: 168.69, 
+			Jan: 109.50, 
+			Feb: 83.07, 
+			Mar: 91.76, 
+			Apr: 73.37 
 		}
 	}
 }); 
@@ -7746,11 +7746,11 @@ WeatherOutlook.insert({
 	municipality: "Tuburan", 
 	data: {
 		month: {
-			Nov: 202.98, 
-			Dec: 169.18, 
-			Jan: 159.97, 
-			Feb: 92.97, 
-			Mar: 93.86 
+			Dec: 169.42, 
+			Jan: 160.17, 
+			Feb: 93.09, 
+			Mar: 95.31, 
+			Apr: 48.93 
 		}
 	}
 }); 
@@ -7761,11 +7761,11 @@ WeatherOutlook.insert({
 	municipality: "Tudela", 
 	data: {
 		month: {
-			Nov: 259.88, 
-			Dec: 289.44, 
-			Jan: 275.03, 
-			Feb: 145.09, 
-			Mar: 148.5 
+			Dec: 289.68, 
+			Jan: 275.19, 
+			Feb: 145.21, 
+			Mar: 150.20, 
+			Apr: 102.77 
 		}
 	}
 }); 
@@ -7776,11 +7776,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 234.12, 
-			Dec: 325.44, 
-			Jan: 375.63, 
-			Feb: 273.97, 
-			Mar: 281.95 
+			Dec: 325.80, 
+			Jan: 375.59, 
+			Feb: 274.19, 
+			Mar: 283.99, 
+			Apr: 210.01 
 		}
 	}
 }); 
@@ -7791,11 +7791,11 @@ WeatherOutlook.insert({
 	municipality: "Compostela", 
 	data: {
 		month: {
-			Nov: 244.42, 
-			Dec: 372.93, 
-			Jan: 450.35, 
-			Feb: 319.94, 
-			Mar: 310.96 
+			Dec: 373.24, 
+			Jan: 450.26, 
+			Feb: 320.13, 
+			Mar: 313.07, 
+			Apr: 235.81 
 		}
 	}
 }); 
@@ -7806,11 +7806,11 @@ WeatherOutlook.insert({
 	municipality: "Laak", 
 	data: {
 		month: {
-			Nov: 223.97, 
-			Dec: 342.31, 
-			Jan: 383.45, 
-			Feb: 265.91, 
-			Mar: 325.47 
+			Dec: 342.60, 
+			Jan: 383.31, 
+			Feb: 266.06, 
+			Mar: 327.54, 
+			Apr: 236.58 
 		}
 	}
 }); 
@@ -7821,11 +7821,11 @@ WeatherOutlook.insert({
 	municipality: "Mabini", 
 	data: {
 		month: {
-			Nov: 231.05, 
-			Dec: 255.48, 
-			Jan: 286.07, 
-			Feb: 230.46, 
-			Mar: 219.41 
+			Dec: 255.81, 
+			Jan: 285.98, 
+			Feb: 230.65, 
+			Mar: 221.27, 
+			Apr: 182.00 
 		}
 	}
 }); 
@@ -7836,11 +7836,11 @@ WeatherOutlook.insert({
 	municipality: "Maco", 
 	data: {
 		month: {
-			Nov: 214.43, 
-			Dec: 251.39, 
-			Jan: 309.66, 
-			Feb: 241.93, 
-			Mar: 223.5 
+			Dec: 251.70, 
+			Jan: 309.58, 
+			Feb: 242.10, 
+			Mar: 225.35, 
+			Apr: 180.27 
 		}
 	}
 }); 
@@ -7851,11 +7851,11 @@ WeatherOutlook.insert({
 	municipality: "Maragusan", 
 	data: {
 		month: {
-			Nov: 254.68, 
-			Dec: 311.6, 
-			Jan: 331.68, 
-			Feb: 268.81, 
-			Mar: 264.76 
+			Dec: 311.90, 
+			Jan: 331.59, 
+			Feb: 269.00, 
+			Mar: 266.72, 
+			Apr: 201.18 
 		}
 	}
 }); 
@@ -7866,11 +7866,11 @@ WeatherOutlook.insert({
 	municipality: "Mawab", 
 	data: {
 		month: {
-			Nov: 180.24, 
-			Dec: 278.83, 
-			Jan: 380.5, 
-			Feb: 262.44, 
-			Mar: 235.89 
+			Dec: 279.14, 
+			Jan: 380.42, 
+			Feb: 262.62, 
+			Mar: 237.79, 
+			Apr: 170.62 
 		}
 	}
 }); 
@@ -7881,11 +7881,11 @@ WeatherOutlook.insert({
 	municipality: "Monkayo", 
 	data: {
 		month: {
-			Nov: 266.42, 
-			Dec: 417.22, 
-			Jan: 479.57, 
-			Feb: 317.71, 
-			Mar: 360.67 
+			Dec: 417.56, 
+			Jan: 479.48, 
+			Feb: 317.91, 
+			Mar: 362.97, 
+			Apr: 254.74 
 		}
 	}
 }); 
@@ -7896,11 +7896,11 @@ WeatherOutlook.insert({
 	municipality: "Montevista", 
 	data: {
 		month: {
-			Nov: 209.17, 
-			Dec: 338.95, 
-			Jan: 425.43, 
-			Feb: 294.16, 
-			Mar: 291.54 
+			Dec: 339.34, 
+			Jan: 425.42, 
+			Feb: 294.40, 
+			Mar: 293.67, 
+			Apr: 210.96 
 		}
 	}
 }); 
@@ -7911,11 +7911,11 @@ WeatherOutlook.insert({
 	municipality: "Nabunturan", 
 	data: {
 		month: {
-			Nov: 195.21, 
-			Dec: 311.83, 
-			Jan: 401.7, 
-			Feb: 278.13, 
-			Mar: 250.33 
+			Dec: 312.13, 
+			Jan: 401.62, 
+			Feb: 278.31, 
+			Mar: 252.27, 
+			Apr: 174.34 
 		}
 	}
 }); 
@@ -7926,11 +7926,11 @@ WeatherOutlook.insert({
 	municipality: "New Bataan", 
 	data: {
 		month: {
-			Nov: 255.85, 
-			Dec: 368.76, 
-			Jan: 409.32, 
-			Feb: 309.89, 
-			Mar: 305.14 
+			Dec: 369.06, 
+			Jan: 409.24, 
+			Feb: 310.08, 
+			Mar: 307.17, 
+			Apr: 219.58 
 		}
 	}
 }); 
@@ -7941,11 +7941,11 @@ WeatherOutlook.insert({
 	municipality: "Pantukan", 
 	data: {
 		month: {
-			Nov: 226.02, 
-			Dec: 240.63, 
-			Jan: 257.49, 
-			Feb: 213.13, 
-			Mar: 213.67 
+			Dec: 240.93, 
+			Jan: 257.37, 
+			Feb: 213.32, 
+			Mar: 215.58, 
+			Apr: 175.71 
 		}
 	}
 }); 
@@ -7956,11 +7956,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 202.28, 
-			Dec: 221.15, 
-			Jan: 259.36, 
-			Feb: 213.64, 
-			Mar: 226.03 
+			Dec: 221.50, 
+			Jan: 259.30, 
+			Feb: 213.81, 
+			Mar: 227.72, 
+			Apr: 195.30 
 		}
 	}
 }); 
@@ -7971,11 +7971,11 @@ WeatherOutlook.insert({
 	municipality: "Asuncion", 
 	data: {
 		month: {
-			Nov: 192.38, 
-			Dec: 259.83, 
-			Jan: 337.44, 
-			Feb: 256.24, 
-			Mar: 261.26 
+			Dec: 260.14, 
+			Jan: 337.35, 
+			Feb: 256.40, 
+			Mar: 263.18, 
+			Apr: 209.01 
 		}
 	}
 }); 
@@ -7986,11 +7986,11 @@ WeatherOutlook.insert({
 	municipality: "Braulio E. Dujali", 
 	data: {
 		month: {
-			Nov: 186.28, 
-			Dec: 153.59, 
-			Jan: 229.36, 
-			Feb: 199.79, 
-			Mar: 190.03 
+			Dec: 153.93, 
+			Jan: 229.30, 
+			Feb: 199.96, 
+			Mar: 191.65, 
+			Apr: 190.09 
 		}
 	}
 }); 
@@ -8001,11 +8001,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 191.58, 
-			Dec: 142.12, 
-			Jan: 221.59, 
-			Feb: 198.32, 
-			Mar: 178.79 
+			Dec: 142.46, 
+			Jan: 221.52, 
+			Feb: 198.49, 
+			Mar: 180.44, 
+			Apr: 189.05 
 		}
 	}
 }); 
@@ -8016,11 +8016,11 @@ WeatherOutlook.insert({
 	municipality: "Kapalong", 
 	data: {
 		month: {
-			Nov: 227.69, 
-			Dec: 278.4, 
-			Jan: 292.1, 
-			Feb: 233.93, 
-			Mar: 275.79 
+			Dec: 278.76, 
+			Jan: 292.08, 
+			Feb: 234.11, 
+			Mar: 277.45, 
+			Apr: 217.44 
 		}
 	}
 }); 
@@ -8031,11 +8031,11 @@ WeatherOutlook.insert({
 	municipality: "New Corella", 
 	data: {
 		month: {
-			Nov: 184.77, 
-			Dec: 262.88, 
-			Jan: 348.44, 
-			Feb: 257.23, 
-			Mar: 245.97 
+			Dec: 263.19, 
+			Jan: 348.36, 
+			Feb: 257.40, 
+			Mar: 247.85, 
+			Apr: 191.36 
 		}
 	}
 }); 
@@ -8046,11 +8046,11 @@ WeatherOutlook.insert({
 	municipality: "Panabo City", 
 	data: {
 		month: {
-			Nov: 188.69, 
-			Dec: 157.28, 
-			Jan: 196.2, 
-			Feb: 171.41, 
-			Mar: 175.1 
+			Dec: 157.63, 
+			Jan: 196.15, 
+			Feb: 171.58, 
+			Mar: 176.63, 
+			Apr: 183.07 
 		}
 	}
 }); 
@@ -8061,11 +8061,11 @@ WeatherOutlook.insert({
 	municipality: "Samal City", 
 	data: {
 		month: {
-			Nov: 150.06, 
-			Dec: 143.45, 
-			Jan: 140.49, 
-			Feb: 116.54, 
-			Mar: 106.37 
+			Dec: 143.77, 
+			Jan: 140.38, 
+			Feb: 116.72, 
+			Mar: 108.11, 
+			Apr: 123.90 
 		}
 	}
 }); 
@@ -8076,11 +8076,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 212.83, 
-			Dec: 276.08, 
-			Jan: 305.11, 
-			Feb: 241.07, 
-			Mar: 280.96 
+			Dec: 276.42, 
+			Jan: 305.05, 
+			Feb: 241.24, 
+			Mar: 282.76, 
+			Apr: 214.39 
 		}
 	}
 }); 
@@ -8091,11 +8091,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 198.21, 
-			Dec: 182.72, 
-			Jan: 244.71, 
-			Feb: 212.14, 
-			Mar: 215.27 
+			Dec: 183.06, 
+			Jan: 244.65, 
+			Feb: 212.30, 
+			Mar: 216.88, 
+			Apr: 199.07 
 		}
 	}
 }); 
@@ -8106,11 +8106,11 @@ WeatherOutlook.insert({
 	municipality: "Tagum City", 
 	data: {
 		month: {
-			Nov: 193.4, 
-			Dec: 178.24, 
-			Jan: 264.59, 
-			Feb: 219.32, 
-			Mar: 193.18 
+			Dec: 178.56, 
+			Jan: 264.53, 
+			Feb: 219.50, 
+			Mar: 194.94, 
+			Apr: 187.87 
 		}
 	}
 }); 
@@ -8121,11 +8121,11 @@ WeatherOutlook.insert({
 	municipality: "Talaingod", 
 	data: {
 		month: {
-			Nov: 234, 
-			Dec: 244.43, 
-			Jan: 232.27, 
-			Feb: 214.52, 
-			Mar: 247.62 
+			Dec: 244.80, 
+			Jan: 232.24, 
+			Feb: 214.69, 
+			Mar: 249.10, 
+			Apr: 203.14 
 		}
 	}
 }); 
@@ -8136,11 +8136,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 170.3, 
-			Dec: 148.48, 
-			Jan: 140.93, 
-			Feb: 114.01, 
-			Mar: 130.98 
+			Dec: 148.92, 
+			Jan: 140.96, 
+			Feb: 114.21, 
+			Mar: 132.37, 
+			Apr: 125.30 
 		}
 	}
 }); 
@@ -8151,11 +8151,11 @@ WeatherOutlook.insert({
 	municipality: "Bansalan", 
 	data: {
 		month: {
-			Nov: 176.02, 
-			Dec: 147.47, 
-			Jan: 119.92, 
-			Feb: 102.69, 
-			Mar: 116.38 
+			Dec: 147.89, 
+			Jan: 119.84, 
+			Feb: 102.79, 
+			Mar: 117.17, 
+			Apr: 127.64 
 		}
 	}
 }); 
@@ -8166,11 +8166,11 @@ WeatherOutlook.insert({
 	municipality: "Davao City", 
 	data: {
 		month: {
-			Nov: 208.89, 
-			Dec: 174.88, 
-			Jan: 163.62, 
-			Feb: 145.98, 
-			Mar: 163.58 
+			Dec: 175.26, 
+			Jan: 163.58, 
+			Feb: 146.14, 
+			Mar: 164.85, 
+			Apr: 173.60 
 		}
 	}
 }); 
@@ -8181,11 +8181,11 @@ WeatherOutlook.insert({
 	municipality: "Digos City", 
 	data: {
 		month: {
-			Nov: 160.25, 
-			Dec: 129.43, 
-			Jan: 111.95, 
-			Feb: 94.13, 
-			Mar: 101.94 
+			Dec: 129.81, 
+			Jan: 111.87, 
+			Feb: 94.25, 
+			Mar: 102.95, 
+			Apr: 118.34 
 		}
 	}
 }); 
@@ -8196,11 +8196,11 @@ WeatherOutlook.insert({
 	municipality: "Don Marcelino", 
 	data: {
 		month: {
-			Nov: 184.33, 
-			Dec: 184.84, 
-			Jan: 169.84, 
-			Feb: 119.54, 
-			Mar: 152.94 
+			Dec: 185.21, 
+			Jan: 169.88, 
+			Feb: 119.81, 
+			Mar: 154.92, 
+			Apr: 113.49 
 		}
 	}
 }); 
@@ -8211,11 +8211,11 @@ WeatherOutlook.insert({
 	municipality: "Hagonoy", 
 	data: {
 		month: {
-			Nov: 109.15, 
-			Dec: 89.23, 
-			Jan: 108.53, 
-			Feb: 82.41, 
-			Mar: 79.53 
+			Dec: 89.62, 
+			Jan: 108.49, 
+			Feb: 82.57, 
+			Mar: 80.70, 
+			Apr: 95.82 
 		}
 	}
 }); 
@@ -8226,11 +8226,11 @@ WeatherOutlook.insert({
 	municipality: "Jose Abad Santos", 
 	data: {
 		month: {
-			Nov: 193.39, 
-			Dec: 170.22, 
-			Jan: 164.76, 
-			Feb: 114.86, 
-			Mar: 146.04 
+			Dec: 170.61, 
+			Jan: 164.83, 
+			Feb: 115.15, 
+			Mar: 148.02, 
+			Apr: 110.53 
 		}
 	}
 }); 
@@ -8241,11 +8241,11 @@ WeatherOutlook.insert({
 	municipality: "Kiblawan", 
 	data: {
 		month: {
-			Nov: 84.88, 
-			Dec: 84.38, 
-			Jan: 108.4, 
-			Feb: 92.77, 
-			Mar: 94.15 
+			Dec: 84.73, 
+			Jan: 108.32, 
+			Feb: 92.92, 
+			Mar: 95.32, 
+			Apr: 90.60 
 		}
 	}
 }); 
@@ -8256,11 +8256,11 @@ WeatherOutlook.insert({
 	municipality: "Magsaysay", 
 	data: {
 		month: {
-			Nov: 130.62, 
-			Dec: 114.89, 
-			Jan: 117.61, 
-			Feb: 92.74, 
-			Mar: 97.23 
+			Dec: 115.35, 
+			Jan: 117.57, 
+			Feb: 92.84, 
+			Mar: 97.95, 
+			Apr: 105.76 
 		}
 	}
 }); 
@@ -8271,11 +8271,11 @@ WeatherOutlook.insert({
 	municipality: "Malalag", 
 	data: {
 		month: {
-			Nov: 132.01, 
-			Dec: 120.82, 
-			Jan: 110.36, 
-			Feb: 96.02, 
-			Mar: 107.04 
+			Dec: 121.21, 
+			Jan: 110.37, 
+			Feb: 96.23, 
+			Mar: 108.42, 
+			Apr: 95.47 
 		}
 	}
 }); 
@@ -8286,11 +8286,11 @@ WeatherOutlook.insert({
 	municipality: "Malita", 
 	data: {
 		month: {
-			Nov: 150.34, 
-			Dec: 139.1, 
-			Jan: 134.77, 
-			Feb: 101.83, 
-			Mar: 124.02 
+			Dec: 139.48, 
+			Jan: 134.79, 
+			Feb: 102.07, 
+			Mar: 125.68, 
+			Apr: 96.07 
 		}
 	}
 }); 
@@ -8301,11 +8301,11 @@ WeatherOutlook.insert({
 	municipality: "Matanao", 
 	data: {
 		month: {
-			Nov: 99.78, 
-			Dec: 85.64, 
-			Jan: 111.47, 
-			Feb: 88.02, 
-			Mar: 89.18 
+			Dec: 86.03, 
+			Jan: 111.41, 
+			Feb: 88.15, 
+			Mar: 90.19, 
+			Apr: 98.92 
 		}
 	}
 }); 
@@ -8316,11 +8316,11 @@ WeatherOutlook.insert({
 	municipality: "Padada", 
 	data: {
 		month: {
-			Nov: 108.76, 
-			Dec: 93, 
-			Jan: 106.59, 
-			Feb: 84.59, 
-			Mar: 82.25 
+			Dec: 93.27, 
+			Jan: 106.46, 
+			Feb: 84.73, 
+			Mar: 83.54, 
+			Apr: 95.14 
 		}
 	}
 }); 
@@ -8331,11 +8331,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 183.34, 
-			Dec: 151.2, 
-			Jan: 112.03, 
-			Feb: 101.74, 
-			Mar: 106.22 
+			Dec: 151.58, 
+			Jan: 111.96, 
+			Feb: 101.87, 
+			Mar: 107.36, 
+			Apr: 129.49 
 		}
 	}
 }); 
@@ -8346,11 +8346,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 138.85, 
-			Dec: 125.85, 
-			Jan: 121.28, 
-			Feb: 96.38, 
-			Mar: 106.62 
+			Dec: 126.22, 
+			Jan: 121.27, 
+			Feb: 96.59, 
+			Mar: 108.17, 
+			Apr: 96.28 
 		}
 	}
 }); 
@@ -8361,11 +8361,11 @@ WeatherOutlook.insert({
 	municipality: "Sarangani", 
 	data: {
 		month: {
-			Nov: 206.67, 
-			Dec: 168.5, 
-			Jan: 168.34, 
-			Feb: 99.63, 
-			Mar: 140.45 
+			Dec: 168.91, 
+			Jan: 168.49, 
+			Feb: 99.97, 
+			Mar: 142.62, 
+			Apr: 119.51 
 		}
 	}
 }); 
@@ -8376,11 +8376,11 @@ WeatherOutlook.insert({
 	municipality: "Sulop", 
 	data: {
 		month: {
-			Nov: 108.49, 
-			Dec: 91.22, 
+			Dec: 91.63, 
 			Jan: 107.53, 
-			Feb: 89.34, 
-			Mar: 89.74 
+			Feb: 89.52, 
+			Mar: 91.02, 
+			Apr: 94.24 
 		}
 	}
 }); 
@@ -8391,11 +8391,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 224.02, 
-			Dec: 287.16, 
-			Jan: 321.11, 
-			Feb: 238.19, 
-			Mar: 241.27 
+			Dec: 287.46, 
+			Jan: 321.02, 
+			Feb: 238.38, 
+			Mar: 243.35, 
+			Apr: 203.32 
 		}
 	}
 }); 
@@ -8406,11 +8406,11 @@ WeatherOutlook.insert({
 	municipality: "Baganga", 
 	data: {
 		month: {
-			Nov: 290.68, 
-			Dec: 388.67, 
-			Jan: 416.34, 
-			Feb: 320.52, 
-			Mar: 312.4 
+			Dec: 388.94, 
+			Jan: 416.25, 
+			Feb: 320.70, 
+			Mar: 314.56, 
+			Apr: 274.72 
 		}
 	}
 }); 
@@ -8421,11 +8421,11 @@ WeatherOutlook.insert({
 	municipality: "Banaybanay", 
 	data: {
 		month: {
-			Nov: 204.79, 
-			Dec: 227.55, 
-			Jan: 253.48, 
-			Feb: 203.38, 
-			Mar: 200.3 
+			Dec: 227.86, 
+			Jan: 253.35, 
+			Feb: 203.58, 
+			Mar: 202.25, 
+			Apr: 161.11 
 		}
 	}
 }); 
@@ -8436,11 +8436,11 @@ WeatherOutlook.insert({
 	municipality: "Boston", 
 	data: {
 		month: {
-			Nov: 331.7, 
-			Dec: 472.07, 
-			Jan: 533.98, 
-			Feb: 347.96, 
-			Mar: 382.86 
+			Dec: 472.43, 
+			Jan: 533.94, 
+			Feb: 348.18, 
+			Mar: 385.15, 
+			Apr: 306.22 
 		}
 	}
 }); 
@@ -8451,11 +8451,11 @@ WeatherOutlook.insert({
 	municipality: "Caraga", 
 	data: {
 		month: {
-			Nov: 257.28, 
-			Dec: 329.08, 
-			Jan: 332.62, 
-			Feb: 285.36, 
-			Mar: 274.73 
+			Dec: 329.36, 
+			Jan: 332.54, 
+			Feb: 285.55, 
+			Mar: 276.86, 
+			Apr: 220.81 
 		}
 	}
 }); 
@@ -8466,11 +8466,11 @@ WeatherOutlook.insert({
 	municipality: "Cateel", 
 	data: {
 		month: {
-			Nov: 317.43, 
-			Dec: 425.68, 
-			Jan: 477.89, 
-			Feb: 334.22, 
-			Mar: 339.03 
+			Dec: 425.96, 
+			Jan: 477.77, 
+			Feb: 334.37, 
+			Mar: 341.20, 
+			Apr: 330.20 
 		}
 	}
 }); 
@@ -8481,11 +8481,11 @@ WeatherOutlook.insert({
 	municipality: "Governor Generoso", 
 	data: {
 		month: {
-			Nov: 137.37, 
-			Dec: 190.07, 
-			Jan: 238.9, 
-			Feb: 141.86, 
-			Mar: 169.06 
+			Dec: 190.41, 
+			Jan: 238.90, 
+			Feb: 142.11, 
+			Mar: 171.12, 
+			Apr: 139.53 
 		}
 	}
 }); 
@@ -8496,11 +8496,11 @@ WeatherOutlook.insert({
 	municipality: "Lupon", 
 	data: {
 		month: {
-			Nov: 176.61, 
-			Dec: 204.17, 
-			Jan: 233.43, 
-			Feb: 181.45, 
-			Mar: 178.21 
+			Dec: 204.49, 
+			Jan: 233.30, 
+			Feb: 181.66, 
+			Mar: 180.16, 
+			Apr: 148.50 
 		}
 	}
 }); 
@@ -8511,11 +8511,11 @@ WeatherOutlook.insert({
 	municipality: "Manay", 
 	data: {
 		month: {
-			Nov: 226.37, 
-			Dec: 280.45, 
-			Jan: 291.82, 
-			Feb: 245.03, 
-			Mar: 235.41 
+			Dec: 280.70, 
+			Jan: 291.71, 
+			Feb: 245.21, 
+			Mar: 237.53, 
+			Apr: 192.41 
 		}
 	}
 }); 
@@ -8526,11 +8526,11 @@ WeatherOutlook.insert({
 	municipality: "Mati City", 
 	data: {
 		month: {
-			Nov: 163.79, 
-			Dec: 195.88, 
-			Jan: 242.21, 
-			Feb: 164.96, 
-			Mar: 173.77 
+			Dec: 196.20, 
+			Jan: 242.13, 
+			Feb: 165.18, 
+			Mar: 175.79, 
+			Apr: 145.04 
 		}
 	}
 }); 
@@ -8541,11 +8541,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 130.28, 
-			Dec: 175.98, 
-			Jan: 240.33, 
-			Feb: 157.67, 
-			Mar: 167.06 
+			Dec: 176.30, 
+			Jan: 240.23, 
+			Feb: 157.88, 
+			Mar: 169.01, 
+			Apr: 138.38 
 		}
 	}
 }); 
@@ -8556,11 +8556,11 @@ WeatherOutlook.insert({
 	municipality: "Tarragona", 
 	data: {
 		month: {
-			Nov: 180.92, 
-			Dec: 214.72, 
-			Jan: 228.11, 
-			Feb: 189.7, 
-			Mar: 185.91 
+			Dec: 215.01, 
+			Jan: 228.02, 
+			Feb: 189.89, 
+			Mar: 187.99, 
+			Apr: 150.70 
 		}
 	}
 }); 
@@ -8571,11 +8571,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 372.67, 
-			Dec: 519.74, 
-			Jan: 538.56, 
-			Feb: 292.51, 
-			Mar: 311.27 
+			Dec: 519.99, 
+			Jan: 538.62, 
+			Feb: 292.64, 
+			Mar: 313.71, 
+			Apr: 200.58 
 		}
 	}
 }); 
@@ -8586,11 +8586,11 @@ WeatherOutlook.insert({
 	municipality: "Basilisa", 
 	data: {
 		month: {
-			Nov: 348.33, 
-			Dec: 484.26, 
-			Jan: 555.13, 
-			Feb: 301.55, 
-			Mar: 301.75 
+			Dec: 484.50, 
+			Jan: 555.20, 
+			Feb: 301.69, 
+			Mar: 304.15, 
+			Apr: 182.15 
 		}
 	}
 }); 
@@ -8601,11 +8601,11 @@ WeatherOutlook.insert({
 	municipality: "Cagdianao", 
 	data: {
 		month: {
-			Nov: 367.28, 
-			Dec: 528.58, 
-			Jan: 560.39, 
-			Feb: 312.7, 
-			Mar: 329.35 
+			Dec: 528.88, 
+			Jan: 560.48, 
+			Feb: 312.87, 
+			Mar: 331.94, 
+			Apr: 216.79 
 		}
 	}
 }); 
@@ -8616,11 +8616,11 @@ WeatherOutlook.insert({
 	municipality: "Dinagat", 
 	data: {
 		month: {
-			Nov: 380.68, 
-			Dec: 529.51, 
-			Jan: 583.37, 
-			Feb: 311.96, 
-			Mar: 342.81 
+			Dec: 529.68, 
+			Jan: 583.34, 
+			Feb: 312.04, 
+			Mar: 345.28, 
+			Apr: 218.10 
 		}
 	}
 }); 
@@ -8631,11 +8631,11 @@ WeatherOutlook.insert({
 	municipality: "Libjo", 
 	data: {
 		month: {
-			Nov: 374.65, 
-			Dec: 541.53, 
-			Jan: 540.03, 
-			Feb: 294.73, 
-			Mar: 307.46 
+			Dec: 541.83, 
+			Jan: 540.15, 
+			Feb: 294.89, 
+			Mar: 309.86, 
+			Apr: 200.87 
 		}
 	}
 }); 
@@ -8646,11 +8646,11 @@ WeatherOutlook.insert({
 	municipality: "Loreto", 
 	data: {
 		month: {
-			Nov: 380.92, 
-			Dec: 509.44, 
-			Jan: 490.11, 
-			Feb: 259.39, 
-			Mar: 293.59 
+			Dec: 509.71, 
+			Jan: 490.22, 
+			Feb: 259.54, 
+			Mar: 295.95, 
+			Apr: 189.10 
 		}
 	}
 }); 
@@ -8661,11 +8661,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 378.12, 
-			Dec: 531.3, 
+			Dec: 531.50, 
 			Jan: 572.03, 
-			Feb: 311.53, 
-			Mar: 329.33 
+			Feb: 311.64, 
+			Mar: 331.84, 
+			Apr: 213.68 
 		}
 	}
 }); 
@@ -8676,11 +8676,11 @@ WeatherOutlook.insert({
 	municipality: "Tubajon", 
 	data: {
 		month: {
-			Nov: 387.07, 
-			Dec: 519.19, 
-			Jan: 514.79, 
-			Feb: 276.74, 
-			Mar: 296.36 
+			Dec: 519.51, 
+			Jan: 514.95, 
+			Feb: 276.93, 
+			Mar: 298.76, 
+			Apr: 194.82 
 		}
 	}
 }); 
@@ -8691,11 +8691,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 487.58, 
-			Dec: 571.01, 
-			Jan: 421.84, 
-			Feb: 260.67, 
-			Mar: 291.57 
+			Dec: 571.26, 
+			Jan: 422.05, 
+			Feb: 260.78, 
+			Mar: 293.65, 
+			Apr: 202.97 
 		}
 	}
 }); 
@@ -8706,11 +8706,11 @@ WeatherOutlook.insert({
 	municipality: "Arteche", 
 	data: {
 		month: {
-			Nov: 505.78, 
-			Dec: 548.2, 
-			Jan: 432.26, 
-			Feb: 258.78, 
-			Mar: 262 
+			Dec: 548.40, 
+			Jan: 432.49, 
+			Feb: 258.88, 
+			Mar: 263.87, 
+			Apr: 186.65 
 		}
 	}
 }); 
@@ -8721,11 +8721,11 @@ WeatherOutlook.insert({
 	municipality: "Balangiga", 
 	data: {
 		month: {
-			Nov: 454, 
-			Dec: 570.44, 
-			Jan: 421.74, 
-			Feb: 263.86, 
-			Mar: 272.75 
+			Dec: 570.71, 
+			Jan: 421.96, 
+			Feb: 264.01, 
+			Mar: 274.91, 
+			Apr: 190.82 
 		}
 	}
 }); 
@@ -8736,11 +8736,11 @@ WeatherOutlook.insert({
 	municipality: "Balangkayan", 
 	data: {
 		month: {
-			Nov: 506.02, 
-			Dec: 613.36, 
-			Jan: 413.13, 
-			Feb: 266.71, 
-			Mar: 302.01 
+			Dec: 613.60, 
+			Jan: 413.34, 
+			Feb: 266.84, 
+			Mar: 304.06, 
+			Apr: 218.25 
 		}
 	}
 }); 
@@ -8751,11 +8751,11 @@ WeatherOutlook.insert({
 	municipality: "Borongan City", 
 	data: {
 		month: {
-			Nov: 542.27, 
-			Dec: 647.29, 
-			Jan: 410.6, 
-			Feb: 260.46, 
-			Mar: 308.65 
+			Dec: 647.54, 
+			Jan: 410.84, 
+			Feb: 260.60, 
+			Mar: 310.64, 
+			Apr: 242.23 
 		}
 	}
 }); 
@@ -8766,11 +8766,11 @@ WeatherOutlook.insert({
 	municipality: "Can-Avid", 
 	data: {
 		month: {
-			Nov: 501.3, 
-			Dec: 542.86, 
-			Jan: 421.8, 
-			Feb: 271.89, 
-			Mar: 296.51 
+			Dec: 543.13, 
+			Jan: 422.07, 
+			Feb: 272.03, 
+			Mar: 298.52, 
+			Apr: 199.16 
 		}
 	}
 }); 
@@ -8781,11 +8781,11 @@ WeatherOutlook.insert({
 	municipality: "Dolores", 
 	data: {
 		month: {
-			Nov: 491.6, 
-			Dec: 519.84, 
-			Jan: 422.43, 
-			Feb: 267.56, 
-			Mar: 273.78 
+			Dec: 520.12, 
+			Jan: 422.71, 
+			Feb: 267.70, 
+			Mar: 275.78, 
+			Apr: 195.61 
 		}
 	}
 }); 
@@ -8796,11 +8796,11 @@ WeatherOutlook.insert({
 	municipality: "General Macarthur", 
 	data: {
 		month: {
-			Nov: 473.63, 
-			Dec: 575.91, 
-			Jan: 420.41, 
-			Feb: 269.02, 
-			Mar: 293.52 
+			Dec: 576.16, 
+			Jan: 420.61, 
+			Feb: 269.16, 
+			Mar: 295.67, 
+			Apr: 213.70 
 		}
 	}
 }); 
@@ -8811,11 +8811,11 @@ WeatherOutlook.insert({
 	municipality: "Giporlos", 
 	data: {
 		month: {
-			Nov: 423, 
-			Dec: 529.13, 
-			Jan: 444.98, 
-			Feb: 265.95, 
-			Mar: 258.96 
+			Dec: 529.41, 
+			Jan: 445.20, 
+			Feb: 266.11, 
+			Mar: 261.18, 
+			Apr: 179.91 
 		}
 	}
 }); 
@@ -8826,11 +8826,11 @@ WeatherOutlook.insert({
 	municipality: "Guiuan", 
 	data: {
 		month: {
-			Nov: 411.85, 
-			Dec: 517.92, 
-			Jan: 438.64, 
-			Feb: 242.03, 
-			Mar: 295.16 
+			Dec: 518.33, 
+			Jan: 438.94, 
+			Feb: 242.22, 
+			Mar: 297.73, 
+			Apr: 187.33 
 		}
 	}
 }); 
@@ -8841,11 +8841,11 @@ WeatherOutlook.insert({
 	municipality: "Hernani", 
 	data: {
 		month: {
-			Nov: 483.35, 
-			Dec: 580.09, 
-			Jan: 431.51, 
-			Feb: 272.18, 
-			Mar: 309.19 
+			Dec: 580.28, 
+			Jan: 431.66, 
+			Feb: 272.28, 
+			Mar: 311.34, 
+			Apr: 209.79 
 		}
 	}
 }); 
@@ -8856,11 +8856,11 @@ WeatherOutlook.insert({
 	municipality: "Jipapad", 
 	data: {
 		month: {
-			Nov: 498.56, 
-			Dec: 570.55, 
-			Jan: 422.89, 
-			Feb: 244.36, 
-			Mar: 287.35 
+			Dec: 570.80, 
+			Jan: 423.18, 
+			Feb: 244.50, 
+			Mar: 289.25, 
+			Apr: 171.32 
 		}
 	}
 }); 
@@ -8871,11 +8871,11 @@ WeatherOutlook.insert({
 	municipality: "Lawaan", 
 	data: {
 		month: {
-			Nov: 451.1, 
-			Dec: 572.4, 
-			Jan: 416.29, 
-			Feb: 255.99, 
-			Mar: 267.35 
+			Dec: 572.65, 
+			Jan: 416.47, 
+			Feb: 256.11, 
+			Mar: 269.50, 
+			Apr: 183.33 
 		}
 	}
 }); 
@@ -8886,11 +8886,11 @@ WeatherOutlook.insert({
 	municipality: "Llorente", 
 	data: {
 		month: {
-			Nov: 492.3, 
-			Dec: 593.82, 
-			Jan: 415.14, 
-			Feb: 268.3, 
-			Mar: 298.69 
+			Dec: 594.07, 
+			Jan: 415.35, 
+			Feb: 268.43, 
+			Mar: 300.79, 
+			Apr: 211.15 
 		}
 	}
 }); 
@@ -8901,11 +8901,11 @@ WeatherOutlook.insert({
 	municipality: "Maslog", 
 	data: {
 		month: {
-			Nov: 502.2, 
-			Dec: 562.58, 
-			Jan: 406.46, 
-			Feb: 247.22, 
-			Mar: 301.97 
+			Dec: 562.94, 
+			Jan: 406.83, 
+			Feb: 247.40, 
+			Mar: 304.10, 
+			Apr: 187.22 
 		}
 	}
 }); 
@@ -8916,11 +8916,11 @@ WeatherOutlook.insert({
 	municipality: "Maydolong", 
 	data: {
 		month: {
-			Nov: 519.19, 
-			Dec: 634.06, 
-			Jan: 413.72, 
-			Feb: 266.04, 
-			Mar: 303.86 
+			Dec: 634.32, 
+			Jan: 413.94, 
+			Feb: 266.17, 
+			Mar: 305.88, 
+			Apr: 229.49 
 		}
 	}
 }); 
@@ -8931,11 +8931,11 @@ WeatherOutlook.insert({
 	municipality: "Mercedes", 
 	data: {
 		month: {
-			Nov: 478.38, 
-			Dec: 591.9, 
-			Jan: 460.66, 
-			Feb: 263.17, 
-			Mar: 365.59 
+			Dec: 592.01, 
+			Jan: 460.73, 
+			Feb: 263.22, 
+			Mar: 368.05, 
+			Apr: 215.14 
 		}
 	}
 }); 
@@ -8946,11 +8946,11 @@ WeatherOutlook.insert({
 	municipality: "Oras", 
 	data: {
 		month: {
-			Nov: 485.32, 
-			Dec: 506.62, 
-			Jan: 431.23, 
-			Feb: 268.85, 
-			Mar: 251.02 
+			Dec: 506.86, 
+			Jan: 431.48, 
+			Feb: 268.98, 
+			Mar: 252.94, 
+			Apr: 194.29 
 		}
 	}
 }); 
@@ -8961,11 +8961,11 @@ WeatherOutlook.insert({
 	municipality: "Quinapondan", 
 	data: {
 		month: {
-			Nov: 463.09, 
-			Dec: 574.64, 
-			Jan: 429.04, 
-			Feb: 265.36, 
-			Mar: 292.3 
+			Dec: 574.91, 
+			Jan: 429.26, 
+			Feb: 265.51, 
+			Mar: 294.49, 
+			Apr: 209.13 
 		}
 	}
 }); 
@@ -8976,11 +8976,11 @@ WeatherOutlook.insert({
 	municipality: "Salcedo", 
 	data: {
 		month: {
-			Nov: 431.67, 
-			Dec: 533.1, 
-			Jan: 413.35, 
-			Feb: 244.67, 
-			Mar: 306.72 
+			Dec: 533.40, 
+			Jan: 413.60, 
+			Feb: 244.84, 
+			Mar: 309.06, 
+			Apr: 196.32 
 		}
 	}
 }); 
@@ -8991,11 +8991,11 @@ WeatherOutlook.insert({
 	municipality: "San Julian", 
 	data: {
 		month: {
-			Nov: 524.33, 
-			Dec: 621.91, 
-			Jan: 410.75, 
-			Feb: 262.22, 
-			Mar: 312.37 
+			Dec: 622.16, 
+			Jan: 410.99, 
+			Feb: 262.35, 
+			Mar: 314.35, 
+			Apr: 221.29 
 		}
 	}
 }); 
@@ -9006,11 +9006,11 @@ WeatherOutlook.insert({
 	municipality: "San Policarpo", 
 	data: {
 		month: {
-			Nov: 500.58, 
-			Dec: 524.69, 
-			Jan: 446.57, 
-			Feb: 267.46, 
-			Mar: 247.23 
+			Dec: 524.80, 
+			Jan: 446.71, 
+			Feb: 267.51, 
+			Mar: 249.07, 
+			Apr: 189.92 
 		}
 	}
 }); 
@@ -9021,11 +9021,11 @@ WeatherOutlook.insert({
 	municipality: "Sulat", 
 	data: {
 		month: {
-			Nov: 510.88, 
-			Dec: 592.18, 
-			Jan: 418.03, 
-			Feb: 259.28, 
-			Mar: 308.06 
+			Dec: 592.44, 
+			Jan: 418.28, 
+			Feb: 259.41, 
+			Mar: 310.04, 
+			Apr: 206.53 
 		}
 	}
 }); 
@@ -9036,11 +9036,11 @@ WeatherOutlook.insert({
 	municipality: "Taft", 
 	data: {
 		month: {
-			Nov: 497.22, 
-			Dec: 563.98, 
-			Jan: 419.35, 
-			Feb: 262.63, 
-			Mar: 308.63 
+			Dec: 564.25, 
+			Jan: 419.62, 
+			Feb: 262.77, 
+			Mar: 310.63, 
+			Apr: 196.27 
 		}
 	}
 }); 
@@ -9051,11 +9051,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 183.27, 
-			Dec: 140.6, 
+			Dec: 140.64, 
 			Jan: 67.57, 
-			Feb: 47.88, 
-			Mar: 58.07 
+			Feb: 47.93, 
+			Mar: 58.72, 
+			Apr: 63.76 
 		}
 	}
 }); 
@@ -9066,11 +9066,11 @@ WeatherOutlook.insert({
 	municipality: "Buenavista", 
 	data: {
 		month: {
-			Nov: 206.13, 
-			Dec: 148.57, 
+			Dec: 148.59, 
 			Jan: 67.21, 
-			Feb: 51.18, 
-			Mar: 64.59 
+			Feb: 51.22, 
+			Mar: 65.25, 
+			Apr: 61.79 
 		}
 	}
 }); 
@@ -9081,11 +9081,11 @@ WeatherOutlook.insert({
 	municipality: "Jordan", 
 	data: {
 		month: {
-			Nov: 167.59, 
-			Dec: 125.62, 
-			Jan: 55.48, 
-			Feb: 38.79, 
-			Mar: 51.88 
+			Dec: 125.63, 
+			Jan: 55.46, 
+			Feb: 38.82, 
+			Mar: 52.50, 
+			Apr: 58.00 
 		}
 	}
 }); 
@@ -9096,11 +9096,11 @@ WeatherOutlook.insert({
 	municipality: "Nueva Valencia", 
 	data: {
 		month: {
-			Nov: 165.94, 
-			Dec: 135.59, 
-			Jan: 67.92, 
-			Feb: 47.86, 
-			Mar: 53.56 
+			Dec: 135.64, 
+			Jan: 67.91, 
+			Feb: 47.92, 
+			Mar: 54.20, 
+			Apr: 64.49 
 		}
 	}
 }); 
@@ -9111,11 +9111,11 @@ WeatherOutlook.insert({
 	municipality: "San Lorenzo", 
 	data: {
 		month: {
-			Nov: 194.12, 
-			Dec: 147.49, 
-			Jan: 71.39, 
-			Feb: 51.6, 
-			Mar: 62.87 
+			Dec: 147.52, 
+			Jan: 71.38, 
+			Feb: 51.64, 
+			Mar: 63.54, 
+			Apr: 64.77 
 		}
 	}
 }); 
@@ -9126,11 +9126,11 @@ WeatherOutlook.insert({
 	municipality: "Sibunag", 
 	data: {
 		month: {
-			Nov: 186.81, 
-			Dec: 144.22, 
+			Dec: 144.28, 
 			Jan: 71.94, 
-			Feb: 48.45, 
-			Mar: 58.44 
+			Feb: 48.50, 
+			Mar: 59.10, 
+			Apr: 67.06 
 		}
 	}
 }); 
@@ -9141,11 +9141,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 219.95, 
-			Dec: 126.99, 
-			Jan: 37.83, 
-			Feb: 45.03, 
-			Mar: 81.18 
+			Dec: 126.97, 
+			Jan: 37.91, 
+			Feb: 45.17, 
+			Mar: 79.97, 
+			Apr: 119.50 
 		}
 	}
 }); 
@@ -9156,11 +9156,11 @@ WeatherOutlook.insert({
 	municipality: "Aguinaldo", 
 	data: {
 		month: {
-			Nov: 247.59, 
-			Dec: 151.06, 
-			Jan: 45.85, 
-			Feb: 45.39, 
-			Mar: 77.23 
+			Dec: 151.01, 
+			Jan: 45.92, 
+			Feb: 45.51, 
+			Mar: 76.25, 
+			Apr: 101.70 
 		}
 	}
 }); 
@@ -9171,11 +9171,11 @@ WeatherOutlook.insert({
 	municipality: "Alfonso Lista", 
 	data: {
 		month: {
-			Nov: 233.72, 
-			Dec: 145.45, 
-			Jan: 50.66, 
-			Feb: 45.26, 
-			Mar: 79.06 
+			Dec: 145.39, 
+			Jan: 50.73, 
+			Feb: 45.37, 
+			Mar: 78.33, 
+			Apr: 85.81 
 		}
 	}
 }); 
@@ -9186,11 +9186,11 @@ WeatherOutlook.insert({
 	municipality: "Asipulo", 
 	data: {
 		month: {
-			Nov: 201.47, 
-			Dec: 121.78, 
-			Jan: 33.37, 
-			Feb: 45.96, 
-			Mar: 83.11 
+			Dec: 121.70, 
+			Jan: 33.41, 
+			Feb: 46.08, 
+			Mar: 81.93, 
+			Apr: 133.97 
 		}
 	}
 }); 
@@ -9201,11 +9201,11 @@ WeatherOutlook.insert({
 	municipality: "Banaue", 
 	data: {
 		month: {
-			Nov: 245.39, 
-			Dec: 123.42, 
-			Jan: 30.18, 
-			Feb: 42.06, 
-			Mar: 80.72 
+			Dec: 123.32, 
+			Jan: 30.24, 
+			Feb: 42.22, 
+			Mar: 79.01, 
+			Apr: 132.60 
 		}
 	}
 }); 
@@ -9216,11 +9216,11 @@ WeatherOutlook.insert({
 	municipality: "Hingyon", 
 	data: {
 		month: {
-			Nov: 226.52, 
-			Dec: 114.46, 
-			Jan: 34.5, 
-			Feb: 46.97, 
-			Mar: 86.42 
+			Dec: 114.25, 
+			Jan: 34.47, 
+			Feb: 47.08, 
+			Mar: 84.92, 
+			Apr: 134.84 
 		}
 	}
 }); 
@@ -9231,11 +9231,11 @@ WeatherOutlook.insert({
 	municipality: "Hungduan", 
 	data: {
 		month: {
-			Nov: 211.89, 
-			Dec: 101.31, 
-			Jan: 26.48, 
-			Feb: 41.27, 
-			Mar: 81.25 
+			Dec: 101.28, 
+			Jan: 26.58, 
+			Feb: 41.43, 
+			Mar: 79.58, 
+			Apr: 142.52 
 		}
 	}
 }); 
@@ -9246,11 +9246,11 @@ WeatherOutlook.insert({
 	municipality: "Kiangan", 
 	data: {
 		month: {
-			Nov: 209.6, 
-			Dec: 114.72, 
-			Jan: 35.17, 
-			Feb: 47.76, 
-			Mar: 84.59 
+			Dec: 114.58, 
+			Jan: 35.18, 
+			Feb: 47.87, 
+			Mar: 83.29, 
+			Apr: 133.71 
 		}
 	}
 }); 
@@ -9261,11 +9261,11 @@ WeatherOutlook.insert({
 	municipality: "Lagawe", 
 	data: {
 		month: {
-			Nov: 205.95, 
-			Dec: 125.79, 
-			Jan: 40.13, 
-			Feb: 48.28, 
-			Mar: 84.76 
+			Dec: 125.68, 
+			Jan: 40.16, 
+			Feb: 48.39, 
+			Mar: 83.60, 
+			Apr: 119.13 
 		}
 	}
 }); 
@@ -9276,11 +9276,11 @@ WeatherOutlook.insert({
 	municipality: "Lamut", 
 	data: {
 		month: {
-			Nov: 186.63, 
-			Dec: 139.86, 
-			Jan: 37, 
-			Feb: 49.28, 
-			Mar: 82.81 
+			Dec: 139.75, 
+			Jan: 37.02, 
+			Feb: 49.38, 
+			Mar: 81.76, 
+			Apr: 118.79 
 		}
 	}
 }); 
@@ -9291,11 +9291,11 @@ WeatherOutlook.insert({
 	municipality: "Mayoyao", 
 	data: {
 		month: {
-			Nov: 234.58, 
-			Dec: 136.13, 
-			Jan: 40.65, 
-			Feb: 46.08, 
-			Mar: 80.89 
+			Dec: 136.04, 
+			Jan: 40.70, 
+			Feb: 46.21, 
+			Mar: 79.66, 
+			Apr: 115.63 
 		}
 	}
 }); 
@@ -9306,11 +9306,11 @@ WeatherOutlook.insert({
 	municipality: "Tinoc", 
 	data: {
 		month: {
-			Nov: 188.28, 
-			Dec: 91.33, 
-			Jan: 26.03, 
-			Feb: 39.27, 
-			Mar: 79.38 
+			Dec: 91.26, 
+			Jan: 26.08, 
+			Feb: 39.39, 
+			Mar: 78.13, 
+			Apr: 142.32 
 		}
 	}
 }); 
@@ -9321,11 +9321,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 137.46, 
 			Dec: 38.38, 
-			Jan: 14.84, 
-			Feb: 10.45, 
-			Mar: 26.78 
+			Jan: 14.94, 
+			Feb: 10.61, 
+			Mar: 25.99, 
+			Apr: 37.36 
 		}
 	}
 }); 
@@ -9336,11 +9336,11 @@ WeatherOutlook.insert({
 	municipality: "Adams", 
 	data: {
 		month: {
-			Nov: 261.48, 
-			Dec: 85.3, 
-			Jan: 26.61, 
-			Feb: 19.89, 
-			Mar: 73.81 
+			Dec: 85.32, 
+			Jan: 26.72, 
+			Feb: 20.07, 
+			Mar: 73.13, 
+			Apr: 68.98 
 		}
 	}
 }); 
@@ -9351,11 +9351,11 @@ WeatherOutlook.insert({
 	municipality: "Bacarra", 
 	data: {
 		month: {
-			Nov: 65.19, 
-			Dec: 14.08, 
-			Jan: 8.95, 
-			Feb: 6.39, 
-			Mar: 14.13 
+			Dec: 14.03, 
+			Jan: 9.02, 
+			Feb: 6.53, 
+			Mar: 13.32, 
+			Apr: 20.95 
 		}
 	}
 }); 
@@ -9366,11 +9366,11 @@ WeatherOutlook.insert({
 	municipality: "Badoc", 
 	data: {
 		month: {
-			Nov: 56.6, 
-			Dec: 14.61, 
-			Jan: 6.69, 
-			Feb: 4.66, 
-			Mar: 14.26 
+			Dec: 14.58, 
+			Jan: 6.76, 
+			Feb: 4.79, 
+			Mar: 13.37, 
+			Apr: 28.95 
 		}
 	}
 }); 
@@ -9381,11 +9381,11 @@ WeatherOutlook.insert({
 	municipality: "Bangui", 
 	data: {
 		month: {
-			Nov: 160.03, 
-			Dec: 44.44, 
-			Jan: 16.48, 
-			Feb: 10.69, 
-			Mar: 31.11 
+			Dec: 44.47, 
+			Jan: 16.59, 
+			Feb: 10.87, 
+			Mar: 30.42, 
+			Apr: 35.18 
 		}
 	}
 }); 
@@ -9396,11 +9396,11 @@ WeatherOutlook.insert({
 	municipality: "Banna", 
 	data: {
 		month: {
-			Nov: 92.25, 
-			Dec: 20.85, 
-			Jan: 10.44, 
-			Feb: 7.85, 
-			Mar: 18.12 
+			Dec: 20.83, 
+			Jan: 10.53, 
+			Feb: 8.00, 
+			Mar: 17.27, 
+			Apr: 31.04 
 		}
 	}
 }); 
@@ -9411,11 +9411,11 @@ WeatherOutlook.insert({
 	municipality: "Batac City", 
 	data: {
 		month: {
-			Nov: 61.17, 
-			Dec: 17, 
-			Jan: 7.17, 
-			Feb: 5.24, 
-			Mar: 14.5 
+			Dec: 16.97, 
+			Jan: 7.25, 
+			Feb: 5.39, 
+			Mar: 13.66, 
+			Apr: 24.54 
 		}
 	}
 }); 
@@ -9426,11 +9426,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 120.86, 
-			Dec: 39.67, 
-			Jan: 13.01, 
-			Feb: 8.48, 
-			Mar: 16.81 
+			Dec: 39.69, 
+			Jan: 13.11, 
+			Feb: 8.65, 
+			Mar: 16.09, 
+			Apr: 22.93 
 		}
 	}
 }); 
@@ -9441,11 +9441,11 @@ WeatherOutlook.insert({
 	municipality: "Carasi", 
 	data: {
 		month: {
-			Nov: 246.62, 
-			Dec: 67.26, 
-			Jan: 24.51, 
-			Feb: 19.07, 
-			Mar: 36.82 
+			Dec: 67.23, 
+			Jan: 24.62, 
+			Feb: 19.24, 
+			Mar: 36.02, 
+			Apr: 54.43 
 		}
 	}
 }); 
@@ -9456,11 +9456,11 @@ WeatherOutlook.insert({
 	municipality: "Currimao", 
 	data: {
 		month: {
-			Nov: 38.75, 
-			Dec: 10.31, 
-			Jan: 5.3, 
-			Feb: 2.81, 
-			Mar: 12.87 
+			Dec: 10.20, 
+			Jan: 5.32, 
+			Feb: 2.91, 
+			Mar: 11.96, 
+			Apr: 21.26 
 		}
 	}
 }); 
@@ -9471,11 +9471,11 @@ WeatherOutlook.insert({
 	municipality: "Dingras", 
 	data: {
 		month: {
-			Nov: 101.61, 
-			Dec: 21.65, 
-			Jan: 14.25, 
-			Feb: 9.05, 
-			Mar: 19.41 
+			Dec: 21.61, 
+			Jan: 14.35, 
+			Feb: 9.21, 
+			Mar: 18.57, 
+			Apr: 32.10 
 		}
 	}
 }); 
@@ -9486,11 +9486,11 @@ WeatherOutlook.insert({
 	municipality: "Dumalneg", 
 	data: {
 		month: {
-			Nov: 196.93, 
-			Dec: 54.74, 
-			Jan: 20.16, 
-			Feb: 14, 
-			Mar: 45.62 
+			Dec: 54.75, 
+			Jan: 20.26, 
+			Feb: 14.17, 
+			Mar: 44.93, 
+			Apr: 44.92 
 		}
 	}
 }); 
@@ -9501,11 +9501,11 @@ WeatherOutlook.insert({
 	municipality: "Laoag City", 
 	data: {
 		month: {
-			Nov: 56.81, 
-			Dec: 14.23, 
-			Jan: 7.45, 
-			Feb: 5.16, 
-			Mar: 13.43 
+			Dec: 14.25, 
+			Jan: 7.56, 
+			Feb: 5.33, 
+			Mar: 12.65, 
+			Apr: 21.03 
 		}
 	}
 }); 
@@ -9516,11 +9516,11 @@ WeatherOutlook.insert({
 	municipality: "Marcos", 
 	data: {
 		month: {
-			Nov: 93.23, 
-			Dec: 18.19, 
-			Jan: 12.25, 
-			Feb: 8.48, 
-			Mar: 18.55 
+			Dec: 18.15, 
+			Jan: 12.34, 
+			Feb: 8.64, 
+			Mar: 17.70, 
+			Apr: 31.65 
 		}
 	}
 }); 
@@ -9531,11 +9531,11 @@ WeatherOutlook.insert({
 	municipality: "Nueva Era", 
 	data: {
 		month: {
-			Nov: 167.62, 
-			Dec: 44.47, 
-			Jan: 15.57, 
-			Feb: 11.67, 
-			Mar: 23.14 
+			Dec: 44.43, 
+			Jan: 15.67, 
+			Feb: 11.84, 
+			Mar: 22.25, 
+			Apr: 50.23 
 		}
 	}
 }); 
@@ -9546,11 +9546,11 @@ WeatherOutlook.insert({
 	municipality: "Pagudpud", 
 	data: {
 		month: {
-			Nov: 226.27, 
-			Dec: 74.7, 
-			Jan: 23.34, 
-			Feb: 15.9, 
-			Mar: 70.01 
+			Dec: 74.75, 
+			Jan: 23.47, 
+			Feb: 16.09, 
+			Mar: 69.36, 
+			Apr: 58.04 
 		}
 	}
 }); 
@@ -9561,11 +9561,11 @@ WeatherOutlook.insert({
 	municipality: "Paoay", 
 	data: {
 		month: {
-			Nov: 26.9, 
-			Dec: 7.48, 
-			Jan: 5.34, 
-			Feb: 2.95, 
-			Mar: 12.6 
+			Dec: 7.42, 
+			Jan: 5.40, 
+			Feb: 3.08, 
+			Mar: 11.72, 
+			Apr: 20.59 
 		}
 	}
 }); 
@@ -9576,11 +9576,11 @@ WeatherOutlook.insert({
 	municipality: "Paoay Lake", 
 	data: {
 		month: {
-			Nov: 29.21, 
-			Dec: 10.45, 
-			Jan: 5.46, 
-			Feb: 3.03, 
-			Mar: 12.44 
+			Dec: 10.42, 
+			Jan: 5.53, 
+			Feb: 3.17, 
+			Mar: 11.59, 
+			Apr: 20.72 
 		}
 	}
 }); 
@@ -9591,11 +9591,11 @@ WeatherOutlook.insert({
 	municipality: "Pasuquin", 
 	data: {
 		month: {
-			Nov: 94.26, 
-			Dec: 29.04, 
-			Jan: 10.81, 
-			Feb: 7.55, 
-			Mar: 13.37 
+			Dec: 29.05, 
+			Jan: 10.91, 
+			Feb: 7.71, 
+			Mar: 12.63, 
+			Apr: 20.15 
 		}
 	}
 }); 
@@ -9606,11 +9606,11 @@ WeatherOutlook.insert({
 	municipality: "Piddig", 
 	data: {
 		month: {
-			Nov: 124.98, 
-			Dec: 31.96, 
-			Jan: 15.86, 
-			Feb: 10.14, 
-			Mar: 21.5 
+			Dec: 31.93, 
+			Jan: 15.97, 
+			Feb: 10.30, 
+			Mar: 20.68, 
+			Apr: 32.22 
 		}
 	}
 }); 
@@ -9621,11 +9621,11 @@ WeatherOutlook.insert({
 	municipality: "Pinili", 
 	data: {
 		month: {
-			Nov: 67.7, 
-			Dec: 17.33, 
-			Jan: 6.97, 
-			Feb: 5.01, 
-			Mar: 14.61 
+			Dec: 17.26, 
+			Jan: 7.02, 
+			Feb: 5.13, 
+			Mar: 13.72, 
+			Apr: 26.61 
 		}
 	}
 }); 
@@ -9636,11 +9636,11 @@ WeatherOutlook.insert({
 	municipality: "San Nicolas", 
 	data: {
 		month: {
-			Nov: 54.51, 
-			Dec: 14.85, 
-			Jan: 7.16, 
-			Feb: 5.06, 
-			Mar: 13.6 
+			Dec: 14.79, 
+			Jan: 7.23, 
+			Feb: 5.19, 
+			Mar: 12.75, 
+			Apr: 21.71 
 		}
 	}
 }); 
@@ -9651,11 +9651,11 @@ WeatherOutlook.insert({
 	municipality: "Sarrat", 
 	data: {
 		month: {
-			Nov: 60.38, 
-			Dec: 17.81, 
-			Jan: 9.5, 
-			Feb: 6.55, 
-			Mar: 14.96 
+			Dec: 17.79, 
+			Jan: 9.59, 
+			Feb: 6.71, 
+			Mar: 14.14, 
+			Apr: 23.71 
 		}
 	}
 }); 
@@ -9666,11 +9666,11 @@ WeatherOutlook.insert({
 	municipality: "Solsona", 
 	data: {
 		month: {
-			Nov: 184.13, 
-			Dec: 49.19, 
-			Jan: 19.94, 
-			Feb: 12.71, 
-			Mar: 24.78 
+			Dec: 49.15, 
+			Jan: 20.06, 
+			Feb: 12.88, 
+			Mar: 23.92, 
+			Apr: 42.61 
 		}
 	}
 }); 
@@ -9681,11 +9681,11 @@ WeatherOutlook.insert({
 	municipality: "Vintar", 
 	data: {
 		month: {
-			Nov: 174.99, 
-			Dec: 48.33, 
-			Jan: 18.81, 
-			Feb: 13.76, 
-			Mar: 32.66 
+			Dec: 48.34, 
+			Jan: 18.93, 
+			Feb: 13.93, 
+			Mar: 31.91, 
+			Apr: 41.75 
 		}
 	}
 }); 
@@ -9696,11 +9696,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 71.99, 
-			Dec: 22.87, 
-			Jan: 5.83, 
-			Feb: 8.37, 
-			Mar: 22.07 
+			Dec: 22.80, 
+			Jan: 5.87, 
+			Feb: 8.50, 
+			Mar: 21.01, 
+			Apr: 43.72 
 		}
 	}
 }); 
@@ -9711,11 +9711,11 @@ WeatherOutlook.insert({
 	municipality: "Alilem", 
 	data: {
 		month: {
-			Nov: 104.05, 
-			Dec: 34.38, 
-			Jan: 6.97, 
-			Feb: 15.32, 
-			Mar: 37.64 
+			Dec: 34.31, 
+			Jan: 7.01, 
+			Feb: 15.44, 
+			Mar: 36.49, 
+			Apr: 73.35 
 		}
 	}
 }); 
@@ -9726,11 +9726,11 @@ WeatherOutlook.insert({
 	municipality: "Banayoyo", 
 	data: {
 		month: {
-			Nov: 59.73, 
-			Dec: 21.66, 
-			Jan: 5.51, 
-			Feb: 5.96, 
-			Mar: 15.42 
+			Dec: 21.52, 
+			Jan: 5.50, 
+			Feb: 6.03, 
+			Mar: 14.29, 
+			Apr: 27.41 
 		}
 	}
 }); 
@@ -9741,11 +9741,11 @@ WeatherOutlook.insert({
 	municipality: "Bantay", 
 	data: {
 		month: {
-			Nov: 52.52, 
-			Dec: 17.95, 
-			Jan: 3.36, 
-			Feb: 3.11, 
-			Mar: 13.28 
+			Dec: 17.84, 
+			Jan: 3.37, 
+			Feb: 3.20, 
+			Mar: 12.31, 
+			Apr: 30.32 
 		}
 	}
 }); 
@@ -9756,11 +9756,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 75.15, 
-			Dec: 24.74, 
+			Dec: 24.61, 
 			Jan: 5.22, 
-			Feb: 6.01, 
-			Mar: 16.12 
+			Feb: 6.08, 
+			Mar: 15.03, 
+			Apr: 32.96 
 		}
 	}
 }); 
@@ -9771,11 +9771,11 @@ WeatherOutlook.insert({
 	municipality: "Cabugao", 
 	data: {
 		month: {
-			Nov: 54.86, 
-			Dec: 16.74, 
-			Jan: 6.06, 
-			Feb: 3.48, 
-			Mar: 14.56 
+			Dec: 16.64, 
+			Jan: 6.08, 
+			Feb: 3.58, 
+			Mar: 13.61, 
+			Apr: 29.44 
 		}
 	}
 }); 
@@ -9786,11 +9786,11 @@ WeatherOutlook.insert({
 	municipality: "Candon City", 
 	data: {
 		month: {
-			Nov: 44.01, 
-			Dec: 15.06, 
-			Jan: 5.45, 
-			Feb: 7.28, 
-			Mar: 14.67 
+			Dec: 14.88, 
+			Jan: 5.40, 
+			Feb: 7.31, 
+			Mar: 13.48, 
+			Apr: 23.02 
 		}
 	}
 }); 
@@ -9801,11 +9801,11 @@ WeatherOutlook.insert({
 	municipality: "Caoayan", 
 	data: {
 		month: {
-			Nov: 29.61, 
-			Dec: 12.65, 
-			Jan: 4.72, 
-			Feb: 3.69, 
-			Mar: 13.17 
+			Dec: 12.55, 
+			Jan: 4.73, 
+			Feb: 3.78, 
+			Mar: 12.17, 
+			Apr: 24.24 
 		}
 	}
 }); 
@@ -9816,11 +9816,11 @@ WeatherOutlook.insert({
 	municipality: "Cervantes", 
 	data: {
 		month: {
-			Nov: 90.82, 
-			Dec: 24.53, 
-			Jan: 8.87, 
-			Feb: 13.4, 
-			Mar: 37.93 
+			Dec: 24.44, 
+			Jan: 8.91, 
+			Feb: 13.52, 
+			Mar: 36.60, 
+			Apr: 78.57 
 		}
 	}
 }); 
@@ -9831,11 +9831,11 @@ WeatherOutlook.insert({
 	municipality: "Galimuyod", 
 	data: {
 		month: {
-			Nov: 64.72, 
-			Dec: 18.37, 
-			Jan: 6.14, 
-			Feb: 8.74, 
-			Mar: 16.39 
+			Dec: 18.29, 
+			Jan: 6.16, 
+			Feb: 8.84, 
+			Mar: 15.27, 
+			Apr: 26.73 
 		}
 	}
 }); 
@@ -9846,11 +9846,11 @@ WeatherOutlook.insert({
 	municipality: "Gregorio Del Pilar", 
 	data: {
 		month: {
-			Nov: 99.33, 
-			Dec: 28.71, 
-			Jan: 7.42, 
-			Feb: 11.61, 
-			Mar: 23.76 
+			Dec: 28.65, 
+			Jan: 7.46, 
+			Feb: 11.74, 
+			Mar: 22.63, 
+			Apr: 50.95 
 		}
 	}
 }); 
@@ -9861,11 +9861,11 @@ WeatherOutlook.insert({
 	municipality: "Lidlidda", 
 	data: {
 		month: {
-			Nov: 80.82, 
-			Dec: 26.02, 
-			Jan: 5.95, 
-			Feb: 7.52, 
-			Mar: 17.38 
+			Dec: 25.88, 
+			Jan: 5.94, 
+			Feb: 7.58, 
+			Mar: 16.25, 
+			Apr: 33.30 
 		}
 	}
 }); 
@@ -9876,11 +9876,11 @@ WeatherOutlook.insert({
 	municipality: "Magsingal", 
 	data: {
 		month: {
-			Nov: 60.75, 
-			Dec: 19, 
-			Jan: 4.39, 
-			Feb: 3.7, 
-			Mar: 14.44 
+			Dec: 18.94, 
+			Jan: 4.44, 
+			Feb: 3.83, 
+			Mar: 13.51, 
+			Apr: 32.96 
 		}
 	}
 }); 
@@ -9891,11 +9891,11 @@ WeatherOutlook.insert({
 	municipality: "Nagbukel", 
 	data: {
 		month: {
-			Nov: 69.47, 
-			Dec: 14.51, 
-			Jan: 5.36, 
-			Feb: 8.07, 
-			Mar: 20.33 
+			Dec: 14.41, 
+			Jan: 5.38, 
+			Feb: 8.16, 
+			Mar: 19.32, 
+			Apr: 48.74 
 		}
 	}
 }); 
@@ -9906,11 +9906,11 @@ WeatherOutlook.insert({
 	municipality: "Narvacan", 
 	data: {
 		month: {
-			Nov: 56.52, 
-			Dec: 16.26, 
-			Jan: 4.14, 
-			Feb: 5.38, 
-			Mar: 16.74 
+			Dec: 16.20, 
+			Jan: 4.18, 
+			Feb: 5.50, 
+			Mar: 15.76, 
+			Apr: 35.30 
 		}
 	}
 }); 
@@ -9921,11 +9921,11 @@ WeatherOutlook.insert({
 	municipality: "Quirino", 
 	data: {
 		month: {
-			Nov: 111.72, 
-			Dec: 31.64, 
-			Jan: 8.92, 
-			Feb: 10.31, 
-			Mar: 32.27 
+			Dec: 31.55, 
+			Jan: 8.96, 
+			Feb: 10.45, 
+			Mar: 30.99, 
+			Apr: 70.85 
 		}
 	}
 }); 
@@ -9936,11 +9936,11 @@ WeatherOutlook.insert({
 	municipality: "Salcedo", 
 	data: {
 		month: {
-			Nov: 90.07, 
-			Dec: 26.95, 
-			Jan: 6.65, 
-			Feb: 11.16, 
-			Mar: 21.66 
+			Dec: 26.82, 
+			Jan: 6.64, 
+			Feb: 11.22, 
+			Mar: 20.47, 
+			Apr: 39.08 
 		}
 	}
 }); 
@@ -9951,11 +9951,11 @@ WeatherOutlook.insert({
 	municipality: "San Emilio", 
 	data: {
 		month: {
-			Nov: 104.16, 
-			Dec: 28.5, 
-			Jan: 7.57, 
-			Feb: 9.94, 
-			Mar: 22.39 
+			Dec: 28.42, 
+			Jan: 7.61, 
+			Feb: 10.06, 
+			Mar: 21.30, 
+			Apr: 47.96 
 		}
 	}
 }); 
@@ -9966,11 +9966,11 @@ WeatherOutlook.insert({
 	municipality: "San Esteban", 
 	data: {
 		month: {
-			Nov: 51.35, 
-			Dec: 15.54, 
+			Dec: 15.42, 
 			Jan: 3.49, 
-			Feb: 3.45, 
-			Mar: 14.49 
+			Feb: 3.52, 
+			Mar: 13.41, 
+			Apr: 27.22 
 		}
 	}
 }); 
@@ -9981,11 +9981,11 @@ WeatherOutlook.insert({
 	municipality: "San Ildefonso", 
 	data: {
 		month: {
-			Nov: 30.47, 
-			Dec: 15.73, 
-			Jan: 3.04, 
-			Feb: 2.87, 
-			Mar: 13.53 
+			Dec: 15.62, 
+			Jan: 3.05, 
+			Feb: 2.96, 
+			Mar: 12.56, 
+			Apr: 25.32 
 		}
 	}
 }); 
@@ -9996,11 +9996,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 64.1, 
-			Dec: 19.36, 
-			Jan: 5.74, 
-			Feb: 4.1, 
-			Mar: 15.17 
+			Dec: 19.21, 
+			Jan: 5.73, 
+			Feb: 4.18, 
+			Mar: 14.20, 
+			Apr: 34.94 
 		}
 	}
 }); 
@@ -10011,11 +10011,11 @@ WeatherOutlook.insert({
 	municipality: "San Vicente", 
 	data: {
 		month: {
-			Nov: 11.23, 
-			Dec: 6.66, 
-			Jan: 2.72, 
-			Feb: 2.8, 
-			Mar: 12.57 
+			Dec: 6.55, 
+			Jan: 2.73, 
+			Feb: 2.89, 
+			Mar: 11.57, 
+			Apr: 19.74 
 		}
 	}
 }); 
@@ -10026,11 +10026,11 @@ WeatherOutlook.insert({
 	municipality: "Santa", 
 	data: {
 		month: {
-			Nov: 52.09, 
-			Dec: 18.57, 
-			Jan: 4.41, 
-			Feb: 3.5, 
-			Mar: 12.73 
+			Dec: 18.54, 
+			Jan: 4.47, 
+			Feb: 3.63, 
+			Mar: 11.76, 
+			Apr: 28.60 
 		}
 	}
 }); 
@@ -10041,11 +10041,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Catalina", 
 	data: {
 		month: {
-			Nov: 10.68, 
-			Dec: 3.8, 
-			Jan: 2.56, 
-			Feb: 2.78, 
-			Mar: 12.6 
+			Dec: 3.66, 
+			Jan: 2.54, 
+			Feb: 2.85, 
+			Mar: 11.58, 
+			Apr: 18.01 
 		}
 	}
 }); 
@@ -10056,11 +10056,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 65.96, 
-			Dec: 23.28, 
+			Dec: 23.16, 
 			Jan: 4.76, 
-			Feb: 9.61, 
-			Mar: 21.83 
+			Feb: 9.69, 
+			Mar: 20.65, 
+			Apr: 33.70 
 		}
 	}
 }); 
@@ -10071,11 +10071,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Lucia", 
 	data: {
 		month: {
-			Nov: 44.04, 
-			Dec: 12.78, 
-			Jan: 4.67, 
-			Feb: 8.12, 
-			Mar: 16.04 
+			Dec: 12.70, 
+			Jan: 4.70, 
+			Feb: 8.22, 
+			Mar: 14.90, 
+			Apr: 23.62 
 		}
 	}
 }); 
@@ -10086,11 +10086,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 67.09, 
-			Dec: 17.5, 
-			Jan: 5.94, 
-			Feb: 5.88, 
-			Mar: 16.23 
+			Dec: 17.37, 
+			Jan: 5.93, 
+			Feb: 5.95, 
+			Mar: 15.17, 
+			Apr: 34.30 
 		}
 	}
 }); 
@@ -10101,11 +10101,11 @@ WeatherOutlook.insert({
 	municipality: "Santiago", 
 	data: {
 		month: {
-			Nov: 47.55, 
-			Dec: 18.63, 
-			Jan: 3.97, 
-			Feb: 3.77, 
-			Mar: 12.9 
+			Dec: 18.57, 
+			Jan: 4.01, 
+			Feb: 3.89, 
+			Mar: 11.83, 
+			Apr: 24.09 
 		}
 	}
 }); 
@@ -10116,11 +10116,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Domingo", 
 	data: {
 		month: {
-			Nov: 48.4, 
-			Dec: 17.9, 
-			Jan: 3.34, 
-			Feb: 2.94, 
-			Mar: 13.34 
+			Dec: 17.86, 
+			Jan: 3.39, 
+			Feb: 3.07, 
+			Mar: 12.41, 
+			Apr: 29.03 
 		}
 	}
 }); 
@@ -10131,11 +10131,11 @@ WeatherOutlook.insert({
 	municipality: "Sigay", 
 	data: {
 		month: {
-			Nov: 100.69, 
-			Dec: 30.95, 
-			Jan: 7.36, 
-			Feb: 15.29, 
-			Mar: 30.91 
+			Dec: 30.86, 
+			Jan: 7.39, 
+			Feb: 15.40, 
+			Mar: 29.71, 
+			Apr: 61.10 
 		}
 	}
 }); 
@@ -10146,11 +10146,11 @@ WeatherOutlook.insert({
 	municipality: "Sinait", 
 	data: {
 		month: {
-			Nov: 41.88, 
-			Dec: 13.73, 
+			Dec: 13.59, 
 			Jan: 6.59, 
-			Feb: 3.9, 
-			Mar: 14.19 
+			Feb: 3.98, 
+			Mar: 13.24, 
+			Apr: 28.84 
 		}
 	}
 }); 
@@ -10161,11 +10161,11 @@ WeatherOutlook.insert({
 	municipality: "Sugpon", 
 	data: {
 		month: {
-			Nov: 103, 
-			Dec: 39, 
-			Jan: 7.07, 
-			Feb: 15.91, 
-			Mar: 40.27 
+			Dec: 38.92, 
+			Jan: 7.09, 
+			Feb: 16.01, 
+			Mar: 39.15, 
+			Apr: 83.32 
 		}
 	}
 }); 
@@ -10176,11 +10176,11 @@ WeatherOutlook.insert({
 	municipality: "Suyo", 
 	data: {
 		month: {
-			Nov: 95.22, 
-			Dec: 32.71, 
-			Jan: 6.35, 
-			Feb: 14.9, 
-			Mar: 31.32 
+			Dec: 32.62, 
+			Jan: 6.38, 
+			Feb: 15.01, 
+			Mar: 30.14, 
+			Apr: 57.27 
 		}
 	}
 }); 
@@ -10191,11 +10191,11 @@ WeatherOutlook.insert({
 	municipality: "Tagudin", 
 	data: {
 		month: {
-			Nov: 56.99, 
-			Dec: 24.89, 
-			Jan: 3.72, 
-			Feb: 7.58, 
-			Mar: 25.25 
+			Dec: 24.72, 
+			Jan: 3.68, 
+			Feb: 7.62, 
+			Mar: 24.03, 
+			Apr: 35.02 
 		}
 	}
 }); 
@@ -10206,11 +10206,11 @@ WeatherOutlook.insert({
 	municipality: "Vigan City", 
 	data: {
 		month: {
-			Nov: 21.49, 
-			Dec: 7.17, 
-			Jan: 2.7, 
-			Feb: 2.84, 
-			Mar: 13.23 
+			Dec: 7.05, 
+			Jan: 2.69, 
+			Feb: 2.91, 
+			Mar: 12.22, 
+			Apr: 19.58 
 		}
 	}
 }); 
@@ -10221,11 +10221,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 219.93, 
-			Dec: 158.67, 
+			Dec: 158.64, 
 			Jan: 90.26, 
-			Feb: 64.81, 
-			Mar: 81.47 
+			Feb: 64.84, 
+			Mar: 82.07, 
+			Apr: 64.56 
 		}
 	}
 }); 
@@ -10236,11 +10236,11 @@ WeatherOutlook.insert({
 	municipality: "Ajuy", 
 	data: {
 		month: {
-			Nov: 229.97, 
-			Dec: 181.57, 
-			Jan: 104.45, 
-			Feb: 73.96, 
-			Mar: 82.63 
+			Dec: 181.65, 
+			Jan: 104.62, 
+			Feb: 74.08, 
+			Mar: 83.41, 
+			Apr: 55.47 
 		}
 	}
 }); 
@@ -10251,11 +10251,11 @@ WeatherOutlook.insert({
 	municipality: "Alimodian", 
 	data: {
 		month: {
-			Nov: 199.19, 
-			Dec: 117.32, 
-			Jan: 70.8, 
-			Feb: 48.48, 
-			Mar: 76.9 
+			Dec: 117.25, 
+			Jan: 70.76, 
+			Feb: 48.51, 
+			Mar: 77.34, 
+			Apr: 76.38 
 		}
 	}
 }); 
@@ -10266,11 +10266,11 @@ WeatherOutlook.insert({
 	municipality: "Anilao", 
 	data: {
 		month: {
-			Nov: 216.47, 
-			Dec: 159.2, 
-			Jan: 76.98, 
-			Feb: 70.84, 
-			Mar: 72.48 
+			Dec: 159.24, 
+			Jan: 77.06, 
+			Feb: 70.92, 
+			Mar: 73.19, 
+			Apr: 58.94 
 		}
 	}
 }); 
@@ -10281,11 +10281,11 @@ WeatherOutlook.insert({
 	municipality: "Badiangan", 
 	data: {
 		month: {
-			Nov: 218.28, 
-			Dec: 149.23, 
-			Jan: 85.2, 
-			Feb: 67.38, 
-			Mar: 88.67 
+			Dec: 149.19, 
+			Jan: 85.19, 
+			Feb: 67.41, 
+			Mar: 89.24, 
+			Apr: 77.49 
 		}
 	}
 }); 
@@ -10296,11 +10296,11 @@ WeatherOutlook.insert({
 	municipality: "Balasan", 
 	data: {
 		month: {
-			Nov: 310.65, 
-			Dec: 266.8, 
-			Jan: 171.82, 
-			Feb: 98.69, 
-			Mar: 137.76 
+			Dec: 266.80, 
+			Jan: 171.87, 
+			Feb: 98.72, 
+			Mar: 138.57, 
+			Apr: 65.77 
 		}
 	}
 }); 
@@ -10311,11 +10311,11 @@ WeatherOutlook.insert({
 	municipality: "Banate", 
 	data: {
 		month: {
-			Nov: 196.34, 
-			Dec: 152.23, 
-			Jan: 75.78, 
-			Feb: 67.63, 
-			Mar: 63.92 
+			Dec: 152.28, 
+			Jan: 75.90, 
+			Feb: 67.71, 
+			Mar: 64.64, 
+			Apr: 58.12 
 		}
 	}
 }); 
@@ -10326,11 +10326,11 @@ WeatherOutlook.insert({
 	municipality: "Barotac Nuevo", 
 	data: {
 		month: {
-			Nov: 229.84, 
-			Dec: 165.09, 
-			Jan: 84.49, 
-			Feb: 70.16, 
-			Mar: 78.27 
+			Dec: 165.10, 
+			Jan: 84.54, 
+			Feb: 70.22, 
+			Mar: 78.96, 
+			Apr: 62.95 
 		}
 	}
 }); 
@@ -10341,11 +10341,11 @@ WeatherOutlook.insert({
 	municipality: "Barotac Viejo", 
 	data: {
 		month: {
-			Nov: 222.66, 
-			Dec: 169.99, 
-			Jan: 90.66, 
-			Feb: 73.79, 
-			Mar: 76.02 
+			Dec: 170.05, 
+			Jan: 90.81, 
+			Feb: 73.90, 
+			Mar: 76.77, 
+			Apr: 58.49 
 		}
 	}
 }); 
@@ -10356,11 +10356,11 @@ WeatherOutlook.insert({
 	municipality: "Batad", 
 	data: {
 		month: {
-			Nov: 294.64, 
-			Dec: 247.46, 
-			Jan: 158.67, 
-			Feb: 92.9, 
-			Mar: 119.15 
+			Dec: 247.47, 
+			Jan: 158.73, 
+			Feb: 92.94, 
+			Mar: 119.97, 
+			Apr: 61.77 
 		}
 	}
 }); 
@@ -10371,11 +10371,11 @@ WeatherOutlook.insert({
 	municipality: "Bingawan", 
 	data: {
 		month: {
-			Nov: 258.75, 
-			Dec: 207.59, 
-			Jan: 107.31, 
-			Feb: 91.42, 
-			Mar: 100.34 
+			Dec: 207.51, 
+			Jan: 107.27, 
+			Feb: 91.43, 
+			Mar: 100.91, 
+			Apr: 72.59 
 		}
 	}
 }); 
@@ -10386,11 +10386,11 @@ WeatherOutlook.insert({
 	municipality: "Cabatuan", 
 	data: {
 		month: {
-			Nov: 199.37, 
-			Dec: 117.01, 
-			Jan: 81.06, 
-			Feb: 58.17, 
-			Mar: 81.77 
+			Dec: 116.96, 
+			Jan: 81.03, 
+			Feb: 58.20, 
+			Mar: 82.31, 
+			Apr: 76.42 
 		}
 	}
 }); 
@@ -10401,11 +10401,11 @@ WeatherOutlook.insert({
 	municipality: "Calinog", 
 	data: {
 		month: {
-			Nov: 250.25, 
-			Dec: 189.14, 
-			Jan: 95.07, 
-			Feb: 81.82, 
-			Mar: 99.13 
+			Dec: 189.09, 
+			Jan: 95.06, 
+			Feb: 81.85, 
+			Mar: 99.67, 
+			Apr: 76.43 
 		}
 	}
 }); 
@@ -10416,11 +10416,11 @@ WeatherOutlook.insert({
 	municipality: "Carles", 
 	data: {
 		month: {
-			Nov: 279.33, 
-			Dec: 226.81, 
-			Jan: 152.37, 
-			Feb: 85.54, 
-			Mar: 92.06 
+			Dec: 226.87, 
+			Jan: 152.48, 
+			Feb: 85.61, 
+			Mar: 92.96, 
+			Apr: 55.07 
 		}
 	}
 }); 
@@ -10431,11 +10431,11 @@ WeatherOutlook.insert({
 	municipality: "Concepcion", 
 	data: {
 		month: {
-			Nov: 228.19, 
-			Dec: 181.77, 
-			Jan: 113.74, 
-			Feb: 75.58, 
-			Mar: 77.69 
+			Dec: 181.85, 
+			Jan: 113.87, 
+			Feb: 75.67, 
+			Mar: 78.53, 
+			Apr: 52.52 
 		}
 	}
 }); 
@@ -10446,11 +10446,11 @@ WeatherOutlook.insert({
 	municipality: "Dingle", 
 	data: {
 		month: {
-			Nov: 223.3, 
-			Dec: 154.51, 
-			Jan: 83.69, 
-			Feb: 70.92, 
-			Mar: 83.99 
+			Dec: 154.52, 
+			Jan: 83.74, 
+			Feb: 70.97, 
+			Mar: 84.65, 
+			Apr: 64.59 
 		}
 	}
 }); 
@@ -10461,11 +10461,11 @@ WeatherOutlook.insert({
 	municipality: "Duenas", 
 	data: {
 		month: {
-			Nov: 229.51, 
-			Dec: 162.11, 
-			Jan: 89.07, 
-			Feb: 75.53, 
-			Mar: 92.78 
+			Dec: 162.09, 
+			Jan: 89.08, 
+			Feb: 75.57, 
+			Mar: 93.38, 
+			Apr: 71.80 
 		}
 	}
 }); 
@@ -10476,11 +10476,11 @@ WeatherOutlook.insert({
 	municipality: "Dumangas", 
 	data: {
 		month: {
-			Nov: 221.24, 
-			Dec: 159.59, 
-			Jan: 80.96, 
-			Feb: 63.73, 
-			Mar: 76.26 
+			Dec: 159.64, 
+			Jan: 81.01, 
+			Feb: 63.79, 
+			Mar: 76.95, 
+			Apr: 63.72 
 		}
 	}
 }); 
@@ -10491,11 +10491,11 @@ WeatherOutlook.insert({
 	municipality: "Estancia", 
 	data: {
 		month: {
-			Nov: 296.44, 
-			Dec: 245.95, 
-			Jan: 158.44, 
-			Feb: 92.37, 
-			Mar: 106.45 
+			Dec: 245.98, 
+			Jan: 158.51, 
+			Feb: 92.42, 
+			Mar: 107.31, 
+			Apr: 58.94 
 		}
 	}
 }); 
@@ -10506,11 +10506,11 @@ WeatherOutlook.insert({
 	municipality: "Guimbal", 
 	data: {
 		month: {
-			Nov: 175.67, 
-			Dec: 120.43, 
-			Jan: 62.72, 
-			Feb: 42.48, 
-			Mar: 54.35 
+			Dec: 120.29, 
+			Jan: 62.58, 
+			Feb: 42.45, 
+			Mar: 54.74, 
+			Apr: 59.37 
 		}
 	}
 }); 
@@ -10521,11 +10521,11 @@ WeatherOutlook.insert({
 	municipality: "Igbaras", 
 	data: {
 		month: {
-			Nov: 179.33, 
-			Dec: 121.72, 
-			Jan: 60.37, 
-			Feb: 36.6, 
-			Mar: 56.72 
+			Dec: 121.59, 
+			Jan: 60.27, 
+			Feb: 36.60, 
+			Mar: 57.06, 
+			Apr: 59.32 
 		}
 	}
 }); 
@@ -10536,11 +10536,11 @@ WeatherOutlook.insert({
 	municipality: "Iloilo City", 
 	data: {
 		month: {
-			Nov: 164.78, 
-			Dec: 89.12, 
-			Jan: 47.27, 
-			Feb: 34.04, 
-			Mar: 48.81 
+			Dec: 89.09, 
+			Jan: 47.22, 
+			Feb: 34.06, 
+			Mar: 49.41, 
+			Apr: 54.74 
 		}
 	}
 }); 
@@ -10551,11 +10551,11 @@ WeatherOutlook.insert({
 	municipality: "Janiuay", 
 	data: {
 		month: {
-			Nov: 222.91, 
-			Dec: 155.14, 
-			Jan: 81.01, 
-			Feb: 60.96, 
-			Mar: 92.2 
+			Dec: 155.07, 
+			Jan: 80.98, 
+			Feb: 60.99, 
+			Mar: 92.67, 
+			Apr: 84.46 
 		}
 	}
 }); 
@@ -10566,11 +10566,11 @@ WeatherOutlook.insert({
 	municipality: "Lambunao", 
 	data: {
 		month: {
-			Nov: 246.39, 
-			Dec: 179.11, 
-			Jan: 83.24, 
-			Feb: 64.86, 
-			Mar: 99.53 
+			Dec: 179.02, 
+			Jan: 83.19, 
+			Feb: 64.89, 
+			Mar: 99.96, 
+			Apr: 84.26 
 		}
 	}
 }); 
@@ -10581,11 +10581,11 @@ WeatherOutlook.insert({
 	municipality: "Leganes", 
 	data: {
 		month: {
-			Nov: 203.18, 
-			Dec: 127.46, 
-			Jan: 65.79, 
-			Feb: 49.34, 
-			Mar: 67.84 
+			Dec: 127.43, 
+			Jan: 65.77, 
+			Feb: 49.37, 
+			Mar: 68.46, 
+			Apr: 59.93 
 		}
 	}
 }); 
@@ -10596,11 +10596,11 @@ WeatherOutlook.insert({
 	municipality: "Lemery", 
 	data: {
 		month: {
-			Nov: 245.62, 
-			Dec: 190.77, 
-			Jan: 120.53, 
-			Feb: 83.41, 
-			Mar: 101.16 
+			Dec: 190.83, 
+			Jan: 120.65, 
+			Feb: 83.49, 
+			Mar: 101.92, 
+			Apr: 60.77 
 		}
 	}
 }); 
@@ -10611,11 +10611,11 @@ WeatherOutlook.insert({
 	municipality: "Leon", 
 	data: {
 		month: {
-			Nov: 187.12, 
-			Dec: 115.86, 
-			Jan: 65.51, 
+			Dec: 115.74, 
+			Jan: 65.42, 
 			Feb: 43.65, 
-			Mar: 66.93 
+			Mar: 67.33, 
+			Apr: 68.91 
 		}
 	}
 }); 
@@ -10626,11 +10626,11 @@ WeatherOutlook.insert({
 	municipality: "Maasin", 
 	data: {
 		month: {
-			Nov: 219.46, 
-			Dec: 148.1, 
-			Jan: 79.94, 
-			Feb: 57.23, 
-			Mar: 87 
+			Dec: 148.03, 
+			Jan: 79.90, 
+			Feb: 57.26, 
+			Mar: 87.45, 
+			Apr: 85.99 
 		}
 	}
 }); 
@@ -10641,11 +10641,11 @@ WeatherOutlook.insert({
 	municipality: "Miagao", 
 	data: {
 		month: {
-			Nov: 168.86, 
-			Dec: 113.03, 
-			Jan: 53.88, 
-			Feb: 31.54, 
-			Mar: 50.18 
+			Dec: 112.89, 
+			Jan: 53.76, 
+			Feb: 31.53, 
+			Mar: 50.51, 
+			Apr: 52.25 
 		}
 	}
 }); 
@@ -10656,11 +10656,11 @@ WeatherOutlook.insert({
 	municipality: "Mina", 
 	data: {
 		month: {
-			Nov: 210.05, 
-			Dec: 123.61, 
-			Jan: 82.22, 
-			Feb: 63.08, 
-			Mar: 82.15 
+			Dec: 123.57, 
+			Jan: 82.21, 
+			Feb: 63.11, 
+			Mar: 82.76, 
+			Apr: 70.04 
 		}
 	}
 }); 
@@ -10671,11 +10671,11 @@ WeatherOutlook.insert({
 	municipality: "New Lucena", 
 	data: {
 		month: {
-			Nov: 188.15, 
-			Dec: 115.04, 
-			Jan: 78.43, 
-			Feb: 58.61, 
-			Mar: 79.64 
+			Dec: 115.03, 
+			Jan: 78.45, 
+			Feb: 58.67, 
+			Mar: 80.26, 
+			Apr: 68.83 
 		}
 	}
 }); 
@@ -10686,11 +10686,11 @@ WeatherOutlook.insert({
 	municipality: "Oton", 
 	data: {
 		month: {
-			Nov: 142.45, 
-			Dec: 81.13, 
-			Jan: 52.57, 
-			Feb: 36.84, 
-			Mar: 50.7 
+			Dec: 81.10, 
+			Jan: 52.53, 
+			Feb: 36.87, 
+			Mar: 51.25, 
+			Apr: 57.03 
 		}
 	}
 }); 
@@ -10701,11 +10701,11 @@ WeatherOutlook.insert({
 	municipality: "Passi City", 
 	data: {
 		month: {
-			Nov: 254.73, 
-			Dec: 205.6, 
-			Jan: 107.69, 
-			Feb: 88.17, 
-			Mar: 97.32 
+			Dec: 205.59, 
+			Jan: 107.73, 
+			Feb: 88.22, 
+			Mar: 97.96, 
+			Apr: 62.86 
 		}
 	}
 }); 
@@ -10716,11 +10716,11 @@ WeatherOutlook.insert({
 	municipality: "Pavia", 
 	data: {
 		month: {
-			Nov: 158.96, 
-			Dec: 80.3, 
-			Jan: 55.94, 
-			Feb: 39.99, 
-			Mar: 58.51 
+			Dec: 80.25, 
+			Jan: 55.90, 
+			Feb: 40.01, 
+			Mar: 59.10, 
+			Apr: 58.25 
 		}
 	}
 }); 
@@ -10731,11 +10731,11 @@ WeatherOutlook.insert({
 	municipality: "Pototan", 
 	data: {
 		month: {
-			Nov: 213.65, 
 			Dec: 134.97, 
-			Jan: 82.33, 
-			Feb: 66.19, 
-			Mar: 81.93 
+			Jan: 82.35, 
+			Feb: 66.23, 
+			Mar: 82.57, 
+			Apr: 66.54 
 		}
 	}
 }); 
@@ -10746,11 +10746,11 @@ WeatherOutlook.insert({
 	municipality: "San Dionisio", 
 	data: {
 		month: {
-			Nov: 280.89, 
-			Dec: 227.41, 
-			Jan: 145.63, 
-			Feb: 89.62, 
-			Mar: 107.64 
+			Dec: 227.47, 
+			Jan: 145.74, 
+			Feb: 89.70, 
+			Mar: 108.47, 
+			Apr: 60.13 
 		}
 	}
 }); 
@@ -10761,11 +10761,11 @@ WeatherOutlook.insert({
 	municipality: "San Enrique", 
 	data: {
 		month: {
-			Nov: 230.81, 
 			Dec: 174.63, 
-			Jan: 89.35, 
-			Feb: 76.59, 
-			Mar: 86.98 
+			Jan: 89.41, 
+			Feb: 76.65, 
+			Mar: 87.65, 
+			Apr: 61.26 
 		}
 	}
 }); 
@@ -10776,11 +10776,11 @@ WeatherOutlook.insert({
 	municipality: "San Joaquin", 
 	data: {
 		month: {
-			Nov: 157.66, 
-			Dec: 102.2, 
-			Jan: 45.77, 
-			Feb: 27.72, 
-			Mar: 40.27 
+			Dec: 102.12, 
+			Jan: 45.70, 
+			Feb: 27.75, 
+			Mar: 40.64, 
+			Apr: 46.20 
 		}
 	}
 }); 
@@ -10791,11 +10791,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 170.35, 
-			Dec: 76.7, 
-			Jan: 64.56, 
-			Feb: 45.79, 
-			Mar: 65.54 
+			Dec: 76.63, 
+			Jan: 64.49, 
+			Feb: 45.80, 
+			Mar: 66.08, 
+			Apr: 63.10 
 		}
 	}
 }); 
@@ -10806,11 +10806,11 @@ WeatherOutlook.insert({
 	municipality: "San Rafael", 
 	data: {
 		month: {
-			Nov: 233.22, 
-			Dec: 178.27, 
-			Jan: 100.59, 
-			Feb: 79.3, 
-			Mar: 90.71 
+			Dec: 178.29, 
+			Jan: 100.69, 
+			Feb: 79.38, 
+			Mar: 91.43, 
+			Apr: 58.16 
 		}
 	}
 }); 
@@ -10821,11 +10821,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Barbara", 
 	data: {
 		month: {
-			Nov: 172.25, 
-			Dec: 89.72, 
-			Jan: 69.39, 
-			Feb: 49.88, 
-			Mar: 70.82 
+			Dec: 89.70, 
+			Jan: 69.37, 
+			Feb: 49.92, 
+			Mar: 71.40, 
+			Apr: 63.51 
 		}
 	}
 }); 
@@ -10836,11 +10836,11 @@ WeatherOutlook.insert({
 	municipality: "Sara", 
 	data: {
 		month: {
-			Nov: 263.35, 
-			Dec: 212.14, 
-			Jan: 139.64, 
-			Feb: 88.56, 
-			Mar: 112.64 
+			Dec: 212.19, 
+			Jan: 139.75, 
+			Feb: 88.64, 
+			Mar: 113.43, 
+			Apr: 63.05 
 		}
 	}
 }); 
@@ -10851,11 +10851,11 @@ WeatherOutlook.insert({
 	municipality: "Tigbauan", 
 	data: {
 		month: {
-			Nov: 169.08, 
-			Dec: 112.1, 
-			Jan: 61.74, 
-			Feb: 42.44, 
-			Mar: 55.75 
+			Dec: 112.04, 
+			Jan: 61.68, 
+			Feb: 42.46, 
+			Mar: 56.22, 
+			Apr: 60.15 
 		}
 	}
 }); 
@@ -10866,11 +10866,11 @@ WeatherOutlook.insert({
 	municipality: "Tubungan", 
 	data: {
 		month: {
-			Nov: 180.48, 
-			Dec: 120.57, 
-			Jan: 62.77, 
-			Feb: 39.58, 
-			Mar: 62.2 
+			Dec: 120.49, 
+			Jan: 62.74, 
+			Feb: 39.63, 
+			Mar: 62.58, 
+			Apr: 66.37 
 		}
 	}
 }); 
@@ -10881,11 +10881,11 @@ WeatherOutlook.insert({
 	municipality: "Zarraga", 
 	data: {
 		month: {
-			Nov: 199.56, 
-			Dec: 133.97, 
+			Dec: 133.96, 
 			Jan: 74.04, 
-			Feb: 57.15, 
-			Mar: 74.01 
+			Feb: 57.19, 
+			Mar: 74.65, 
+			Apr: 62.08 
 		}
 	}
 }); 
@@ -10896,11 +10896,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 416.04, 
-			Dec: 279.46, 
-			Jan: 83.44, 
-			Feb: 64.65, 
-			Mar: 91.49 
+			Dec: 279.48, 
+			Jan: 83.57, 
+			Feb: 64.77, 
+			Mar: 91.09, 
+			Apr: 79.76 
 		}
 	}
 }); 
@@ -10911,11 +10911,11 @@ WeatherOutlook.insert({
 	municipality: "Alicia", 
 	data: {
 		month: {
-			Nov: 257.62, 
-			Dec: 158.9, 
-			Jan: 58.32, 
-			Feb: 46.44, 
-			Mar: 83.89 
+			Dec: 158.84, 
+			Jan: 58.40, 
+			Feb: 46.54, 
+			Mar: 83.39, 
+			Apr: 79.49 
 		}
 	}
 }); 
@@ -10926,11 +10926,11 @@ WeatherOutlook.insert({
 	municipality: "Angadanan", 
 	data: {
 		month: {
-			Nov: 285.49, 
-			Dec: 191.43, 
-			Jan: 71.7, 
-			Feb: 57.35, 
-			Mar: 90.93 
+			Dec: 191.34, 
+			Jan: 71.77, 
+			Feb: 57.44, 
+			Mar: 90.47, 
+			Apr: 81.01 
 		}
 	}
 }); 
@@ -10941,11 +10941,11 @@ WeatherOutlook.insert({
 	municipality: "Aurora", 
 	data: {
 		month: {
-			Nov: 245.6, 
-			Dec: 143.83, 
-			Jan: 57.81, 
-			Feb: 46.64, 
-			Mar: 80.61 
+			Dec: 143.73, 
+			Jan: 57.87, 
+			Feb: 46.73, 
+			Mar: 80.06, 
+			Apr: 73.00 
 		}
 	}
 }); 
@@ -10956,11 +10956,11 @@ WeatherOutlook.insert({
 	municipality: "Benito Soliven", 
 	data: {
 		month: {
-			Nov: 369.08, 
-			Dec: 250.18, 
-			Jan: 83.79, 
-			Feb: 67.51, 
-			Mar: 89.98 
+			Dec: 250.12, 
+			Jan: 83.91, 
+			Feb: 67.63, 
+			Mar: 89.59, 
+			Apr: 73.08 
 		}
 	}
 }); 
@@ -10971,11 +10971,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 277.85, 
-			Dec: 155.11, 
-			Jan: 53, 
-			Feb: 43.68, 
-			Mar: 68.59 
+			Dec: 155.05, 
+			Jan: 53.09, 
+			Feb: 43.79, 
+			Mar: 68.12, 
+			Apr: 65.14 
 		}
 	}
 }); 
@@ -10986,11 +10986,11 @@ WeatherOutlook.insert({
 	municipality: "Cabagan", 
 	data: {
 		month: {
-			Nov: 385.09, 
-			Dec: 240.59, 
-			Jan: 65.58, 
-			Feb: 38.89, 
-			Mar: 58.37 
+			Dec: 240.57, 
+			Jan: 65.69, 
+			Feb: 39.01, 
+			Mar: 57.97, 
+			Apr: 59.50 
 		}
 	}
 }); 
@@ -11001,11 +11001,11 @@ WeatherOutlook.insert({
 	municipality: "Cabatuan", 
 	data: {
 		month: {
-			Nov: 266.67, 
-			Dec: 149.35, 
-			Jan: 59.46, 
-			Feb: 48.41, 
-			Mar: 83.18 
+			Dec: 149.18, 
+			Jan: 59.47, 
+			Feb: 48.46, 
+			Mar: 82.63, 
+			Apr: 73.53 
 		}
 	}
 }); 
@@ -11016,11 +11016,11 @@ WeatherOutlook.insert({
 	municipality: "Cauayan City", 
 	data: {
 		month: {
-			Nov: 296.3, 
-			Dec: 187.63, 
-			Jan: 71.97, 
-			Feb: 57.56, 
-			Mar: 85.24 
+			Dec: 187.58, 
+			Jan: 72.08, 
+			Feb: 57.68, 
+			Mar: 84.82, 
+			Apr: 72.62 
 		}
 	}
 }); 
@@ -11031,11 +11031,11 @@ WeatherOutlook.insert({
 	municipality: "Cordon", 
 	data: {
 		month: {
-			Nov: 219.08, 
-			Dec: 151.48, 
-			Jan: 50.76, 
-			Feb: 46.05, 
-			Mar: 88.2 
+			Dec: 151.40, 
+			Jan: 50.80, 
+			Feb: 46.15, 
+			Mar: 87.50, 
+			Apr: 92.64 
 		}
 	}
 }); 
@@ -11046,11 +11046,11 @@ WeatherOutlook.insert({
 	municipality: "Delfin Albano", 
 	data: {
 		month: {
-			Nov: 285.31, 
-			Dec: 161.96, 
-			Jan: 55.31, 
-			Feb: 33.91, 
-			Mar: 54.46 
+			Dec: 161.89, 
+			Jan: 55.40, 
+			Feb: 34.01, 
+			Mar: 54.00, 
+			Apr: 57.74 
 		}
 	}
 }); 
@@ -11061,11 +11061,11 @@ WeatherOutlook.insert({
 	municipality: "Dinapigue", 
 	data: {
 		month: {
-			Nov: 588.52, 
-			Dec: 451.9, 
-			Jan: 134.18, 
-			Feb: 110.83, 
-			Mar: 140.07 
+			Dec: 451.82, 
+			Jan: 134.24, 
+			Feb: 110.91, 
+			Mar: 139.82, 
+			Apr: 103.10 
 		}
 	}
 }); 
@@ -11076,11 +11076,11 @@ WeatherOutlook.insert({
 	municipality: "Divilacan", 
 	data: {
 		month: {
-			Nov: 605.5, 
-			Dec: 397.4, 
-			Jan: 103.64, 
-			Feb: 70.44, 
-			Mar: 88.38 
+			Dec: 397.35, 
+			Jan: 103.74, 
+			Feb: 70.53, 
+			Mar: 88.06, 
+			Apr: 80.85 
 		}
 	}
 }); 
@@ -11091,11 +11091,11 @@ WeatherOutlook.insert({
 	municipality: "Echague", 
 	data: {
 		month: {
-			Nov: 385.86, 
-			Dec: 279.34, 
-			Jan: 82.88, 
-			Feb: 74.01, 
-			Mar: 111.2 
+			Dec: 279.26, 
+			Jan: 82.94, 
+			Feb: 74.09, 
+			Mar: 110.79, 
+			Apr: 98.18 
 		}
 	}
 }); 
@@ -11106,11 +11106,11 @@ WeatherOutlook.insert({
 	municipality: "Gamu", 
 	data: {
 		month: {
-			Nov: 301.58, 
-			Dec: 176.17, 
-			Jan: 51.26, 
-			Feb: 43.42, 
-			Mar: 56.51 
+			Dec: 176.09, 
+			Jan: 51.36, 
+			Feb: 43.53, 
+			Mar: 56.08, 
+			Apr: 58.19 
 		}
 	}
 }); 
@@ -11121,11 +11121,11 @@ WeatherOutlook.insert({
 	municipality: "Ilagan", 
 	data: {
 		month: {
-			Nov: 535.54, 
-			Dec: 352.56, 
-			Jan: 94.84, 
-			Feb: 67.36, 
-			Mar: 86.22 
+			Dec: 352.50, 
+			Jan: 94.95, 
+			Feb: 67.46, 
+			Mar: 85.88, 
+			Apr: 72.96 
 		}
 	}
 }); 
@@ -11136,11 +11136,11 @@ WeatherOutlook.insert({
 	municipality: "Jones", 
 	data: {
 		month: {
-			Nov: 359.06, 
-			Dec: 245.61, 
-			Jan: 79.04, 
-			Feb: 75.68, 
-			Mar: 117.34 
+			Dec: 245.54, 
+			Jan: 79.10, 
+			Feb: 75.77, 
+			Mar: 116.90, 
+			Apr: 97.37 
 		}
 	}
 }); 
@@ -11151,11 +11151,11 @@ WeatherOutlook.insert({
 	municipality: "Luna", 
 	data: {
 		month: {
-			Nov: 274.61, 
-			Dec: 159.57, 
+			Dec: 159.37, 
 			Jan: 57.78, 
-			Feb: 48.46, 
-			Mar: 76.6 
+			Feb: 48.49, 
+			Mar: 76.07, 
+			Apr: 67.99 
 		}
 	}
 }); 
@@ -11166,11 +11166,11 @@ WeatherOutlook.insert({
 	municipality: "Maconacon", 
 	data: {
 		month: {
-			Nov: 605.37, 
-			Dec: 397.55, 
-			Jan: 99.45, 
-			Feb: 67.28, 
-			Mar: 80.3 
+			Dec: 397.51, 
+			Jan: 99.55, 
+			Feb: 67.38, 
+			Mar: 80.00, 
+			Apr: 80.32 
 		}
 	}
 }); 
@@ -11181,11 +11181,11 @@ WeatherOutlook.insert({
 	municipality: "Mallig", 
 	data: {
 		month: {
-			Nov: 248.18, 
-			Dec: 132.67, 
-			Jan: 50.32, 
-			Feb: 37.31, 
-			Mar: 62.14 
+			Dec: 132.70, 
+			Jan: 50.46, 
+			Feb: 37.46, 
+			Mar: 61.62, 
+			Apr: 69.49 
 		}
 	}
 }); 
@@ -11196,11 +11196,11 @@ WeatherOutlook.insert({
 	municipality: "Naguilian", 
 	data: {
 		month: {
-			Nov: 319.05, 
-			Dec: 205.13, 
-			Jan: 60.85, 
-			Feb: 51.22, 
-			Mar: 62.55 
+			Dec: 205.04, 
+			Jan: 60.95, 
+			Feb: 51.32, 
+			Mar: 62.12, 
+			Apr: 61.56 
 		}
 	}
 }); 
@@ -11211,11 +11211,11 @@ WeatherOutlook.insert({
 	municipality: "Palanan", 
 	data: {
 		month: {
-			Nov: 614.45, 
-			Dec: 432.14, 
-			Jan: 127.15, 
-			Feb: 87.47, 
-			Mar: 120.02 
+			Dec: 432.10, 
+			Jan: 127.25, 
+			Feb: 87.56, 
+			Mar: 119.80, 
+			Apr: 86.30 
 		}
 	}
 }); 
@@ -11226,11 +11226,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 256.58, 
-			Dec: 128.14, 
-			Jan: 48.18, 
-			Feb: 33.63, 
-			Mar: 55.33 
+			Dec: 128.07, 
+			Jan: 48.25, 
+			Feb: 33.73, 
+			Mar: 54.78, 
+			Apr: 65.22 
 		}
 	}
 }); 
@@ -11241,11 +11241,11 @@ WeatherOutlook.insert({
 	municipality: "Quirino", 
 	data: {
 		month: {
-			Nov: 268.34, 
-			Dec: 139.99, 
-			Jan: 51.2, 
-			Feb: 37.05, 
-			Mar: 56.53 
+			Dec: 139.97, 
+			Jan: 51.32, 
+			Feb: 37.18, 
+			Mar: 56.08, 
+			Apr: 60.03 
 		}
 	}
 }); 
@@ -11256,11 +11256,11 @@ WeatherOutlook.insert({
 	municipality: "Ramon", 
 	data: {
 		month: {
-			Nov: 233.27, 
-			Dec: 152.35, 
-			Jan: 51.13, 
-			Feb: 43.56, 
-			Mar: 81.27 
+			Dec: 152.28, 
+			Jan: 51.19, 
+			Feb: 43.65, 
+			Mar: 80.61, 
+			Apr: 84.67 
 		}
 	}
 }); 
@@ -11271,11 +11271,11 @@ WeatherOutlook.insert({
 	municipality: "Reina Mercedes", 
 	data: {
 		month: {
-			Nov: 289.44, 
-			Dec: 179.82, 
-			Jan: 57.99, 
-			Feb: 48.26, 
-			Mar: 67.15 
+			Dec: 179.64, 
+			Jan: 58.02, 
+			Feb: 48.30, 
+			Mar: 66.65, 
+			Apr: 63.70 
 		}
 	}
 }); 
@@ -11286,11 +11286,11 @@ WeatherOutlook.insert({
 	municipality: "Roxas", 
 	data: {
 		month: {
-			Nov: 253.63, 
-			Dec: 139.45, 
-			Jan: 52.95, 
-			Feb: 41.69, 
-			Mar: 70.69 
+			Dec: 139.44, 
+			Jan: 53.07, 
+			Feb: 41.82, 
+			Mar: 70.16, 
+			Apr: 71.08 
 		}
 	}
 }); 
@@ -11301,11 +11301,11 @@ WeatherOutlook.insert({
 	municipality: "San Agustin", 
 	data: {
 		month: {
-			Nov: 433.53, 
-			Dec: 310.46, 
-			Jan: 97.84, 
-			Feb: 95.74, 
-			Mar: 140.31 
+			Dec: 310.39, 
+			Jan: 97.89, 
+			Feb: 95.82, 
+			Mar: 139.92, 
+			Apr: 108.16 
 		}
 	}
 }); 
@@ -11316,11 +11316,11 @@ WeatherOutlook.insert({
 	municipality: "San Guillermo", 
 	data: {
 		month: {
-			Nov: 457.39, 
-			Dec: 331.13, 
-			Jan: 98.8, 
-			Feb: 87.9, 
-			Mar: 118.9 
+			Dec: 331.05, 
+			Jan: 98.87, 
+			Feb: 87.99, 
+			Mar: 118.54, 
+			Apr: 95.51 
 		}
 	}
 }); 
@@ -11331,11 +11331,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 238.29, 
-			Dec: 150.53, 
-			Jan: 50.17, 
-			Feb: 37.32, 
-			Mar: 74.61 
+			Dec: 150.49, 
+			Jan: 50.24, 
+			Feb: 37.43, 
+			Mar: 74.06, 
+			Apr: 84.24 
 		}
 	}
 }); 
@@ -11346,11 +11346,11 @@ WeatherOutlook.insert({
 	municipality: "San Manuel", 
 	data: {
 		month: {
-			Nov: 247.14, 
-			Dec: 142.56, 
-			Jan: 55.55, 
-			Feb: 44.47, 
-			Mar: 76.6 
+			Dec: 142.54, 
+			Jan: 55.65, 
+			Feb: 44.59, 
+			Mar: 76.05, 
+			Apr: 73.18 
 		}
 	}
 }); 
@@ -11361,11 +11361,11 @@ WeatherOutlook.insert({
 	municipality: "San Mariano", 
 	data: {
 		month: {
-			Nov: 547.06, 
-			Dec: 388.3, 
-			Jan: 113.96, 
-			Feb: 91.74, 
-			Mar: 115.04 
+			Dec: 388.21, 
+			Jan: 114.05, 
+			Feb: 91.82, 
+			Mar: 114.67, 
+			Apr: 85.20 
 		}
 	}
 }); 
@@ -11376,11 +11376,11 @@ WeatherOutlook.insert({
 	municipality: "San Mateo", 
 	data: {
 		month: {
-			Nov: 248.1, 
-			Dec: 147.21, 
-			Jan: 54.68, 
-			Feb: 45.82, 
-			Mar: 83.19 
+			Dec: 147.12, 
+			Jan: 54.73, 
+			Feb: 45.91, 
+			Mar: 82.60, 
+			Apr: 79.80 
 		}
 	}
 }); 
@@ -11391,11 +11391,11 @@ WeatherOutlook.insert({
 	municipality: "San Pablo", 
 	data: {
 		month: {
-			Nov: 516.33, 
-			Dec: 337.69, 
-			Jan: 81.5, 
-			Feb: 53.01, 
-			Mar: 66.27 
+			Dec: 337.68, 
+			Jan: 81.61, 
+			Feb: 53.13, 
+			Mar: 65.95, 
+			Apr: 68.11 
 		}
 	}
 }); 
@@ -11406,11 +11406,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 211.44, 
-			Dec: 134.31, 
-			Jan: 47.57, 
-			Feb: 23.18, 
-			Mar: 42.67 
+			Dec: 134.30, 
+			Jan: 47.68, 
+			Feb: 23.31, 
+			Mar: 42.23, 
+			Apr: 45.49 
 		}
 	}
 }); 
@@ -11421,11 +11421,11 @@ WeatherOutlook.insert({
 	municipality: "Santiago City", 
 	data: {
 		month: {
-			Nov: 219.03, 
-			Dec: 150.03, 
-			Jan: 49.59, 
-			Feb: 43.8, 
-			Mar: 81.73 
+			Dec: 149.98, 
+			Jan: 49.65, 
+			Feb: 43.90, 
+			Mar: 81.04, 
+			Apr: 90.34 
 		}
 	}
 }); 
@@ -11436,11 +11436,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 253.92, 
-			Dec: 158.39, 
-			Jan: 55.88, 
-			Feb: 31.97, 
-			Mar: 53.21 
+			Dec: 158.29, 
+			Jan: 55.93, 
+			Feb: 32.05, 
+			Mar: 52.74, 
+			Apr: 55.36 
 		}
 	}
 }); 
@@ -11451,11 +11451,11 @@ WeatherOutlook.insert({
 	municipality: "Tumauini", 
 	data: {
 		month: {
-			Nov: 410.85, 
-			Dec: 255.55, 
-			Jan: 66.53, 
-			Feb: 41.06, 
-			Mar: 60.33 
+			Dec: 255.50, 
+			Jan: 66.63, 
+			Feb: 41.18, 
+			Mar: 59.93, 
+			Apr: 59.56 
 		}
 	}
 }); 
@@ -11466,11 +11466,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 258, 
-			Dec: 118.82, 
-			Jan: 30.17, 
-			Feb: 28.97, 
-			Mar: 48.52 
+			Dec: 118.81, 
+			Jan: 30.27, 
+			Feb: 29.10, 
+			Mar: 47.68, 
+			Apr: 82.26 
 		}
 	}
 }); 
@@ -11481,11 +11481,11 @@ WeatherOutlook.insert({
 	municipality: "Balbalan", 
 	data: {
 		month: {
-			Nov: 281.05, 
-			Dec: 117.9, 
-			Jan: 27.38, 
-			Feb: 26.9, 
-			Mar: 47.56 
+			Dec: 117.84, 
+			Jan: 27.45, 
+			Feb: 27.03, 
+			Mar: 46.74, 
+			Apr: 93.60 
 		}
 	}
 }); 
@@ -11496,11 +11496,11 @@ WeatherOutlook.insert({
 	municipality: "Lubuagan", 
 	data: {
 		month: {
-			Nov: 221.38, 
-			Dec: 104.87, 
-			Jan: 22.54, 
-			Feb: 27.49, 
-			Mar: 51.44 
+			Dec: 104.81, 
+			Jan: 22.60, 
+			Feb: 27.63, 
+			Mar: 50.31, 
+			Apr: 102.22 
 		}
 	}
 }); 
@@ -11511,11 +11511,11 @@ WeatherOutlook.insert({
 	municipality: "Pasil", 
 	data: {
 		month: {
-			Nov: 236.97, 
-			Dec: 109.61, 
-			Jan: 24.46, 
-			Feb: 27.55, 
-			Mar: 50.82 
+			Dec: 109.57, 
+			Jan: 24.54, 
+			Feb: 27.68, 
+			Mar: 49.84, 
+			Apr: 99.71 
 		}
 	}
 }); 
@@ -11526,11 +11526,11 @@ WeatherOutlook.insert({
 	municipality: "Pinukpuk", 
 	data: {
 		month: {
-			Nov: 301.44, 
-			Dec: 134.62, 
-			Jan: 33.55, 
-			Feb: 26.52, 
-			Mar: 44.81 
+			Dec: 134.59, 
+			Jan: 33.64, 
+			Feb: 26.65, 
+			Mar: 44.16, 
+			Apr: 69.24 
 		}
 	}
 }); 
@@ -11541,11 +11541,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 253.5, 
-			Dec: 98.53, 
-			Jan: 42.45, 
-			Feb: 26.2, 
-			Mar: 44.22 
+			Dec: 98.48, 
+			Jan: 42.53, 
+			Feb: 26.31, 
+			Mar: 43.69, 
+			Apr: 53.92 
 		}
 	}
 }); 
@@ -11556,11 +11556,11 @@ WeatherOutlook.insert({
 	municipality: "Tabuk City", 
 	data: {
 		month: {
-			Nov: 249.39, 
-			Dec: 120.63, 
-			Jan: 33.11, 
-			Feb: 31.75, 
-			Mar: 48.47 
+			Dec: 120.59, 
+			Jan: 33.19, 
+			Feb: 31.87, 
+			Mar: 47.81, 
+			Apr: 67.54 
 		}
 	}
 }); 
@@ -11571,11 +11571,11 @@ WeatherOutlook.insert({
 	municipality: "Tanudan", 
 	data: {
 		month: {
-			Nov: 256.07, 
-			Dec: 135.29, 
-			Jan: 28.35, 
-			Feb: 33.74, 
-			Mar: 51.84 
+			Dec: 135.24, 
+			Jan: 28.42, 
+			Feb: 33.87, 
+			Mar: 50.88, 
+			Apr: 90.69 
 		}
 	}
 }); 
@@ -11586,11 +11586,11 @@ WeatherOutlook.insert({
 	municipality: "Tinglayan", 
 	data: {
 		month: {
-			Nov: 214.49, 
-			Dec: 109.07, 
-			Jan: 25.01, 
-			Feb: 30.86, 
-			Mar: 52.65 
+			Dec: 108.99, 
+			Jan: 25.06, 
+			Feb: 30.99, 
+			Mar: 51.42, 
+			Apr: 103.77 
 		}
 	}
 }); 
@@ -11601,11 +11601,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 63.66, 
-			Dec: 27.8, 
-			Jan: 4.9, 
-			Feb: 7.79, 
-			Mar: 23.91 
+			Dec: 27.66, 
+			Jan: 4.87, 
+			Feb: 7.85, 
+			Mar: 22.78, 
+			Apr: 49.04 
 		}
 	}
 }); 
@@ -11616,11 +11616,11 @@ WeatherOutlook.insert({
 	municipality: "Agoo", 
 	data: {
 		month: {
-			Nov: 38.02, 
-			Dec: 19.35, 
-			Jan: 4.05, 
-			Feb: 5.04, 
-			Mar: 16.15 
+			Dec: 19.15, 
+			Jan: 3.97, 
+			Feb: 5.06, 
+			Mar: 14.99, 
+			Apr: 30.95 
 		}
 	}
 }); 
@@ -11631,11 +11631,11 @@ WeatherOutlook.insert({
 	municipality: "Aringay", 
 	data: {
 		month: {
-			Nov: 66.13, 
-			Dec: 28.1, 
-			Jan: 5.78, 
-			Feb: 6.56, 
-			Mar: 20.44 
+			Dec: 27.99, 
+			Jan: 5.76, 
+			Feb: 6.63, 
+			Mar: 19.35, 
+			Apr: 52.26 
 		}
 	}
 }); 
@@ -11646,11 +11646,11 @@ WeatherOutlook.insert({
 	municipality: "Bacnotan", 
 	data: {
 		month: {
-			Nov: 41.45, 
-			Dec: 19.4, 
-			Jan: 3.52, 
-			Feb: 7.01, 
-			Mar: 22.59 
+			Dec: 19.20, 
+			Jan: 3.46, 
+			Feb: 7.04, 
+			Mar: 21.38, 
+			Apr: 30.83 
 		}
 	}
 }); 
@@ -11661,11 +11661,11 @@ WeatherOutlook.insert({
 	municipality: "Bagulin", 
 	data: {
 		month: {
-			Nov: 94.17, 
-			Dec: 37.1, 
-			Jan: 5.64, 
-			Feb: 11.56, 
-			Mar: 27.53 
+			Dec: 36.94, 
+			Jan: 5.60, 
+			Feb: 11.61, 
+			Mar: 26.41, 
+			Apr: 69.86 
 		}
 	}
 }); 
@@ -11676,11 +11676,11 @@ WeatherOutlook.insert({
 	municipality: "Balaoan", 
 	data: {
 		month: {
-			Nov: 40.87, 
-			Dec: 18.37, 
-			Jan: 3.66, 
-			Feb: 6.61, 
-			Mar: 22.33 
+			Dec: 18.23, 
+			Jan: 3.64, 
+			Feb: 6.67, 
+			Mar: 21.14, 
+			Apr: 26.33 
 		}
 	}
 }); 
@@ -11691,11 +11691,11 @@ WeatherOutlook.insert({
 	municipality: "Bangar", 
 	data: {
 		month: {
-			Nov: 49.84, 
-			Dec: 21.52, 
-			Jan: 3.62, 
-			Feb: 6.53, 
-			Mar: 24.67 
+			Dec: 21.34, 
+			Jan: 3.57, 
+			Feb: 6.57, 
+			Mar: 23.46, 
+			Apr: 31.24 
 		}
 	}
 }); 
@@ -11706,11 +11706,11 @@ WeatherOutlook.insert({
 	municipality: "Bauang", 
 	data: {
 		month: {
-			Nov: 41.82, 
-			Dec: 23.81, 
+			Dec: 23.71, 
 			Jan: 3.54, 
-			Feb: 4.24, 
-			Mar: 19.21 
+			Feb: 4.32, 
+			Mar: 18.11, 
+			Apr: 44.08 
 		}
 	}
 }); 
@@ -11721,11 +11721,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 83.97, 
-			Dec: 34.69, 
-			Jan: 5.38, 
-			Feb: 10.24, 
-			Mar: 26.04 
+			Dec: 34.52, 
+			Jan: 5.33, 
+			Feb: 10.29, 
+			Mar: 24.93, 
+			Apr: 64.84 
 		}
 	}
 }); 
@@ -11736,11 +11736,11 @@ WeatherOutlook.insert({
 	municipality: "Caba", 
 	data: {
 		month: {
-			Nov: 55.18, 
-			Dec: 28.66, 
-			Jan: 5.02, 
-			Feb: 4.46, 
-			Mar: 18.87 
+			Dec: 28.49, 
+			Jan: 4.96, 
+			Feb: 4.50, 
+			Mar: 17.75, 
+			Apr: 47.61 
 		}
 	}
 }); 
@@ -11751,11 +11751,11 @@ WeatherOutlook.insert({
 	municipality: "Luna", 
 	data: {
 		month: {
-			Nov: 37.63, 
-			Dec: 15.48, 
-			Jan: 3.11, 
-			Feb: 5.43, 
-			Mar: 21.22 
+			Dec: 15.30, 
+			Jan: 3.06, 
+			Feb: 5.47, 
+			Mar: 19.99, 
+			Apr: 22.91 
 		}
 	}
 }); 
@@ -11766,11 +11766,11 @@ WeatherOutlook.insert({
 	municipality: "Naguilian", 
 	data: {
 		month: {
-			Nov: 64.12, 
-			Dec: 31.59, 
-			Jan: 4.8, 
-			Feb: 6.81, 
-			Mar: 22.16 
+			Dec: 31.47, 
+			Jan: 4.78, 
+			Feb: 6.88, 
+			Mar: 21.07, 
+			Apr: 53.75 
 		}
 	}
 }); 
@@ -11781,11 +11781,11 @@ WeatherOutlook.insert({
 	municipality: "Pugo", 
 	data: {
 		month: {
-			Nov: 84.19, 
-			Dec: 38.42, 
-			Jan: 5.9, 
-			Feb: 6.63, 
-			Mar: 26.27 
+			Dec: 38.23, 
+			Jan: 5.83, 
+			Feb: 6.66, 
+			Mar: 25.16, 
+			Apr: 69.11 
 		}
 	}
 }); 
@@ -11796,11 +11796,11 @@ WeatherOutlook.insert({
 	municipality: "Rosario", 
 	data: {
 		month: {
-			Nov: 62.09, 
-			Dec: 34.51, 
-			Jan: 4.62, 
-			Feb: 6.51, 
-			Mar: 24.31 
+			Dec: 34.33, 
+			Jan: 4.56, 
+			Feb: 6.54, 
+			Mar: 23.18, 
+			Apr: 57.15 
 		}
 	}
 }); 
@@ -11811,11 +11811,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando City", 
 	data: {
 		month: {
-			Nov: 55.42, 
-			Dec: 23.15, 
-			Jan: 4.69, 
-			Feb: 5.59, 
-			Mar: 20.3 
+			Dec: 23.02, 
+			Jan: 4.66, 
+			Feb: 5.65, 
+			Mar: 19.16, 
+			Apr: 41.93 
 		}
 	}
 }); 
@@ -11826,11 +11826,11 @@ WeatherOutlook.insert({
 	municipality: "San Gabriel", 
 	data: {
 		month: {
-			Nov: 92.52, 
-			Dec: 32.45, 
-			Jan: 5.49, 
-			Feb: 13.23, 
-			Mar: 31.42 
+			Dec: 32.39, 
+			Jan: 5.53, 
+			Feb: 13.34, 
+			Mar: 30.34, 
+			Apr: 69.00 
 		}
 	}
 }); 
@@ -11841,11 +11841,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 51.76, 
-			Dec: 22.12, 
-			Jan: 3.31, 
-			Feb: 6.3, 
-			Mar: 21.73 
+			Dec: 21.96, 
+			Jan: 3.26, 
+			Feb: 6.35, 
+			Mar: 20.58, 
+			Apr: 41.47 
 		}
 	}
 }); 
@@ -11856,11 +11856,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 60.14, 
-			Dec: 28.45, 
-			Jan: 8.69, 
-			Feb: 7.78, 
-			Mar: 22.02 
+			Dec: 28.24, 
+			Jan: 8.60, 
+			Feb: 7.79, 
+			Mar: 20.86, 
+			Apr: 46.09 
 		}
 	}
 }); 
@@ -11871,11 +11871,11 @@ WeatherOutlook.insert({
 	municipality: "Santol", 
 	data: {
 		month: {
-			Nov: 78.64, 
-			Dec: 30.17, 
-			Jan: 5.24, 
-			Feb: 12.43, 
-			Mar: 31.76 
+			Dec: 30.08, 
+			Jan: 5.25, 
+			Feb: 12.53, 
+			Mar: 30.64, 
+			Apr: 56.60 
 		}
 	}
 }); 
@@ -11886,11 +11886,11 @@ WeatherOutlook.insert({
 	municipality: "Sudipen", 
 	data: {
 		month: {
-			Nov: 66.74, 
-			Dec: 26.79, 
-			Jan: 4.59, 
-			Feb: 10.56, 
-			Mar: 28.94 
+			Dec: 26.70, 
+			Jan: 4.61, 
+			Feb: 10.66, 
+			Mar: 27.79, 
+			Apr: 45.56 
 		}
 	}
 }); 
@@ -11901,11 +11901,11 @@ WeatherOutlook.insert({
 	municipality: "Tubao", 
 	data: {
 		month: {
-			Nov: 55.14, 
-			Dec: 27.4, 
-			Jan: 4.63, 
-			Feb: 4.31, 
-			Mar: 19.14 
+			Dec: 27.26, 
+			Jan: 4.60, 
+			Feb: 4.37, 
+			Mar: 18.03, 
+			Apr: 44.89 
 		}
 	}
 }); 
@@ -11916,11 +11916,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 283.83, 
-			Dec: 252.87, 
-			Jan: 69.81, 
-			Feb: 43.92, 
-			Mar: 63.43 
+			Dec: 252.49, 
+			Jan: 69.63, 
+			Feb: 43.83, 
+			Mar: 63.06, 
+			Apr: 55.34 
 		}
 	}
 }); 
@@ -11931,11 +11931,11 @@ WeatherOutlook.insert({
 	municipality: "Alaminos", 
 	data: {
 		month: {
-			Nov: 198.96, 
-			Dec: 145.22, 
-			Jan: 46.5, 
-			Feb: 33.55, 
-			Mar: 45.85 
+			Dec: 144.85, 
+			Jan: 46.34, 
+			Feb: 33.47, 
+			Mar: 45.29, 
+			Apr: 52.42 
 		}
 	}
 }); 
@@ -11946,11 +11946,11 @@ WeatherOutlook.insert({
 	municipality: "Bay", 
 	data: {
 		month: {
-			Nov: 219.69, 
-			Dec: 166.31, 
-			Jan: 44.02, 
-			Feb: 31.63, 
-			Mar: 43.09 
+			Dec: 165.86, 
+			Jan: 43.79, 
+			Feb: 31.49, 
+			Mar: 42.57, 
+			Apr: 44.37 
 		}
 	}
 }); 
@@ -11961,11 +11961,11 @@ WeatherOutlook.insert({
 	municipality: "Biñan", 
 	data: {
 		month: {
-			Nov: 191.8, 
-			Dec: 151.13, 
-			Jan: 31.96, 
-			Feb: 20.98, 
-			Mar: 26.41 
+			Dec: 150.71, 
+			Jan: 31.74, 
+			Feb: 20.86, 
+			Mar: 25.77, 
+			Apr: 32.44 
 		}
 	}
 }); 
@@ -11976,11 +11976,11 @@ WeatherOutlook.insert({
 	municipality: "Cabuyao", 
 	data: {
 		month: {
-			Nov: 211.25, 
-			Dec: 176.64, 
-			Jan: 37.85, 
-			Feb: 26.37, 
-			Mar: 34.27 
+			Dec: 176.10, 
+			Jan: 37.54, 
+			Feb: 26.18, 
+			Mar: 33.60, 
+			Apr: 37.61 
 		}
 	}
 }); 
@@ -11991,11 +11991,11 @@ WeatherOutlook.insert({
 	municipality: "Calamba City", 
 	data: {
 		month: {
-			Nov: 200.84, 
-			Dec: 164.23, 
-			Jan: 38.64, 
-			Feb: 24.51, 
-			Mar: 35.91 
+			Dec: 163.90, 
+			Jan: 38.52, 
+			Feb: 24.46, 
+			Mar: 35.29, 
+			Apr: 41.13 
 		}
 	}
 }); 
@@ -12006,11 +12006,11 @@ WeatherOutlook.insert({
 	municipality: "Calauan", 
 	data: {
 		month: {
-			Nov: 225.85, 
-			Dec: 175.64, 
-			Jan: 48.5, 
-			Feb: 34.35, 
-			Mar: 46.86 
+			Dec: 175.28, 
+			Jan: 48.33, 
+			Feb: 34.26, 
+			Mar: 46.40, 
+			Apr: 47.21 
 		}
 	}
 }); 
@@ -12021,11 +12021,11 @@ WeatherOutlook.insert({
 	municipality: "Cavinti", 
 	data: {
 		month: {
-			Nov: 348.73, 
-			Dec: 346.22, 
-			Jan: 109.42, 
-			Feb: 73.84, 
-			Mar: 103.67 
+			Dec: 345.97, 
+			Jan: 109.34, 
+			Feb: 73.81, 
+			Mar: 103.56, 
+			Apr: 75.79 
 		}
 	}
 }); 
@@ -12036,11 +12036,11 @@ WeatherOutlook.insert({
 	municipality: "Famy", 
 	data: {
 		month: {
-			Nov: 347.75, 
-			Dec: 322.84, 
-			Jan: 95.86, 
-			Feb: 61.73, 
-			Mar: 92.01 
+			Dec: 322.47, 
+			Jan: 95.70, 
+			Feb: 61.65, 
+			Mar: 91.74, 
+			Apr: 66.78 
 		}
 	}
 }); 
@@ -12051,11 +12051,11 @@ WeatherOutlook.insert({
 	municipality: "Kalayaan", 
 	data: {
 		month: {
-			Nov: 355.21, 
-			Dec: 379.16, 
-			Jan: 118.33, 
-			Feb: 75.56, 
-			Mar: 109.23 
+			Dec: 378.72, 
+			Jan: 118.14, 
+			Feb: 75.46, 
+			Mar: 109.05, 
+			Apr: 78.33 
 		}
 	}
 }); 
@@ -12066,11 +12066,11 @@ WeatherOutlook.insert({
 	municipality: "Kalibato Lake", 
 	data: {
 		month: {
-			Nov: 291.78, 
-			Dec: 227.02, 
-			Jan: 68.01, 
-			Feb: 47.19, 
-			Mar: 69.46 
+			Dec: 226.79, 
+			Jan: 67.95, 
+			Feb: 47.17, 
+			Mar: 69.16, 
+			Apr: 65.70 
 		}
 	}
 }); 
@@ -12081,11 +12081,11 @@ WeatherOutlook.insert({
 	municipality: "Laguna lake", 
 	data: {
 		month: {
-			Nov: 288.34, 
-			Dec: 251.53, 
-			Jan: 52.58, 
-			Feb: 33.35, 
-			Mar: 44.14 
+			Dec: 251.29, 
+			Jan: 52.49, 
+			Feb: 33.33, 
+			Mar: 43.72, 
+			Apr: 42.31 
 		}
 	}
 }); 
@@ -12096,11 +12096,11 @@ WeatherOutlook.insert({
 	municipality: "Liliw", 
 	data: {
 		month: {
-			Nov: 282.41, 
-			Dec: 236.13, 
-			Jan: 76.4, 
-			Feb: 41.42, 
-			Mar: 69.95 
+			Dec: 235.70, 
+			Jan: 76.19, 
+			Feb: 41.31, 
+			Mar: 69.68, 
+			Apr: 65.49 
 		}
 	}
 }); 
@@ -12111,11 +12111,11 @@ WeatherOutlook.insert({
 	municipality: "Los Baños", 
 	data: {
 		month: {
-			Nov: 217.02, 
-			Dec: 158.83, 
-			Jan: 39.5, 
-			Feb: 21.04, 
-			Mar: 36.13 
+			Dec: 158.35, 
+			Jan: 39.24, 
+			Feb: 20.89, 
+			Mar: 35.54, 
+			Apr: 42.47 
 		}
 	}
 }); 
@@ -12126,11 +12126,11 @@ WeatherOutlook.insert({
 	municipality: "Luisiana", 
 	data: {
 		month: {
-			Nov: 339.15, 
-			Dec: 317.58, 
-			Jan: 99.65, 
-			Feb: 69.64, 
-			Mar: 94.8 
+			Dec: 317.19, 
+			Jan: 99.48, 
+			Feb: 69.55, 
+			Mar: 94.64, 
+			Apr: 72.75 
 		}
 	}
 }); 
@@ -12141,11 +12141,11 @@ WeatherOutlook.insert({
 	municipality: "Lumban", 
 	data: {
 		month: {
-			Nov: 354.72, 
-			Dec: 377.32, 
-			Jan: 117.26, 
-			Feb: 72.95, 
-			Mar: 104.15 
+			Dec: 377.06, 
+			Jan: 117.17, 
+			Feb: 72.91, 
+			Mar: 103.99, 
+			Apr: 78.11 
 		}
 	}
 }); 
@@ -12156,11 +12156,11 @@ WeatherOutlook.insert({
 	municipality: "Mabitac", 
 	data: {
 		month: {
-			Nov: 322.22, 
-			Dec: 308.07, 
-			Jan: 85.73, 
-			Feb: 51.64, 
-			Mar: 76.3 
+			Dec: 307.74, 
+			Jan: 85.59, 
+			Feb: 51.58, 
+			Mar: 75.99, 
+			Apr: 58.83 
 		}
 	}
 }); 
@@ -12171,11 +12171,11 @@ WeatherOutlook.insert({
 	municipality: "Magdalena", 
 	data: {
 		month: {
-			Nov: 258.6, 
-			Dec: 240.81, 
-			Jan: 78.14, 
-			Feb: 46.12, 
-			Mar: 68.97 
+			Dec: 240.43, 
+			Jan: 77.97, 
+			Feb: 46.02, 
+			Mar: 68.71, 
+			Apr: 59.14 
 		}
 	}
 }); 
@@ -12186,11 +12186,11 @@ WeatherOutlook.insert({
 	municipality: "Majayjay", 
 	data: {
 		month: {
-			Nov: 303.76, 
-			Dec: 262.07, 
-			Jan: 83.7, 
-			Feb: 47.92, 
-			Mar: 76.7 
+			Dec: 261.80, 
+			Jan: 83.61, 
+			Feb: 47.87, 
+			Mar: 76.50, 
+			Apr: 68.60 
 		}
 	}
 }); 
@@ -12201,11 +12201,11 @@ WeatherOutlook.insert({
 	municipality: "Nagcarlan", 
 	data: {
 		month: {
-			Nov: 259.02, 
-			Dec: 208.01, 
-			Jan: 64.87, 
-			Feb: 35.62, 
-			Mar: 60.82 
+			Dec: 207.66, 
+			Jan: 64.72, 
+			Feb: 35.54, 
+			Mar: 60.50, 
+			Apr: 57.61 
 		}
 	}
 }); 
@@ -12216,11 +12216,11 @@ WeatherOutlook.insert({
 	municipality: "Paete", 
 	data: {
 		month: {
-			Nov: 375.29, 
-			Dec: 379.79, 
-			Jan: 115.37, 
-			Feb: 72.72, 
-			Mar: 103.98 
+			Dec: 379.50, 
+			Jan: 115.26, 
+			Feb: 72.67, 
+			Mar: 103.81, 
+			Apr: 78.52 
 		}
 	}
 }); 
@@ -12231,11 +12231,11 @@ WeatherOutlook.insert({
 	municipality: "Pagsanjan", 
 	data: {
 		month: {
-			Nov: 320.7, 
-			Dec: 348.08, 
-			Jan: 111.16, 
-			Feb: 62.12, 
-			Mar: 89.3 
+			Dec: 347.69, 
+			Jan: 110.99, 
+			Feb: 62.02, 
+			Mar: 89.05, 
+			Apr: 75.20 
 		}
 	}
 }); 
@@ -12246,11 +12246,11 @@ WeatherOutlook.insert({
 	municipality: "Pakil", 
 	data: {
 		month: {
-			Nov: 352.6, 
-			Dec: 335.03, 
-			Jan: 95.54, 
-			Feb: 56.47, 
-			Mar: 84.61 
+			Dec: 334.61, 
+			Jan: 95.33, 
+			Feb: 56.37, 
+			Mar: 84.34, 
+			Apr: 66.11 
 		}
 	}
 }); 
@@ -12261,11 +12261,11 @@ WeatherOutlook.insert({
 	municipality: "Palakpakin Lake", 
 	data: {
 		month: {
-			Nov: 241.64, 
-			Dec: 185.15, 
-			Jan: 54.67, 
-			Feb: 35.24, 
-			Mar: 51.27 
+			Dec: 184.79, 
+			Jan: 54.50, 
+			Feb: 35.15, 
+			Mar: 50.88, 
+			Apr: 51.49 
 		}
 	}
 }); 
@@ -12276,11 +12276,11 @@ WeatherOutlook.insert({
 	municipality: "Pangil", 
 	data: {
 		month: {
-			Nov: 354.9, 
-			Dec: 337.68, 
-			Jan: 96.2, 
-			Feb: 55.71, 
-			Mar: 85.58 
+			Dec: 337.38, 
+			Jan: 96.08, 
+			Feb: 55.65, 
+			Mar: 85.33, 
+			Apr: 66.52 
 		}
 	}
 }); 
@@ -12291,11 +12291,11 @@ WeatherOutlook.insert({
 	municipality: "Pila", 
 	data: {
 		month: {
-			Nov: 251.65, 
-			Dec: 204.83, 
-			Jan: 53.26, 
-			Feb: 28.9, 
-			Mar: 47.81 
+			Dec: 204.43, 
+			Jan: 53.06, 
+			Feb: 28.80, 
+			Mar: 47.45, 
+			Apr: 44.12 
 		}
 	}
 }); 
@@ -12306,11 +12306,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 280.03, 
-			Dec: 228.85, 
-			Jan: 69.81, 
-			Feb: 42.84, 
-			Mar: 67.94 
+			Dec: 228.40, 
+			Jan: 69.59, 
+			Feb: 42.72, 
+			Mar: 67.61, 
+			Apr: 64.82 
 		}
 	}
 }); 
@@ -12321,11 +12321,11 @@ WeatherOutlook.insert({
 	municipality: "Sampaloc Lake", 
 	data: {
 		month: {
-			Nov: 244.23, 
-			Dec: 173.92, 
-			Jan: 56.74, 
-			Feb: 43.58, 
-			Mar: 55.26 
+			Dec: 173.47, 
+			Jan: 56.51, 
+			Feb: 43.44, 
+			Mar: 54.83, 
+			Apr: 55.65 
 		}
 	}
 }); 
@@ -12336,11 +12336,11 @@ WeatherOutlook.insert({
 	municipality: "San Pablo City", 
 	data: {
 		month: {
-			Nov: 240.69, 
-			Dec: 188.63, 
-			Jan: 56.39, 
-			Feb: 39.8, 
-			Mar: 54.72 
+			Dec: 188.30, 
+			Jan: 56.26, 
+			Feb: 39.73, 
+			Mar: 54.31, 
+			Apr: 55.57 
 		}
 	}
 }); 
@@ -12351,11 +12351,11 @@ WeatherOutlook.insert({
 	municipality: "San Pedro", 
 	data: {
 		month: {
-			Nov: 206.34, 
-			Dec: 140.48, 
-			Jan: 24.11, 
-			Feb: 15.11, 
-			Mar: 16.15 
+			Dec: 140.12, 
+			Jan: 23.94, 
+			Feb: 15.03, 
+			Mar: 15.56, 
+			Apr: 26.29 
 		}
 	}
 }); 
@@ -12366,11 +12366,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 269.54, 
-			Dec: 241.85, 
-			Jan: 65.71, 
-			Feb: 35.58, 
-			Mar: 57.82 
+			Dec: 241.54, 
+			Jan: 65.58, 
+			Feb: 35.52, 
+			Mar: 57.51, 
+			Apr: 50.41 
 		}
 	}
 }); 
@@ -12381,11 +12381,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 332, 
-			Dec: 302.7, 
-			Jan: 93.47, 
-			Feb: 59.54, 
-			Mar: 91.41 
+			Dec: 302.45, 
+			Jan: 93.38, 
+			Feb: 59.51, 
+			Mar: 91.12, 
+			Apr: 68.00 
 		}
 	}
 }); 
@@ -12396,11 +12396,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Rosa City", 
 	data: {
 		month: {
-			Nov: 206.88, 
-			Dec: 167.09, 
-			Jan: 33.3, 
-			Feb: 23.15, 
-			Mar: 28.62 
+			Dec: 166.67, 
+			Jan: 33.09, 
+			Feb: 23.04, 
+			Mar: 27.99, 
+			Apr: 33.44 
 		}
 	}
 }); 
@@ -12411,11 +12411,11 @@ WeatherOutlook.insert({
 	municipality: "Siniloan", 
 	data: {
 		month: {
-			Nov: 360.4, 
-			Dec: 338.82, 
-			Jan: 100.09, 
-			Feb: 64.19, 
-			Mar: 92.47 
+			Dec: 338.45, 
+			Jan: 99.92, 
+			Feb: 64.11, 
+			Mar: 92.21, 
+			Apr: 67.87 
 		}
 	}
 }); 
@@ -12426,11 +12426,11 @@ WeatherOutlook.insert({
 	municipality: "Victoria", 
 	data: {
 		month: {
-			Nov: 252.38, 
-			Dec: 202.07, 
-			Jan: 53.4, 
-			Feb: 33.08, 
-			Mar: 49.14 
+			Dec: 201.63, 
+			Jan: 53.18, 
+			Feb: 32.95, 
+			Mar: 48.72, 
+			Apr: 45.59 
 		}
 	}
 }); 
@@ -12441,11 +12441,11 @@ WeatherOutlook.insert({
 	municipality: "Waterbody", 
 	data: {
 		month: {
-			Nov: 257.36, 
-			Dec: 213.32, 
-			Jan: 66.7, 
-			Feb: 44.02, 
-			Mar: 65.92 
+			Dec: 213.09, 
+			Jan: 66.64, 
+			Feb: 44.00, 
+			Mar: 65.63, 
+			Apr: 61.35 
 		}
 	}
 }); 
@@ -12456,11 +12456,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 283.61, 
-			Dec: 241.85, 
-			Jan: 167.07, 
-			Feb: 138.6, 
-			Mar: 174.73 
+			Dec: 242.42, 
+			Jan: 167.12, 
+			Feb: 138.67, 
+			Mar: 174.49, 
+			Apr: 133.07 
 		}
 	}
 }); 
@@ -12471,11 +12471,11 @@ WeatherOutlook.insert({
 	municipality: "Bacolod", 
 	data: {
 		month: {
-			Nov: 293.31, 
-			Dec: 245.76, 
-			Jan: 171.37, 
-			Feb: 128.31, 
-			Mar: 154.57 
+			Dec: 246.35, 
+			Jan: 171.44, 
+			Feb: 128.44, 
+			Mar: 154.19, 
+			Apr: 107.29 
 		}
 	}
 }); 
@@ -12486,11 +12486,11 @@ WeatherOutlook.insert({
 	municipality: "Baloi", 
 	data: {
 		month: {
-			Nov: 263.6, 
-			Dec: 207.01, 
-			Jan: 141.18, 
-			Feb: 126.33, 
-			Mar: 154.56 
+			Dec: 207.53, 
+			Jan: 141.22, 
+			Feb: 126.45, 
+			Mar: 154.54, 
+			Apr: 135.95 
 		}
 	}
 }); 
@@ -12501,11 +12501,11 @@ WeatherOutlook.insert({
 	municipality: "Baroy", 
 	data: {
 		month: {
-			Nov: 312.95, 
-			Dec: 271.84, 
-			Jan: 219.31, 
-			Feb: 160.54, 
-			Mar: 196.99 
+			Dec: 272.41, 
+			Jan: 219.35, 
+			Feb: 160.63, 
+			Mar: 196.63, 
+			Apr: 132.82 
 		}
 	}
 }); 
@@ -12516,11 +12516,11 @@ WeatherOutlook.insert({
 	municipality: "Iligan City", 
 	data: {
 		month: {
-			Nov: 246.89, 
-			Dec: 199.95, 
+			Dec: 200.36, 
 			Jan: 126.27, 
-			Feb: 113.35, 
-			Mar: 141.21 
+			Feb: 113.48, 
+			Mar: 141.86, 
+			Apr: 117.53 
 		}
 	}
 }); 
@@ -12531,11 +12531,11 @@ WeatherOutlook.insert({
 	municipality: "Kapatagan", 
 	data: {
 		month: {
-			Nov: 280.66, 
-			Dec: 244.71, 
+			Dec: 245.19, 
 			Jan: 170.82, 
-			Feb: 143.3, 
-			Mar: 185.09 
+			Feb: 143.40, 
+			Mar: 185.17, 
+			Apr: 136.26 
 		}
 	}
 }); 
@@ -12546,11 +12546,11 @@ WeatherOutlook.insert({
 	municipality: "Kauswagan", 
 	data: {
 		month: {
-			Nov: 293.54, 
-			Dec: 228.62, 
-			Jan: 125.76, 
-			Feb: 107.03, 
-			Mar: 132.35 
+			Dec: 229.15, 
+			Jan: 125.81, 
+			Feb: 107.19, 
+			Mar: 132.24, 
+			Apr: 98.87 
 		}
 	}
 }); 
@@ -12561,11 +12561,11 @@ WeatherOutlook.insert({
 	municipality: "Kolambugan", 
 	data: {
 		month: {
-			Nov: 369.06, 
-			Dec: 338.27, 
-			Jan: 275.08, 
-			Feb: 180.46, 
-			Mar: 206.85 
+			Dec: 338.86, 
+			Jan: 275.13, 
+			Feb: 180.50, 
+			Mar: 206.32, 
+			Apr: 116.44 
 		}
 	}
 }); 
@@ -12576,11 +12576,11 @@ WeatherOutlook.insert({
 	municipality: "Lala", 
 	data: {
 		month: {
-			Nov: 308.72, 
-			Dec: 272.22, 
-			Jan: 205.54, 
-			Feb: 154.8, 
-			Mar: 190.2 
+			Dec: 272.74, 
+			Jan: 205.55, 
+			Feb: 154.88, 
+			Mar: 190.10, 
+			Apr: 130.64 
 		}
 	}
 }); 
@@ -12591,11 +12591,11 @@ WeatherOutlook.insert({
 	municipality: "Linamon", 
 	data: {
 		month: {
-			Nov: 298.81, 
-			Dec: 222.68, 
-			Jan: 109.86, 
-			Feb: 100.43, 
-			Mar: 125.69 
+			Dec: 223.15, 
+			Jan: 109.88, 
+			Feb: 100.61, 
+			Mar: 125.83, 
+			Apr: 98.22 
 		}
 	}
 }); 
@@ -12606,11 +12606,11 @@ WeatherOutlook.insert({
 	municipality: "Magsaysay", 
 	data: {
 		month: {
-			Nov: 318.48, 
-			Dec: 291.39, 
-			Jan: 221.76, 
-			Feb: 160.07, 
-			Mar: 193.91 
+			Dec: 292.04, 
+			Jan: 221.83, 
+			Feb: 160.13, 
+			Mar: 193.12, 
+			Apr: 131.19 
 		}
 	}
 }); 
@@ -12621,11 +12621,11 @@ WeatherOutlook.insert({
 	municipality: "Maigo", 
 	data: {
 		month: {
-			Nov: 314.72, 
-			Dec: 277.91, 
-			Jan: 209.21, 
-			Feb: 149.68, 
-			Mar: 177.47 
+			Dec: 278.54, 
+			Jan: 209.28, 
+			Feb: 149.74, 
+			Mar: 176.79, 
+			Apr: 116.40 
 		}
 	}
 }); 
@@ -12636,11 +12636,11 @@ WeatherOutlook.insert({
 	municipality: "Matungao", 
 	data: {
 		month: {
-			Nov: 285.21, 
-			Dec: 218.36, 
-			Jan: 122.94, 
-			Feb: 111.26, 
-			Mar: 138.7 
+			Dec: 218.90, 
+			Jan: 122.99, 
+			Feb: 111.39, 
+			Mar: 138.55, 
+			Apr: 109.95 
 		}
 	}
 }); 
@@ -12651,11 +12651,11 @@ WeatherOutlook.insert({
 	municipality: "Munai", 
 	data: {
 		month: {
-			Nov: 279.55, 
-			Dec: 256.1, 
-			Jan: 162.49, 
-			Feb: 152.28, 
-			Mar: 190.81 
+			Dec: 256.72, 
+			Jan: 162.56, 
+			Feb: 152.41, 
+			Mar: 190.18, 
+			Apr: 151.97 
 		}
 	}
 }); 
@@ -12666,11 +12666,11 @@ WeatherOutlook.insert({
 	municipality: "Nunungan", 
 	data: {
 		month: {
-			Nov: 277.11, 
-			Dec: 229.01, 
-			Jan: 152.16, 
-			Feb: 144.56, 
-			Mar: 202.93 
+			Dec: 229.57, 
+			Jan: 152.20, 
+			Feb: 144.65, 
+			Mar: 202.66, 
+			Apr: 164.55 
 		}
 	}
 }); 
@@ -12681,11 +12681,11 @@ WeatherOutlook.insert({
 	municipality: "Pantao Ragat", 
 	data: {
 		month: {
-			Nov: 278.85, 
-			Dec: 239.17, 
-			Jan: 151.87, 
-			Feb: 129.22, 
-			Mar: 161.37 
+			Dec: 239.67, 
+			Jan: 151.90, 
+			Feb: 129.46, 
+			Mar: 161.25, 
+			Apr: 129.68 
 		}
 	}
 }); 
@@ -12696,11 +12696,11 @@ WeatherOutlook.insert({
 	municipality: "Pantar", 
 	data: {
 		month: {
-			Nov: 245.6, 
-			Dec: 206.16, 
-			Jan: 156.32, 
-			Feb: 135.86, 
-			Mar: 166.4 
+			Dec: 206.73, 
+			Jan: 156.37, 
+			Feb: 135.92, 
+			Mar: 166.18, 
+			Apr: 151.05 
 		}
 	}
 }); 
@@ -12711,11 +12711,11 @@ WeatherOutlook.insert({
 	municipality: "Poona Piagapo", 
 	data: {
 		month: {
-			Nov: 283.72, 
-			Dec: 238.95, 
-			Jan: 151.23, 
-			Feb: 127.72, 
-			Mar: 159.49 
+			Dec: 239.56, 
+			Jan: 151.30, 
+			Feb: 127.85, 
+			Mar: 158.97, 
+			Apr: 120.73 
 		}
 	}
 }); 
@@ -12726,11 +12726,11 @@ WeatherOutlook.insert({
 	municipality: "Salvador", 
 	data: {
 		month: {
-			Nov: 271.86, 
-			Dec: 231.6, 
-			Jan: 180.14, 
-			Feb: 148.7, 
-			Mar: 192.41 
+			Dec: 232.20, 
+			Jan: 180.19, 
+			Feb: 148.72, 
+			Mar: 191.85, 
+			Apr: 148.42 
 		}
 	}
 }); 
@@ -12741,11 +12741,11 @@ WeatherOutlook.insert({
 	municipality: "Sapad", 
 	data: {
 		month: {
-			Nov: 276.07, 
-			Dec: 235.99, 
-			Jan: 160.57, 
-			Feb: 143.19, 
-			Mar: 191.55 
+			Dec: 236.52, 
+			Jan: 160.59, 
+			Feb: 143.22, 
+			Mar: 191.30, 
+			Apr: 149.50 
 		}
 	}
 }); 
@@ -12756,11 +12756,11 @@ WeatherOutlook.insert({
 	municipality: "Sultan Naga Dimaporo", 
 	data: {
 		month: {
-			Nov: 261.3, 
-			Dec: 224.64, 
-			Jan: 148.42, 
-			Feb: 132.13, 
-			Mar: 173.48 
+			Dec: 225.11, 
+			Jan: 148.40, 
+			Feb: 132.19, 
+			Mar: 173.60, 
+			Apr: 145.99 
 		}
 	}
 }); 
@@ -12771,11 +12771,11 @@ WeatherOutlook.insert({
 	municipality: "Tagoloan", 
 	data: {
 		month: {
-			Nov: 269.85, 
-			Dec: 210.68, 
-			Jan: 132.93, 
-			Feb: 122.14, 
-			Mar: 148.75 
+			Dec: 211.09, 
+			Jan: 132.91, 
+			Feb: 122.29, 
+			Mar: 149.11, 
+			Apr: 127.34 
 		}
 	}
 }); 
@@ -12786,11 +12786,11 @@ WeatherOutlook.insert({
 	municipality: "Tangcal", 
 	data: {
 		month: {
-			Nov: 290.92, 
-			Dec: 263.19, 
-			Jan: 174.99, 
-			Feb: 155.63, 
-			Mar: 199.32 
+			Dec: 263.85, 
+			Jan: 175.08, 
+			Feb: 155.72, 
+			Mar: 198.49, 
+			Apr: 148.82 
 		}
 	}
 }); 
@@ -12801,11 +12801,11 @@ WeatherOutlook.insert({
 	municipality: "Tubod", 
 	data: {
 		month: {
-			Nov: 327.61, 
-			Dec: 294.3, 
-			Jan: 231.18, 
-			Feb: 165, 
-			Mar: 199.39 
+			Dec: 294.90, 
+			Jan: 231.23, 
+			Feb: 165.05, 
+			Mar: 198.79, 
+			Apr: 132.88 
 		}
 	}
 }); 
@@ -12816,11 +12816,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 274.35, 
-			Dec: 221.47, 
-			Jan: 147.11, 
-			Feb: 143.56, 
-			Mar: 196.21 
+			Dec: 221.97, 
+			Jan: 147.14, 
+			Feb: 143.69, 
+			Mar: 196.51, 
+			Apr: 179.61 
 		}
 	}
 }); 
@@ -12831,11 +12831,11 @@ WeatherOutlook.insert({
 	municipality: "Bacolod Kalawi", 
 	data: {
 		month: {
-			Nov: 269.99, 
-			Dec: 252.8, 
-			Jan: 157.55, 
-			Feb: 155.41, 
-			Mar: 193.77 
+			Dec: 253.32, 
+			Jan: 157.57, 
+			Feb: 155.62, 
+			Mar: 193.61, 
+			Apr: 160.54 
 		}
 	}
 }); 
@@ -12846,11 +12846,11 @@ WeatherOutlook.insert({
 	municipality: "Balabagan", 
 	data: {
 		month: {
-			Nov: 270.52, 
-			Dec: 158.84, 
-			Jan: 129.97, 
-			Feb: 128.58, 
-			Mar: 225.23 
+			Dec: 159.29, 
+			Jan: 129.96, 
+			Feb: 128.69, 
+			Mar: 225.60, 
+			Apr: 196.34 
 		}
 	}
 }); 
@@ -12861,11 +12861,11 @@ WeatherOutlook.insert({
 	municipality: "Balindong", 
 	data: {
 		month: {
-			Nov: 269.47, 
-			Dec: 246.86, 
-			Jan: 160.3, 
-			Feb: 154.18, 
-			Mar: 187.63 
+			Dec: 247.36, 
+			Jan: 160.32, 
+			Feb: 154.36, 
+			Mar: 187.60, 
+			Apr: 165.03 
 		}
 	}
 }); 
@@ -12876,11 +12876,11 @@ WeatherOutlook.insert({
 	municipality: "Bayang", 
 	data: {
 		month: {
-			Nov: 267.85, 
-			Dec: 204.33, 
-			Jan: 144.9, 
-			Feb: 143.47, 
-			Mar: 208.48 
+			Dec: 204.78, 
+			Jan: 144.89, 
+			Feb: 143.60, 
+			Mar: 208.77, 
+			Apr: 180.03 
 		}
 	}
 }); 
@@ -12891,11 +12891,11 @@ WeatherOutlook.insert({
 	municipality: "Binidayan", 
 	data: {
 		month: {
-			Nov: 264.93, 
-			Dec: 204.06, 
-			Jan: 143.83, 
-			Feb: 142.04, 
-			Mar: 206.4 
+			Dec: 204.51, 
+			Jan: 143.82, 
+			Feb: 142.18, 
+			Mar: 206.62, 
+			Apr: 177.93 
 		}
 	}
 }); 
@@ -12906,11 +12906,11 @@ WeatherOutlook.insert({
 	municipality: "Buadiposo-Buntong", 
 	data: {
 		month: {
-			Nov: 292.65, 
-			Dec: 252.57, 
-			Jan: 161.69, 
-			Feb: 144.52, 
-			Mar: 176.49 
+			Dec: 252.96, 
+			Jan: 161.65, 
+			Feb: 144.65, 
+			Mar: 177.05, 
+			Apr: 186.44 
 		}
 	}
 }); 
@@ -12921,11 +12921,11 @@ WeatherOutlook.insert({
 	municipality: "Bubong", 
 	data: {
 		month: {
-			Nov: 293.26, 
-			Dec: 243.98, 
-			Jan: 147.96, 
-			Feb: 139.01, 
-			Mar: 177.85 
+			Dec: 244.43, 
+			Jan: 147.99, 
+			Feb: 139.14, 
+			Mar: 178.50, 
+			Apr: 180.56 
 		}
 	}
 }); 
@@ -12936,11 +12936,11 @@ WeatherOutlook.insert({
 	municipality: "Bumbaran", 
 	data: {
 		month: {
-			Nov: 287.22, 
-			Dec: 239.13, 
-			Jan: 140.27, 
-			Feb: 157.61, 
-			Mar: 215.38 
+			Dec: 239.54, 
+			Jan: 140.26, 
+			Feb: 157.74, 
+			Mar: 216.20, 
+			Apr: 188.58 
 		}
 	}
 }); 
@@ -12951,11 +12951,11 @@ WeatherOutlook.insert({
 	municipality: "Butig", 
 	data: {
 		month: {
-			Nov: 288.33, 
-			Dec: 232.71, 
-			Jan: 143.72, 
-			Feb: 148.14, 
-			Mar: 208.46 
+			Dec: 233.16, 
+			Jan: 143.73, 
+			Feb: 148.25, 
+			Mar: 208.90, 
+			Apr: 187.77 
 		}
 	}
 }); 
@@ -12966,11 +12966,11 @@ WeatherOutlook.insert({
 	municipality: "Calanogas", 
 	data: {
 		month: {
-			Nov: 266.92, 
-			Dec: 191.19, 
-			Jan: 137.88, 
-			Feb: 137.37, 
-			Mar: 212.02 
+			Dec: 191.69, 
+			Jan: 137.89, 
+			Feb: 137.48, 
+			Mar: 212.05, 
+			Apr: 180.57 
 		}
 	}
 }); 
@@ -12981,11 +12981,11 @@ WeatherOutlook.insert({
 	municipality: "Dapao Lake", 
 	data: {
 		month: {
-			Nov: 268.08, 
-			Dec: 219.86, 
-			Jan: 144.42, 
-			Feb: 140.81, 
-			Mar: 203.07 
+			Dec: 220.37, 
+			Jan: 144.44, 
+			Feb: 140.94, 
+			Mar: 203.01, 
+			Apr: 170.91 
 		}
 	}
 }); 
@@ -12996,11 +12996,11 @@ WeatherOutlook.insert({
 	municipality: "Ditsaan-Ramain", 
 	data: {
 		month: {
-			Nov: 275.6, 
-			Dec: 255.41, 
-			Jan: 172.79, 
-			Feb: 146.94, 
-			Mar: 175.74 
+			Dec: 255.82, 
+			Jan: 172.76, 
+			Feb: 147.06, 
+			Mar: 176.23, 
+			Apr: 188.56 
 		}
 	}
 }); 
@@ -13011,11 +13011,11 @@ WeatherOutlook.insert({
 	municipality: "Ganassi", 
 	data: {
 		month: {
-			Nov: 268.48, 
-			Dec: 225.34, 
-			Jan: 147.95, 
-			Feb: 145.41, 
-			Mar: 196.87 
+			Dec: 225.89, 
+			Jan: 147.99, 
+			Feb: 145.52, 
+			Mar: 196.72, 
+			Apr: 167.76 
 		}
 	}
 }); 
@@ -13026,11 +13026,11 @@ WeatherOutlook.insert({
 	municipality: "Kapai", 
 	data: {
 		month: {
-			Nov: 263.6, 
-			Dec: 215.39, 
-			Jan: 141.14, 
-			Feb: 128.01, 
-			Mar: 158.82 
+			Dec: 215.84, 
+			Jan: 141.15, 
+			Feb: 128.13, 
+			Mar: 159.25, 
+			Apr: 141.62 
 		}
 	}
 }); 
@@ -13041,11 +13041,11 @@ WeatherOutlook.insert({
 	municipality: "Kapatagan", 
 	data: {
 		month: {
-			Nov: 258.66, 
-			Dec: 180.1, 
+			Dec: 180.57, 
 			Jan: 126.89, 
-			Feb: 126.2, 
-			Mar: 211.89 
+			Feb: 126.30, 
+			Mar: 212.27, 
+			Apr: 203.15 
 		}
 	}
 }); 
@@ -13056,11 +13056,11 @@ WeatherOutlook.insert({
 	municipality: "Lanao Lake", 
 	data: {
 		month: {
-			Nov: 275.03, 
-			Dec: 237.54, 
-			Jan: 164.28, 
-			Feb: 148.02, 
-			Mar: 180.42 
+			Dec: 238.04, 
+			Jan: 164.30, 
+			Feb: 148.13, 
+			Mar: 180.55, 
+			Apr: 176.81 
 		}
 	}
 }); 
@@ -13071,11 +13071,11 @@ WeatherOutlook.insert({
 	municipality: "Lumba-Bayabao", 
 	data: {
 		month: {
-			Nov: 303.88, 
-			Dec: 246.45, 
+			Dec: 246.88, 
 			Jan: 144.49, 
-			Feb: 150.24, 
-			Mar: 206.85 
+			Feb: 150.37, 
+			Mar: 207.49, 
+			Apr: 189.50 
 		}
 	}
 }); 
@@ -13086,11 +13086,11 @@ WeatherOutlook.insert({
 	municipality: "Lumbaca Unayan", 
 	data: {
 		month: {
-			Nov: 271.53, 
-			Dec: 208.54, 
-			Jan: 144.24, 
-			Feb: 143.05, 
-			Mar: 211.11 
+			Dec: 209.01, 
+			Jan: 144.25, 
+			Feb: 143.16, 
+			Mar: 211.42, 
+			Apr: 183.31 
 		}
 	}
 }); 
@@ -13101,11 +13101,11 @@ WeatherOutlook.insert({
 	municipality: "Lumbatan", 
 	data: {
 		month: {
-			Nov: 270.16, 
-			Dec: 210.17, 
-			Jan: 147.01, 
-			Feb: 141.81, 
-			Mar: 202.46 
+			Dec: 210.65, 
+			Jan: 147.03, 
+			Feb: 141.92, 
+			Mar: 202.74, 
+			Apr: 179.27 
 		}
 	}
 }); 
@@ -13116,11 +13116,11 @@ WeatherOutlook.insert({
 	municipality: "Lumbayanague", 
 	data: {
 		month: {
-			Nov: 272.65, 
-			Dec: 227.61, 
-			Jan: 150.23, 
-			Feb: 143.92, 
-			Mar: 194.19 
+			Dec: 228.04, 
+			Jan: 150.22, 
+			Feb: 144.04, 
+			Mar: 194.61, 
+			Apr: 174.50 
 		}
 	}
 }); 
@@ -13131,11 +13131,11 @@ WeatherOutlook.insert({
 	municipality: "Madalum", 
 	data: {
 		month: {
-			Nov: 270.82, 
-			Dec: 253.9, 
-			Jan: 157.63, 
-			Feb: 153.82, 
-			Mar: 192.1 
+			Dec: 254.45, 
+			Jan: 157.67, 
+			Feb: 153.99, 
+			Mar: 191.83, 
+			Apr: 159.66 
 		}
 	}
 }); 
@@ -13146,11 +13146,11 @@ WeatherOutlook.insert({
 	municipality: "Madamba", 
 	data: {
 		month: {
-			Nov: 274.04, 
-			Dec: 246.42, 
-			Jan: 156.13, 
-			Feb: 150.25, 
-			Mar: 195.15 
+			Dec: 246.98, 
+			Jan: 156.18, 
+			Feb: 150.40, 
+			Mar: 194.83, 
+			Apr: 159.65 
 		}
 	}
 }); 
@@ -13161,11 +13161,11 @@ WeatherOutlook.insert({
 	municipality: "Maguing", 
 	data: {
 		month: {
-			Nov: 287.43, 
-			Dec: 229.11, 
-			Jan: 145.25, 
-			Feb: 144.77, 
-			Mar: 185.17 
+			Dec: 229.53, 
+			Jan: 145.26, 
+			Feb: 144.90, 
+			Mar: 185.86, 
+			Apr: 184.57 
 		}
 	}
 }); 
@@ -13176,11 +13176,11 @@ WeatherOutlook.insert({
 	municipality: "Malabang", 
 	data: {
 		month: {
-			Nov: 255.8, 
-			Dec: 156.72, 
-			Jan: 135.71, 
-			Feb: 127.81, 
-			Mar: 226.83 
+			Dec: 157.17, 
+			Jan: 135.69, 
+			Feb: 127.91, 
+			Mar: 227.12, 
+			Apr: 200.58 
 		}
 	}
 }); 
@@ -13191,11 +13191,11 @@ WeatherOutlook.insert({
 	municipality: "Marantao", 
 	data: {
 		month: {
-			Nov: 250.4, 
-			Dec: 235.91, 
-			Jan: 166.45, 
-			Feb: 153.68, 
-			Mar: 184.92 
+			Dec: 236.40, 
+			Jan: 166.47, 
+			Feb: 153.87, 
+			Mar: 184.91, 
+			Apr: 170.19 
 		}
 	}
 }); 
@@ -13206,11 +13206,11 @@ WeatherOutlook.insert({
 	municipality: "Marawi City", 
 	data: {
 		month: {
-			Nov: 235.04, 
-			Dec: 210.37, 
-			Jan: 173.72, 
-			Feb: 147.37, 
-			Mar: 176.11 
+			Dec: 210.85, 
+			Jan: 173.74, 
+			Feb: 147.51, 
+			Mar: 176.34, 
+			Apr: 178.41 
 		}
 	}
 }); 
@@ -13221,11 +13221,11 @@ WeatherOutlook.insert({
 	municipality: "Marogong", 
 	data: {
 		month: {
-			Nov: 271.18, 
-			Dec: 188.22, 
-			Jan: 134.9, 
-			Feb: 138.39, 
-			Mar: 224.78 
+			Dec: 188.69, 
+			Jan: 134.91, 
+			Feb: 138.51, 
+			Mar: 225.12, 
+			Apr: 194.85 
 		}
 	}
 }); 
@@ -13236,11 +13236,11 @@ WeatherOutlook.insert({
 	municipality: "Masiu", 
 	data: {
 		month: {
-			Nov: 282.6, 
-			Dec: 227.38, 
-			Jan: 153.04, 
-			Feb: 145.77, 
-			Mar: 191.02 
+			Dec: 227.80, 
+			Jan: 153.03, 
+			Feb: 145.89, 
+			Mar: 191.50, 
+			Apr: 186.53 
 		}
 	}
 }); 
@@ -13251,11 +13251,11 @@ WeatherOutlook.insert({
 	municipality: "Mulondo", 
 	data: {
 		month: {
-			Nov: 283.4, 
-			Dec: 239.14, 
-			Jan: 160.53, 
-			Feb: 145.82, 
-			Mar: 176.83 
+			Dec: 239.53, 
+			Jan: 160.49, 
+			Feb: 145.94, 
+			Mar: 177.37, 
+			Apr: 188.53 
 		}
 	}
 }); 
@@ -13266,11 +13266,11 @@ WeatherOutlook.insert({
 	municipality: "Pagayawan", 
 	data: {
 		month: {
-			Nov: 260.24, 
-			Dec: 196.13, 
+			Dec: 196.60, 
 			Jan: 141.04, 
-			Feb: 140.06, 
-			Mar: 207.41 
+			Feb: 140.20, 
+			Mar: 207.53, 
+			Apr: 176.64 
 		}
 	}
 }); 
@@ -13281,11 +13281,11 @@ WeatherOutlook.insert({
 	municipality: "Piagapo", 
 	data: {
 		month: {
-			Nov: 241.55, 
-			Dec: 231.09, 
-			Jan: 163.51, 
-			Feb: 150.06, 
-			Mar: 179.84 
+			Dec: 231.59, 
+			Jan: 163.53, 
+			Feb: 150.25, 
+			Mar: 179.81, 
+			Apr: 165.87 
 		}
 	}
 }); 
@@ -13296,11 +13296,11 @@ WeatherOutlook.insert({
 	municipality: "Picong", 
 	data: {
 		month: {
-			Nov: 239.89, 
-			Dec: 171.44, 
+			Dec: 171.92, 
 			Jan: 123.36, 
-			Feb: 117.64, 
-			Mar: 184.15 
+			Feb: 117.74, 
+			Mar: 184.27, 
+			Apr: 165.74 
 		}
 	}
 }); 
@@ -13311,11 +13311,11 @@ WeatherOutlook.insert({
 	municipality: "Poona Bayabao", 
 	data: {
 		month: {
-			Nov: 279.17, 
-			Dec: 214.45, 
-			Jan: 157.26, 
-			Feb: 147.51, 
-			Mar: 184.32 
+			Dec: 214.91, 
+			Jan: 157.27, 
+			Feb: 147.63, 
+			Mar: 184.75, 
+			Apr: 180.67 
 		}
 	}
 }); 
@@ -13326,11 +13326,11 @@ WeatherOutlook.insert({
 	municipality: "Pualas", 
 	data: {
 		month: {
-			Nov: 271.52, 
-			Dec: 228.08, 
-			Jan: 149.22, 
-			Feb: 145.3, 
-			Mar: 197.26 
+			Dec: 228.60, 
+			Jan: 149.24, 
+			Feb: 145.45, 
+			Mar: 197.11, 
+			Apr: 165.29 
 		}
 	}
 }); 
@@ -13341,11 +13341,11 @@ WeatherOutlook.insert({
 	municipality: "Saguiaran", 
 	data: {
 		month: {
-			Nov: 234.94, 
-			Dec: 202.39, 
-			Jan: 167.14, 
-			Feb: 145.01, 
-			Mar: 174.67 
+			Dec: 202.83, 
+			Jan: 167.13, 
+			Feb: 145.19, 
+			Mar: 174.91, 
+			Apr: 167.88 
 		}
 	}
 }); 
@@ -13356,11 +13356,11 @@ WeatherOutlook.insert({
 	municipality: "Sultan Dumalondong", 
 	data: {
 		month: {
-			Nov: 286.88, 
-			Dec: 225.37, 
+			Dec: 225.81, 
 			Jan: 138.38, 
-			Feb: 147.57, 
-			Mar: 218.5 
+			Feb: 147.69, 
+			Mar: 218.97, 
+			Apr: 191.95 
 		}
 	}
 }); 
@@ -13371,11 +13371,11 @@ WeatherOutlook.insert({
 	municipality: "Tagoloan II", 
 	data: {
 		month: {
-			Nov: 273.19, 
-			Dec: 232.25, 
-			Jan: 144.3, 
-			Feb: 136.74, 
-			Mar: 174.49 
+			Dec: 232.67, 
+			Jan: 144.30, 
+			Feb: 136.85, 
+			Mar: 175.12, 
+			Apr: 155.69 
 		}
 	}
 }); 
@@ -13386,11 +13386,11 @@ WeatherOutlook.insert({
 	municipality: "Tamparan", 
 	data: {
 		month: {
-			Nov: 281.74, 
-			Dec: 218.66, 
-			Jan: 167.57, 
-			Feb: 146.49, 
-			Mar: 174.67 
+			Dec: 219.07, 
+			Jan: 167.54, 
+			Feb: 146.62, 
+			Mar: 175.11, 
+			Apr: 181.60 
 		}
 	}
 }); 
@@ -13401,11 +13401,11 @@ WeatherOutlook.insert({
 	municipality: "Taraka", 
 	data: {
 		month: {
-			Nov: 281.97, 
-			Dec: 219.57, 
-			Jan: 167.55, 
-			Feb: 146.43, 
-			Mar: 175.06 
+			Dec: 219.98, 
+			Jan: 167.53, 
+			Feb: 146.56, 
+			Mar: 175.54, 
+			Apr: 181.41 
 		}
 	}
 }); 
@@ -13416,11 +13416,11 @@ WeatherOutlook.insert({
 	municipality: "Tubaran", 
 	data: {
 		month: {
-			Nov: 264.63, 
-			Dec: 177.82, 
-			Jan: 134.35, 
-			Feb: 132.95, 
-			Mar: 217.56 
+			Dec: 178.32, 
+			Jan: 134.37, 
+			Feb: 133.05, 
+			Mar: 217.69, 
+			Apr: 187.45 
 		}
 	}
 }); 
@@ -13431,11 +13431,11 @@ WeatherOutlook.insert({
 	municipality: "Tugaya", 
 	data: {
 		month: {
-			Nov: 270.43, 
-			Dec: 249.65, 
-			Jan: 158.56, 
-			Feb: 156.25, 
-			Mar: 192 
+			Dec: 250.18, 
+			Jan: 158.59, 
+			Feb: 156.41, 
+			Mar: 191.88, 
+			Apr: 163.71 
 		}
 	}
 }); 
@@ -13446,11 +13446,11 @@ WeatherOutlook.insert({
 	municipality: "Wao", 
 	data: {
 		month: {
-			Nov: 245.4, 
-			Dec: 209.99, 
+			Dec: 210.40, 
 			Jan: 143.24, 
-			Feb: 154.88, 
-			Mar: 205.41 
+			Feb: 155.02, 
+			Mar: 206.28, 
+			Apr: 185.94 
 		}
 	}
 }); 
@@ -13461,11 +13461,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 361.25, 
-			Dec: 409.99, 
-			Jan: 373.61, 
-			Feb: 197.74, 
-			Mar: 198.44 
+			Dec: 410.21, 
+			Jan: 373.77, 
+			Feb: 197.86, 
+			Mar: 200.50, 
+			Apr: 148.50 
 		}
 	}
 }); 
@@ -13476,11 +13476,11 @@ WeatherOutlook.insert({
 	municipality: "Abuyog", 
 	data: {
 		month: {
-			Nov: 491.58, 
-			Dec: 532.9, 
-			Jan: 524.25, 
-			Feb: 193.16, 
-			Mar: 247.99 
+			Dec: 533.22, 
+			Jan: 524.47, 
+			Feb: 193.32, 
+			Mar: 250.19, 
+			Apr: 261.18 
 		}
 	}
 }); 
@@ -13491,11 +13491,11 @@ WeatherOutlook.insert({
 	municipality: "Alangalang", 
 	data: {
 		month: {
-			Nov: 340.74, 
-			Dec: 379.96, 
-			Jan: 370.85, 
-			Feb: 229.02, 
-			Mar: 193.75 
+			Dec: 380.25, 
+			Jan: 371.08, 
+			Feb: 229.17, 
+			Mar: 195.96, 
+			Apr: 131.17 
 		}
 	}
 }); 
@@ -13506,11 +13506,11 @@ WeatherOutlook.insert({
 	municipality: "Albuera", 
 	data: {
 		month: {
-			Nov: 387.12, 
-			Dec: 409.57, 
-			Jan: 388.91, 
-			Feb: 197.3, 
-			Mar: 214.36 
+			Dec: 409.89, 
+			Jan: 389.15, 
+			Feb: 197.47, 
+			Mar: 216.55, 
+			Apr: 152.24 
 		}
 	}
 }); 
@@ -13521,11 +13521,11 @@ WeatherOutlook.insert({
 	municipality: "Babatngon", 
 	data: {
 		month: {
-			Nov: 380.97, 
-			Dec: 481.94, 
-			Jan: 380.7, 
-			Feb: 237.3, 
-			Mar: 226.58 
+			Dec: 482.21, 
+			Jan: 380.93, 
+			Feb: 237.45, 
+			Mar: 228.56, 
+			Apr: 138.07 
 		}
 	}
 }); 
@@ -13536,11 +13536,11 @@ WeatherOutlook.insert({
 	municipality: "Barugo", 
 	data: {
 		month: {
-			Nov: 363.62, 
-			Dec: 430.72, 
-			Jan: 368.09, 
-			Feb: 218.88, 
-			Mar: 202.04 
+			Dec: 431.02, 
+			Jan: 368.34, 
+			Feb: 219.05, 
+			Mar: 204.01, 
+			Apr: 132.61 
 		}
 	}
 }); 
@@ -13551,11 +13551,11 @@ WeatherOutlook.insert({
 	municipality: "Bato", 
 	data: {
 		month: {
-			Nov: 302.86, 
-			Dec: 354.63, 
-			Jan: 340.75, 
-			Feb: 202.19, 
-			Mar: 180.79 
+			Dec: 354.83, 
+			Jan: 340.78, 
+			Feb: 202.27, 
+			Mar: 182.85, 
+			Apr: 122.97 
 		}
 	}
 }); 
@@ -13566,11 +13566,11 @@ WeatherOutlook.insert({
 	municipality: "Baybay City", 
 	data: {
 		month: {
-			Nov: 415.59, 
-			Dec: 457.46, 
-			Jan: 445.5, 
-			Feb: 193, 
-			Mar: 216.01 
+			Dec: 457.76, 
+			Jan: 445.71, 
+			Feb: 193.16, 
+			Mar: 218.11, 
+			Apr: 200.93 
 		}
 	}
 }); 
@@ -13581,11 +13581,11 @@ WeatherOutlook.insert({
 	municipality: "Burauen", 
 	data: {
 		month: {
-			Nov: 397.94, 
-			Dec: 442.03, 
-			Jan: 405.83, 
-			Feb: 209.08, 
-			Mar: 221.6 
+			Dec: 442.36, 
+			Jan: 406.10, 
+			Feb: 209.26, 
+			Mar: 224.07, 
+			Apr: 162.78 
 		}
 	}
 }); 
@@ -13596,11 +13596,11 @@ WeatherOutlook.insert({
 	municipality: "Calubian", 
 	data: {
 		month: {
-			Nov: 299.83, 
-			Dec: 356.77, 
-			Jan: 292.35, 
-			Feb: 170.05, 
-			Mar: 165.43 
+			Dec: 357.00, 
+			Jan: 292.57, 
+			Feb: 170.19, 
+			Mar: 166.96, 
+			Apr: 105.89 
 		}
 	}
 }); 
@@ -13611,11 +13611,11 @@ WeatherOutlook.insert({
 	municipality: "Capoocan", 
 	data: {
 		month: {
-			Nov: 339.85, 
-			Dec: 409.9, 
-			Jan: 330.61, 
-			Feb: 196.14, 
-			Mar: 195.96 
+			Dec: 410.15, 
+			Jan: 330.81, 
+			Feb: 196.27, 
+			Mar: 197.75, 
+			Apr: 125.91 
 		}
 	}
 }); 
@@ -13626,11 +13626,11 @@ WeatherOutlook.insert({
 	municipality: "Carigara", 
 	data: {
 		month: {
-			Nov: 352.29, 
-			Dec: 435.87, 
-			Jan: 351.65, 
-			Feb: 207.97, 
-			Mar: 209.42 
+			Dec: 436.10, 
+			Jan: 351.84, 
+			Feb: 208.09, 
+			Mar: 211.31, 
+			Apr: 134.79 
 		}
 	}
 }); 
@@ -13641,11 +13641,11 @@ WeatherOutlook.insert({
 	municipality: "Dagami", 
 	data: {
 		month: {
-			Nov: 372.75, 
-			Dec: 423.8, 
-			Jan: 380.59, 
-			Feb: 217.82, 
-			Mar: 208.86 
+			Dec: 424.22, 
+			Jan: 380.94, 
+			Feb: 218.05, 
+			Mar: 211.37, 
+			Apr: 144.74 
 		}
 	}
 }); 
@@ -13656,11 +13656,11 @@ WeatherOutlook.insert({
 	municipality: "Dulag", 
 	data: {
 		month: {
-			Nov: 409.37, 
-			Dec: 452.94, 
-			Jan: 422.37, 
-			Feb: 213.88, 
-			Mar: 207.45 
+			Dec: 453.35, 
+			Jan: 422.70, 
+			Feb: 214.10, 
+			Mar: 210.25, 
+			Apr: 168.78 
 		}
 	}
 }); 
@@ -13671,11 +13671,11 @@ WeatherOutlook.insert({
 	municipality: "Hilongos", 
 	data: {
 		month: {
-			Nov: 304.17, 
-			Dec: 340.71, 
-			Jan: 334.15, 
-			Feb: 187.66, 
-			Mar: 175.03 
+			Dec: 340.99, 
+			Jan: 334.28, 
+			Feb: 187.80, 
+			Mar: 177.05, 
+			Apr: 130.83 
 		}
 	}
 }); 
@@ -13686,11 +13686,11 @@ WeatherOutlook.insert({
 	municipality: "Hindang", 
 	data: {
 		month: {
-			Nov: 280.17, 
-			Dec: 321.91, 
-			Jan: 336.12, 
-			Feb: 185.23, 
-			Mar: 167.94 
+			Dec: 322.22, 
+			Jan: 336.29, 
+			Feb: 185.39, 
+			Mar: 169.90, 
+			Apr: 122.74 
 		}
 	}
 }); 
@@ -13701,11 +13701,11 @@ WeatherOutlook.insert({
 	municipality: "Inopacan", 
 	data: {
 		month: {
-			Nov: 329.71, 
-			Dec: 379.9, 
-			Jan: 358.51, 
-			Feb: 184.45, 
-			Mar: 189.12 
+			Dec: 380.18, 
+			Jan: 358.66, 
+			Feb: 184.60, 
+			Mar: 191.11, 
+			Apr: 154.70 
 		}
 	}
 }); 
@@ -13716,11 +13716,11 @@ WeatherOutlook.insert({
 	municipality: "Isabel", 
 	data: {
 		month: {
-			Nov: 292.01, 
-			Dec: 318.63, 
-			Jan: 289.28, 
-			Feb: 153.93, 
-			Mar: 164.65 
+			Dec: 318.90, 
+			Jan: 289.48, 
+			Feb: 154.08, 
+			Mar: 166.37, 
+			Apr: 105.32 
 		}
 	}
 }); 
@@ -13731,11 +13731,11 @@ WeatherOutlook.insert({
 	municipality: "Jaro", 
 	data: {
 		month: {
-			Nov: 364.87, 
-			Dec: 420.67, 
-			Jan: 359.1, 
-			Feb: 214.88, 
-			Mar: 210.65 
+			Dec: 420.97, 
+			Jan: 359.34, 
+			Feb: 215.04, 
+			Mar: 212.77, 
+			Apr: 138.85 
 		}
 	}
 }); 
@@ -13746,11 +13746,11 @@ WeatherOutlook.insert({
 	municipality: "Javier", 
 	data: {
 		month: {
-			Nov: 489.66, 
-			Dec: 524.65, 
-			Jan: 517.87, 
-			Feb: 197.77, 
-			Mar: 235.19 
+			Dec: 524.96, 
+			Jan: 518.10, 
+			Feb: 197.94, 
+			Mar: 237.47, 
+			Apr: 254.23 
 		}
 	}
 }); 
@@ -13761,11 +13761,11 @@ WeatherOutlook.insert({
 	municipality: "Julita", 
 	data: {
 		month: {
-			Nov: 400.18, 
-			Dec: 438.19, 
-			Jan: 417.56, 
-			Feb: 212.94, 
-			Mar: 206.94 
+			Dec: 438.60, 
+			Jan: 417.90, 
+			Feb: 213.16, 
+			Mar: 209.70, 
+			Apr: 166.65 
 		}
 	}
 }); 
@@ -13776,11 +13776,11 @@ WeatherOutlook.insert({
 	municipality: "Kananga", 
 	data: {
 		month: {
-			Nov: 336.25, 
-			Dec: 384.27, 
-			Jan: 321.08, 
-			Feb: 189.28, 
-			Mar: 187.19 
+			Dec: 384.50, 
+			Jan: 321.26, 
+			Feb: 189.40, 
+			Mar: 188.97, 
+			Apr: 123.80 
 		}
 	}
 }); 
@@ -13791,11 +13791,11 @@ WeatherOutlook.insert({
 	municipality: "La Paz", 
 	data: {
 		month: {
-			Nov: 439.87, 
-			Dec: 471.93, 
-			Jan: 449.19, 
-			Feb: 205.78, 
-			Mar: 229.27 
+			Dec: 472.29, 
+			Jan: 449.49, 
+			Feb: 205.98, 
+			Mar: 231.77, 
+			Apr: 198.19 
 		}
 	}
 }); 
@@ -13806,11 +13806,11 @@ WeatherOutlook.insert({
 	municipality: "Leyte", 
 	data: {
 		month: {
-			Nov: 325.4, 
-			Dec: 391.34, 
-			Jan: 317.27, 
-			Feb: 182.21, 
-			Mar: 182.46 
+			Dec: 391.57, 
+			Jan: 317.47, 
+			Feb: 182.32, 
+			Mar: 184.11, 
+			Apr: 116.89 
 		}
 	}
 }); 
@@ -13821,11 +13821,11 @@ WeatherOutlook.insert({
 	municipality: "Macarthur", 
 	data: {
 		month: {
-			Nov: 478.6, 
-			Dec: 509.91, 
-			Jan: 501.47, 
-			Feb: 200.23, 
-			Mar: 224.48 
+			Dec: 510.18, 
+			Jan: 501.68, 
+			Feb: 200.38, 
+			Mar: 226.89, 
+			Apr: 231.56 
 		}
 	}
 }); 
@@ -13836,11 +13836,11 @@ WeatherOutlook.insert({
 	municipality: "Mahaplag", 
 	data: {
 		month: {
-			Nov: 461.21, 
-			Dec: 509.73, 
-			Jan: 488.61, 
-			Feb: 195.93, 
-			Mar: 240.54 
+			Dec: 510.03, 
+			Jan: 488.80, 
+			Feb: 196.09, 
+			Mar: 242.67, 
+			Apr: 242.84 
 		}
 	}
 }); 
@@ -13851,11 +13851,11 @@ WeatherOutlook.insert({
 	municipality: "Matag-Ob", 
 	data: {
 		month: {
-			Nov: 323.55, 
-			Dec: 367.63, 
-			Jan: 296.11, 
-			Feb: 170.93, 
-			Mar: 181.09 
+			Dec: 367.80, 
+			Jan: 296.24, 
+			Feb: 171.00, 
+			Mar: 182.76, 
+			Apr: 107.00 
 		}
 	}
 }); 
@@ -13866,11 +13866,11 @@ WeatherOutlook.insert({
 	municipality: "Matalom", 
 	data: {
 		month: {
-			Nov: 289.88, 
-			Dec: 354.72, 
-			Jan: 343.19, 
-			Feb: 200.69, 
-			Mar: 189.02 
+			Dec: 354.99, 
+			Jan: 343.29, 
+			Feb: 200.82, 
+			Mar: 191.15, 
+			Apr: 108.66 
 		}
 	}
 }); 
@@ -13881,11 +13881,11 @@ WeatherOutlook.insert({
 	municipality: "Mayorga", 
 	data: {
 		month: {
-			Nov: 460.53, 
-			Dec: 492.92, 
-			Jan: 475.09, 
-			Feb: 205.38, 
-			Mar: 215.14 
+			Dec: 493.31, 
+			Jan: 475.40, 
+			Feb: 205.59, 
+			Mar: 217.75, 
+			Apr: 209.29 
 		}
 	}
 }); 
@@ -13896,11 +13896,11 @@ WeatherOutlook.insert({
 	municipality: "Merida", 
 	data: {
 		month: {
-			Nov: 304.43, 
-			Dec: 331.07, 
-			Jan: 303.75, 
-			Feb: 162.53, 
-			Mar: 170.01 
+			Dec: 331.33, 
+			Jan: 303.95, 
+			Feb: 162.66, 
+			Mar: 171.77, 
+			Apr: 110.05 
 		}
 	}
 }); 
@@ -13911,11 +13911,11 @@ WeatherOutlook.insert({
 	municipality: "Ormoc City", 
 	data: {
 		month: {
-			Nov: 345.16, 
-			Dec: 386.74, 
-			Jan: 339.22, 
-			Feb: 190.23, 
-			Mar: 196.56 
+			Dec: 387.00, 
+			Jan: 339.42, 
+			Feb: 190.37, 
+			Mar: 198.51, 
+			Apr: 129.70 
 		}
 	}
 }); 
@@ -13926,11 +13926,11 @@ WeatherOutlook.insert({
 	municipality: "Palo", 
 	data: {
 		month: {
-			Nov: 333.5, 
-			Dec: 379.74, 
-			Jan: 381.04, 
-			Feb: 231.39, 
-			Mar: 181.44 
+			Dec: 380.15, 
+			Jan: 381.38, 
+			Feb: 231.61, 
+			Mar: 183.99, 
+			Apr: 130.02 
 		}
 	}
 }); 
@@ -13941,11 +13941,11 @@ WeatherOutlook.insert({
 	municipality: "Palompon", 
 	data: {
 		month: {
-			Nov: 303.08, 
-			Dec: 332.19, 
-			Jan: 279.53, 
-			Feb: 153.75, 
-			Mar: 159.88 
+			Dec: 332.43, 
+			Jan: 279.73, 
+			Feb: 153.87, 
+			Mar: 161.54, 
+			Apr: 101.24 
 		}
 	}
 }); 
@@ -13956,11 +13956,11 @@ WeatherOutlook.insert({
 	municipality: "Pastrana", 
 	data: {
 		month: {
-			Nov: 361.15, 
-			Dec: 405.42, 
-			Jan: 371.9, 
-			Feb: 221.7, 
-			Mar: 199.84 
+			Dec: 405.74, 
+			Jan: 372.15, 
+			Feb: 221.87, 
+			Mar: 202.22, 
+			Apr: 139.26 
 		}
 	}
 }); 
@@ -13971,11 +13971,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 294.02, 
-			Dec: 350.28, 
-			Jan: 288.56, 
-			Feb: 168.02, 
-			Mar: 164.57 
+			Dec: 350.49, 
+			Jan: 288.76, 
+			Feb: 168.13, 
+			Mar: 166.11, 
+			Apr: 105.09 
 		}
 	}
 }); 
@@ -13986,11 +13986,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 364.39, 
-			Dec: 430.43, 
-			Jan: 372.72, 
-			Feb: 228.14, 
-			Mar: 206.64 
+			Dec: 430.66, 
+			Jan: 372.91, 
+			Feb: 228.26, 
+			Mar: 208.63, 
+			Apr: 131.62 
 		}
 	}
 }); 
@@ -14001,11 +14001,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Fe", 
 	data: {
 		month: {
-			Nov: 318.27, 
-			Dec: 354.81, 
-			Jan: 374.49, 
-			Feb: 234.82, 
-			Mar: 183.13 
+			Dec: 355.10, 
+			Jan: 374.72, 
+			Feb: 234.98, 
+			Mar: 185.50, 
+			Apr: 123.59 
 		}
 	}
 }); 
@@ -14016,11 +14016,11 @@ WeatherOutlook.insert({
 	municipality: "Tabango", 
 	data: {
 		month: {
-			Nov: 307.04, 
-			Dec: 366.21, 
-			Jan: 298.4, 
-			Feb: 171.67, 
-			Mar: 169.45 
+			Dec: 366.47, 
+			Jan: 298.63, 
+			Feb: 171.82, 
+			Mar: 171.06, 
+			Apr: 109.15 
 		}
 	}
 }); 
@@ -14031,11 +14031,11 @@ WeatherOutlook.insert({
 	municipality: "Tabontabon", 
 	data: {
 		month: {
-			Nov: 379.54, 
-			Dec: 431.36, 
-			Jan: 400.11, 
-			Feb: 217.28, 
-			Mar: 194.43 
+			Dec: 431.73, 
+			Jan: 400.41, 
+			Feb: 217.48, 
+			Mar: 197.17, 
+			Apr: 150.53 
 		}
 	}
 }); 
@@ -14046,11 +14046,11 @@ WeatherOutlook.insert({
 	municipality: "Tacloban City", 
 	data: {
 		month: {
-			Nov: 331.07, 
-			Dec: 397.73, 
-			Jan: 384.14, 
-			Feb: 242.56, 
-			Mar: 199.21 
+			Dec: 398.02, 
+			Jan: 384.37, 
+			Feb: 242.72, 
+			Mar: 201.43, 
+			Apr: 124.78 
 		}
 	}
 }); 
@@ -14061,11 +14061,11 @@ WeatherOutlook.insert({
 	municipality: "Tanauan", 
 	data: {
 		month: {
-			Nov: 364.43, 
-			Dec: 417.98, 
-			Jan: 392.14, 
-			Feb: 224.77, 
-			Mar: 190.78 
+			Dec: 418.38, 
+			Jan: 392.47, 
+			Feb: 224.98, 
+			Mar: 193.46, 
+			Apr: 141.95 
 		}
 	}
 }); 
@@ -14076,11 +14076,11 @@ WeatherOutlook.insert({
 	municipality: "Tolosa", 
 	data: {
 		month: {
-			Nov: 390.96, 
-			Dec: 454.83, 
-			Jan: 405.66, 
-			Feb: 222.01, 
-			Mar: 201.6 
+			Dec: 455.33, 
+			Jan: 406.07, 
+			Feb: 222.27, 
+			Mar: 204.40, 
+			Apr: 153.12 
 		}
 	}
 }); 
@@ -14091,11 +14091,11 @@ WeatherOutlook.insert({
 	municipality: "Tunga", 
 	data: {
 		month: {
-			Nov: 351.28, 
-			Dec: 405.87, 
-			Jan: 362.4, 
-			Feb: 214.89, 
-			Mar: 204.21 
+			Dec: 406.04, 
+			Jan: 362.52, 
+			Feb: 214.97, 
+			Mar: 206.19, 
+			Apr: 131.35 
 		}
 	}
 }); 
@@ -14106,11 +14106,11 @@ WeatherOutlook.insert({
 	municipality: "Villaba", 
 	data: {
 		month: {
-			Nov: 302.61, 
-			Dec: 357.53, 
-			Jan: 289.6, 
-			Feb: 165.32, 
-			Mar: 166.35 
+			Dec: 357.76, 
+			Jan: 289.79, 
+			Feb: 165.44, 
+			Mar: 167.98, 
+			Apr: 104.48 
 		}
 	}
 }); 
@@ -14121,11 +14121,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 177.17, 
-			Dec: 122.53, 
-			Jan: 101.01, 
-			Feb: 97.65, 
-			Mar: 127.95 
+			Dec: 123.00, 
+			Jan: 100.99, 
+			Feb: 97.78, 
+			Mar: 128.50, 
+			Apr: 126.43 
 		}
 	}
 }); 
@@ -14136,11 +14136,11 @@ WeatherOutlook.insert({
 	municipality: "Ampatuan", 
 	data: {
 		month: {
-			Nov: 199.06, 
-			Dec: 131.78, 
-			Jan: 101.98, 
-			Feb: 102.32, 
-			Mar: 146.31 
+			Dec: 132.24, 
+			Jan: 101.97, 
+			Feb: 102.45, 
+			Mar: 146.85, 
+			Apr: 134.21 
 		}
 	}
 }); 
@@ -14151,11 +14151,11 @@ WeatherOutlook.insert({
 	municipality: "Buluan", 
 	data: {
 		month: {
-			Nov: 140.39, 
-			Dec: 110.66, 
-			Jan: 95.47, 
-			Feb: 87.25, 
-			Mar: 114.4 
+			Dec: 111.12, 
+			Jan: 95.46, 
+			Feb: 87.38, 
+			Mar: 115.16, 
+			Apr: 81.08 
 		}
 	}
 }); 
@@ -14166,11 +14166,11 @@ WeatherOutlook.insert({
 	municipality: "Buluan Lake", 
 	data: {
 		month: {
-			Nov: 150.96, 
-			Dec: 128.94, 
-			Jan: 93.84, 
-			Feb: 86.99, 
-			Mar: 111.16 
+			Dec: 129.39, 
+			Jan: 93.83, 
+			Feb: 87.13, 
+			Mar: 112.01, 
+			Apr: 78.29 
 		}
 	}
 }); 
@@ -14181,11 +14181,11 @@ WeatherOutlook.insert({
 	municipality: "Cotabato City", 
 	data: {
 		month: {
-			Nov: 190.3, 
-			Dec: 127.24, 
-			Jan: 99.87, 
-			Feb: 103.18, 
-			Mar: 124.62 
+			Dec: 127.79, 
+			Jan: 99.89, 
+			Feb: 103.24, 
+			Mar: 124.71, 
+			Apr: 158.64 
 		}
 	}
 }); 
@@ -14196,11 +14196,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Abdullah Sanki", 
 	data: {
 		month: {
-			Nov: 160.39, 
-			Dec: 101.27, 
-			Jan: 95.99, 
-			Feb: 90.06, 
-			Mar: 123.67 
+			Dec: 101.70, 
+			Jan: 95.97, 
+			Feb: 90.20, 
+			Mar: 124.37, 
+			Apr: 121.89 
 		}
 	}
 }); 
@@ -14211,11 +14211,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Anggal Midtimbang", 
 	data: {
 		month: {
-			Nov: 196.15, 
-			Dec: 115.35, 
-			Jan: 99.27, 
-			Feb: 99.6, 
-			Mar: 131.55 
+			Dec: 115.83, 
+			Jan: 99.26, 
+			Feb: 99.73, 
+			Mar: 131.95, 
+			Apr: 134.88 
 		}
 	}
 }); 
@@ -14226,11 +14226,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Paglas", 
 	data: {
 		month: {
-			Nov: 157.34, 
-			Dec: 119.84, 
-			Jan: 109.49, 
-			Feb: 97.33, 
-			Mar: 112.05 
+			Dec: 120.27, 
+			Jan: 109.44, 
+			Feb: 97.44, 
+			Mar: 112.77, 
+			Apr: 95.73 
 		}
 	}
 }); 
@@ -14241,11 +14241,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Piang", 
 	data: {
 		month: {
-			Nov: 198.3, 
-			Dec: 140.14, 
-			Jan: 99.63, 
-			Feb: 100.98, 
-			Mar: 124.18 
+			Dec: 140.61, 
+			Jan: 99.62, 
+			Feb: 101.08, 
+			Mar: 124.70, 
+			Apr: 133.63 
 		}
 	}
 }); 
@@ -14256,11 +14256,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Saudi-Ampatuan", 
 	data: {
 		month: {
-			Nov: 190.59, 
-			Dec: 133.93, 
-			Jan: 98.59, 
-			Feb: 97.17, 
-			Mar: 124.44 
+			Dec: 134.39, 
+			Jan: 98.57, 
+			Feb: 97.32, 
+			Mar: 125.06, 
+			Apr: 133.98 
 		}
 	}
 }); 
@@ -14271,11 +14271,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Unsay", 
 	data: {
 		month: {
-			Nov: 199.23, 
-			Dec: 126.37, 
-			Jan: 100.32, 
-			Feb: 101.61, 
-			Mar: 141.76 
+			Dec: 126.85, 
+			Jan: 100.31, 
+			Feb: 101.72, 
+			Mar: 142.20, 
+			Apr: 133.37 
 		}
 	}
 }); 
@@ -14286,11 +14286,11 @@ WeatherOutlook.insert({
 	municipality: "Gen. S. K. Pendatun", 
 	data: {
 		month: {
-			Nov: 131.53, 
-			Dec: 98.07, 
-			Jan: 98.45, 
-			Feb: 93.14, 
-			Mar: 114.73 
+			Dec: 98.48, 
+			Jan: 98.39, 
+			Feb: 93.25, 
+			Mar: 115.43, 
+			Apr: 108.94 
 		}
 	}
 }); 
@@ -14301,11 +14301,11 @@ WeatherOutlook.insert({
 	municipality: "Guindulungan", 
 	data: {
 		month: {
-			Nov: 197.27, 
-			Dec: 120.17, 
-			Jan: 100.24, 
-			Feb: 101.38, 
-			Mar: 138.26 
+			Dec: 120.62, 
+			Jan: 100.21, 
+			Feb: 101.56, 
+			Mar: 138.79, 
+			Apr: 136.92 
 		}
 	}
 }); 
@@ -14316,11 +14316,11 @@ WeatherOutlook.insert({
 	municipality: "Mamasapano", 
 	data: {
 		month: {
-			Nov: 175.34, 
-			Dec: 124.95, 
-			Jan: 97.86, 
-			Feb: 91.7, 
-			Mar: 120.63 
+			Dec: 125.40, 
+			Jan: 97.84, 
+			Feb: 91.83, 
+			Mar: 121.24, 
+			Apr: 130.05 
 		}
 	}
 }); 
@@ -14331,11 +14331,11 @@ WeatherOutlook.insert({
 	municipality: "Mangudadatu", 
 	data: {
 		month: {
-			Nov: 159.97, 
-			Dec: 139.41, 
-			Jan: 95.46, 
-			Feb: 87.72, 
-			Mar: 110.61 
+			Dec: 139.87, 
+			Jan: 95.45, 
+			Feb: 87.86, 
+			Mar: 111.46, 
+			Apr: 77.31 
 		}
 	}
 }); 
@@ -14346,11 +14346,11 @@ WeatherOutlook.insert({
 	municipality: "Pagagawan", 
 	data: {
 		month: {
-			Nov: 134.54, 
-			Dec: 120.82, 
-			Jan: 110.17, 
-			Feb: 99.76, 
-			Mar: 129.16 
+			Dec: 121.30, 
+			Jan: 110.12, 
+			Feb: 99.84, 
+			Mar: 129.69, 
+			Apr: 138.18 
 		}
 	}
 }); 
@@ -14361,11 +14361,11 @@ WeatherOutlook.insert({
 	municipality: "Pagalungan", 
 	data: {
 		month: {
-			Nov: 165.64, 
-			Dec: 132.7, 
-			Jan: 105.2, 
-			Feb: 98.97, 
-			Mar: 116.26 
+			Dec: 133.15, 
+			Jan: 105.13, 
+			Feb: 99.06, 
+			Mar: 116.81, 
+			Apr: 128.21 
 		}
 	}
 }); 
@@ -14376,11 +14376,11 @@ WeatherOutlook.insert({
 	municipality: "Paglat", 
 	data: {
 		month: {
-			Nov: 132.99, 
-			Dec: 97.67, 
-			Jan: 99.12, 
-			Feb: 93.4, 
-			Mar: 111.69 
+			Dec: 98.16, 
+			Jan: 99.08, 
+			Feb: 93.50, 
+			Mar: 112.29, 
+			Apr: 105.79 
 		}
 	}
 }); 
@@ -14391,11 +14391,11 @@ WeatherOutlook.insert({
 	municipality: "Pandag", 
 	data: {
 		month: {
-			Nov: 114.73, 
-			Dec: 86.29, 
-			Jan: 96.55, 
-			Feb: 87.3, 
-			Mar: 111.83 
+			Dec: 86.77, 
+			Jan: 96.53, 
+			Feb: 87.42, 
+			Mar: 112.56, 
+			Apr: 91.70 
 		}
 	}
 }); 
@@ -14406,11 +14406,11 @@ WeatherOutlook.insert({
 	municipality: "Rajah Buayan", 
 	data: {
 		month: {
-			Nov: 163.91, 
-			Dec: 126.53, 
-			Jan: 99.15, 
-			Feb: 92.42, 
-			Mar: 117.72 
+			Dec: 126.97, 
+			Jan: 99.13, 
+			Feb: 92.54, 
+			Mar: 118.37, 
+			Apr: 129.87 
 		}
 	}
 }); 
@@ -14421,11 +14421,11 @@ WeatherOutlook.insert({
 	municipality: "Shariff Aguak", 
 	data: {
 		month: {
-			Nov: 184.5, 
-			Dec: 112.09, 
+			Dec: 112.56, 
 			Jan: 97.16, 
-			Feb: 94.93, 
-			Mar: 130.85 
+			Feb: 95.05, 
+			Mar: 131.40, 
+			Apr: 127.90 
 		}
 	}
 }); 
@@ -14436,11 +14436,11 @@ WeatherOutlook.insert({
 	municipality: "South Upi", 
 	data: {
 		month: {
-			Nov: 224.54, 
-			Dec: 133.41, 
-			Jan: 106.3, 
-			Feb: 106.36, 
-			Mar: 157.81 
+			Dec: 134.00, 
+			Jan: 106.33, 
+			Feb: 106.44, 
+			Mar: 157.72, 
+			Apr: 148.16 
 		}
 	}
 }); 
@@ -14451,11 +14451,11 @@ WeatherOutlook.insert({
 	municipality: "Sultan Sa Barongis", 
 	data: {
 		month: {
-			Nov: 170.36, 
-			Dec: 126.6, 
-			Jan: 99.21, 
-			Feb: 94.93, 
-			Mar: 117.65 
+			Dec: 127.05, 
+			Jan: 99.18, 
+			Feb: 95.04, 
+			Mar: 118.30, 
+			Apr: 127.03 
 		}
 	}
 }); 
@@ -14466,11 +14466,11 @@ WeatherOutlook.insert({
 	municipality: "Talayan", 
 	data: {
 		month: {
-			Nov: 195.99, 
-			Dec: 117.37, 
-			Jan: 100.11, 
-			Feb: 100.76, 
-			Mar: 137.23 
+			Dec: 117.88, 
+			Jan: 100.12, 
+			Feb: 100.85, 
+			Mar: 137.49, 
+			Apr: 136.76 
 		}
 	}
 }); 
@@ -14481,11 +14481,11 @@ WeatherOutlook.insert({
 	municipality: "Talitay", 
 	data: {
 		month: {
-			Nov: 185.56, 
-			Dec: 110.3, 
-			Jan: 98.6, 
-			Feb: 98, 
-			Mar: 126.54 
+			Dec: 110.77, 
+			Jan: 98.58, 
+			Feb: 98.16, 
+			Mar: 127.02, 
+			Apr: 133.85 
 		}
 	}
 }); 
@@ -14496,11 +14496,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 252.49, 
-			Dec: 236.73, 
-			Jan: 91.61, 
-			Feb: 63.29, 
-			Mar: 69.57 
+			Dec: 236.40, 
+			Jan: 91.49, 
+			Feb: 63.20, 
+			Mar: 69.78, 
+			Apr: 54.02 
 		}
 	}
 }); 
@@ -14511,11 +14511,11 @@ WeatherOutlook.insert({
 	municipality: "Boac", 
 	data: {
 		month: {
-			Nov: 269.8, 
-			Dec: 245.67, 
-			Jan: 92.81, 
-			Feb: 65.93, 
-			Mar: 70.47 
+			Dec: 245.35, 
+			Jan: 92.69, 
+			Feb: 65.83, 
+			Mar: 70.65, 
+			Apr: 58.02 
 		}
 	}
 }); 
@@ -14526,11 +14526,11 @@ WeatherOutlook.insert({
 	municipality: "Buenavista", 
 	data: {
 		month: {
-			Nov: 193.69, 
-			Dec: 186.47, 
-			Jan: 69.58, 
-			Feb: 43.34, 
-			Mar: 49.32 
+			Dec: 186.05, 
+			Jan: 69.42, 
+			Feb: 43.20, 
+			Mar: 49.52, 
+			Apr: 42.38 
 		}
 	}
 }); 
@@ -14541,11 +14541,11 @@ WeatherOutlook.insert({
 	municipality: "Gasan", 
 	data: {
 		month: {
-			Nov: 259.96, 
-			Dec: 233.18, 
-			Jan: 82.33, 
-			Feb: 58.21, 
-			Mar: 57.49 
+			Dec: 232.82, 
+			Jan: 82.18, 
+			Feb: 58.08, 
+			Mar: 57.65, 
+			Apr: 56.11 
 		}
 	}
 }); 
@@ -14556,11 +14556,11 @@ WeatherOutlook.insert({
 	municipality: "Mogpog", 
 	data: {
 		month: {
-			Nov: 282.34, 
-			Dec: 253.93, 
-			Jan: 90.88, 
-			Feb: 68.93, 
-			Mar: 66.2 
+			Dec: 253.63, 
+			Jan: 90.77, 
+			Feb: 68.85, 
+			Mar: 66.36, 
+			Apr: 59.01 
 		}
 	}
 }); 
@@ -14571,11 +14571,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 265.85, 
-			Dec: 256.19, 
-			Jan: 101.91, 
-			Feb: 73.43, 
-			Mar: 84.71 
+			Dec: 255.88, 
+			Jan: 101.80, 
+			Feb: 73.34, 
+			Mar: 84.93, 
+			Apr: 52.88 
 		}
 	}
 }); 
@@ -14586,11 +14586,11 @@ WeatherOutlook.insert({
 	municipality: "Torrijos", 
 	data: {
 		month: {
-			Nov: 237.16, 
-			Dec: 230.26, 
-			Jan: 98.07, 
-			Feb: 61.81, 
-			Mar: 73.18 
+			Dec: 229.91, 
+			Jan: 97.94, 
+			Feb: 61.70, 
+			Mar: 73.42, 
+			Apr: 54.60 
 		}
 	}
 }); 
@@ -14601,11 +14601,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 250.97, 
-			Dec: 260.09, 
-			Jan: 181.74, 
-			Feb: 102.18, 
-			Mar: 105.22 
+			Dec: 260.14, 
+			Jan: 181.89, 
+			Feb: 102.21, 
+			Mar: 106.32, 
+			Apr: 68.36 
 		}
 	}
 }); 
@@ -14616,11 +14616,11 @@ WeatherOutlook.insert({
 	municipality: "Aroroy", 
 	data: {
 		month: {
-			Nov: 255.17, 
-			Dec: 247.95, 
-			Jan: 173.04, 
-			Feb: 101.35, 
-			Mar: 88.95 
+			Dec: 247.91, 
+			Jan: 173.12, 
+			Feb: 101.37, 
+			Mar: 89.84, 
+			Apr: 67.44 
 		}
 	}
 }); 
@@ -14631,11 +14631,11 @@ WeatherOutlook.insert({
 	municipality: "Baleno", 
 	data: {
 		month: {
-			Nov: 242.04, 
 			Dec: 252.88, 
-			Jan: 185.77, 
-			Feb: 97.86, 
-			Mar: 97.52 
+			Jan: 185.86, 
+			Feb: 97.88, 
+			Mar: 98.48, 
+			Apr: 63.18 
 		}
 	}
 }); 
@@ -14646,11 +14646,11 @@ WeatherOutlook.insert({
 	municipality: "Balud", 
 	data: {
 		month: {
-			Nov: 211.56, 
-			Dec: 186.2, 
-			Jan: 122.42, 
-			Feb: 71.94, 
-			Mar: 71.77 
+			Dec: 186.21, 
+			Jan: 122.56, 
+			Feb: 71.99, 
+			Mar: 72.66, 
+			Apr: 48.85 
 		}
 	}
 }); 
@@ -14661,11 +14661,11 @@ WeatherOutlook.insert({
 	municipality: "Batuan", 
 	data: {
 		month: {
-			Nov: 297.71, 
-			Dec: 319.69, 
-			Jan: 232.73, 
-			Feb: 128.98, 
-			Mar: 123.75 
+			Dec: 319.76, 
+			Jan: 232.89, 
+			Feb: 129.03, 
+			Mar: 124.89, 
+			Apr: 81.93 
 		}
 	}
 }); 
@@ -14676,11 +14676,11 @@ WeatherOutlook.insert({
 	municipality: "Cataingan", 
 	data: {
 		month: {
-			Nov: 267.02, 
-			Dec: 277.72, 
-			Jan: 204.84, 
-			Feb: 110.62, 
-			Mar: 134.62 
+			Dec: 278.11, 
+			Jan: 205.29, 
+			Feb: 110.78, 
+			Mar: 136.15, 
+			Apr: 85.73 
 		}
 	}
 }); 
@@ -14691,11 +14691,11 @@ WeatherOutlook.insert({
 	municipality: "Cawayan", 
 	data: {
 		month: {
-			Nov: 244.73, 
-			Dec: 257.17, 
-			Jan: 178.49, 
-			Feb: 95.19, 
-			Mar: 103.99 
+			Dec: 257.33, 
+			Jan: 178.72, 
+			Feb: 95.28, 
+			Mar: 105.23, 
+			Apr: 65.80 
 		}
 	}
 }); 
@@ -14706,11 +14706,11 @@ WeatherOutlook.insert({
 	municipality: "Claveria", 
 	data: {
 		month: {
-			Nov: 256.5, 
-			Dec: 243.65, 
-			Jan: 156.9, 
-			Feb: 104.74, 
-			Mar: 87.54 
+			Dec: 243.51, 
+			Jan: 156.96, 
+			Feb: 104.72, 
+			Mar: 88.42, 
+			Apr: 66.74 
 		}
 	}
 }); 
@@ -14721,11 +14721,11 @@ WeatherOutlook.insert({
 	municipality: "Dimasalang", 
 	data: {
 		month: {
-			Nov: 266.97, 
-			Dec: 295.16, 
-			Jan: 195.28, 
-			Feb: 102.6, 
-			Mar: 136.49 
+			Dec: 295.38, 
+			Jan: 195.56, 
+			Feb: 102.70, 
+			Mar: 137.81, 
+			Apr: 82.23 
 		}
 	}
 }); 
@@ -14736,11 +14736,11 @@ WeatherOutlook.insert({
 	municipality: "Esperanza", 
 	data: {
 		month: {
-			Nov: 251.88, 
-			Dec: 272.8, 
-			Jan: 221.66, 
-			Feb: 127.18, 
-			Mar: 130.19 
+			Dec: 273.09, 
+			Jan: 221.99, 
+			Feb: 127.30, 
+			Mar: 131.62, 
+			Apr: 80.11 
 		}
 	}
 }); 
@@ -14751,11 +14751,11 @@ WeatherOutlook.insert({
 	municipality: "Mandaon", 
 	data: {
 		month: {
-			Nov: 258.81, 
-			Dec: 252.4, 
-			Jan: 157.67, 
-			Feb: 92.58, 
-			Mar: 88.05 
+			Dec: 252.40, 
+			Jan: 157.77, 
+			Feb: 92.61, 
+			Mar: 88.94, 
+			Apr: 57.68 
 		}
 	}
 }); 
@@ -14766,11 +14766,11 @@ WeatherOutlook.insert({
 	municipality: "Masbate City", 
 	data: {
 		month: {
-			Nov: 220.3, 
-			Dec: 240.68, 
-			Jan: 183.38, 
-			Feb: 88.53, 
-			Mar: 94.47 
+			Dec: 240.74, 
+			Jan: 183.51, 
+			Feb: 88.58, 
+			Mar: 95.50, 
+			Apr: 52.11 
 		}
 	}
 }); 
@@ -14781,11 +14781,11 @@ WeatherOutlook.insert({
 	municipality: "Milagros", 
 	data: {
 		month: {
-			Nov: 233.96, 
-			Dec: 255.58, 
-			Jan: 169.05, 
-			Feb: 93.24, 
-			Mar: 99.66 
+			Dec: 255.66, 
+			Jan: 169.20, 
+			Feb: 93.30, 
+			Mar: 100.69, 
+			Apr: 53.23 
 		}
 	}
 }); 
@@ -14796,11 +14796,11 @@ WeatherOutlook.insert({
 	municipality: "Mobo", 
 	data: {
 		month: {
-			Nov: 238.52, 
-			Dec: 263.76, 
-			Jan: 194.14, 
-			Feb: 94.04, 
-			Mar: 111.38 
+			Dec: 263.86, 
+			Jan: 194.31, 
+			Feb: 94.11, 
+			Mar: 112.49, 
+			Apr: 58.44 
 		}
 	}
 }); 
@@ -14811,11 +14811,11 @@ WeatherOutlook.insert({
 	municipality: "Monreal", 
 	data: {
 		month: {
-			Nov: 315.33, 
-			Dec: 338.16, 
-			Jan: 228.33, 
-			Feb: 135.65, 
-			Mar: 118.03 
+			Dec: 338.14, 
+			Jan: 228.42, 
+			Feb: 135.66, 
+			Mar: 119.05, 
+			Apr: 91.57 
 		}
 	}
 }); 
@@ -14826,11 +14826,11 @@ WeatherOutlook.insert({
 	municipality: "Palanas", 
 	data: {
 		month: {
-			Nov: 250.04, 
-			Dec: 273.59, 
-			Jan: 181.47, 
-			Feb: 93.23, 
-			Mar: 132.3 
+			Dec: 273.92, 
+			Jan: 181.85, 
+			Feb: 93.36, 
+			Mar: 133.74, 
+			Apr: 83.36 
 		}
 	}
 }); 
@@ -14841,11 +14841,11 @@ WeatherOutlook.insert({
 	municipality: "Pio V. Corpuz", 
 	data: {
 		month: {
-			Nov: 279.41, 
-			Dec: 295.31, 
-			Jan: 232.99, 
-			Feb: 133.66, 
-			Mar: 141.97 
+			Dec: 295.64, 
+			Jan: 233.39, 
+			Feb: 133.83, 
+			Mar: 143.46, 
+			Apr: 89.11 
 		}
 	}
 }); 
@@ -14856,11 +14856,11 @@ WeatherOutlook.insert({
 	municipality: "Placer", 
 	data: {
 		month: {
-			Nov: 219.3, 
-			Dec: 230.97, 
-			Jan: 182.74, 
-			Feb: 99.84, 
-			Mar: 113.03 
+			Dec: 231.28, 
+			Jan: 183.11, 
+			Feb: 99.97, 
+			Mar: 114.46, 
+			Apr: 71.38 
 		}
 	}
 }); 
@@ -14871,11 +14871,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando", 
 	data: {
 		month: {
-			Nov: 273.29, 
-			Dec: 300.55, 
-			Jan: 226.73, 
-			Feb: 127.12, 
-			Mar: 117 
+			Dec: 300.59, 
+			Jan: 226.86, 
+			Feb: 127.15, 
+			Mar: 118.09, 
+			Apr: 81.60 
 		}
 	}
 }); 
@@ -14886,11 +14886,11 @@ WeatherOutlook.insert({
 	municipality: "San Jacinto", 
 	data: {
 		month: {
-			Nov: 293.86, 
-			Dec: 320.72, 
-			Jan: 234.52, 
-			Feb: 135.08, 
-			Mar: 120.96 
+			Dec: 320.75, 
+			Jan: 234.64, 
+			Feb: 135.11, 
+			Mar: 122.02, 
+			Apr: 86.40 
 		}
 	}
 }); 
@@ -14901,11 +14901,11 @@ WeatherOutlook.insert({
 	municipality: "San Pascual", 
 	data: {
 		month: {
-			Nov: 255.99, 
-			Dec: 237.02, 
-			Jan: 142.31, 
-			Feb: 98.23, 
-			Mar: 79.6 
+			Dec: 236.77, 
+			Jan: 142.33, 
+			Feb: 98.15, 
+			Mar: 80.48, 
+			Apr: 67.18 
 		}
 	}
 }); 
@@ -14916,11 +14916,11 @@ WeatherOutlook.insert({
 	municipality: "Uson", 
 	data: {
 		month: {
-			Nov: 248.36, 
-			Dec: 278.34, 
-			Jan: 197.2, 
-			Feb: 101.82, 
-			Mar: 124.08 
+			Dec: 278.52, 
+			Jan: 197.44, 
+			Feb: 101.91, 
+			Mar: 125.31, 
+			Apr: 71.64 
 		}
 	}
 }); 
@@ -14931,11 +14931,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 151.05, 
-			Dec: 93.06, 
-			Jan: 17.42, 
-			Feb: 11.17, 
-			Mar: 19.11 
+			Dec: 92.74, 
+			Jan: 17.26, 
+			Feb: 11.12, 
+			Mar: 18.44, 
+			Apr: 26.62 
 		}
 	}
 }); 
@@ -14946,11 +14946,11 @@ WeatherOutlook.insert({
 	municipality: "Kalookan City", 
 	data: {
 		month: {
-			Nov: 172.28, 
-			Dec: 97.45, 
-			Jan: 21.52, 
-			Feb: 16.42, 
-			Mar: 29.83 
+			Dec: 97.15, 
+			Jan: 21.37, 
+			Feb: 16.39, 
+			Mar: 29.05, 
+			Apr: 35.83 
 		}
 	}
 }); 
@@ -14961,11 +14961,11 @@ WeatherOutlook.insert({
 	municipality: "Las Piñas", 
 	data: {
 		month: {
-			Nov: 108.47, 
-			Dec: 58.3, 
-			Jan: 11.24, 
-			Feb: 7.22, 
-			Mar: 8.35 
+			Dec: 57.97, 
+			Jan: 11.08, 
+			Feb: 7.16, 
+			Mar: 7.75, 
+			Apr: 18.50 
 		}
 	}
 }); 
@@ -14976,11 +14976,11 @@ WeatherOutlook.insert({
 	municipality: "Makati City", 
 	data: {
 		month: {
-			Nov: 106.26, 
-			Dec: 63.89, 
-			Jan: 14.08, 
-			Feb: 7.33, 
-			Mar: 13.04 
+			Dec: 63.56, 
+			Jan: 13.92, 
+			Feb: 7.27, 
+			Mar: 12.41, 
+			Apr: 19.83 
 		}
 	}
 }); 
@@ -14991,11 +14991,11 @@ WeatherOutlook.insert({
 	municipality: "Malabon", 
 	data: {
 		month: {
-			Nov: 138.99, 
-			Dec: 65.48, 
-			Jan: 14.65, 
-			Feb: 8.66, 
-			Mar: 18.85 
+			Dec: 65.18, 
+			Jan: 14.50, 
+			Feb: 8.62, 
+			Mar: 18.10, 
+			Apr: 27.33 
 		}
 	}
 }); 
@@ -15006,11 +15006,11 @@ WeatherOutlook.insert({
 	municipality: "Mandaluyong", 
 	data: {
 		month: {
-			Nov: 98.98, 
-			Dec: 61.5, 
-			Jan: 16.31, 
-			Feb: 8.08, 
-			Mar: 15.59 
+			Dec: 61.24, 
+			Jan: 16.20, 
+			Feb: 8.06, 
+			Mar: 14.96, 
+			Apr: 21.21 
 		}
 	}
 }); 
@@ -15021,11 +15021,11 @@ WeatherOutlook.insert({
 	municipality: "Manila", 
 	data: {
 		month: {
-			Nov: 111.72, 
-			Dec: 66.37, 
-			Jan: 15.2, 
-			Feb: 6.95, 
-			Mar: 13.53 
+			Dec: 66.08, 
+			Jan: 15.07, 
+			Feb: 6.91, 
+			Mar: 12.87, 
+			Apr: 23.77 
 		}
 	}
 }); 
@@ -15036,11 +15036,11 @@ WeatherOutlook.insert({
 	municipality: "Marikina", 
 	data: {
 		month: {
-			Nov: 120.16, 
-			Dec: 105.97, 
-			Jan: 25.68, 
-			Feb: 17.18, 
-			Mar: 29.53 
+			Dec: 105.64, 
+			Jan: 25.52, 
+			Feb: 17.13, 
+			Mar: 28.88, 
+			Apr: 34.06 
 		}
 	}
 }); 
@@ -15051,11 +15051,11 @@ WeatherOutlook.insert({
 	municipality: "Muntinlupa", 
 	data: {
 		month: {
-			Nov: 204.39, 
-			Dec: 146.76, 
-			Jan: 17.39, 
-			Feb: 11.49, 
-			Mar: 13.52 
+			Dec: 146.46, 
+			Jan: 17.26, 
+			Feb: 11.44, 
+			Mar: 12.94, 
+			Apr: 22.37 
 		}
 	}
 }); 
@@ -15066,11 +15066,11 @@ WeatherOutlook.insert({
 	municipality: "Navotas", 
 	data: {
 		month: {
-			Nov: 149.5, 
-			Dec: 80.17, 
-			Jan: 19.49, 
-			Feb: 10.2, 
-			Mar: 20.77 
+			Dec: 79.88, 
+			Jan: 19.35, 
+			Feb: 10.17, 
+			Mar: 20.03, 
+			Apr: 32.35 
 		}
 	}
 }); 
@@ -15081,11 +15081,11 @@ WeatherOutlook.insert({
 	municipality: "Parañaque", 
 	data: {
 		month: {
-			Nov: 195.17, 
-			Dec: 119.3, 
-			Jan: 10.84, 
-			Feb: 7.08, 
-			Mar: 10.32 
+			Dec: 118.98, 
+			Jan: 10.68, 
+			Feb: 7.02, 
+			Mar: 9.72, 
+			Apr: 18.62 
 		}
 	}
 }); 
@@ -15096,11 +15096,11 @@ WeatherOutlook.insert({
 	municipality: "Pasay City", 
 	data: {
 		month: {
-			Nov: 163.59, 
-			Dec: 80.72, 
-			Jan: 7.93, 
-			Feb: 5.12, 
-			Mar: 10.88 
+			Dec: 80.39, 
+			Jan: 7.77, 
+			Feb: 5.06, 
+			Mar: 10.25, 
+			Apr: 16.27 
 		}
 	}
 }); 
@@ -15111,11 +15111,11 @@ WeatherOutlook.insert({
 	municipality: "Pasig City", 
 	data: {
 		month: {
-			Nov: 135.83, 
-			Dec: 100.47, 
-			Jan: 20.15, 
-			Feb: 12.58, 
-			Mar: 19.27 
+			Dec: 100.16, 
+			Jan: 20.00, 
+			Feb: 12.53, 
+			Mar: 18.67, 
+			Apr: 27.64 
 		}
 	}
 }); 
@@ -15126,11 +15126,11 @@ WeatherOutlook.insert({
 	municipality: "Pateros", 
 	data: {
 		month: {
-			Nov: 209.31, 
-			Dec: 149.83, 
-			Jan: 18.1, 
-			Feb: 12.57, 
-			Mar: 15.26 
+			Dec: 149.56, 
+			Jan: 17.99, 
+			Feb: 12.54, 
+			Mar: 14.70, 
+			Apr: 26.51 
 		}
 	}
 }); 
@@ -15141,11 +15141,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon City", 
 	data: {
 		month: {
-			Nov: 161.69, 
-			Dec: 98.89, 
-			Jan: 23, 
+			Dec: 98.65, 
+			Jan: 22.90, 
 			Feb: 16.05, 
-			Mar: 29.21 
+			Mar: 28.51, 
+			Apr: 34.62 
 		}
 	}
 }); 
@@ -15156,11 +15156,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 98.63, 
-			Dec: 61.16, 
-			Jan: 16.29, 
-			Feb: 8.05, 
-			Mar: 15.53 
+			Dec: 60.91, 
+			Jan: 16.18, 
+			Feb: 8.02, 
+			Mar: 14.91, 
+			Apr: 21.16 
 		}
 	}
 }); 
@@ -15171,11 +15171,11 @@ WeatherOutlook.insert({
 	municipality: "Taguig", 
 	data: {
 		month: {
-			Nov: 195.86, 
-			Dec: 132.83, 
-			Jan: 15.23, 
-			Feb: 10.13, 
-			Mar: 13.73 
+			Dec: 132.50, 
+			Jan: 15.08, 
+			Feb: 10.07, 
+			Mar: 13.14, 
+			Apr: 22.86 
 		}
 	}
 }); 
@@ -15186,11 +15186,11 @@ WeatherOutlook.insert({
 	municipality: "Valenzuela", 
 	data: {
 		month: {
-			Nov: 152.77, 
-			Dec: 70.2, 
-			Jan: 14.78, 
-			Feb: 11.16, 
-			Mar: 22 
+			Dec: 69.91, 
+			Jan: 14.64, 
+			Feb: 11.14, 
+			Mar: 21.23, 
+			Apr: 27.47 
 		}
 	}
 }); 
@@ -15201,11 +15201,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 358.42, 
-			Dec: 303.29, 
-			Jan: 211.33, 
-			Feb: 139.09, 
-			Mar: 164.95 
+			Dec: 303.70, 
+			Jan: 211.31, 
+			Feb: 139.16, 
+			Mar: 165.38, 
+			Apr: 96.66 
 		}
 	}
 }); 
@@ -15216,11 +15216,11 @@ WeatherOutlook.insert({
 	municipality: "Aloran", 
 	data: {
 		month: {
-			Nov: 338.91, 
-			Dec: 286.56, 
-			Jan: 188.83, 
-			Feb: 126.21, 
-			Mar: 153 
+			Dec: 286.97, 
+			Jan: 188.81, 
+			Feb: 126.29, 
+			Mar: 153.51, 
+			Apr: 87.04 
 		}
 	}
 }); 
@@ -15231,11 +15231,11 @@ WeatherOutlook.insert({
 	municipality: "Baliangao", 
 	data: {
 		month: {
-			Nov: 331.33, 
-			Dec: 224.54, 
-			Jan: 143.19, 
-			Feb: 86.58, 
-			Mar: 101.33 
+			Dec: 224.88, 
+			Jan: 143.13, 
+			Feb: 86.62, 
+			Mar: 102.04, 
+			Apr: 75.16 
 		}
 	}
 }); 
@@ -15246,11 +15246,11 @@ WeatherOutlook.insert({
 	municipality: "Bonifacio", 
 	data: {
 		month: {
-			Nov: 327.25, 
-			Dec: 303.12, 
-			Jan: 205, 
-			Feb: 155.32, 
-			Mar: 181.84 
+			Dec: 303.55, 
+			Jan: 204.98, 
+			Feb: 155.42, 
+			Mar: 182.15, 
+			Apr: 125.67 
 		}
 	}
 }); 
@@ -15261,11 +15261,11 @@ WeatherOutlook.insert({
 	municipality: "Calamba", 
 	data: {
 		month: {
-			Nov: 331.26, 
-			Dec: 238.15, 
-			Jan: 151.42, 
-			Feb: 99.32, 
-			Mar: 122.25 
+			Dec: 238.52, 
+			Jan: 151.38, 
+			Feb: 99.35, 
+			Mar: 122.88, 
+			Apr: 81.82 
 		}
 	}
 }); 
@@ -15276,11 +15276,11 @@ WeatherOutlook.insert({
 	municipality: "Clarin", 
 	data: {
 		month: {
-			Nov: 414.92, 
-			Dec: 375.7, 
-			Jan: 314.64, 
-			Feb: 188.16, 
-			Mar: 216.66 
+			Dec: 376.17, 
+			Jan: 314.61, 
+			Feb: 188.15, 
+			Mar: 216.59, 
+			Apr: 102.88 
 		}
 	}
 }); 
@@ -15291,11 +15291,11 @@ WeatherOutlook.insert({
 	municipality: "Concepcion", 
 	data: {
 		month: {
-			Nov: 355.84, 
-			Dec: 291.8, 
-			Jan: 167.22, 
-			Feb: 121.55, 
-			Mar: 153.89 
+			Dec: 292.17, 
+			Jan: 167.16, 
+			Feb: 121.59, 
+			Mar: 154.43, 
+			Apr: 100.35 
 		}
 	}
 }); 
@@ -15306,11 +15306,11 @@ WeatherOutlook.insert({
 	municipality: "Don Victoriano Chiongbian", 
 	data: {
 		month: {
-			Nov: 363.39, 
-			Dec: 334.95, 
-			Jan: 195.81, 
-			Feb: 148.17, 
-			Mar: 180.73 
+			Dec: 335.35, 
+			Jan: 195.78, 
+			Feb: 148.24, 
+			Mar: 181.15, 
+			Apr: 113.60 
 		}
 	}
 }); 
@@ -15321,11 +15321,11 @@ WeatherOutlook.insert({
 	municipality: "Jimenez", 
 	data: {
 		month: {
-			Nov: 365.94, 
-			Dec: 318.45, 
-			Jan: 226.91, 
-			Feb: 147.29, 
-			Mar: 176.62 
+			Dec: 318.85, 
+			Jan: 226.86, 
+			Feb: 147.30, 
+			Mar: 176.89, 
+			Apr: 93.80 
 		}
 	}
 }); 
@@ -15336,11 +15336,11 @@ WeatherOutlook.insert({
 	municipality: "Lopez Jaena", 
 	data: {
 		month: {
-			Nov: 328.25, 
-			Dec: 233.82, 
-			Jan: 152.2, 
-			Feb: 98.08, 
-			Mar: 116.93 
+			Dec: 234.20, 
+			Jan: 152.18, 
+			Feb: 98.16, 
+			Mar: 117.62, 
+			Apr: 74.66 
 		}
 	}
 }); 
@@ -15351,11 +15351,11 @@ WeatherOutlook.insert({
 	municipality: "Oroquieta City", 
 	data: {
 		month: {
-			Nov: 341.79, 
-			Dec: 270.53, 
-			Jan: 167.93, 
-			Feb: 114.64, 
-			Mar: 140.97 
+			Dec: 270.90, 
+			Jan: 167.89, 
+			Feb: 114.69, 
+			Mar: 141.54, 
+			Apr: 85.70 
 		}
 	}
 }); 
@@ -15366,11 +15366,11 @@ WeatherOutlook.insert({
 	municipality: "Ozamis City", 
 	data: {
 		month: {
-			Nov: 406.95, 
-			Dec: 375.99, 
+			Dec: 376.47, 
 			Jan: 308.97, 
-			Feb: 190.31, 
-			Mar: 218.44 
+			Feb: 190.38, 
+			Mar: 218.46, 
+			Apr: 108.75 
 		}
 	}
 }); 
@@ -15381,11 +15381,11 @@ WeatherOutlook.insert({
 	municipality: "Panaon", 
 	data: {
 		month: {
-			Nov: 356.08, 
-			Dec: 301.41, 
-			Jan: 215.44, 
-			Feb: 138.69, 
-			Mar: 169.98 
+			Dec: 301.82, 
+			Jan: 215.42, 
+			Feb: 138.76, 
+			Mar: 170.42, 
+			Apr: 88.72 
 		}
 	}
 }); 
@@ -15396,11 +15396,11 @@ WeatherOutlook.insert({
 	municipality: "Plaridel", 
 	data: {
 		month: {
-			Nov: 312, 
-			Dec: 212.66, 
-			Jan: 143.45, 
-			Feb: 87.04, 
-			Mar: 99.37 
+			Dec: 213.01, 
+			Jan: 143.42, 
+			Feb: 87.10, 
+			Mar: 100.11, 
+			Apr: 71.09 
 		}
 	}
 }); 
@@ -15411,11 +15411,11 @@ WeatherOutlook.insert({
 	municipality: "Sapang Dalaga", 
 	data: {
 		month: {
-			Nov: 341.17, 
-			Dec: 250.79, 
-			Jan: 150.62, 
-			Feb: 97.4, 
-			Mar: 119.61 
+			Dec: 251.16, 
+			Jan: 150.59, 
+			Feb: 97.45, 
+			Mar: 120.28, 
+			Apr: 85.36 
 		}
 	}
 }); 
@@ -15426,11 +15426,11 @@ WeatherOutlook.insert({
 	municipality: "Sinacaban", 
 	data: {
 		month: {
-			Nov: 376.43, 
-			Dec: 326.03, 
+			Dec: 326.46, 
 			Jan: 249.49, 
-			Feb: 155, 
-			Mar: 181.32 
+			Feb: 155.09, 
+			Mar: 181.66, 
+			Apr: 94.59 
 		}
 	}
 }); 
@@ -15441,11 +15441,11 @@ WeatherOutlook.insert({
 	municipality: "Tangub City", 
 	data: {
 		month: {
-			Nov: 347.52, 
-			Dec: 327.06, 
-			Jan: 239.87, 
-			Feb: 165.86, 
-			Mar: 190.25 
+			Dec: 327.52, 
+			Jan: 239.86, 
+			Feb: 165.93, 
+			Mar: 190.38, 
+			Apr: 120.60 
 		}
 	}
 }); 
@@ -15456,11 +15456,11 @@ WeatherOutlook.insert({
 	municipality: "Tudela", 
 	data: {
 		month: {
-			Nov: 406.21, 
-			Dec: 367.32, 
-			Jan: 293.49, 
-			Feb: 179.81, 
-			Mar: 205.8 
+			Dec: 367.78, 
+			Jan: 293.50, 
+			Feb: 179.92, 
+			Mar: 206.06, 
+			Apr: 101.44 
 		}
 	}
 }); 
@@ -15471,11 +15471,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 226.06, 
-			Dec: 251.84, 
-			Jan: 213.48, 
-			Feb: 164.15, 
-			Mar: 176.59 
+			Dec: 252.23, 
+			Jan: 213.54, 
+			Feb: 164.31, 
+			Mar: 178.04, 
+			Apr: 109.02 
 		}
 	}
 }); 
@@ -15486,11 +15486,11 @@ WeatherOutlook.insert({
 	municipality: "Alubijid", 
 	data: {
 		month: {
-			Nov: 154.47, 
-			Dec: 137.87, 
-			Jan: 122.74, 
-			Feb: 88.6, 
-			Mar: 98.33 
+			Dec: 138.26, 
+			Jan: 122.76, 
+			Feb: 88.73, 
+			Mar: 99.35, 
+			Apr: 67.89 
 		}
 	}
 }); 
@@ -15501,11 +15501,11 @@ WeatherOutlook.insert({
 	municipality: "Balingasag", 
 	data: {
 		month: {
-			Nov: 218.54, 
-			Dec: 255.27, 
-			Jan: 219.09, 
-			Feb: 164.7, 
-			Mar: 178.57 
+			Dec: 255.64, 
+			Jan: 219.14, 
+			Feb: 164.86, 
+			Mar: 180.17, 
+			Apr: 103.02 
 		}
 	}
 }); 
@@ -15516,11 +15516,11 @@ WeatherOutlook.insert({
 	municipality: "Balingoan", 
 	data: {
 		month: {
-			Nov: 251.07, 
-			Dec: 317.57, 
-			Jan: 271.82, 
-			Feb: 191.24, 
-			Mar: 196.58 
+			Dec: 317.91, 
+			Jan: 271.85, 
+			Feb: 191.38, 
+			Mar: 198.52, 
+			Apr: 108.54 
 		}
 	}
 }); 
@@ -15531,11 +15531,11 @@ WeatherOutlook.insert({
 	municipality: "Binuangan", 
 	data: {
 		month: {
-			Nov: 238.67, 
-			Dec: 300.22, 
+			Dec: 300.54, 
 			Jan: 253.73, 
-			Feb: 175.31, 
-			Mar: 179.74 
+			Feb: 175.44, 
+			Mar: 181.58, 
+			Apr: 98.81 
 		}
 	}
 }); 
@@ -15546,11 +15546,11 @@ WeatherOutlook.insert({
 	municipality: "Cagayan de Oro City", 
 	data: {
 		month: {
-			Nov: 158.7, 
-			Dec: 132.96, 
-			Jan: 131.02, 
-			Feb: 97.18, 
-			Mar: 112.68 
+			Dec: 133.36, 
+			Jan: 131.05, 
+			Feb: 97.31, 
+			Mar: 113.76, 
+			Apr: 79.66 
 		}
 	}
 }); 
@@ -15561,11 +15561,11 @@ WeatherOutlook.insert({
 	municipality: "Claveria", 
 	data: {
 		month: {
-			Nov: 282.35, 
-			Dec: 345.75, 
-			Jan: 276.63, 
-			Feb: 225.12, 
-			Mar: 250.44 
+			Dec: 346.13, 
+			Jan: 276.67, 
+			Feb: 225.28, 
+			Mar: 252.10, 
+			Apr: 148.43 
 		}
 	}
 }); 
@@ -15576,11 +15576,11 @@ WeatherOutlook.insert({
 	municipality: "El Salvador City", 
 	data: {
 		month: {
-			Nov: 144.06, 
-			Dec: 125.43, 
+			Dec: 125.80, 
 			Jan: 121.88, 
-			Feb: 88.06, 
-			Mar: 95.21 
+			Feb: 88.18, 
+			Mar: 96.26, 
+			Apr: 65.48 
 		}
 	}
 }); 
@@ -15591,11 +15591,11 @@ WeatherOutlook.insert({
 	municipality: "Gingoog City", 
 	data: {
 		month: {
-			Nov: 339.4, 
-			Dec: 413.73, 
-			Jan: 330.44, 
-			Feb: 274.27, 
-			Mar: 289.25 
+			Dec: 414.14, 
+			Jan: 330.53, 
+			Feb: 274.46, 
+			Mar: 291.11, 
+			Apr: 177.39 
 		}
 	}
 }); 
@@ -15606,11 +15606,11 @@ WeatherOutlook.insert({
 	municipality: "Gitagum", 
 	data: {
 		month: {
-			Nov: 152.06, 
-			Dec: 132.63, 
-			Jan: 126.89, 
-			Feb: 86.19, 
-			Mar: 92.69 
+			Dec: 133.01, 
+			Jan: 126.91, 
+			Feb: 86.30, 
+			Mar: 93.73, 
+			Apr: 64.83 
 		}
 	}
 }); 
@@ -15621,11 +15621,11 @@ WeatherOutlook.insert({
 	municipality: "Initao", 
 	data: {
 		month: {
-			Nov: 165.62, 
-			Dec: 141.52, 
-			Jan: 123.42, 
-			Feb: 87.32, 
-			Mar: 97.46 
+			Dec: 141.86, 
+			Jan: 123.39, 
+			Feb: 87.41, 
+			Mar: 98.38, 
+			Apr: 68.93 
 		}
 	}
 }); 
@@ -15636,11 +15636,11 @@ WeatherOutlook.insert({
 	municipality: "Jasaan", 
 	data: {
 		month: {
-			Nov: 191.79, 
-			Dec: 210.17, 
-			Jan: 193.91, 
-			Feb: 139.25, 
-			Mar: 145.24 
+			Dec: 210.48, 
+			Jan: 193.90, 
+			Feb: 139.37, 
+			Mar: 146.70, 
+			Apr: 87.21 
 		}
 	}
 }); 
@@ -15651,11 +15651,11 @@ WeatherOutlook.insert({
 	municipality: "Kinoguitan", 
 	data: {
 		month: {
-			Nov: 241.77, 
-			Dec: 299.29, 
+			Dec: 299.61, 
 			Jan: 266.74, 
-			Feb: 178.01, 
-			Mar: 180.19 
+			Feb: 178.12, 
+			Mar: 182.08, 
+			Apr: 98.22 
 		}
 	}
 }); 
@@ -15666,11 +15666,11 @@ WeatherOutlook.insert({
 	municipality: "Lagonglong", 
 	data: {
 		month: {
-			Nov: 237.72, 
-			Dec: 287.24, 
-			Jan: 233.51, 
-			Feb: 177.01, 
-			Mar: 191.22 
+			Dec: 287.57, 
+			Jan: 233.53, 
+			Feb: 177.14, 
+			Mar: 192.97, 
+			Apr: 106.90 
 		}
 	}
 }); 
@@ -15681,11 +15681,11 @@ WeatherOutlook.insert({
 	municipality: "Laguindingan", 
 	data: {
 		month: {
-			Nov: 156.16, 
-			Dec: 125.02, 
-			Jan: 127.06, 
-			Feb: 85.62, 
-			Mar: 89.16 
+			Dec: 125.36, 
+			Jan: 127.05, 
+			Feb: 85.72, 
+			Mar: 90.27, 
+			Apr: 63.02 
 		}
 	}
 }); 
@@ -15696,11 +15696,11 @@ WeatherOutlook.insert({
 	municipality: "Libertad", 
 	data: {
 		month: {
-			Nov: 156.57, 
-			Dec: 137.94, 
-			Jan: 122.96, 
-			Feb: 87.72, 
-			Mar: 97.92 
+			Dec: 138.28, 
+			Jan: 122.95, 
+			Feb: 87.82, 
+			Mar: 98.91, 
+			Apr: 67.83 
 		}
 	}
 }); 
@@ -15711,11 +15711,11 @@ WeatherOutlook.insert({
 	municipality: "Lugait", 
 	data: {
 		month: {
-			Nov: 215.04, 
-			Dec: 183.72, 
-			Jan: 130.3, 
-			Feb: 99.13, 
-			Mar: 114.88 
+			Dec: 184.09, 
+			Jan: 130.28, 
+			Feb: 99.24, 
+			Mar: 115.59, 
+			Apr: 87.85 
 		}
 	}
 }); 
@@ -15726,11 +15726,11 @@ WeatherOutlook.insert({
 	municipality: "Magsaysay", 
 	data: {
 		month: {
-			Nov: 280.28, 
-			Dec: 367.8, 
-			Jan: 374.43, 
-			Feb: 283.47, 
-			Mar: 248.79 
+			Dec: 368.21, 
+			Jan: 374.52, 
+			Feb: 283.65, 
+			Mar: 250.75, 
+			Apr: 154.95 
 		}
 	}
 }); 
@@ -15741,11 +15741,11 @@ WeatherOutlook.insert({
 	municipality: "Manticao", 
 	data: {
 		month: {
-			Nov: 204.88, 
-			Dec: 177.55, 
+			Dec: 177.95, 
 			Jan: 123.86, 
-			Feb: 101.69, 
-			Mar: 124.62 
+			Feb: 101.79, 
+			Mar: 125.38, 
+			Apr: 88.30 
 		}
 	}
 }); 
@@ -15756,11 +15756,11 @@ WeatherOutlook.insert({
 	municipality: "Medina", 
 	data: {
 		month: {
-			Nov: 301.36, 
-			Dec: 383.6, 
-			Jan: 299.68, 
-			Feb: 239.13, 
-			Mar: 251.23 
+			Dec: 384.04, 
+			Jan: 299.79, 
+			Feb: 239.33, 
+			Mar: 253.26, 
+			Apr: 145.15 
 		}
 	}
 }); 
@@ -15771,11 +15771,11 @@ WeatherOutlook.insert({
 	municipality: "Naawan", 
 	data: {
 		month: {
-			Nov: 182.31, 
-			Dec: 162.67, 
+			Dec: 163.06, 
 			Jan: 122.75, 
-			Feb: 94.43, 
-			Mar: 111.28 
+			Feb: 94.52, 
+			Mar: 112.11, 
+			Apr: 78.10 
 		}
 	}
 }); 
@@ -15786,11 +15786,11 @@ WeatherOutlook.insert({
 	municipality: "Opol", 
 	data: {
 		month: {
-			Nov: 154.16, 
-			Dec: 126.42, 
+			Dec: 126.78, 
 			Jan: 121.91, 
-			Feb: 89.33, 
-			Mar: 98.92 
+			Feb: 89.47, 
+			Mar: 99.96, 
+			Apr: 71.83 
 		}
 	}
 }); 
@@ -15801,11 +15801,11 @@ WeatherOutlook.insert({
 	municipality: "Salay", 
 	data: {
 		month: {
-			Nov: 246.47, 
-			Dec: 308.5, 
+			Dec: 308.81, 
 			Jan: 244.39, 
-			Feb: 182.82, 
-			Mar: 196.47 
+			Feb: 182.94, 
+			Mar: 198.26, 
+			Apr: 105.80 
 		}
 	}
 }); 
@@ -15816,11 +15816,11 @@ WeatherOutlook.insert({
 	municipality: "Sugbongcogon", 
 	data: {
 		month: {
-			Nov: 242.35, 
-			Dec: 303.3, 
-			Jan: 251.22, 
-			Feb: 178.17, 
-			Mar: 186.83 
+			Dec: 303.63, 
+			Jan: 251.23, 
+			Feb: 178.30, 
+			Mar: 188.69, 
+			Apr: 101.04 
 		}
 	}
 }); 
@@ -15831,11 +15831,11 @@ WeatherOutlook.insert({
 	municipality: "Tagoloan", 
 	data: {
 		month: {
-			Nov: 168.79, 
-			Dec: 173.47, 
-			Jan: 160.43, 
-			Feb: 117.62, 
-			Mar: 137.34 
+			Dec: 173.79, 
+			Jan: 160.41, 
+			Feb: 117.75, 
+			Mar: 138.66, 
+			Apr: 84.80 
 		}
 	}
 }); 
@@ -15846,11 +15846,11 @@ WeatherOutlook.insert({
 	municipality: "Talisayan", 
 	data: {
 		month: {
-			Nov: 263.95, 
-			Dec: 333.32, 
-			Jan: 281.99, 
-			Feb: 208.7, 
-			Mar: 215.68 
+			Dec: 333.77, 
+			Jan: 282.12, 
+			Feb: 208.92, 
+			Mar: 217.73, 
+			Apr: 119.94 
 		}
 	}
 }); 
@@ -15861,11 +15861,11 @@ WeatherOutlook.insert({
 	municipality: "Villanueva", 
 	data: {
 		month: {
-			Nov: 180.83, 
-			Dec: 191.74, 
-			Jan: 168.4, 
-			Feb: 126.52, 
-			Mar: 145.05 
+			Dec: 192.07, 
+			Jan: 168.39, 
+			Feb: 126.65, 
+			Mar: 146.45, 
+			Apr: 86.42 
 		}
 	}
 }); 
@@ -15876,11 +15876,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 198.64, 
-			Dec: 93.83, 
-			Jan: 24.14, 
-			Feb: 30.56, 
-			Mar: 61.5 
+			Dec: 93.85, 
+			Jan: 24.27, 
+			Feb: 30.73, 
+			Mar: 60.09, 
+			Apr: 107.41 
 		}
 	}
 }); 
@@ -15891,11 +15891,11 @@ WeatherOutlook.insert({
 	municipality: "Barlig", 
 	data: {
 		month: {
-			Nov: 249.62, 
-			Dec: 124.09, 
-			Jan: 29.14, 
-			Feb: 39.11, 
-			Mar: 69.94 
+			Dec: 123.97, 
+			Jan: 29.18, 
+			Feb: 39.24, 
+			Mar: 68.43, 
+			Apr: 120.22 
 		}
 	}
 }); 
@@ -15906,11 +15906,11 @@ WeatherOutlook.insert({
 	municipality: "Bauko", 
 	data: {
 		month: {
-			Nov: 148.79, 
-			Dec: 52.01, 
-			Jan: 15.62, 
-			Feb: 27.14, 
-			Mar: 65.92 
+			Dec: 51.90, 
+			Jan: 15.66, 
+			Feb: 27.28, 
+			Mar: 64.29, 
+			Apr: 126.69 
 		}
 	}
 }); 
@@ -15921,11 +15921,11 @@ WeatherOutlook.insert({
 	municipality: "Besao", 
 	data: {
 		month: {
-			Nov: 131.56, 
-			Dec: 39.02, 
-			Jan: 9.85, 
-			Feb: 13.34, 
-			Mar: 42.53 
+			Dec: 38.95, 
+			Jan: 9.91, 
+			Feb: 13.48, 
+			Mar: 41.01, 
+			Apr: 91.81 
 		}
 	}
 }); 
@@ -15936,11 +15936,11 @@ WeatherOutlook.insert({
 	municipality: "Bontoc", 
 	data: {
 		month: {
-			Nov: 169.62, 
-			Dec: 70.44, 
-			Jan: 16.95, 
-			Feb: 27.37, 
-			Mar: 61.8 
+			Dec: 70.37, 
+			Jan: 17.03, 
+			Feb: 27.54, 
+			Mar: 60.05, 
+			Apr: 114.49 
 		}
 	}
 }); 
@@ -15951,11 +15951,11 @@ WeatherOutlook.insert({
 	municipality: "Natonin", 
 	data: {
 		month: {
-			Nov: 277.99, 
-			Dec: 153.88, 
-			Jan: 36.68, 
-			Feb: 40.1, 
-			Mar: 66.18 
+			Dec: 153.83, 
+			Jan: 36.75, 
+			Feb: 40.23, 
+			Mar: 65.11, 
+			Apr: 104.59 
 		}
 	}
 }); 
@@ -15966,11 +15966,11 @@ WeatherOutlook.insert({
 	municipality: "Paracelis", 
 	data: {
 		month: {
-			Nov: 254.49, 
-			Dec: 145.67, 
-			Jan: 40.11, 
-			Feb: 37.54, 
-			Mar: 61.27 
+			Dec: 145.63, 
+			Jan: 40.20, 
+			Feb: 37.67, 
+			Mar: 60.55, 
+			Apr: 81.13 
 		}
 	}
 }); 
@@ -15981,11 +15981,11 @@ WeatherOutlook.insert({
 	municipality: "Sabangan", 
 	data: {
 		month: {
-			Nov: 162.96, 
-			Dec: 66.13, 
-			Jan: 17.12, 
-			Feb: 29.09, 
-			Mar: 68.11 
+			Dec: 66.03, 
+			Jan: 17.18, 
+			Feb: 29.25, 
+			Mar: 66.29, 
+			Apr: 126.75 
 		}
 	}
 }); 
@@ -15996,11 +15996,11 @@ WeatherOutlook.insert({
 	municipality: "Sadanga", 
 	data: {
 		month: {
-			Nov: 187.41, 
-			Dec: 87.35, 
-			Jan: 21.62, 
-			Feb: 30.32, 
-			Mar: 58.9 
+			Dec: 87.26, 
+			Jan: 21.67, 
+			Feb: 30.47, 
+			Mar: 57.41, 
+			Apr: 111.61 
 		}
 	}
 }); 
@@ -16011,11 +16011,11 @@ WeatherOutlook.insert({
 	municipality: "Sagada", 
 	data: {
 		month: {
-			Nov: 133.44, 
-			Dec: 40.88, 
-			Jan: 10.55, 
-			Feb: 19.02, 
-			Mar: 53.18 
+			Dec: 40.83, 
+			Jan: 10.64, 
+			Feb: 19.17, 
+			Mar: 51.48, 
+			Apr: 102.93 
 		}
 	}
 }); 
@@ -16026,11 +16026,11 @@ WeatherOutlook.insert({
 	municipality: "Tadian", 
 	data: {
 		month: {
-			Nov: 121.49, 
-			Dec: 34.89, 
-			Jan: 11.9, 
-			Feb: 19.08, 
-			Mar: 52.17 
+			Dec: 34.83, 
+			Jan: 11.97, 
+			Feb: 19.22, 
+			Mar: 50.62, 
+			Apr: 109.56 
 		}
 	}
 }); 
@@ -16041,11 +16041,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 220.78, 
-			Dec: 169.6, 
-			Jan: 102.4, 
-			Feb: 77.88, 
-			Mar: 88.53 
+			Dec: 169.74, 
+			Jan: 102.47, 
+			Feb: 77.97, 
+			Mar: 89.35, 
+			Apr: 79.51 
 		}
 	}
 }); 
@@ -16056,11 +16056,11 @@ WeatherOutlook.insert({
 	municipality: "Bacolod City", 
 	data: {
 		month: {
-			Nov: 281.22, 
-			Dec: 222.77, 
-			Jan: 110.95, 
-			Feb: 90.39, 
-			Mar: 103.43 
+			Dec: 222.84, 
+			Jan: 111.01, 
+			Feb: 90.46, 
+			Mar: 104.22, 
+			Apr: 76.75 
 		}
 	}
 }); 
@@ -16071,11 +16071,11 @@ WeatherOutlook.insert({
 	municipality: "Bago City", 
 	data: {
 		month: {
-			Nov: 227.94, 
-			Dec: 173.68, 
-			Jan: 91.15, 
-			Feb: 72.32, 
-			Mar: 76.96 
+			Dec: 173.78, 
+			Jan: 91.18, 
+			Feb: 72.38, 
+			Mar: 77.76, 
+			Apr: 84.33 
 		}
 	}
 }); 
@@ -16086,11 +16086,11 @@ WeatherOutlook.insert({
 	municipality: "Binalbagan", 
 	data: {
 		month: {
-			Nov: 187.24, 
-			Dec: 135.42, 
-			Jan: 81.22, 
-			Feb: 58.53, 
-			Mar: 76.95 
+			Dec: 135.62, 
+			Jan: 81.28, 
+			Feb: 58.60, 
+			Mar: 77.68, 
+			Apr: 79.95 
 		}
 	}
 }); 
@@ -16101,11 +16101,11 @@ WeatherOutlook.insert({
 	municipality: "Cadiz City", 
 	data: {
 		month: {
-			Nov: 250.44, 
-			Dec: 208, 
-			Jan: 127.87, 
-			Feb: 101.15, 
-			Mar: 107.03 
+			Dec: 208.11, 
+			Jan: 127.99, 
+			Feb: 101.24, 
+			Mar: 107.93, 
+			Apr: 73.14 
 		}
 	}
 }); 
@@ -16116,11 +16116,11 @@ WeatherOutlook.insert({
 	municipality: "Calatrava", 
 	data: {
 		month: {
-			Nov: 221.45, 
-			Dec: 180.26, 
-			Jan: 118.92, 
-			Feb: 92.34, 
-			Mar: 102.75 
+			Dec: 180.40, 
+			Jan: 119.00, 
+			Feb: 92.43, 
+			Mar: 103.77, 
+			Apr: 72.42 
 		}
 	}
 }); 
@@ -16131,11 +16131,11 @@ WeatherOutlook.insert({
 	municipality: "Candoni", 
 	data: {
 		month: {
-			Nov: 204.08, 
-			Dec: 133.9, 
-			Jan: 89.65, 
-			Feb: 69.69, 
-			Mar: 80.62 
+			Dec: 134.04, 
+			Jan: 89.60, 
+			Feb: 69.72, 
+			Mar: 81.30, 
+			Apr: 75.77 
 		}
 	}
 }); 
@@ -16146,11 +16146,11 @@ WeatherOutlook.insert({
 	municipality: "Cauayan", 
 	data: {
 		month: {
-			Nov: 205.3, 
-			Dec: 135.54, 
-			Jan: 83.35, 
-			Feb: 61.65, 
-			Mar: 75.19 
+			Dec: 135.65, 
+			Jan: 83.31, 
+			Feb: 61.69, 
+			Mar: 75.83, 
+			Apr: 68.34 
 		}
 	}
 }); 
@@ -16161,11 +16161,11 @@ WeatherOutlook.insert({
 	municipality: "Enrique B. Magalona", 
 	data: {
 		month: {
-			Nov: 270.13, 
-			Dec: 268.43, 
-			Jan: 134.88, 
-			Feb: 103.25, 
-			Mar: 108.74 
+			Dec: 268.54, 
+			Jan: 135.06, 
+			Feb: 103.38, 
+			Mar: 109.56, 
+			Apr: 87.87 
 		}
 	}
 }); 
@@ -16176,11 +16176,11 @@ WeatherOutlook.insert({
 	municipality: "Escalante City", 
 	data: {
 		month: {
-			Nov: 217.48, 
-			Dec: 173.87, 
-			Jan: 131.27, 
-			Feb: 86.38, 
-			Mar: 87.99 
+			Dec: 174.02, 
+			Jan: 131.38, 
+			Feb: 86.47, 
+			Mar: 89.08, 
+			Apr: 67.84 
 		}
 	}
 }); 
@@ -16191,11 +16191,11 @@ WeatherOutlook.insert({
 	municipality: "Himamaylan City", 
 	data: {
 		month: {
-			Nov: 192.35, 
-			Dec: 132.88, 
-			Jan: 81.67, 
-			Feb: 61.65, 
-			Mar: 80.2 
+			Dec: 133.09, 
+			Jan: 81.74, 
+			Feb: 61.72, 
+			Mar: 80.89, 
+			Apr: 75.58 
 		}
 	}
 }); 
@@ -16206,11 +16206,11 @@ WeatherOutlook.insert({
 	municipality: "Hinigaran", 
 	data: {
 		month: {
-			Nov: 196.28, 
-			Dec: 131.58, 
-			Jan: 74.78, 
-			Feb: 53.01, 
-			Mar: 60.55 
+			Dec: 131.73, 
+			Jan: 74.81, 
+			Feb: 53.07, 
+			Mar: 61.31, 
+			Apr: 98.87 
 		}
 	}
 }); 
@@ -16221,11 +16221,11 @@ WeatherOutlook.insert({
 	municipality: "Hinoba-An", 
 	data: {
 		month: {
-			Nov: 202.37, 
-			Dec: 138.22, 
-			Jan: 91.79, 
-			Feb: 62.42, 
-			Mar: 75.44 
+			Dec: 138.36, 
+			Jan: 91.71, 
+			Feb: 62.44, 
+			Mar: 76.09, 
+			Apr: 69.67 
 		}
 	}
 }); 
@@ -16236,11 +16236,11 @@ WeatherOutlook.insert({
 	municipality: "Ilog", 
 	data: {
 		month: {
-			Nov: 197.96, 
-			Dec: 129.57, 
-			Jan: 87.44, 
-			Feb: 67.55, 
-			Mar: 79.63 
+			Dec: 129.73, 
+			Jan: 87.42, 
+			Feb: 67.59, 
+			Mar: 80.33, 
+			Apr: 72.09 
 		}
 	}
 }); 
@@ -16251,11 +16251,11 @@ WeatherOutlook.insert({
 	municipality: "Isabela", 
 	data: {
 		month: {
-			Nov: 187.85, 
-			Dec: 134.79, 
-			Jan: 86.12, 
-			Feb: 56.84, 
-			Mar: 74.93 
+			Dec: 134.97, 
+			Jan: 86.17, 
+			Feb: 56.91, 
+			Mar: 75.70, 
+			Apr: 96.51 
 		}
 	}
 }); 
@@ -16266,11 +16266,11 @@ WeatherOutlook.insert({
 	municipality: "Kabankalan City", 
 	data: {
 		month: {
-			Nov: 191.11, 
-			Dec: 133.73, 
-			Jan: 90.55, 
-			Feb: 69.58, 
-			Mar: 85.75 
+			Dec: 133.93, 
+			Jan: 90.59, 
+			Feb: 69.65, 
+			Mar: 86.47, 
+			Apr: 75.44 
 		}
 	}
 }); 
@@ -16281,11 +16281,11 @@ WeatherOutlook.insert({
 	municipality: "La Carlota City", 
 	data: {
 		month: {
-			Nov: 218.21, 
-			Dec: 150, 
-			Jan: 82.33, 
-			Feb: 66.37, 
-			Mar: 73.9 
+			Dec: 150.12, 
+			Jan: 82.38, 
+			Feb: 66.44, 
+			Mar: 74.71, 
+			Apr: 100.95 
 		}
 	}
 }); 
@@ -16296,11 +16296,11 @@ WeatherOutlook.insert({
 	municipality: "La Castellana", 
 	data: {
 		month: {
-			Nov: 200.81, 
-			Dec: 143.77, 
-			Jan: 87.13, 
-			Feb: 62.91, 
-			Mar: 76.52 
+			Dec: 143.92, 
+			Jan: 87.16, 
+			Feb: 62.97, 
+			Mar: 77.33, 
+			Apr: 104.71 
 		}
 	}
 }); 
@@ -16311,11 +16311,11 @@ WeatherOutlook.insert({
 	municipality: "Manapla", 
 	data: {
 		month: {
-			Nov: 254.48, 
-			Dec: 224.64, 
-			Jan: 133.91, 
-			Feb: 108.74, 
-			Mar: 102.07 
+			Dec: 224.73, 
+			Jan: 134.07, 
+			Feb: 108.85, 
+			Mar: 102.88, 
+			Apr: 72.76 
 		}
 	}
 }); 
@@ -16326,11 +16326,11 @@ WeatherOutlook.insert({
 	municipality: "Moises Padilla", 
 	data: {
 		month: {
-			Nov: 187.15, 
-			Dec: 129.89, 
-			Jan: 92.62, 
-			Feb: 64.76, 
-			Mar: 76.4 
+			Dec: 130.07, 
+			Jan: 92.67, 
+			Feb: 64.83, 
+			Mar: 77.22, 
+			Apr: 93.89 
 		}
 	}
 }); 
@@ -16341,11 +16341,11 @@ WeatherOutlook.insert({
 	municipality: "Murcia", 
 	data: {
 		month: {
-			Nov: 234.93, 
-			Dec: 202.35, 
-			Jan: 103.5, 
-			Feb: 85.66, 
-			Mar: 101.51 
+			Dec: 202.45, 
+			Jan: 103.55, 
+			Feb: 85.73, 
+			Mar: 102.35, 
+			Apr: 86.48 
 		}
 	}
 }); 
@@ -16356,11 +16356,11 @@ WeatherOutlook.insert({
 	municipality: "Pontevedra", 
 	data: {
 		month: {
-			Nov: 204.72, 
-			Dec: 132.75, 
-			Jan: 74.32, 
-			Feb: 59.25, 
-			Mar: 63.46 
+			Dec: 132.88, 
+			Jan: 74.35, 
+			Feb: 59.32, 
+			Mar: 64.24, 
+			Apr: 109.24 
 		}
 	}
 }); 
@@ -16371,11 +16371,11 @@ WeatherOutlook.insert({
 	municipality: "Pulupandan", 
 	data: {
 		month: {
-			Nov: 233.83, 
-			Dec: 157, 
-			Jan: 90.03, 
-			Feb: 62.18, 
-			Mar: 69.14 
+			Dec: 157.04, 
+			Jan: 90.01, 
+			Feb: 62.21, 
+			Mar: 69.86, 
+			Apr: 81.98 
 		}
 	}
 }); 
@@ -16386,11 +16386,11 @@ WeatherOutlook.insert({
 	municipality: "Sagay City", 
 	data: {
 		month: {
-			Nov: 230.44, 
-			Dec: 179.85, 
-			Jan: 125.49, 
-			Feb: 89.43, 
-			Mar: 92.35 
+			Dec: 180.00, 
+			Jan: 125.62, 
+			Feb: 89.53, 
+			Mar: 93.37, 
+			Apr: 68.30 
 		}
 	}
 }); 
@@ -16401,11 +16401,11 @@ WeatherOutlook.insert({
 	municipality: "Salvador Benedicto", 
 	data: {
 		month: {
-			Nov: 221.68, 
-			Dec: 184.22, 
-			Jan: 110.56, 
-			Feb: 92.68, 
-			Mar: 102.99 
+			Dec: 184.34, 
+			Jan: 110.62, 
+			Feb: 92.75, 
+			Mar: 103.93, 
+			Apr: 80.46 
 		}
 	}
 }); 
@@ -16416,11 +16416,11 @@ WeatherOutlook.insert({
 	municipality: "San Carlos City", 
 	data: {
 		month: {
-			Nov: 211.83, 
-			Dec: 168.17, 
-			Jan: 114.08, 
-			Feb: 90.61, 
-			Mar: 96.24 
+			Dec: 168.32, 
+			Jan: 114.15, 
+			Feb: 90.69, 
+			Mar: 97.21, 
+			Apr: 69.28 
 		}
 	}
 }); 
@@ -16431,11 +16431,11 @@ WeatherOutlook.insert({
 	municipality: "San Enrique", 
 	data: {
 		month: {
-			Nov: 218.07, 
-			Dec: 113.1, 
-			Jan: 69.72, 
-			Feb: 61.43, 
-			Mar: 59.95 
+			Dec: 113.19, 
+			Jan: 69.73, 
+			Feb: 61.49, 
+			Mar: 60.72, 
+			Apr: 104.90 
 		}
 	}
 }); 
@@ -16446,11 +16446,11 @@ WeatherOutlook.insert({
 	municipality: "Silay City", 
 	data: {
 		month: {
-			Nov: 267.09, 
-			Dec: 240.65, 
-			Jan: 124.1, 
-			Feb: 98.67, 
-			Mar: 113.14 
+			Dec: 240.76, 
+			Jan: 124.23, 
+			Feb: 98.77, 
+			Mar: 113.97, 
+			Apr: 85.73 
 		}
 	}
 }); 
@@ -16461,11 +16461,11 @@ WeatherOutlook.insert({
 	municipality: "Sipalay City", 
 	data: {
 		month: {
-			Nov: 216.54, 
-			Dec: 142.77, 
-			Jan: 84.96, 
+			Dec: 142.85, 
+			Jan: 84.87, 
 			Feb: 62.61, 
-			Mar: 72.49 
+			Mar: 73.10, 
+			Apr: 73.55 
 		}
 	}
 }); 
@@ -16476,11 +16476,11 @@ WeatherOutlook.insert({
 	municipality: "Talisay City", 
 	data: {
 		month: {
-			Nov: 284.07, 
-			Dec: 245.17, 
-			Jan: 120.34, 
-			Feb: 98.38, 
-			Mar: 121.69 
+			Dec: 245.26, 
+			Jan: 120.42, 
+			Feb: 98.45, 
+			Mar: 122.53, 
+			Apr: 87.74 
 		}
 	}
 }); 
@@ -16491,11 +16491,11 @@ WeatherOutlook.insert({
 	municipality: "Toboso", 
 	data: {
 		month: {
-			Nov: 219.61, 
-			Dec: 171.84, 
-			Jan: 126.38, 
-			Feb: 89.7, 
-			Mar: 96.68 
+			Dec: 172.02, 
+			Jan: 126.51, 
+			Feb: 89.81, 
+			Mar: 97.76, 
+			Apr: 69.11 
 		}
 	}
 }); 
@@ -16506,11 +16506,11 @@ WeatherOutlook.insert({
 	municipality: "Valladolid", 
 	data: {
 		month: {
-			Nov: 218.6, 
-			Dec: 133.11, 
+			Dec: 133.18, 
 			Jan: 86.27, 
-			Feb: 59.39, 
-			Mar: 64.21 
+			Feb: 59.43, 
+			Mar: 64.95, 
+			Apr: 90.10 
 		}
 	}
 }); 
@@ -16521,11 +16521,11 @@ WeatherOutlook.insert({
 	municipality: "Victorias City", 
 	data: {
 		month: {
-			Nov: 263.82, 
-			Dec: 271.77, 
-			Jan: 138.25, 
-			Feb: 104.74, 
-			Mar: 110.83 
+			Dec: 271.90, 
+			Jan: 138.45, 
+			Feb: 104.89, 
+			Mar: 111.66, 
+			Apr: 87.66 
 		}
 	}
 }); 
@@ -16536,11 +16536,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 185.6, 
-			Dec: 146.77, 
-			Jan: 110.59, 
-			Feb: 68.42, 
-			Mar: 96.95 
+			Dec: 146.99, 
+			Jan: 110.56, 
+			Feb: 68.44, 
+			Mar: 97.67, 
+			Apr: 68.55 
 		}
 	}
 }); 
@@ -16551,11 +16551,11 @@ WeatherOutlook.insert({
 	municipality: "Amlan", 
 	data: {
 		month: {
-			Nov: 174.98, 
-			Dec: 150.99, 
-			Jan: 131.1, 
-			Feb: 68.53, 
-			Mar: 116 
+			Dec: 151.23, 
+			Jan: 131.05, 
+			Feb: 68.55, 
+			Mar: 116.77, 
+			Apr: 68.74 
 		}
 	}
 }); 
@@ -16566,11 +16566,11 @@ WeatherOutlook.insert({
 	municipality: "Ayungon", 
 	data: {
 		month: {
-			Nov: 199.05, 
-			Dec: 151.15, 
-			Jan: 102.05, 
-			Feb: 72.4, 
-			Mar: 99.49 
+			Dec: 151.39, 
+			Jan: 102.13, 
+			Feb: 72.49, 
+			Mar: 100.24, 
+			Apr: 73.61 
 		}
 	}
 }); 
@@ -16581,11 +16581,11 @@ WeatherOutlook.insert({
 	municipality: "Bacong", 
 	data: {
 		month: {
-			Nov: 166.44, 
-			Dec: 116.73, 
-			Jan: 84.39, 
-			Feb: 58.92, 
-			Mar: 86.32 
+			Dec: 116.99, 
+			Jan: 84.31, 
+			Feb: 58.90, 
+			Mar: 87.05, 
+			Apr: 44.40 
 		}
 	}
 }); 
@@ -16596,11 +16596,11 @@ WeatherOutlook.insert({
 	municipality: "Bais City", 
 	data: {
 		month: {
-			Nov: 184.23, 
-			Dec: 147.54, 
-			Jan: 121.06, 
-			Feb: 70.58, 
-			Mar: 106.96 
+			Dec: 147.74, 
+			Jan: 121.05, 
+			Feb: 70.62, 
+			Mar: 107.73, 
+			Apr: 74.37 
 		}
 	}
 }); 
@@ -16611,11 +16611,11 @@ WeatherOutlook.insert({
 	municipality: "Basay", 
 	data: {
 		month: {
-			Nov: 193.19, 
-			Dec: 146.75, 
-			Jan: 98.26, 
-			Feb: 60.51, 
-			Mar: 78.19 
+			Dec: 146.93, 
+			Jan: 98.17, 
+			Feb: 60.52, 
+			Mar: 78.85, 
+			Apr: 63.35 
 		}
 	}
 }); 
@@ -16626,11 +16626,11 @@ WeatherOutlook.insert({
 	municipality: "Bayawan City", 
 	data: {
 		month: {
-			Nov: 179.25, 
-			Dec: 138.41, 
-			Jan: 107.33, 
-			Feb: 66.41, 
-			Mar: 88.59 
+			Dec: 138.61, 
+			Jan: 107.27, 
+			Feb: 66.43, 
+			Mar: 89.29, 
+			Apr: 68.18 
 		}
 	}
 }); 
@@ -16641,11 +16641,11 @@ WeatherOutlook.insert({
 	municipality: "Bindoy", 
 	data: {
 		month: {
-			Nov: 196.5, 
-			Dec: 152.84, 
-			Jan: 103.63, 
-			Feb: 72.65, 
-			Mar: 104.54 
+			Dec: 153.05, 
+			Jan: 103.67, 
+			Feb: 72.71, 
+			Mar: 105.30, 
+			Apr: 76.83 
 		}
 	}
 }); 
@@ -16656,11 +16656,11 @@ WeatherOutlook.insert({
 	municipality: "Canlaon City", 
 	data: {
 		month: {
-			Nov: 191.62, 
-			Dec: 146.31, 
-			Jan: 103.46, 
-			Feb: 78.43, 
-			Mar: 85.88 
+			Dec: 146.48, 
+			Jan: 103.51, 
+			Feb: 78.51, 
+			Mar: 86.78, 
+			Apr: 80.42 
 		}
 	}
 }); 
@@ -16671,11 +16671,11 @@ WeatherOutlook.insert({
 	municipality: "Dauin", 
 	data: {
 		month: {
-			Nov: 182.11, 
-			Dec: 134.82, 
-			Jan: 98.82, 
-			Feb: 61.98, 
-			Mar: 92.62 
+			Dec: 135.11, 
+			Jan: 98.75, 
+			Feb: 61.97, 
+			Mar: 93.29, 
+			Apr: 51.18 
 		}
 	}
 }); 
@@ -16686,11 +16686,11 @@ WeatherOutlook.insert({
 	municipality: "Dumaguete City", 
 	data: {
 		month: {
-			Nov: 161.98, 
-			Dec: 113.58, 
-			Jan: 81.47, 
+			Dec: 113.83, 
+			Jan: 81.40, 
 			Feb: 57.93, 
-			Mar: 86.82 
+			Mar: 87.60, 
+			Apr: 43.82 
 		}
 	}
 }); 
@@ -16701,11 +16701,11 @@ WeatherOutlook.insert({
 	municipality: "Guihulngan City", 
 	data: {
 		month: {
-			Nov: 196.37, 
-			Dec: 154.63, 
-			Jan: 103.73, 
-			Feb: 71.38, 
-			Mar: 88.55 
+			Dec: 154.81, 
+			Jan: 103.78, 
+			Feb: 71.44, 
+			Mar: 89.40, 
+			Apr: 75.44 
 		}
 	}
 }); 
@@ -16716,11 +16716,11 @@ WeatherOutlook.insert({
 	municipality: "Jimalalud", 
 	data: {
 		month: {
-			Nov: 201.24, 
-			Dec: 156.04, 
-			Jan: 99.73, 
-			Feb: 70.78, 
-			Mar: 98.35 
+			Dec: 156.25, 
+			Jan: 99.79, 
+			Feb: 70.85, 
+			Mar: 99.09, 
+			Apr: 74.31 
 		}
 	}
 }); 
@@ -16731,11 +16731,11 @@ WeatherOutlook.insert({
 	municipality: "La Libertad", 
 	data: {
 		month: {
-			Nov: 198.22, 
-			Dec: 158.22, 
-			Jan: 101.3, 
-			Feb: 70.2, 
-			Mar: 92.83 
+			Dec: 158.44, 
+			Jan: 101.37, 
+			Feb: 70.27, 
+			Mar: 93.61, 
+			Apr: 75.05 
 		}
 	}
 }); 
@@ -16746,11 +16746,11 @@ WeatherOutlook.insert({
 	municipality: "Mabinay", 
 	data: {
 		month: {
-			Nov: 184.46, 
-			Dec: 140.19, 
-			Jan: 104.59, 
-			Feb: 71.33, 
-			Mar: 97.61 
+			Dec: 140.40, 
+			Jan: 104.61, 
+			Feb: 71.40, 
+			Mar: 98.37, 
+			Apr: 78.87 
 		}
 	}
 }); 
@@ -16761,11 +16761,11 @@ WeatherOutlook.insert({
 	municipality: "Manjuyod", 
 	data: {
 		month: {
-			Nov: 197.72, 
-			Dec: 147.04, 
-			Jan: 113.87, 
-			Feb: 71.95, 
-			Mar: 108.97 
+			Dec: 147.29, 
+			Jan: 113.93, 
+			Feb: 72.05, 
+			Mar: 109.80, 
+			Apr: 72.76 
 		}
 	}
 }); 
@@ -16776,11 +16776,11 @@ WeatherOutlook.insert({
 	municipality: "Pamplona", 
 	data: {
 		month: {
-			Nov: 175.9, 
-			Dec: 158.23, 
-			Jan: 148.84, 
-			Feb: 70.1, 
-			Mar: 106.55 
+			Dec: 158.46, 
+			Jan: 148.77, 
+			Feb: 70.09, 
+			Mar: 107.26, 
+			Apr: 76.09 
 		}
 	}
 }); 
@@ -16791,11 +16791,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 177.98, 
-			Dec: 147.85, 
-			Jan: 112.65, 
-			Feb: 67.61, 
-			Mar: 110.57 
+			Dec: 148.08, 
+			Jan: 112.59, 
+			Feb: 67.62, 
+			Mar: 111.36, 
+			Apr: 59.32 
 		}
 	}
 }); 
@@ -16806,11 +16806,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Catalina", 
 	data: {
 		month: {
-			Nov: 182.26, 
-			Dec: 157.21, 
-			Jan: 118.35, 
-			Feb: 65.35, 
-			Mar: 99.3 
+			Dec: 157.51, 
+			Jan: 118.27, 
+			Feb: 65.32, 
+			Mar: 99.90, 
+			Apr: 64.69 
 		}
 	}
 }); 
@@ -16821,11 +16821,11 @@ WeatherOutlook.insert({
 	municipality: "Siaton", 
 	data: {
 		month: {
-			Nov: 189.42, 
-			Dec: 139.95, 
-			Jan: 110.41, 
-			Feb: 63.02, 
-			Mar: 85.77 
+			Dec: 140.33, 
+			Jan: 110.30, 
+			Feb: 62.93, 
+			Mar: 86.20, 
+			Apr: 57.30 
 		}
 	}
 }); 
@@ -16836,11 +16836,11 @@ WeatherOutlook.insert({
 	municipality: "Sibulan", 
 	data: {
 		month: {
-			Nov: 169.38, 
-			Dec: 143.66, 
-			Jan: 111.09, 
-			Feb: 64.9, 
-			Mar: 106.36 
+			Dec: 143.95, 
+			Jan: 111.05, 
+			Feb: 64.91, 
+			Mar: 107.09, 
+			Apr: 60.08 
 		}
 	}
 }); 
@@ -16851,11 +16851,11 @@ WeatherOutlook.insert({
 	municipality: "Tanjay City", 
 	data: {
 		month: {
-			Nov: 177.64, 
-			Dec: 154.65, 
-			Jan: 135.23, 
-			Feb: 69.22, 
-			Mar: 108.67 
+			Dec: 154.86, 
+			Jan: 135.18, 
+			Feb: 69.23, 
+			Mar: 109.42, 
+			Apr: 73.58 
 		}
 	}
 }); 
@@ -16866,11 +16866,11 @@ WeatherOutlook.insert({
 	municipality: "Tayasan", 
 	data: {
 		month: {
-			Nov: 198.31, 
-			Dec: 148.96, 
-			Jan: 99.88, 
-			Feb: 71.01, 
-			Mar: 96.67 
+			Dec: 149.19, 
+			Jan: 99.96, 
+			Feb: 71.09, 
+			Mar: 97.39, 
+			Apr: 73.52 
 		}
 	}
 }); 
@@ -16881,11 +16881,11 @@ WeatherOutlook.insert({
 	municipality: "Valencia", 
 	data: {
 		month: {
-			Nov: 166.88, 
-			Dec: 140.08, 
-			Jan: 99.03, 
-			Feb: 64.8, 
-			Mar: 106.22 
+			Dec: 140.36, 
+			Jan: 98.96, 
+			Feb: 64.79, 
+			Mar: 106.92, 
+			Apr: 55.36 
 		}
 	}
 }); 
@@ -16896,11 +16896,11 @@ WeatherOutlook.insert({
 	municipality: "Vallehermoso", 
 	data: {
 		month: {
-			Nov: 206.32, 
-			Dec: 155.57, 
-			Jan: 112.09, 
-			Feb: 84.14, 
-			Mar: 87.42 
+			Dec: 155.72, 
+			Jan: 112.14, 
+			Feb: 84.21, 
+			Mar: 88.35, 
+			Apr: 67.78 
 		}
 	}
 }); 
@@ -16911,11 +16911,11 @@ WeatherOutlook.insert({
 	municipality: "Zamboanguita", 
 	data: {
 		month: {
-			Nov: 175.85, 
-			Dec: 121.6, 
-			Jan: 99.94, 
-			Feb: 57.52, 
-			Mar: 85.6 
+			Dec: 121.93, 
+			Jan: 99.84, 
+			Feb: 57.48, 
+			Mar: 86.17, 
+			Apr: 50.20 
 		}
 	}
 }); 
@@ -16926,11 +16926,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 193.96, 
-			Dec: 166.72, 
-			Jan: 133.21, 
-			Feb: 125.83, 
-			Mar: 158.2 
+			Dec: 167.18, 
+			Jan: 133.16, 
+			Feb: 125.92, 
+			Mar: 158.79, 
+			Apr: 158.29 
 		}
 	}
 }); 
@@ -16941,11 +16941,11 @@ WeatherOutlook.insert({
 	municipality: "Alamada", 
 	data: {
 		month: {
-			Nov: 257.91, 
-			Dec: 216.17, 
-			Jan: 136.16, 
-			Feb: 149.16, 
-			Mar: 204.6 
+			Dec: 216.58, 
+			Jan: 136.15, 
+			Feb: 149.29, 
+			Mar: 205.33, 
+			Apr: 187.12 
 		}
 	}
 }); 
@@ -16956,11 +16956,11 @@ WeatherOutlook.insert({
 	municipality: "Aleosan", 
 	data: {
 		month: {
-			Nov: 164.72, 
-			Dec: 136.93, 
-			Jan: 116.78, 
-			Feb: 115.2, 
-			Mar: 148.32 
+			Dec: 137.37, 
+			Jan: 116.74, 
+			Feb: 115.31, 
+			Mar: 148.97, 
+			Apr: 153.19 
 		}
 	}
 }); 
@@ -16971,11 +16971,11 @@ WeatherOutlook.insert({
 	municipality: "Antipas", 
 	data: {
 		month: {
-			Nov: 182.28, 
-			Dec: 166.12, 
-			Jan: 149.28, 
-			Feb: 130.17, 
-			Mar: 169.11 
+			Dec: 166.54, 
+			Jan: 149.21, 
+			Feb: 130.26, 
+			Mar: 169.83, 
+			Apr: 168.91 
 		}
 	}
 }); 
@@ -16986,11 +16986,11 @@ WeatherOutlook.insert({
 	municipality: "Arakan", 
 	data: {
 		month: {
-			Nov: 213.75, 
-			Dec: 197.51, 
-			Jan: 169.07, 
-			Feb: 154.54, 
-			Mar: 191.63 
+			Dec: 197.90, 
+			Jan: 169.01, 
+			Feb: 154.67, 
+			Mar: 192.63, 
+			Apr: 185.20 
 		}
 	}
 }); 
@@ -17001,11 +17001,11 @@ WeatherOutlook.insert({
 	municipality: "Banisilan", 
 	data: {
 		month: {
-			Nov: 218.99, 
-			Dec: 192.95, 
-			Jan: 139.4, 
-			Feb: 145.3, 
-			Mar: 195.18 
+			Dec: 193.35, 
+			Jan: 139.38, 
+			Feb: 145.43, 
+			Mar: 196.01, 
+			Apr: 180.79 
 		}
 	}
 }); 
@@ -17016,11 +17016,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 182.09, 
-			Dec: 152.21, 
-			Jan: 132.5, 
-			Feb: 123.95, 
-			Mar: 166.4 
+			Dec: 152.62, 
+			Jan: 132.45, 
+			Feb: 124.06, 
+			Mar: 167.14, 
+			Apr: 162.50 
 		}
 	}
 }); 
@@ -17031,11 +17031,11 @@ WeatherOutlook.insert({
 	municipality: "Kabacan", 
 	data: {
 		month: {
-			Nov: 151.32, 
-			Dec: 132.46, 
-			Jan: 117.91, 
-			Feb: 105.59, 
-			Mar: 135.2 
+			Dec: 132.93, 
+			Jan: 117.83, 
+			Feb: 105.66, 
+			Mar: 135.65, 
+			Apr: 140.61 
 		}
 	}
 }); 
@@ -17046,11 +17046,11 @@ WeatherOutlook.insert({
 	municipality: "Kidapawan City", 
 	data: {
 		month: {
-			Nov: 184.7, 
-			Dec: 174.26, 
-			Jan: 136.62, 
-			Feb: 120.2, 
-			Mar: 133.67 
+			Dec: 174.73, 
+			Jan: 136.50, 
+			Feb: 120.22, 
+			Mar: 133.89, 
+			Apr: 143.34 
 		}
 	}
 }); 
@@ -17061,11 +17061,11 @@ WeatherOutlook.insert({
 	municipality: "Libungan", 
 	data: {
 		month: {
-			Nov: 207.68, 
-			Dec: 162.26, 
-			Jan: 127.01, 
-			Feb: 135.92, 
-			Mar: 170.76 
+			Dec: 162.69, 
+			Jan: 126.99, 
+			Feb: 136.04, 
+			Mar: 171.44, 
+			Apr: 175.51 
 		}
 	}
 }); 
@@ -17076,11 +17076,11 @@ WeatherOutlook.insert({
 	municipality: "Magpet", 
 	data: {
 		month: {
-			Nov: 229.14, 
-			Dec: 202.88, 
-			Jan: 137.63, 
-			Feb: 121.6, 
-			Mar: 153.21 
+			Dec: 203.32, 
+			Jan: 137.55, 
+			Feb: 121.68, 
+			Mar: 153.83, 
+			Apr: 159.85 
 		}
 	}
 }); 
@@ -17091,11 +17091,11 @@ WeatherOutlook.insert({
 	municipality: "Makilala", 
 	data: {
 		month: {
-			Nov: 205.42, 
-			Dec: 176.88, 
-			Jan: 131.78, 
-			Feb: 116.37, 
-			Mar: 131.12 
+			Dec: 177.39, 
+			Jan: 131.70, 
+			Feb: 116.41, 
+			Mar: 131.43, 
+			Apr: 137.10 
 		}
 	}
 }); 
@@ -17106,11 +17106,11 @@ WeatherOutlook.insert({
 	municipality: "Matalam", 
 	data: {
 		month: {
-			Nov: 165.11, 
-			Dec: 145.91, 
-			Jan: 133.5, 
-			Feb: 119.12, 
-			Mar: 150.26 
+			Dec: 146.36, 
+			Jan: 133.40, 
+			Feb: 119.17, 
+			Mar: 150.68, 
+			Apr: 149.41 
 		}
 	}
 }); 
@@ -17121,11 +17121,11 @@ WeatherOutlook.insert({
 	municipality: "Midsayap", 
 	data: {
 		month: {
-			Nov: 190.24, 
-			Dec: 152.15, 
-			Jan: 110.07, 
-			Feb: 116.73, 
-			Mar: 139.94 
+			Dec: 152.59, 
+			Jan: 110.05, 
+			Feb: 116.84, 
+			Mar: 140.53, 
+			Apr: 145.12 
 		}
 	}
 }); 
@@ -17136,11 +17136,11 @@ WeatherOutlook.insert({
 	municipality: "M'Lang", 
 	data: {
 		month: {
-			Nov: 161.84, 
-			Dec: 137.39, 
-			Jan: 124.87, 
-			Feb: 110.93, 
-			Mar: 118.55 
+			Dec: 137.90, 
+			Jan: 124.77, 
+			Feb: 110.96, 
+			Mar: 118.76, 
+			Apr: 130.61 
 		}
 	}
 }); 
@@ -17151,11 +17151,11 @@ WeatherOutlook.insert({
 	municipality: "Pigkawayan", 
 	data: {
 		month: {
-			Nov: 206.28, 
-			Dec: 152.35, 
-			Jan: 119.77, 
-			Feb: 126.29, 
-			Mar: 160.84 
+			Dec: 152.80, 
+			Jan: 119.76, 
+			Feb: 126.40, 
+			Mar: 161.38, 
+			Apr: 168.96 
 		}
 	}
 }); 
@@ -17166,11 +17166,11 @@ WeatherOutlook.insert({
 	municipality: "Pikit", 
 	data: {
 		month: {
-			Nov: 153.76, 
-			Dec: 130.5, 
-			Jan: 107.38, 
-			Feb: 101.77, 
-			Mar: 127.2 
+			Dec: 130.94, 
+			Jan: 107.35, 
+			Feb: 101.87, 
+			Mar: 127.82, 
+			Apr: 138.96 
 		}
 	}
 }); 
@@ -17181,11 +17181,11 @@ WeatherOutlook.insert({
 	municipality: "President Roxas", 
 	data: {
 		month: {
-			Nov: 182.67, 
-			Dec: 168.9, 
-			Jan: 153.45, 
-			Feb: 132.95, 
-			Mar: 167.86 
+			Dec: 169.37, 
+			Jan: 153.40, 
+			Feb: 133.04, 
+			Mar: 168.50, 
+			Apr: 169.72 
 		}
 	}
 }); 
@@ -17196,11 +17196,11 @@ WeatherOutlook.insert({
 	municipality: "Tulunan", 
 	data: {
 		month: {
-			Nov: 161.36, 
-			Dec: 128.59, 
-			Jan: 119.66, 
-			Feb: 102.84, 
-			Mar: 115.63 
+			Dec: 129.07, 
+			Jan: 119.59, 
+			Feb: 102.91, 
+			Mar: 116.13, 
+			Apr: 113.42 
 		}
 	}
 }); 
@@ -17211,11 +17211,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 468.28, 
-			Dec: 558.89, 
-			Jan: 414.15, 
-			Feb: 234.63, 
-			Mar: 278.69 
+			Dec: 559.10, 
+			Jan: 414.41, 
+			Feb: 234.76, 
+			Mar: 280.29, 
+			Apr: 151.88 
 		}
 	}
 }); 
@@ -17226,11 +17226,11 @@ WeatherOutlook.insert({
 	municipality: "Allen", 
 	data: {
 		month: {
-			Nov: 435.55, 
-			Dec: 501.2, 
-			Jan: 344.35, 
-			Feb: 201.76, 
-			Mar: 220.44 
+			Dec: 501.22, 
+			Jan: 344.45, 
+			Feb: 201.77, 
+			Mar: 221.72, 
+			Apr: 153.11 
 		}
 	}
 }); 
@@ -17241,11 +17241,11 @@ WeatherOutlook.insert({
 	municipality: "Biri", 
 	data: {
 		month: {
-			Nov: 290.16, 
-			Dec: 341.09, 
-			Jan: 241.91, 
-			Feb: 142.13, 
-			Mar: 141.22 
+			Dec: 341.07, 
+			Jan: 241.96, 
+			Feb: 142.10, 
+			Mar: 142.47, 
+			Apr: 98.34 
 		}
 	}
 }); 
@@ -17256,11 +17256,11 @@ WeatherOutlook.insert({
 	municipality: "Bobon", 
 	data: {
 		month: {
-			Nov: 460.66, 
-			Dec: 553.06, 
-			Jan: 425.13, 
-			Feb: 229.52, 
-			Mar: 267.43 
+			Dec: 553.19, 
+			Jan: 425.31, 
+			Feb: 229.60, 
+			Mar: 268.89, 
+			Apr: 180.97 
 		}
 	}
 }); 
@@ -17271,11 +17271,11 @@ WeatherOutlook.insert({
 	municipality: "Capul", 
 	data: {
 		month: {
-			Nov: 387.99, 
-			Dec: 452.79, 
-			Jan: 307.19, 
-			Feb: 184.37, 
-			Mar: 188.01 
+			Dec: 452.88, 
+			Jan: 307.34, 
+			Feb: 184.41, 
+			Mar: 189.28, 
+			Apr: 130.21 
 		}
 	}
 }); 
@@ -17286,11 +17286,11 @@ WeatherOutlook.insert({
 	municipality: "Catarman", 
 	data: {
 		month: {
-			Nov: 483.72, 
-			Dec: 568.62, 
-			Jan: 471.1, 
-			Feb: 244.35, 
-			Mar: 280.3 
+			Dec: 568.76, 
+			Jan: 471.29, 
+			Feb: 244.43, 
+			Mar: 281.80, 
+			Apr: 181.69 
 		}
 	}
 }); 
@@ -17301,11 +17301,11 @@ WeatherOutlook.insert({
 	municipality: "Catubig", 
 	data: {
 		month: {
-			Nov: 504.76, 
-			Dec: 598.53, 
-			Jan: 448.85, 
-			Feb: 250.14, 
-			Mar: 326.39 
+			Dec: 598.70, 
+			Jan: 449.06, 
+			Feb: 250.23, 
+			Mar: 328.12, 
+			Apr: 132.72 
 		}
 	}
 }); 
@@ -17316,11 +17316,11 @@ WeatherOutlook.insert({
 	municipality: "Gamay", 
 	data: {
 		month: {
-			Nov: 480.41, 
-			Dec: 546.08, 
-			Jan: 428.68, 
-			Feb: 241.52, 
-			Mar: 265.85 
+			Dec: 546.26, 
+			Jan: 428.91, 
+			Feb: 241.63, 
+			Mar: 267.61, 
+			Apr: 151.51 
 		}
 	}
 }); 
@@ -17331,11 +17331,11 @@ WeatherOutlook.insert({
 	municipality: "Laoang", 
 	data: {
 		month: {
-			Nov: 512.6, 
-			Dec: 606.1, 
-			Jan: 468.3, 
-			Feb: 304.96, 
-			Mar: 328.4 
+			Dec: 606.22, 
+			Jan: 468.49, 
+			Feb: 305.05, 
+			Mar: 330.04, 
+			Apr: 113.66 
 		}
 	}
 }); 
@@ -17346,11 +17346,11 @@ WeatherOutlook.insert({
 	municipality: "Lapinig", 
 	data: {
 		month: {
-			Nov: 497.43, 
-			Dec: 566.8, 
-			Jan: 434.75, 
-			Feb: 253.3, 
-			Mar: 261.25 
+			Dec: 566.99, 
+			Jan: 434.97, 
+			Feb: 253.41, 
+			Mar: 263.06, 
+			Apr: 168.65 
 		}
 	}
 }); 
@@ -17361,11 +17361,11 @@ WeatherOutlook.insert({
 	municipality: "Las Navas", 
 	data: {
 		month: {
-			Nov: 490.23, 
-			Dec: 585.01, 
-			Jan: 427.17, 
-			Feb: 239.21, 
-			Mar: 312.73 
+			Dec: 585.29, 
+			Jan: 427.48, 
+			Feb: 239.36, 
+			Mar: 314.64, 
+			Apr: 156.83 
 		}
 	}
 }); 
@@ -17376,11 +17376,11 @@ WeatherOutlook.insert({
 	municipality: "Lavezares", 
 	data: {
 		month: {
-			Nov: 433.46, 
-			Dec: 505.03, 
-			Jan: 349.47, 
-			Feb: 204.99, 
-			Mar: 220.29 
+			Dec: 505.12, 
+			Jan: 349.63, 
+			Feb: 205.04, 
+			Mar: 221.60, 
+			Apr: 152.35 
 		}
 	}
 }); 
@@ -17391,11 +17391,11 @@ WeatherOutlook.insert({
 	municipality: "Lope de Vega", 
 	data: {
 		month: {
-			Nov: 468.95, 
-			Dec: 569.5, 
-			Jan: 426.94, 
-			Feb: 238.16, 
-			Mar: 292.12 
+			Dec: 569.66, 
+			Jan: 427.14, 
+			Feb: 238.25, 
+			Mar: 293.70, 
+			Apr: 173.52 
 		}
 	}
 }); 
@@ -17406,11 +17406,11 @@ WeatherOutlook.insert({
 	municipality: "Mapanas", 
 	data: {
 		month: {
-			Nov: 498.36, 
-			Dec: 564.31, 
-			Jan: 445.7, 
-			Feb: 252.05, 
-			Mar: 288.77 
+			Dec: 564.47, 
+			Jan: 445.90, 
+			Feb: 252.14, 
+			Mar: 290.48, 
+			Apr: 135.90 
 		}
 	}
 }); 
@@ -17421,11 +17421,11 @@ WeatherOutlook.insert({
 	municipality: "Mondragon", 
 	data: {
 		month: {
-			Nov: 488.74, 
-			Dec: 598.93, 
-			Jan: 449.86, 
-			Feb: 243.92, 
-			Mar: 299.3 
+			Dec: 599.07, 
+			Jan: 450.05, 
+			Feb: 243.99, 
+			Mar: 300.89, 
+			Apr: 160.12 
 		}
 	}
 }); 
@@ -17436,11 +17436,11 @@ WeatherOutlook.insert({
 	municipality: "Palapag", 
 	data: {
 		month: {
-			Nov: 508.89, 
-			Dec: 587.13, 
-			Jan: 455.53, 
-			Feb: 281.35, 
-			Mar: 309.58 
+			Dec: 587.25, 
+			Jan: 455.70, 
+			Feb: 281.41, 
+			Mar: 311.23, 
+			Apr: 124.80 
 		}
 	}
 }); 
@@ -17451,11 +17451,11 @@ WeatherOutlook.insert({
 	municipality: "Pambujan", 
 	data: {
 		month: {
-			Nov: 496.05, 
-			Dec: 623.7, 
-			Jan: 451.87, 
-			Feb: 255.15, 
-			Mar: 339.81 
+			Dec: 623.87, 
+			Jan: 452.09, 
+			Feb: 255.26, 
+			Mar: 341.49, 
+			Apr: 116.71 
 		}
 	}
 }); 
@@ -17466,11 +17466,11 @@ WeatherOutlook.insert({
 	municipality: "Rosario", 
 	data: {
 		month: {
-			Nov: 443.07, 
-			Dec: 521.58, 
-			Jan: 381.11, 
-			Feb: 215.83, 
-			Mar: 242.7 
+			Dec: 521.65, 
+			Jan: 381.25, 
+			Feb: 215.87, 
+			Mar: 244.05, 
+			Apr: 167.76 
 		}
 	}
 }); 
@@ -17481,11 +17481,11 @@ WeatherOutlook.insert({
 	municipality: "San Antonio", 
 	data: {
 		month: {
-			Nov: 424.27, 
-			Dec: 504.84, 
-			Jan: 328.76, 
-			Feb: 194.33, 
-			Mar: 203.56 
+			Dec: 504.92, 
+			Jan: 328.89, 
+			Feb: 194.36, 
+			Mar: 204.84, 
+			Apr: 144.48 
 		}
 	}
 }); 
@@ -17496,11 +17496,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 434.16, 
-			Dec: 530.74, 
-			Jan: 349.75, 
-			Feb: 200, 
-			Mar: 239.29 
+			Dec: 530.88, 
+			Jan: 349.94, 
+			Feb: 200.07, 
+			Mar: 240.67, 
+			Apr: 182.11 
 		}
 	}
 }); 
@@ -17511,11 +17511,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 450.24, 
-			Dec: 532.31, 
-			Jan: 400.43, 
-			Feb: 222.31, 
-			Mar: 247.86 
+			Dec: 532.42, 
+			Jan: 400.61, 
+			Feb: 222.38, 
+			Mar: 249.25, 
+			Apr: 171.95 
 		}
 	}
 }); 
@@ -17526,11 +17526,11 @@ WeatherOutlook.insert({
 	municipality: "San Roque", 
 	data: {
 		month: {
-			Nov: 502.81, 
-			Dec: 625.48, 
-			Jan: 455.83, 
-			Feb: 251.79, 
-			Mar: 338.71 
+			Dec: 625.64, 
+			Jan: 456.04, 
+			Feb: 251.88, 
+			Mar: 340.34, 
+			Apr: 128.94 
 		}
 	}
 }); 
@@ -17541,11 +17541,11 @@ WeatherOutlook.insert({
 	municipality: "San Vicente", 
 	data: {
 		month: {
-			Nov: 344.62, 
-			Dec: 401.09, 
-			Jan: 270.55, 
-			Feb: 154.82, 
-			Mar: 157.55 
+			Dec: 401.22, 
+			Jan: 270.74, 
+			Feb: 154.88, 
+			Mar: 158.82, 
+			Apr: 112.57 
 		}
 	}
 }); 
@@ -17556,11 +17556,11 @@ WeatherOutlook.insert({
 	municipality: "Silvino Lobos", 
 	data: {
 		month: {
-			Nov: 471.31, 
-			Dec: 578.91, 
-			Jan: 417.5, 
-			Feb: 233.22, 
-			Mar: 302.05 
+			Dec: 579.18, 
+			Jan: 417.80, 
+			Feb: 233.37, 
+			Mar: 303.92, 
+			Apr: 169.61 
 		}
 	}
 }); 
@@ -17571,11 +17571,11 @@ WeatherOutlook.insert({
 	municipality: "Victoria", 
 	data: {
 		month: {
-			Nov: 442.67, 
-			Dec: 532, 
-			Jan: 369.38, 
-			Feb: 208.56, 
-			Mar: 244.3 
+			Dec: 532.11, 
+			Jan: 369.55, 
+			Feb: 208.63, 
+			Mar: 245.66, 
+			Apr: 176.02 
 		}
 	}
 }); 
@@ -17586,11 +17586,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 150.75, 
-			Dec: 79.31, 
-			Jan: 27.74, 
-			Feb: 23.24, 
-			Mar: 41.89 
+			Dec: 79.12, 
+			Jan: 27.67, 
+			Feb: 23.27, 
+			Mar: 40.95, 
+			Apr: 60.48 
 		}
 	}
 }); 
@@ -17601,11 +17601,11 @@ WeatherOutlook.insert({
 	municipality: "Aliaga", 
 	data: {
 		month: {
-			Nov: 84.04, 
-			Dec: 22.72, 
-			Jan: 7.45, 
-			Feb: 7.25, 
-			Mar: 19.1 
+			Dec: 22.54, 
+			Jan: 7.39, 
+			Feb: 7.28, 
+			Mar: 18.23, 
+			Apr: 42.72 
 		}
 	}
 }); 
@@ -17616,11 +17616,11 @@ WeatherOutlook.insert({
 	municipality: "Bongabon", 
 	data: {
 		month: {
-			Nov: 274.71, 
-			Dec: 155.02, 
-			Jan: 60.96, 
-			Feb: 48.59, 
-			Mar: 70.37 
+			Dec: 154.85, 
+			Jan: 60.91, 
+			Feb: 48.63, 
+			Mar: 69.58, 
+			Apr: 83.49 
 		}
 	}
 }); 
@@ -17631,11 +17631,11 @@ WeatherOutlook.insert({
 	municipality: "Cabanatuan City", 
 	data: {
 		month: {
-			Nov: 116.15, 
-			Dec: 57.83, 
-			Jan: 17.71, 
-			Feb: 14.31, 
-			Mar: 27.91 
+			Dec: 57.67, 
+			Jan: 17.66, 
+			Feb: 14.35, 
+			Mar: 27.09, 
+			Apr: 41.09 
 		}
 	}
 }); 
@@ -17646,11 +17646,11 @@ WeatherOutlook.insert({
 	municipality: "Cabiao", 
 	data: {
 		month: {
-			Nov: 105.87, 
-			Dec: 40.4, 
-			Jan: 11.24, 
-			Feb: 10.2, 
-			Mar: 22.53 
+			Dec: 40.19, 
+			Jan: 11.16, 
+			Feb: 10.22, 
+			Mar: 21.64, 
+			Apr: 45.73 
 		}
 	}
 }); 
@@ -17661,11 +17661,11 @@ WeatherOutlook.insert({
 	municipality: "Carranglan", 
 	data: {
 		month: {
-			Nov: 179.05, 
-			Dec: 115.87, 
-			Jan: 32.97, 
-			Feb: 30.06, 
-			Mar: 60.91 
+			Dec: 115.77, 
+			Jan: 32.95, 
+			Feb: 30.15, 
+			Mar: 59.42, 
+			Apr: 90.71 
 		}
 	}
 }); 
@@ -17676,11 +17676,11 @@ WeatherOutlook.insert({
 	municipality: "Cuyapo", 
 	data: {
 		month: {
-			Nov: 49.38, 
-			Dec: 17.07, 
-			Jan: 5.89, 
-			Feb: 4.73, 
-			Mar: 21.55 
+			Dec: 16.90, 
+			Jan: 5.83, 
+			Feb: 4.77, 
+			Mar: 20.48, 
+			Apr: 56.08 
 		}
 	}
 }); 
@@ -17691,11 +17691,11 @@ WeatherOutlook.insert({
 	municipality: "Gabaldon", 
 	data: {
 		month: {
-			Nov: 327.45, 
-			Dec: 172.12, 
-			Jan: 68.94, 
-			Feb: 52.79, 
-			Mar: 79.61 
+			Dec: 171.94, 
+			Jan: 68.89, 
+			Feb: 52.82, 
+			Mar: 78.97, 
+			Apr: 89.58 
 		}
 	}
 }); 
@@ -17706,11 +17706,11 @@ WeatherOutlook.insert({
 	municipality: "Gapan City", 
 	data: {
 		month: {
-			Nov: 132.53, 
-			Dec: 72.85, 
-			Jan: 23.97, 
-			Feb: 19.43, 
-			Mar: 32.28 
+			Dec: 72.63, 
+			Jan: 23.89, 
+			Feb: 19.45, 
+			Mar: 31.43, 
+			Apr: 49.27 
 		}
 	}
 }); 
@@ -17721,11 +17721,11 @@ WeatherOutlook.insert({
 	municipality: "General Mamerto Natividad", 
 	data: {
 		month: {
-			Nov: 132.81, 
-			Dec: 68.92, 
-			Jan: 27.49, 
-			Feb: 23.98, 
-			Mar: 39.98 
+			Dec: 68.78, 
+			Jan: 27.45, 
+			Feb: 24.03, 
+			Mar: 39.12, 
+			Apr: 59.79 
 		}
 	}
 }); 
@@ -17736,11 +17736,11 @@ WeatherOutlook.insert({
 	municipality: "General Tinio", 
 	data: {
 		month: {
-			Nov: 298.61, 
-			Dec: 165.03, 
-			Jan: 59.46, 
-			Feb: 44.07, 
-			Mar: 72.22 
+			Dec: 164.85, 
+			Jan: 59.40, 
+			Feb: 44.10, 
+			Mar: 71.55, 
+			Apr: 80.91 
 		}
 	}
 }); 
@@ -17751,11 +17751,11 @@ WeatherOutlook.insert({
 	municipality: "Guimba", 
 	data: {
 		month: {
-			Nov: 40.95, 
-			Dec: 7.93, 
-			Jan: 5.34, 
-			Feb: 6.06, 
-			Mar: 18.43 
+			Dec: 7.77, 
+			Jan: 5.28, 
+			Feb: 6.09, 
+			Mar: 17.45, 
+			Apr: 45.98 
 		}
 	}
 }); 
@@ -17766,11 +17766,11 @@ WeatherOutlook.insert({
 	municipality: "Jaen", 
 	data: {
 		month: {
-			Nov: 97.8, 
-			Dec: 29.46, 
-			Jan: 9.38, 
-			Feb: 8.69, 
-			Mar: 21.95 
+			Dec: 29.26, 
+			Jan: 9.29, 
+			Feb: 8.70, 
+			Mar: 21.10, 
+			Apr: 39.16 
 		}
 	}
 }); 
@@ -17781,11 +17781,11 @@ WeatherOutlook.insert({
 	municipality: "Laur", 
 	data: {
 		month: {
-			Nov: 246.44, 
-			Dec: 136.27, 
-			Jan: 46.22, 
-			Feb: 38.06, 
-			Mar: 56.08 
+			Dec: 136.10, 
+			Jan: 46.17, 
+			Feb: 38.10, 
+			Mar: 55.34, 
+			Apr: 69.03 
 		}
 	}
 }); 
@@ -17796,11 +17796,11 @@ WeatherOutlook.insert({
 	municipality: "Licab", 
 	data: {
 		month: {
-			Nov: 65.31, 
-			Dec: 11.58, 
-			Jan: 6.28, 
-			Feb: 7.54, 
-			Mar: 17.92 
+			Dec: 11.39, 
+			Jan: 6.21, 
+			Feb: 7.56, 
+			Mar: 17.02, 
+			Apr: 50.87 
 		}
 	}
 }); 
@@ -17811,11 +17811,11 @@ WeatherOutlook.insert({
 	municipality: "Llanera", 
 	data: {
 		month: {
-			Nov: 101.15, 
-			Dec: 50.74, 
-			Jan: 21.36, 
-			Feb: 20.47, 
-			Mar: 37.52 
+			Dec: 50.58, 
+			Jan: 21.31, 
+			Feb: 20.52, 
+			Mar: 36.54, 
+			Apr: 53.47 
 		}
 	}
 }); 
@@ -17826,11 +17826,11 @@ WeatherOutlook.insert({
 	municipality: "Lupao", 
 	data: {
 		month: {
-			Nov: 97.09, 
-			Dec: 62.94, 
-			Jan: 17.61, 
-			Feb: 15.42, 
-			Mar: 35.35 
+			Dec: 62.75, 
+			Jan: 17.53, 
+			Feb: 15.47, 
+			Mar: 34.00, 
+			Apr: 60.19 
 		}
 	}
 }); 
@@ -17841,11 +17841,11 @@ WeatherOutlook.insert({
 	municipality: "Muñoz City", 
 	data: {
 		month: {
-			Nov: 69.38, 
-			Dec: 32.56, 
-			Jan: 9.66, 
-			Feb: 11.24, 
-			Mar: 27.39 
+			Dec: 32.42, 
+			Jan: 9.61, 
+			Feb: 11.30, 
+			Mar: 26.31, 
+			Apr: 40.81 
 		}
 	}
 }); 
@@ -17856,11 +17856,11 @@ WeatherOutlook.insert({
 	municipality: "Nampicuan", 
 	data: {
 		month: {
-			Nov: 39.3, 
-			Dec: 6.27, 
-			Jan: 4.41, 
-			Feb: 4.91, 
-			Mar: 17.71 
+			Dec: 6.11, 
+			Jan: 4.35, 
+			Feb: 4.95, 
+			Mar: 16.71, 
+			Apr: 53.14 
 		}
 	}
 }); 
@@ -17871,11 +17871,11 @@ WeatherOutlook.insert({
 	municipality: "Palayan City", 
 	data: {
 		month: {
-			Nov: 169.96, 
-			Dec: 92.3, 
-			Jan: 34.16, 
-			Feb: 27.57, 
-			Mar: 43.84 
+			Dec: 92.15, 
+			Jan: 34.11, 
+			Feb: 27.60, 
+			Mar: 43.04, 
+			Apr: 60.05 
 		}
 	}
 }); 
@@ -17886,11 +17886,11 @@ WeatherOutlook.insert({
 	municipality: "Pantabangan", 
 	data: {
 		month: {
-			Nov: 216.79, 
-			Dec: 137.74, 
-			Jan: 48.39, 
-			Feb: 39.33, 
-			Mar: 63.89 
+			Dec: 137.59, 
+			Jan: 48.34, 
+			Feb: 39.39, 
+			Mar: 62.78, 
+			Apr: 73.93 
 		}
 	}
 }); 
@@ -17901,11 +17901,11 @@ WeatherOutlook.insert({
 	municipality: "Peñaranda", 
 	data: {
 		month: {
-			Nov: 132.5, 
-			Dec: 77.4, 
-			Jan: 25.5, 
-			Feb: 20.61, 
-			Mar: 34.42 
+			Dec: 77.18, 
+			Jan: 25.40, 
+			Feb: 20.62, 
+			Mar: 33.61, 
+			Apr: 45.91 
 		}
 	}
 }); 
@@ -17916,11 +17916,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 66.32, 
-			Dec: 13.87, 
-			Jan: 6.67, 
-			Feb: 7.72, 
-			Mar: 19.73 
+			Dec: 13.65, 
+			Jan: 6.58, 
+			Feb: 7.74, 
+			Mar: 18.79, 
+			Apr: 45.95 
 		}
 	}
 }); 
@@ -17931,11 +17931,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 180.23, 
-			Dec: 103, 
-			Jan: 39.62, 
-			Feb: 33.82, 
-			Mar: 52.73 
+			Dec: 102.80, 
+			Jan: 39.54, 
+			Feb: 33.86, 
+			Mar: 51.78, 
+			Apr: 65.06 
 		}
 	}
 }); 
@@ -17946,11 +17946,11 @@ WeatherOutlook.insert({
 	municipality: "San Antonio", 
 	data: {
 		month: {
-			Nov: 84.84, 
-			Dec: 27.19, 
-			Jan: 7.93, 
-			Feb: 9.44, 
-			Mar: 21.32 
+			Dec: 26.98, 
+			Jan: 7.85, 
+			Feb: 9.46, 
+			Mar: 20.47, 
+			Apr: 45.92 
 		}
 	}
 }); 
@@ -17961,11 +17961,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 90.19, 
-			Dec: 27.2, 
-			Jan: 11.7, 
-			Feb: 9.7, 
-			Mar: 22.41 
+			Dec: 26.99, 
+			Jan: 11.62, 
+			Feb: 9.73, 
+			Mar: 21.53, 
+			Apr: 44.45 
 		}
 	}
 }); 
@@ -17976,11 +17976,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose City", 
 	data: {
 		month: {
-			Nov: 121.28, 
-			Dec: 83.6, 
-			Jan: 24.93, 
-			Feb: 22.37, 
-			Mar: 42.23 
+			Dec: 83.42, 
+			Jan: 24.87, 
+			Feb: 22.42, 
+			Mar: 40.99, 
+			Apr: 56.50 
 		}
 	}
 }); 
@@ -17991,11 +17991,11 @@ WeatherOutlook.insert({
 	municipality: "San Leonardo", 
 	data: {
 		month: {
-			Nov: 102.14, 
-			Dec: 42.52, 
-			Jan: 13.15, 
-			Feb: 11.04, 
-			Mar: 24.51 
+			Dec: 42.28, 
+			Jan: 13.05, 
+			Feb: 11.05, 
+			Mar: 23.68, 
+			Apr: 39.87 
 		}
 	}
 }); 
@@ -18006,11 +18006,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Rosa", 
 	data: {
 		month: {
-			Nov: 116.74, 
-			Dec: 52.58, 
-			Jan: 17.38, 
-			Feb: 14.26, 
-			Mar: 28.54 
+			Dec: 52.39, 
+			Jan: 17.31, 
+			Feb: 14.28, 
+			Mar: 27.73, 
+			Apr: 39.58 
 		}
 	}
 }); 
@@ -18021,11 +18021,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Domingo", 
 	data: {
 		month: {
-			Nov: 73.44, 
-			Dec: 20.38, 
-			Jan: 7.13, 
-			Feb: 9.42, 
-			Mar: 23.57 
+			Dec: 20.17, 
+			Jan: 7.05, 
+			Feb: 9.44, 
+			Mar: 22.62, 
+			Apr: 41.19 
 		}
 	}
 }); 
@@ -18036,11 +18036,11 @@ WeatherOutlook.insert({
 	municipality: "Talavera", 
 	data: {
 		month: {
-			Nov: 86.25, 
-			Dec: 34.39, 
-			Jan: 12.48, 
-			Feb: 12.86, 
-			Mar: 27.01 
+			Dec: 34.23, 
+			Jan: 12.43, 
+			Feb: 12.91, 
+			Mar: 26.07, 
+			Apr: 44.56 
 		}
 	}
 }); 
@@ -18051,11 +18051,11 @@ WeatherOutlook.insert({
 	municipality: "Talugtug", 
 	data: {
 		month: {
-			Nov: 55.68, 
-			Dec: 23.89, 
-			Jan: 7.07, 
-			Feb: 6.52, 
-			Mar: 22.64 
+			Dec: 23.72, 
+			Jan: 7.02, 
+			Feb: 6.56, 
+			Mar: 21.50, 
+			Apr: 49.44 
 		}
 	}
 }); 
@@ -18066,11 +18066,11 @@ WeatherOutlook.insert({
 	municipality: "Zaragoza", 
 	data: {
 		month: {
-			Nov: 81.46, 
-			Dec: 12.6, 
-			Jan: 6.79, 
-			Feb: 8.09, 
-			Mar: 19.89 
+			Dec: 12.42, 
+			Jan: 6.72, 
+			Feb: 8.11, 
+			Mar: 19.02, 
+			Apr: 45.80 
 		}
 	}
 }); 
@@ -18081,11 +18081,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 197.4, 
-			Dec: 130.09, 
-			Jan: 42.88, 
-			Feb: 44.18, 
-			Mar: 80.28 
+			Dec: 129.95, 
+			Jan: 42.85, 
+			Feb: 44.25, 
+			Mar: 79.28, 
+			Apr: 116.36 
 		}
 	}
 }); 
@@ -18096,11 +18096,11 @@ WeatherOutlook.insert({
 	municipality: "Alfonso Castaneda", 
 	data: {
 		month: {
-			Nov: 292.84, 
-			Dec: 165.33, 
+			Dec: 165.22, 
 			Jan: 74.93, 
-			Feb: 64.64, 
-			Mar: 102.71 
+			Feb: 64.71, 
+			Mar: 101.85, 
+			Apr: 107.62 
 		}
 	}
 }); 
@@ -18111,11 +18111,11 @@ WeatherOutlook.insert({
 	municipality: "Ambaguio", 
 	data: {
 		month: {
-			Nov: 176.13, 
-			Dec: 110.18, 
-			Jan: 32.13, 
-			Feb: 37.69, 
-			Mar: 73.08 
+			Dec: 110.08, 
+			Jan: 32.14, 
+			Feb: 37.77, 
+			Mar: 72.05, 
+			Apr: 130.33 
 		}
 	}
 }); 
@@ -18126,11 +18126,11 @@ WeatherOutlook.insert({
 	municipality: "Aritao", 
 	data: {
 		month: {
-			Nov: 157.78, 
-			Dec: 102.85, 
-			Jan: 32.49, 
-			Feb: 36.8, 
-			Mar: 71.06 
+			Dec: 102.70, 
+			Jan: 32.45, 
+			Feb: 36.87, 
+			Mar: 69.86, 
+			Apr: 113.90 
 		}
 	}
 }); 
@@ -18141,11 +18141,11 @@ WeatherOutlook.insert({
 	municipality: "Bagabag", 
 	data: {
 		month: {
-			Nov: 183.93, 
-			Dec: 163.19, 
-			Jan: 37.07, 
-			Feb: 50.68, 
-			Mar: 83.5 
+			Dec: 163.08, 
+			Jan: 37.09, 
+			Feb: 50.76, 
+			Mar: 82.63, 
+			Apr: 108.16 
 		}
 	}
 }); 
@@ -18156,11 +18156,11 @@ WeatherOutlook.insert({
 	municipality: "Bambang", 
 	data: {
 		month: {
-			Nov: 161.42, 
-			Dec: 111.62, 
+			Dec: 111.52, 
 			Jan: 39.47, 
-			Feb: 38.16, 
-			Mar: 73.77 
+			Feb: 38.24, 
+			Mar: 72.81, 
+			Apr: 119.17 
 		}
 	}
 }); 
@@ -18171,11 +18171,11 @@ WeatherOutlook.insert({
 	municipality: "Bayombong", 
 	data: {
 		month: {
-			Nov: 164.24, 
-			Dec: 117.07, 
+			Dec: 116.96, 
 			Jan: 37.35, 
-			Feb: 33.2, 
-			Mar: 69.09 
+			Feb: 33.28, 
+			Mar: 68.15, 
+			Apr: 116.08 
 		}
 	}
 }); 
@@ -18186,11 +18186,11 @@ WeatherOutlook.insert({
 	municipality: "Diadi", 
 	data: {
 		month: {
-			Nov: 207.67, 
-			Dec: 161.68, 
-			Jan: 44.98, 
-			Feb: 49.76, 
-			Mar: 84.7 
+			Dec: 161.60, 
+			Jan: 45.02, 
+			Feb: 49.86, 
+			Mar: 83.89, 
+			Apr: 102.79 
 		}
 	}
 }); 
@@ -18201,11 +18201,11 @@ WeatherOutlook.insert({
 	municipality: "Dupax Del Norte", 
 	data: {
 		month: {
-			Nov: 226.97, 
-			Dec: 133.82, 
-			Jan: 56.66, 
-			Feb: 53.92, 
-			Mar: 95.37 
+			Dec: 133.70, 
+			Jan: 56.65, 
+			Feb: 53.99, 
+			Mar: 94.40, 
+			Apr: 119.78 
 		}
 	}
 }); 
@@ -18216,11 +18216,11 @@ WeatherOutlook.insert({
 	municipality: "Dupax Del Sur", 
 	data: {
 		month: {
-			Nov: 217.4, 
-			Dec: 130.51, 
-			Jan: 50.98, 
-			Feb: 47.52, 
-			Mar: 84.64 
+			Dec: 130.40, 
+			Jan: 50.97, 
+			Feb: 47.60, 
+			Mar: 83.51, 
+			Apr: 110.96 
 		}
 	}
 }); 
@@ -18231,11 +18231,11 @@ WeatherOutlook.insert({
 	municipality: "Kasibu", 
 	data: {
 		month: {
-			Nov: 252.04, 
-			Dec: 163.46, 
-			Jan: 58.11, 
-			Feb: 55.46, 
-			Mar: 99.07 
+			Dec: 163.36, 
+			Jan: 58.12, 
+			Feb: 55.54, 
+			Mar: 98.28, 
+			Apr: 124.90 
 		}
 	}
 }); 
@@ -18246,11 +18246,11 @@ WeatherOutlook.insert({
 	municipality: "Kayapa", 
 	data: {
 		month: {
-			Nov: 152.58, 
-			Dec: 96.49, 
-			Jan: 22.98, 
-			Feb: 31.9, 
-			Mar: 63.91 
+			Dec: 96.36, 
+			Jan: 22.97, 
+			Feb: 31.97, 
+			Mar: 62.83, 
+			Apr: 127.72 
 		}
 	}
 }); 
@@ -18261,11 +18261,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 224.68, 
-			Dec: 162.48, 
-			Jan: 48.53, 
-			Feb: 48.88, 
-			Mar: 86.37 
+			Dec: 162.38, 
+			Jan: 48.54, 
+			Feb: 48.96, 
+			Mar: 85.56, 
+			Apr: 117.35 
 		}
 	}
 }); 
@@ -18276,11 +18276,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Fe", 
 	data: {
 		month: {
-			Nov: 153.89, 
-			Dec: 100.88, 
-			Jan: 23.69, 
-			Feb: 27.02, 
-			Mar: 58.28 
+			Dec: 100.76, 
+			Jan: 23.67, 
+			Feb: 27.10, 
+			Mar: 56.98, 
+			Apr: 108.17 
 		}
 	}
 }); 
@@ -18291,11 +18291,11 @@ WeatherOutlook.insert({
 	municipality: "Solano", 
 	data: {
 		month: {
-			Nov: 170.32, 
-			Dec: 135.69, 
-			Jan: 36.75, 
-			Feb: 42.08, 
-			Mar: 78.19 
+			Dec: 135.60, 
+			Jan: 36.77, 
+			Feb: 42.17, 
+			Mar: 77.27, 
+			Apr: 112.60 
 		}
 	}
 }); 
@@ -18306,11 +18306,11 @@ WeatherOutlook.insert({
 	municipality: "Villaverde", 
 	data: {
 		month: {
-			Nov: 169.58, 
-			Dec: 147.32, 
-			Jan: 34.2, 
-			Feb: 45.71, 
-			Mar: 79.88 
+			Dec: 147.22, 
+			Jan: 34.23, 
+			Feb: 45.80, 
+			Mar: 78.90, 
+			Apr: 115.90 
 		}
 	}
 }); 
@@ -18321,11 +18321,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 172.11, 
-			Dec: 102.46, 
-			Jan: 35.84, 
-			Feb: 21.26, 
-			Mar: 26.35 
+			Dec: 102.10, 
+			Jan: 35.62, 
+			Feb: 21.11, 
+			Mar: 25.83, 
+			Apr: 56.87 
 		}
 	}
 }); 
@@ -18336,11 +18336,11 @@ WeatherOutlook.insert({
 	municipality: "Abra de Ilog", 
 	data: {
 		month: {
-			Nov: 175.29, 
-			Dec: 125.24, 
-			Jan: 36.68, 
-			Feb: 12.17, 
-			Mar: 29.39 
+			Dec: 124.86, 
+			Jan: 36.48, 
+			Feb: 12.04, 
+			Mar: 28.90, 
+			Apr: 60.58 
 		}
 	}
 }); 
@@ -18351,11 +18351,11 @@ WeatherOutlook.insert({
 	municipality: "Calintaan", 
 	data: {
 		month: {
-			Nov: 165.93, 
-			Dec: 102.33, 
-			Jan: 37.56, 
-			Feb: 28.14, 
-			Mar: 22.71 
+			Dec: 101.95, 
+			Jan: 37.34, 
+			Feb: 28.02, 
+			Mar: 22.44, 
+			Apr: 54.90 
 		}
 	}
 }); 
@@ -18366,11 +18366,11 @@ WeatherOutlook.insert({
 	municipality: "Looc", 
 	data: {
 		month: {
-			Nov: 118.09, 
-			Dec: 71.86, 
-			Jan: 12.68, 
-			Feb: 7.9, 
-			Mar: 5.14 
+			Dec: 71.70, 
+			Jan: 12.63, 
+			Feb: 7.89, 
+			Mar: 4.37, 
+			Apr: 23.14 
 		}
 	}
 }); 
@@ -18381,11 +18381,11 @@ WeatherOutlook.insert({
 	municipality: "Lubang", 
 	data: {
 		month: {
-			Nov: 99.3, 
-			Dec: 60.8, 
-			Jan: 9.36, 
-			Feb: 8.06, 
-			Mar: 5.49 
+			Dec: 60.42, 
+			Jan: 9.14, 
+			Feb: 7.92, 
+			Mar: 4.35, 
+			Apr: 22.35 
 		}
 	}
 }); 
@@ -18396,11 +18396,11 @@ WeatherOutlook.insert({
 	municipality: "Magsaysay", 
 	data: {
 		month: {
-			Nov: 202.13, 
-			Dec: 105.16, 
-			Jan: 32.29, 
-			Feb: 25.47, 
-			Mar: 11.13 
+			Dec: 104.75, 
+			Jan: 32.05, 
+			Feb: 25.33, 
+			Mar: 10.91, 
+			Apr: 39.00 
 		}
 	}
 }); 
@@ -18411,11 +18411,11 @@ WeatherOutlook.insert({
 	municipality: "Mamburao", 
 	data: {
 		month: {
-			Nov: 166.82, 
-			Dec: 127.91, 
-			Jan: 23.09, 
-			Feb: 14.94, 
-			Mar: 17.35 
+			Dec: 127.52, 
+			Jan: 22.87, 
+			Feb: 14.80, 
+			Mar: 16.84, 
+			Apr: 49.96 
 		}
 	}
 }); 
@@ -18426,11 +18426,11 @@ WeatherOutlook.insert({
 	municipality: "Paluan", 
 	data: {
 		month: {
-			Nov: 147.63, 
-			Dec: 116.67, 
-			Jan: 17.87, 
-			Feb: 6.22, 
-			Mar: 9.52 
+			Dec: 116.31, 
+			Jan: 17.66, 
+			Feb: 6.09, 
+			Mar: 8.93, 
+			Apr: 37.36 
 		}
 	}
 }); 
@@ -18441,11 +18441,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 163.59, 
-			Dec: 80.13, 
-			Jan: 25.88, 
-			Feb: 28.64, 
-			Mar: 11.25 
+			Dec: 79.71, 
+			Jan: 25.62, 
+			Feb: 28.49, 
+			Mar: 10.95, 
+			Apr: 41.95 
 		}
 	}
 }); 
@@ -18456,11 +18456,11 @@ WeatherOutlook.insert({
 	municipality: "Sablayan", 
 	data: {
 		month: {
-			Nov: 186.8, 
-			Dec: 97.51, 
-			Jan: 55.04, 
-			Feb: 30.12, 
-			Mar: 46.52 
+			Dec: 97.06, 
+			Jan: 54.83, 
+			Feb: 29.98, 
+			Mar: 46.03, 
+			Apr: 79.55 
 		}
 	}
 }); 
@@ -18471,11 +18471,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 195.32, 
-			Dec: 95.69, 
-			Jan: 28.24, 
-			Feb: 26.58, 
-			Mar: 12.21 
+			Dec: 95.24, 
+			Jan: 27.95, 
+			Feb: 26.41, 
+			Mar: 11.92, 
+			Apr: 41.13 
 		}
 	}
 }); 
@@ -18486,11 +18486,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 178.89, 
-			Dec: 112.29, 
-			Jan: 39.75, 
-			Feb: 20.58, 
-			Mar: 35.12 
+			Dec: 111.79, 
+			Jan: 39.49, 
+			Feb: 20.40, 
+			Mar: 34.54, 
+			Apr: 72.03 
 		}
 	}
 }); 
@@ -18501,11 +18501,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 216.77, 
-			Dec: 131.81, 
-			Jan: 67.76, 
-			Feb: 41.48, 
-			Mar: 54.76 
+			Dec: 131.42, 
+			Jan: 67.56, 
+			Feb: 41.36, 
+			Mar: 54.51, 
+			Apr: 72.50 
 		}
 	}
 }); 
@@ -18516,11 +18516,11 @@ WeatherOutlook.insert({
 	municipality: "Baco", 
 	data: {
 		month: {
-			Nov: 212.58, 
-			Dec: 144.28, 
-			Jan: 81.04, 
-			Feb: 42.11, 
-			Mar: 81.72 
+			Dec: 143.84, 
+			Jan: 80.80, 
+			Feb: 41.95, 
+			Mar: 81.25, 
+			Apr: 95.15 
 		}
 	}
 }); 
@@ -18531,11 +18531,11 @@ WeatherOutlook.insert({
 	municipality: "Bansud", 
 	data: {
 		month: {
-			Nov: 214.53, 
-			Dec: 105.02, 
-			Jan: 72.1, 
-			Feb: 41.7, 
-			Mar: 55.72 
+			Dec: 104.64, 
+			Jan: 71.90, 
+			Feb: 41.58, 
+			Mar: 55.53, 
+			Apr: 77.66 
 		}
 	}
 }); 
@@ -18546,11 +18546,11 @@ WeatherOutlook.insert({
 	municipality: "Bongabong", 
 	data: {
 		month: {
-			Nov: 202.55, 
-			Dec: 101.33, 
-			Jan: 65.14, 
-			Feb: 40.88, 
-			Mar: 42.67 
+			Dec: 100.96, 
+			Jan: 64.94, 
+			Feb: 40.75, 
+			Mar: 42.54, 
+			Apr: 66.48 
 		}
 	}
 }); 
@@ -18561,11 +18561,11 @@ WeatherOutlook.insert({
 	municipality: "Bulalacao", 
 	data: {
 		month: {
-			Nov: 190.18, 
-			Dec: 115.75, 
-			Jan: 41.59, 
-			Feb: 23.44, 
-			Mar: 14.23 
+			Dec: 115.41, 
+			Jan: 41.39, 
+			Feb: 23.35, 
+			Mar: 14.14, 
+			Apr: 39.56 
 		}
 	}
 }); 
@@ -18576,11 +18576,11 @@ WeatherOutlook.insert({
 	municipality: "Calapan City", 
 	data: {
 		month: {
-			Nov: 219.34, 
-			Dec: 155.64, 
-			Jan: 79.92, 
-			Feb: 51.6, 
-			Mar: 73.1 
+			Dec: 155.27, 
+			Jan: 79.74, 
+			Feb: 51.49, 
+			Mar: 72.75, 
+			Apr: 86.26 
 		}
 	}
 }); 
@@ -18591,11 +18591,11 @@ WeatherOutlook.insert({
 	municipality: "Gloria", 
 	data: {
 		month: {
-			Nov: 219.67, 
-			Dec: 112.14, 
-			Jan: 76.51, 
-			Feb: 49.75, 
-			Mar: 61.55 
+			Dec: 111.74, 
+			Jan: 76.31, 
+			Feb: 49.61, 
+			Mar: 61.34, 
+			Apr: 77.70 
 		}
 	}
 }); 
@@ -18606,11 +18606,11 @@ WeatherOutlook.insert({
 	municipality: "Mansalay", 
 	data: {
 		month: {
-			Nov: 195.52, 
-			Dec: 103.9, 
-			Jan: 53.3, 
-			Feb: 31.24, 
-			Mar: 30.6 
+			Dec: 103.56, 
+			Jan: 53.12, 
+			Feb: 31.13, 
+			Mar: 30.50, 
+			Apr: 59.36 
 		}
 	}
 }); 
@@ -18621,11 +18621,11 @@ WeatherOutlook.insert({
 	municipality: "Naujan", 
 	data: {
 		month: {
-			Nov: 238.57, 
-			Dec: 166.64, 
-			Jan: 77.07, 
-			Feb: 50.84, 
-			Mar: 74.12 
+			Dec: 166.19, 
+			Jan: 76.83, 
+			Feb: 50.67, 
+			Mar: 73.73, 
+			Apr: 84.83 
 		}
 	}
 }); 
@@ -18636,11 +18636,11 @@ WeatherOutlook.insert({
 	municipality: "Naujan Lake", 
 	data: {
 		month: {
-			Nov: 268.81, 
-			Dec: 202.57, 
-			Jan: 74.98, 
-			Feb: 57.53, 
-			Mar: 67.5 
+			Dec: 202.16, 
+			Jan: 74.77, 
+			Feb: 57.39, 
+			Mar: 67.25, 
+			Apr: 71.50 
 		}
 	}
 }); 
@@ -18651,11 +18651,11 @@ WeatherOutlook.insert({
 	municipality: "Pinamalayan", 
 	data: {
 		month: {
-			Nov: 229.21, 
-			Dec: 122.11, 
-			Jan: 76.42, 
-			Feb: 49.5, 
-			Mar: 60.7 
+			Dec: 121.71, 
+			Jan: 76.21, 
+			Feb: 49.36, 
+			Mar: 60.50, 
+			Apr: 74.06 
 		}
 	}
 }); 
@@ -18666,11 +18666,11 @@ WeatherOutlook.insert({
 	municipality: "Pola", 
 	data: {
 		month: {
-			Nov: 256.11, 
-			Dec: 179.28, 
-			Jan: 76.28, 
-			Feb: 46.89, 
-			Mar: 57.2 
+			Dec: 178.78, 
+			Jan: 76.01, 
+			Feb: 46.72, 
+			Mar: 57.07, 
+			Apr: 64.00 
 		}
 	}
 }); 
@@ -18681,11 +18681,11 @@ WeatherOutlook.insert({
 	municipality: "Puerto Galera", 
 	data: {
 		month: {
-			Nov: 195.62, 
-			Dec: 137.94, 
-			Jan: 52.81, 
-			Feb: 20.38, 
-			Mar: 48.17 
+			Dec: 137.55, 
+			Jan: 52.60, 
+			Feb: 20.25, 
+			Mar: 47.71, 
+			Apr: 72.45 
 		}
 	}
 }); 
@@ -18696,11 +18696,11 @@ WeatherOutlook.insert({
 	municipality: "Roxas", 
 	data: {
 		month: {
-			Nov: 215.75, 
-			Dec: 112.38, 
-			Jan: 59.46, 
-			Feb: 39.77, 
-			Mar: 29.72 
+			Dec: 112.08, 
+			Jan: 59.31, 
+			Feb: 39.69, 
+			Mar: 29.70, 
+			Apr: 55.98 
 		}
 	}
 }); 
@@ -18711,11 +18711,11 @@ WeatherOutlook.insert({
 	municipality: "San Teodoro", 
 	data: {
 		month: {
-			Nov: 210.53, 
-			Dec: 143.76, 
-			Jan: 70.75, 
-			Feb: 32.95, 
-			Mar: 70.79 
+			Dec: 143.35, 
+			Jan: 70.54, 
+			Feb: 32.82, 
+			Mar: 70.33, 
+			Apr: 88.13 
 		}
 	}
 }); 
@@ -18726,11 +18726,11 @@ WeatherOutlook.insert({
 	municipality: "Socorro", 
 	data: {
 		month: {
-			Nov: 232.52, 
-			Dec: 121.32, 
-			Jan: 76.29, 
-			Feb: 56.69, 
-			Mar: 66.99 
+			Dec: 120.96, 
+			Jan: 76.12, 
+			Feb: 56.58, 
+			Mar: 66.76, 
+			Apr: 75.18 
 		}
 	}
 }); 
@@ -18741,11 +18741,11 @@ WeatherOutlook.insert({
 	municipality: "Victoria", 
 	data: {
 		month: {
-			Nov: 241.51, 
-			Dec: 157.95, 
-			Jan: 77.08, 
-			Feb: 58.02, 
-			Mar: 74.89 
+			Dec: 157.50, 
+			Jan: 76.84, 
+			Feb: 57.86, 
+			Mar: 74.50, 
+			Apr: 85.29 
 		}
 	}
 }); 
@@ -18756,11 +18756,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 210.31, 
-			Dec: 165.1, 
-			Jan: 49.4, 
-			Feb: 16.52, 
-			Mar: 27.43 
+			Dec: 164.89, 
+			Jan: 49.07, 
+			Feb: 16.47, 
+			Mar: 27.85, 
+			Apr: 50.78 
 		}
 	}
 }); 
@@ -18771,11 +18771,11 @@ WeatherOutlook.insert({
 	municipality: "Aborlan", 
 	data: {
 		month: {
-			Nov: 243.85, 
-			Dec: 179.24, 
-			Jan: 44.71, 
-			Feb: 19.96, 
-			Mar: 39.32 
+			Dec: 179.12, 
+			Jan: 44.36, 
+			Feb: 19.94, 
+			Mar: 40.08, 
+			Apr: 59.69 
 		}
 	}
 }); 
@@ -18786,11 +18786,11 @@ WeatherOutlook.insert({
 	municipality: "Agutaya", 
 	data: {
 		month: {
-			Nov: 122.36, 
-			Dec: 85.52, 
-			Jan: 27.25, 
-			Feb: 14.84, 
-			Mar: 16.1 
+			Dec: 85.06, 
+			Jan: 26.87, 
+			Feb: 14.69, 
+			Mar: 15.88, 
+			Apr: 28.55 
 		}
 	}
 }); 
@@ -18801,11 +18801,11 @@ WeatherOutlook.insert({
 	municipality: "Araceli", 
 	data: {
 		month: {
-			Nov: 173.51, 
-			Dec: 134.69, 
-			Jan: 25.19, 
-			Feb: 12.55, 
-			Mar: 22.74 
+			Dec: 134.37, 
+			Jan: 24.82, 
+			Feb: 12.41, 
+			Mar: 22.81, 
+			Apr: 49.95 
 		}
 	}
 }); 
@@ -18816,11 +18816,11 @@ WeatherOutlook.insert({
 	municipality: "Balabac", 
 	data: {
 		month: {
-			Nov: 237.45, 
-			Dec: 258.77, 
-			Jan: 232.12, 
-			Feb: 57, 
-			Mar: 53.34 
+			Dec: 258.59, 
+			Jan: 231.70, 
+			Feb: 57.17, 
+			Mar: 55.36, 
+			Apr: 57.93 
 		}
 	}
 }); 
@@ -18831,11 +18831,11 @@ WeatherOutlook.insert({
 	municipality: "Bataraza", 
 	data: {
 		month: {
-			Nov: 217.37, 
-			Dec: 215.08, 
-			Jan: 110.12, 
-			Feb: 25.33, 
-			Mar: 30.02 
+			Dec: 214.99, 
+			Jan: 109.76, 
+			Feb: 25.42, 
+			Mar: 31.41, 
+			Apr: 51.03 
 		}
 	}
 }); 
@@ -18846,11 +18846,11 @@ WeatherOutlook.insert({
 	municipality: "Brooke's Point", 
 	data: {
 		month: {
-			Nov: 242.72, 
-			Dec: 223.33, 
-			Jan: 63.58, 
-			Feb: 16.73, 
-			Mar: 25.87 
+			Dec: 223.24, 
+			Jan: 63.22, 
+			Feb: 16.80, 
+			Mar: 27.15, 
+			Apr: 56.24 
 		}
 	}
 }); 
@@ -18861,11 +18861,11 @@ WeatherOutlook.insert({
 	municipality: "Busuanga", 
 	data: {
 		month: {
-			Nov: 166.36, 
-			Dec: 109.85, 
-			Jan: 18.04, 
-			Feb: 10.25, 
-			Mar: 8.32 
+			Dec: 109.31, 
+			Jan: 17.64, 
+			Feb: 10.00, 
+			Mar: 7.66, 
+			Apr: 34.16 
 		}
 	}
 }); 
@@ -18876,11 +18876,11 @@ WeatherOutlook.insert({
 	municipality: "Cagayancillo", 
 	data: {
 		month: {
-			Nov: 164.11, 
-			Dec: 109.76, 
-			Jan: 44.35, 
-			Feb: 22.78, 
-			Mar: 39.54 
+			Dec: 109.71, 
+			Jan: 44.07, 
+			Feb: 22.72, 
+			Mar: 39.97, 
+			Apr: 50.47 
 		}
 	}
 }); 
@@ -18891,11 +18891,11 @@ WeatherOutlook.insert({
 	municipality: "Coron", 
 	data: {
 		month: {
-			Nov: 132.35, 
-			Dec: 80.46, 
-			Jan: 18.79, 
-			Feb: 8.47, 
-			Mar: 7.96 
+			Dec: 80.06, 
+			Jan: 18.53, 
+			Feb: 8.34, 
+			Mar: 7.49, 
+			Apr: 27.69 
 		}
 	}
 }); 
@@ -18906,11 +18906,11 @@ WeatherOutlook.insert({
 	municipality: "Culion", 
 	data: {
 		month: {
-			Nov: 191.91, 
-			Dec: 113.17, 
-			Jan: 22.1, 
-			Feb: 13.41, 
-			Mar: 12.34 
+			Dec: 112.64, 
+			Jan: 21.69, 
+			Feb: 13.17, 
+			Mar: 11.72, 
+			Apr: 39.77 
 		}
 	}
 }); 
@@ -18921,11 +18921,11 @@ WeatherOutlook.insert({
 	municipality: "Cuyo", 
 	data: {
 		month: {
-			Nov: 73.84, 
-			Dec: 50.29, 
-			Jan: 15.75, 
-			Feb: 11.73, 
-			Mar: 13.18 
+			Dec: 49.79, 
+			Jan: 15.34, 
+			Feb: 11.55, 
+			Mar: 12.96, 
+			Apr: 25.95 
 		}
 	}
 }); 
@@ -18936,11 +18936,11 @@ WeatherOutlook.insert({
 	municipality: "Dumaran", 
 	data: {
 		month: {
-			Nov: 213.46, 
-			Dec: 168.74, 
-			Jan: 26.41, 
-			Feb: 12.69, 
-			Mar: 26.11 
+			Dec: 168.47, 
+			Jan: 26.04, 
+			Feb: 12.56, 
+			Mar: 26.25, 
+			Apr: 52.48 
 		}
 	}
 }); 
@@ -18951,11 +18951,11 @@ WeatherOutlook.insert({
 	municipality: "El Nido", 
 	data: {
 		month: {
-			Nov: 213.6, 
-			Dec: 161.73, 
-			Jan: 28.38, 
-			Feb: 9.9, 
-			Mar: 17.85 
+			Dec: 161.36, 
+			Jan: 27.97, 
+			Feb: 9.69, 
+			Mar: 17.64, 
+			Apr: 40.91 
 		}
 	}
 }); 
@@ -18966,11 +18966,11 @@ WeatherOutlook.insert({
 	municipality: "Linapacan", 
 	data: {
 		month: {
-			Nov: 165.16, 
-			Dec: 124.17, 
-			Jan: 22.62, 
-			Feb: 9.97, 
-			Mar: 13.88 
+			Dec: 123.75, 
+			Jan: 22.21, 
+			Feb: 9.76, 
+			Mar: 13.60, 
+			Apr: 30.81 
 		}
 	}
 }); 
@@ -18981,11 +18981,11 @@ WeatherOutlook.insert({
 	municipality: "Magsaysay", 
 	data: {
 		month: {
-			Nov: 94.44, 
-			Dec: 59.27, 
-			Jan: 18.64, 
-			Feb: 14.9, 
-			Mar: 17.38 
+			Dec: 58.54, 
+			Jan: 18.00, 
+			Feb: 14.56, 
+			Mar: 16.94, 
+			Apr: 29.59 
 		}
 	}
 }); 
@@ -18996,11 +18996,11 @@ WeatherOutlook.insert({
 	municipality: "Narra", 
 	data: {
 		month: {
-			Nov: 232.09, 
-			Dec: 164.46, 
-			Jan: 49.35, 
-			Feb: 18.61, 
-			Mar: 40.47 
+			Dec: 164.36, 
+			Jan: 49.00, 
+			Feb: 18.62, 
+			Mar: 41.44, 
+			Apr: 60.51 
 		}
 	}
 }); 
@@ -19011,11 +19011,11 @@ WeatherOutlook.insert({
 	municipality: "Puerto Princesa City", 
 	data: {
 		month: {
-			Nov: 243.37, 
-			Dec: 174.63, 
-			Jan: 37.41, 
-			Feb: 12.75, 
-			Mar: 31.94 
+			Dec: 174.41, 
+			Jan: 37.01, 
+			Feb: 12.64, 
+			Mar: 32.37, 
+			Apr: 57.65 
 		}
 	}
 }); 
@@ -19026,11 +19026,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 239.59, 
-			Dec: 182.09, 
-			Jan: 52.86, 
-			Feb: 17.64, 
-			Mar: 33.34 
+			Dec: 181.98, 
+			Jan: 52.49, 
+			Feb: 17.65, 
+			Mar: 34.37, 
+			Apr: 62.16 
 		}
 	}
 }); 
@@ -19041,11 +19041,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 240.27, 
-			Dec: 224.71, 
-			Jan: 78.5, 
-			Feb: 21.41, 
-			Mar: 30.12 
+			Dec: 224.62, 
+			Jan: 78.13, 
+			Feb: 21.47, 
+			Mar: 31.35, 
+			Apr: 59.70 
 		}
 	}
 }); 
@@ -19056,11 +19056,11 @@ WeatherOutlook.insert({
 	municipality: "Roxas", 
 	data: {
 		month: {
-			Nov: 232.8, 
-			Dec: 175.24, 
-			Jan: 28.89, 
-			Feb: 11.91, 
-			Mar: 32.76 
+			Dec: 175.01, 
+			Jan: 28.53, 
+			Feb: 11.80, 
+			Mar: 33.02, 
+			Apr: 60.32 
 		}
 	}
 }); 
@@ -19071,11 +19071,11 @@ WeatherOutlook.insert({
 	municipality: "San Vicente", 
 	data: {
 		month: {
-			Nov: 261.63, 
-			Dec: 205.73, 
-			Jan: 29.9, 
-			Feb: 10.84, 
-			Mar: 35.34 
+			Dec: 205.48, 
+			Jan: 29.53, 
+			Feb: 10.71, 
+			Mar: 35.50, 
+			Apr: 64.54 
 		}
 	}
 }); 
@@ -19086,11 +19086,11 @@ WeatherOutlook.insert({
 	municipality: "Sofronio Espanola", 
 	data: {
 		month: {
-			Nov: 230.13, 
-			Dec: 192.82, 
-			Jan: 62.99, 
-			Feb: 24.39, 
-			Mar: 45.93 
+			Dec: 192.67, 
+			Jan: 62.58, 
+			Feb: 24.43, 
+			Mar: 47.20, 
+			Apr: 67.91 
 		}
 	}
 }); 
@@ -19101,11 +19101,11 @@ WeatherOutlook.insert({
 	municipality: "Taytay", 
 	data: {
 		month: {
-			Nov: 206.24, 
-			Dec: 153.53, 
-			Jan: 27.71, 
-			Feb: 11.54, 
-			Mar: 22.66 
+			Dec: 153.12, 
+			Jan: 27.25, 
+			Feb: 11.30, 
+			Mar: 22.53, 
+			Apr: 49.69 
 		}
 	}
 }); 
@@ -19116,11 +19116,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 101, 
-			Dec: 46.7, 
-			Jan: 8.91, 
-			Feb: 10.39, 
-			Mar: 20.98 
+			Dec: 46.47, 
+			Jan: 8.81, 
+			Feb: 10.40, 
+			Mar: 20.06, 
+			Apr: 40.13 
 		}
 	}
 }); 
@@ -19131,11 +19131,11 @@ WeatherOutlook.insert({
 	municipality: "Angeles City", 
 	data: {
 		month: {
-			Nov: 75.28, 
-			Dec: 33.17, 
-			Jan: 6.13, 
+			Dec: 32.91, 
+			Jan: 6.02, 
 			Feb: 10.57, 
-			Mar: 27.09 
+			Mar: 26.18, 
+			Apr: 41.84 
 		}
 	}
 }); 
@@ -19146,11 +19146,11 @@ WeatherOutlook.insert({
 	municipality: "Apalit", 
 	data: {
 		month: {
-			Nov: 110.5, 
-			Dec: 62.95, 
-			Jan: 12.15, 
-			Feb: 12.29, 
-			Mar: 21.41 
+			Dec: 62.63, 
+			Jan: 11.98, 
+			Feb: 12.25, 
+			Mar: 20.41, 
+			Apr: 39.86 
 		}
 	}
 }); 
@@ -19161,11 +19161,11 @@ WeatherOutlook.insert({
 	municipality: "Arayat", 
 	data: {
 		month: {
-			Nov: 109.06, 
-			Dec: 51.83, 
-			Jan: 9.98, 
+			Dec: 51.60, 
+			Jan: 9.87, 
 			Feb: 9.97, 
-			Mar: 20.92 
+			Mar: 20.01, 
+			Apr: 45.85 
 		}
 	}
 }); 
@@ -19176,11 +19176,11 @@ WeatherOutlook.insert({
 	municipality: "Bacolor", 
 	data: {
 		month: {
-			Nov: 85.33, 
-			Dec: 32.38, 
-			Jan: 9.7, 
+			Dec: 32.15, 
+			Jan: 9.60, 
 			Feb: 8.31, 
-			Mar: 19.01 
+			Mar: 18.12, 
+			Apr: 35.23 
 		}
 	}
 }); 
@@ -19191,11 +19191,11 @@ WeatherOutlook.insert({
 	municipality: "Candaba", 
 	data: {
 		month: {
-			Nov: 112.02, 
-			Dec: 64.5, 
-			Jan: 18.64, 
-			Feb: 18.69, 
-			Mar: 28.28 
+			Dec: 64.24, 
+			Jan: 18.52, 
+			Feb: 18.70, 
+			Mar: 27.24, 
+			Apr: 49.12 
 		}
 	}
 }); 
@@ -19206,11 +19206,11 @@ WeatherOutlook.insert({
 	municipality: "Floridablanca", 
 	data: {
 		month: {
-			Nov: 96.14, 
-			Dec: 50.17, 
-			Jan: 4.82, 
-			Feb: 10.4, 
-			Mar: 20.42 
+			Dec: 49.98, 
+			Jan: 4.74, 
+			Feb: 10.41, 
+			Mar: 19.49, 
+			Apr: 37.13 
 		}
 	}
 }); 
@@ -19221,11 +19221,11 @@ WeatherOutlook.insert({
 	municipality: "Guagua", 
 	data: {
 		month: {
-			Nov: 111.91, 
-			Dec: 36.89, 
-			Jan: 8.29, 
-			Feb: 7.01, 
-			Mar: 15.16 
+			Dec: 36.71, 
+			Jan: 8.24, 
+			Feb: 7.05, 
+			Mar: 14.31, 
+			Apr: 31.59 
 		}
 	}
 }); 
@@ -19236,11 +19236,11 @@ WeatherOutlook.insert({
 	municipality: "Lubao", 
 	data: {
 		month: {
-			Nov: 112.83, 
-			Dec: 45.8, 
-			Jan: 4.74, 
-			Feb: 6.5, 
-			Mar: 10.71 
+			Dec: 45.57, 
+			Jan: 4.63, 
+			Feb: 6.49, 
+			Mar: 9.84, 
+			Apr: 28.80 
 		}
 	}
 }); 
@@ -19251,11 +19251,11 @@ WeatherOutlook.insert({
 	municipality: "Mabalacat", 
 	data: {
 		month: {
-			Nov: 78.04, 
-			Dec: 34.56, 
-			Jan: 6.2, 
-			Feb: 9.8, 
-			Mar: 26.63 
+			Dec: 34.34, 
+			Jan: 6.10, 
+			Feb: 9.79, 
+			Mar: 25.69, 
+			Apr: 48.67 
 		}
 	}
 }); 
@@ -19266,11 +19266,11 @@ WeatherOutlook.insert({
 	municipality: "Macabebe", 
 	data: {
 		month: {
-			Nov: 143.2, 
-			Dec: 67.31, 
-			Jan: 6.81, 
-			Feb: 7.55, 
-			Mar: 13.93 
+			Dec: 67.12, 
+			Jan: 6.75, 
+			Feb: 7.59, 
+			Mar: 13.08, 
+			Apr: 30.88 
 		}
 	}
 }); 
@@ -19281,11 +19281,11 @@ WeatherOutlook.insert({
 	municipality: "Magalang", 
 	data: {
 		month: {
-			Nov: 81.19, 
-			Dec: 33.96, 
-			Jan: 8.01, 
-			Feb: 9.6, 
-			Mar: 23.24 
+			Dec: 33.75, 
+			Jan: 7.93, 
+			Feb: 9.61, 
+			Mar: 22.36, 
+			Apr: 44.99 
 		}
 	}
 }); 
@@ -19296,11 +19296,11 @@ WeatherOutlook.insert({
 	municipality: "Masantol", 
 	data: {
 		month: {
-			Nov: 147.98, 
-			Dec: 66.6, 
-			Jan: 5.43, 
-			Feb: 6.37, 
-			Mar: 9.63 
+			Dec: 66.39, 
+			Jan: 5.34, 
+			Feb: 6.38, 
+			Mar: 8.80, 
+			Apr: 27.89 
 		}
 	}
 }); 
@@ -19311,11 +19311,11 @@ WeatherOutlook.insert({
 	municipality: "Mexico", 
 	data: {
 		month: {
-			Nov: 87.71, 
-			Dec: 41, 
-			Jan: 8.96, 
-			Feb: 10.45, 
-			Mar: 22.01 
+			Dec: 40.77, 
+			Jan: 8.87, 
+			Feb: 10.46, 
+			Mar: 21.11, 
+			Apr: 42.22 
 		}
 	}
 }); 
@@ -19326,11 +19326,11 @@ WeatherOutlook.insert({
 	municipality: "Minalin", 
 	data: {
 		month: {
-			Nov: 127.12, 
-			Dec: 52.11, 
-			Jan: 10.89, 
-			Feb: 8.63, 
-			Mar: 18.41 
+			Dec: 51.94, 
+			Jan: 10.84, 
+			Feb: 8.68, 
+			Mar: 17.54, 
+			Apr: 34.06 
 		}
 	}
 }); 
@@ -19341,11 +19341,11 @@ WeatherOutlook.insert({
 	municipality: "Porac", 
 	data: {
 		month: {
-			Nov: 83.62, 
-			Dec: 35.53, 
-			Jan: 5.1, 
-			Feb: 9.6, 
-			Mar: 23.67 
+			Dec: 35.33, 
+			Jan: 5.02, 
+			Feb: 9.60, 
+			Mar: 22.73, 
+			Apr: 40.85 
 		}
 	}
 }); 
@@ -19356,11 +19356,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando City", 
 	data: {
 		month: {
-			Nov: 78.89, 
-			Dec: 32.65, 
-			Jan: 9.06, 
-			Feb: 9.55, 
-			Mar: 21.13 
+			Dec: 32.42, 
+			Jan: 8.95, 
+			Feb: 9.54, 
+			Mar: 20.23, 
+			Apr: 38.92 
 		}
 	}
 }); 
@@ -19371,11 +19371,11 @@ WeatherOutlook.insert({
 	municipality: "San Luis", 
 	data: {
 		month: {
-			Nov: 105.83, 
-			Dec: 61.85, 
-			Jan: 14.18, 
-			Feb: 14.9, 
-			Mar: 24.96 
+			Dec: 61.77, 
+			Jan: 14.22, 
+			Feb: 15.03, 
+			Mar: 23.99, 
+			Apr: 46.25 
 		}
 	}
 }); 
@@ -19386,11 +19386,11 @@ WeatherOutlook.insert({
 	municipality: "San Simon", 
 	data: {
 		month: {
-			Nov: 106.53, 
-			Dec: 59.84, 
-			Jan: 13.46, 
-			Feb: 13.81, 
-			Mar: 23.79 
+			Dec: 59.55, 
+			Jan: 13.31, 
+			Feb: 13.80, 
+			Mar: 22.77, 
+			Apr: 44.84 
 		}
 	}
 }); 
@@ -19401,11 +19401,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Ana", 
 	data: {
 		month: {
-			Nov: 103.56, 
-			Dec: 49.13, 
-			Jan: 11.22, 
+			Dec: 48.87, 
+			Jan: 11.10, 
 			Feb: 12.77, 
-			Mar: 21.81 
+			Mar: 20.86, 
+			Apr: 46.05 
 		}
 	}
 }); 
@@ -19416,11 +19416,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Rita", 
 	data: {
 		month: {
-			Nov: 80.13, 
-			Dec: 20.5, 
-			Jan: 7.74, 
-			Feb: 7.83, 
-			Mar: 16.96 
+			Dec: 20.27, 
+			Jan: 7.64, 
+			Feb: 7.84, 
+			Mar: 16.08, 
+			Apr: 33.78 
 		}
 	}
 }); 
@@ -19431,11 +19431,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 126.29, 
-			Dec: 48.76, 
-			Jan: 12.01, 
-			Feb: 9.8, 
-			Mar: 21.41 
+			Dec: 48.62, 
+			Jan: 11.99, 
+			Feb: 9.87, 
+			Mar: 20.54, 
+			Apr: 37.83 
 		}
 	}
 }); 
@@ -19446,11 +19446,11 @@ WeatherOutlook.insert({
 	municipality: "Sasmuan", 
 	data: {
 		month: {
-			Nov: 138.29, 
-			Dec: 62.77, 
-			Jan: 5.81, 
-			Feb: 6.54, 
-			Mar: 10.28 
+			Dec: 62.55, 
+			Jan: 5.73, 
+			Feb: 6.55, 
+			Mar: 9.45, 
+			Apr: 28.55 
 		}
 	}
 }); 
@@ -19461,11 +19461,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 52.07, 
-			Dec: 22.69, 
-			Jan: 4.53, 
-			Feb: 5.46, 
-			Mar: 25.51 
+			Dec: 22.41, 
+			Jan: 4.38, 
+			Feb: 5.45, 
+			Mar: 24.14, 
+			Apr: 56.54 
 		}
 	}
 }); 
@@ -19476,11 +19476,11 @@ WeatherOutlook.insert({
 	municipality: "Agno", 
 	data: {
 		month: {
-			Nov: 37.63, 
-			Dec: 21.71, 
-			Jan: 2.96, 
-			Feb: 2.74, 
-			Mar: 19.83 
+			Dec: 21.58, 
+			Jan: 2.92, 
+			Feb: 2.82, 
+			Mar: 18.33, 
+			Apr: 36.37 
 		}
 	}
 }); 
@@ -19491,11 +19491,11 @@ WeatherOutlook.insert({
 	municipality: "Aguilar", 
 	data: {
 		month: {
-			Nov: 55.8, 
-			Dec: 13.32, 
-			Jan: 3.38, 
-			Feb: 6.95, 
-			Mar: 40.18 
+			Dec: 13.17, 
+			Jan: 3.33, 
+			Feb: 7.00, 
+			Mar: 38.85, 
+			Apr: 69.36 
 		}
 	}
 }); 
@@ -19506,11 +19506,11 @@ WeatherOutlook.insert({
 	municipality: "Alaminos City", 
 	data: {
 		month: {
-			Nov: 57.06, 
-			Dec: 25.16, 
-			Jan: 2.77, 
-			Feb: 2.61, 
-			Mar: 20.52 
+			Dec: 25.09, 
+			Jan: 2.78, 
+			Feb: 2.72, 
+			Mar: 18.92, 
+			Apr: 36.23 
 		}
 	}
 }); 
@@ -19521,11 +19521,11 @@ WeatherOutlook.insert({
 	municipality: "Alcala", 
 	data: {
 		month: {
-			Nov: 26.3, 
-			Dec: 5.13, 
-			Jan: 3.35, 
-			Feb: 3.9, 
-			Mar: 18.62 
+			Dec: 4.94, 
+			Jan: 3.27, 
+			Feb: 3.92, 
+			Mar: 17.52, 
+			Apr: 61.33 
 		}
 	}
 }); 
@@ -19536,11 +19536,11 @@ WeatherOutlook.insert({
 	municipality: "Anda", 
 	data: {
 		month: {
-			Nov: 62.37, 
-			Dec: 28.59, 
-			Jan: 3.11, 
-			Feb: 2.62, 
-			Mar: 13.69 
+			Dec: 28.46, 
+			Jan: 3.08, 
+			Feb: 2.69, 
+			Mar: 12.33, 
+			Apr: 27.51 
 		}
 	}
 }); 
@@ -19551,11 +19551,11 @@ WeatherOutlook.insert({
 	municipality: "Asingan", 
 	data: {
 		month: {
-			Nov: 37.1, 
-			Dec: 5.96, 
-			Jan: 4.53, 
-			Feb: 4.97, 
-			Mar: 24.59 
+			Dec: 5.84, 
+			Jan: 4.51, 
+			Feb: 5.02, 
+			Mar: 23.43, 
+			Apr: 64.24 
 		}
 	}
 }); 
@@ -19566,11 +19566,11 @@ WeatherOutlook.insert({
 	municipality: "Balungao", 
 	data: {
 		month: {
-			Nov: 44.8, 
-			Dec: 15.25, 
-			Jan: 4.8, 
-			Feb: 4.87, 
-			Mar: 23.16 
+			Dec: 15.10, 
+			Jan: 4.76, 
+			Feb: 4.93, 
+			Mar: 22.04, 
+			Apr: 63.76 
 		}
 	}
 }); 
@@ -19581,11 +19581,11 @@ WeatherOutlook.insert({
 	municipality: "Bani", 
 	data: {
 		month: {
-			Nov: 45.66, 
-			Dec: 18.41, 
-			Jan: 2.82, 
-			Feb: 2.63, 
-			Mar: 15.57 
+			Dec: 18.27, 
+			Jan: 2.78, 
+			Feb: 2.69, 
+			Mar: 14.13, 
+			Apr: 29.42 
 		}
 	}
 }); 
@@ -19596,11 +19596,11 @@ WeatherOutlook.insert({
 	municipality: "Basista", 
 	data: {
 		month: {
-			Nov: 14.11, 
-			Dec: 4.16, 
-			Jan: 3.5, 
+			Dec: 3.92, 
+			Jan: 3.39, 
 			Feb: 5.73, 
-			Mar: 26.72 
+			Mar: 25.55, 
+			Apr: 61.76 
 		}
 	}
 }); 
@@ -19611,11 +19611,11 @@ WeatherOutlook.insert({
 	municipality: "Bautista", 
 	data: {
 		month: {
-			Nov: 43.36, 
-			Dec: 8.25, 
-			Jan: 3.33, 
-			Feb: 4.42, 
-			Mar: 19.57 
+			Dec: 8.10, 
+			Jan: 3.29, 
+			Feb: 4.46, 
+			Mar: 18.53, 
+			Apr: 59.17 
 		}
 	}
 }); 
@@ -19626,11 +19626,11 @@ WeatherOutlook.insert({
 	municipality: "Bayambang", 
 	data: {
 		month: {
-			Nov: 35.29, 
-			Dec: 6.85, 
-			Jan: 3.51, 
-			Feb: 5.8, 
-			Mar: 25.74 
+			Dec: 6.66, 
+			Jan: 3.43, 
+			Feb: 5.82, 
+			Mar: 24.65, 
+			Apr: 60.55 
 		}
 	}
 }); 
@@ -19641,11 +19641,11 @@ WeatherOutlook.insert({
 	municipality: "Binalonan", 
 	data: {
 		month: {
-			Nov: 51.2, 
-			Dec: 23.13, 
-			Jan: 4.64, 
-			Feb: 4.72, 
-			Mar: 27.1 
+			Dec: 22.98, 
+			Jan: 4.60, 
+			Feb: 4.78, 
+			Mar: 26.00, 
+			Apr: 66.87 
 		}
 	}
 }); 
@@ -19656,11 +19656,11 @@ WeatherOutlook.insert({
 	municipality: "Binmaley", 
 	data: {
 		month: {
-			Nov: 39.26, 
-			Dec: 13.12, 
-			Jan: 2.94, 
-			Feb: 4.49, 
-			Mar: 21.76 
+			Dec: 12.97, 
+			Jan: 2.89, 
+			Feb: 4.55, 
+			Mar: 20.45, 
+			Apr: 51.76 
 		}
 	}
 }); 
@@ -19671,11 +19671,11 @@ WeatherOutlook.insert({
 	municipality: "Bolinao", 
 	data: {
 		month: {
-			Nov: 53.17, 
-			Dec: 22.74, 
-			Jan: 2.94, 
-			Feb: 2.55, 
-			Mar: 11.14 
+			Dec: 22.63, 
+			Jan: 2.93, 
+			Feb: 2.63, 
+			Mar: 9.83, 
+			Apr: 24.36 
 		}
 	}
 }); 
@@ -19686,11 +19686,11 @@ WeatherOutlook.insert({
 	municipality: "Bugallon", 
 	data: {
 		month: {
-			Nov: 41.08, 
-			Dec: 11.23, 
-			Jan: 2.75, 
-			Feb: 3.41, 
-			Mar: 27.91 
+			Dec: 11.13, 
+			Jan: 2.74, 
+			Feb: 3.50, 
+			Mar: 26.45, 
+			Apr: 54.99 
 		}
 	}
 }); 
@@ -19701,11 +19701,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 41.05, 
-			Dec: 26.89, 
-			Jan: 3.8, 
-			Feb: 3.36, 
-			Mar: 21.58 
+			Dec: 26.77, 
+			Jan: 3.78, 
+			Feb: 3.44, 
+			Mar: 19.97, 
+			Apr: 41.09 
 		}
 	}
 }); 
@@ -19716,11 +19716,11 @@ WeatherOutlook.insert({
 	municipality: "Calasiao", 
 	data: {
 		month: {
-			Nov: 38.01, 
-			Dec: 11.21, 
-			Jan: 3.37, 
-			Feb: 6.96, 
-			Mar: 25.24 
+			Dec: 11.02, 
+			Jan: 3.30, 
+			Feb: 6.99, 
+			Mar: 24.01, 
+			Apr: 62.70 
 		}
 	}
 }); 
@@ -19731,11 +19731,11 @@ WeatherOutlook.insert({
 	municipality: "Dagupan City", 
 	data: {
 		month: {
-			Nov: 49.74, 
-			Dec: 17.57, 
-			Jan: 3.13, 
-			Feb: 5.34, 
-			Mar: 22.44 
+			Dec: 17.29, 
+			Jan: 2.99, 
+			Feb: 5.33, 
+			Mar: 21.17, 
+			Apr: 51.94 
 		}
 	}
 }); 
@@ -19746,11 +19746,11 @@ WeatherOutlook.insert({
 	municipality: "Dasol", 
 	data: {
 		month: {
-			Nov: 39.99, 
-			Dec: 25.24, 
-			Jan: 2.8, 
-			Feb: 2.57, 
-			Mar: 20.99 
+			Dec: 25.18, 
+			Jan: 2.83, 
+			Feb: 2.69, 
+			Mar: 19.30, 
+			Apr: 41.67 
 		}
 	}
 }); 
@@ -19761,11 +19761,11 @@ WeatherOutlook.insert({
 	municipality: "Infanta", 
 	data: {
 		month: {
-			Nov: 45.26, 
-			Dec: 18.6, 
-			Jan: 2.74, 
-			Feb: 2.82, 
-			Mar: 24.13 
+			Dec: 18.49, 
+			Jan: 2.72, 
+			Feb: 2.90, 
+			Mar: 22.51, 
+			Apr: 47.87 
 		}
 	}
 }); 
@@ -19776,11 +19776,11 @@ WeatherOutlook.insert({
 	municipality: "Labrador", 
 	data: {
 		month: {
-			Nov: 61.5, 
-			Dec: 21.49, 
+			Dec: 21.40, 
 			Jan: 2.59, 
-			Feb: 2.58, 
-			Mar: 19.8 
+			Feb: 2.68, 
+			Mar: 18.13, 
+			Apr: 46.89 
 		}
 	}
 }); 
@@ -19791,11 +19791,11 @@ WeatherOutlook.insert({
 	municipality: "Laoac", 
 	data: {
 		month: {
-			Nov: 13.92, 
-			Dec: 4.48, 
-			Jan: 3.43, 
-			Feb: 3.9, 
-			Mar: 23.4 
+			Dec: 4.29, 
+			Jan: 3.35, 
+			Feb: 3.93, 
+			Mar: 22.27, 
+			Apr: 54.84 
 		}
 	}
 }); 
@@ -19806,11 +19806,11 @@ WeatherOutlook.insert({
 	municipality: "Lingayen", 
 	data: {
 		month: {
-			Nov: 43.01, 
-			Dec: 15.76, 
-			Jan: 2.79, 
-			Feb: 3.26, 
-			Mar: 21.92 
+			Dec: 15.67, 
+			Jan: 2.80, 
+			Feb: 3.36, 
+			Mar: 20.48, 
+			Apr: 48.44 
 		}
 	}
 }); 
@@ -19821,11 +19821,11 @@ WeatherOutlook.insert({
 	municipality: "Mabini", 
 	data: {
 		month: {
-			Nov: 46.93, 
-			Dec: 20.11, 
-			Jan: 2.53, 
-			Feb: 2.62, 
-			Mar: 23.72 
+			Dec: 19.98, 
+			Jan: 2.51, 
+			Feb: 2.71, 
+			Mar: 21.92, 
+			Apr: 48.00 
 		}
 	}
 }); 
@@ -19836,11 +19836,11 @@ WeatherOutlook.insert({
 	municipality: "Malasiqui", 
 	data: {
 		month: {
-			Nov: 14.2, 
-			Dec: 4.12, 
-			Jan: 3.39, 
-			Feb: 5.3, 
-			Mar: 21.78 
+			Dec: 3.97, 
+			Jan: 3.35, 
+			Feb: 5.35, 
+			Mar: 20.67, 
+			Apr: 61.01 
 		}
 	}
 }); 
@@ -19851,11 +19851,11 @@ WeatherOutlook.insert({
 	municipality: "Manaoag", 
 	data: {
 		month: {
-			Nov: 23.72, 
-			Dec: 9.39, 
-			Jan: 3.52, 
+			Dec: 9.17, 
+			Jan: 3.42, 
 			Feb: 5.86, 
-			Mar: 25.44 
+			Mar: 24.28, 
+			Apr: 55.01 
 		}
 	}
 }); 
@@ -19866,11 +19866,11 @@ WeatherOutlook.insert({
 	municipality: "Mangaldan", 
 	data: {
 		month: {
-			Nov: 46.47, 
-			Dec: 15.52, 
-			Jan: 3.32, 
+			Dec: 15.27, 
+			Jan: 3.20, 
 			Feb: 5.81, 
-			Mar: 24.26 
+			Mar: 23.05, 
+			Apr: 55.59 
 		}
 	}
 }); 
@@ -19881,11 +19881,11 @@ WeatherOutlook.insert({
 	municipality: "Mangatarem", 
 	data: {
 		month: {
-			Nov: 68.91, 
-			Dec: 27.04, 
-			Jan: 4.2, 
-			Feb: 12.11, 
-			Mar: 49.56 
+			Dec: 26.90, 
+			Jan: 4.15, 
+			Feb: 12.16, 
+			Mar: 48.39, 
+			Apr: 84.13 
 		}
 	}
 }); 
@@ -19896,11 +19896,11 @@ WeatherOutlook.insert({
 	municipality: "Mapandan", 
 	data: {
 		month: {
-			Nov: 23.83, 
-			Dec: 5.78, 
-			Jan: 3.51, 
+			Dec: 5.54, 
+			Jan: 3.40, 
 			Feb: 6.42, 
-			Mar: 24.13 
+			Mar: 22.96, 
+			Apr: 57.34 
 		}
 	}
 }); 
@@ -19911,11 +19911,11 @@ WeatherOutlook.insert({
 	municipality: "Natividad", 
 	data: {
 		month: {
-			Nov: 131.04, 
-			Dec: 86.39, 
-			Jan: 13.2, 
-			Feb: 13.64, 
-			Mar: 39.33 
+			Dec: 86.23, 
+			Jan: 13.15, 
+			Feb: 13.70, 
+			Mar: 37.95, 
+			Apr: 85.59 
 		}
 	}
 }); 
@@ -19926,11 +19926,11 @@ WeatherOutlook.insert({
 	municipality: "Pozzorubio", 
 	data: {
 		month: {
-			Nov: 52.46, 
-			Dec: 25.84, 
-			Jan: 3.77, 
-			Feb: 6.93, 
-			Mar: 25.96 
+			Dec: 25.70, 
+			Jan: 3.73, 
+			Feb: 6.99, 
+			Mar: 24.86, 
+			Apr: 56.13 
 		}
 	}
 }); 
@@ -19941,11 +19941,11 @@ WeatherOutlook.insert({
 	municipality: "Rosales", 
 	data: {
 		month: {
-			Nov: 47.97, 
-			Dec: 14.51, 
-			Jan: 3.98, 
-			Feb: 4.19, 
-			Mar: 21.37 
+			Dec: 14.36, 
+			Jan: 3.93, 
+			Feb: 4.23, 
+			Mar: 20.26, 
+			Apr: 63.76 
 		}
 	}
 }); 
@@ -19956,11 +19956,11 @@ WeatherOutlook.insert({
 	municipality: "San Carlos City", 
 	data: {
 		month: {
-			Nov: 24.99, 
-			Dec: 5.75, 
-			Jan: 3.32, 
-			Feb: 6.73, 
-			Mar: 28.65 
+			Dec: 5.65, 
+			Jan: 3.31, 
+			Feb: 6.81, 
+			Mar: 27.44, 
+			Apr: 62.99 
 		}
 	}
 }); 
@@ -19971,11 +19971,11 @@ WeatherOutlook.insert({
 	municipality: "San Fabian", 
 	data: {
 		month: {
-			Nov: 46.12, 
-			Dec: 22.61, 
-			Jan: 3.42, 
-			Feb: 5.15, 
-			Mar: 21.67 
+			Dec: 22.45, 
+			Jan: 3.37, 
+			Feb: 5.20, 
+			Mar: 20.53, 
+			Apr: 47.52 
 		}
 	}
 }); 
@@ -19986,11 +19986,11 @@ WeatherOutlook.insert({
 	municipality: "San Jacinto", 
 	data: {
 		month: {
-			Nov: 41.67, 
-			Dec: 17.09, 
-			Jan: 3.48, 
-			Feb: 6.68, 
-			Mar: 24.34 
+			Dec: 16.94, 
+			Jan: 3.44, 
+			Feb: 6.73, 
+			Mar: 23.21, 
+			Apr: 54.63 
 		}
 	}
 }); 
@@ -20001,11 +20001,11 @@ WeatherOutlook.insert({
 	municipality: "San Manuel", 
 	data: {
 		month: {
-			Nov: 70.57, 
-			Dec: 35.29, 
-			Jan: 6.67, 
-			Feb: 6.08, 
-			Mar: 27.37 
+			Dec: 35.15, 
+			Jan: 6.64, 
+			Feb: 6.14, 
+			Mar: 26.25, 
+			Apr: 74.27 
 		}
 	}
 }); 
@@ -20016,11 +20016,11 @@ WeatherOutlook.insert({
 	municipality: "San Nicolas", 
 	data: {
 		month: {
-			Nov: 117.06, 
-			Dec: 74.64, 
-			Jan: 10.97, 
-			Feb: 10.5, 
-			Mar: 35.3 
+			Dec: 74.47, 
+			Jan: 10.91, 
+			Feb: 10.56, 
+			Mar: 34.07, 
+			Apr: 86.72 
 		}
 	}
 }); 
@@ -20031,11 +20031,11 @@ WeatherOutlook.insert({
 	municipality: "San Quintin", 
 	data: {
 		month: {
-			Nov: 103.73, 
-			Dec: 59.05, 
-			Jan: 12.44, 
-			Feb: 10.32, 
-			Mar: 33.84 
+			Dec: 58.88, 
+			Jan: 12.37, 
+			Feb: 10.38, 
+			Mar: 32.45, 
+			Apr: 78.76 
 		}
 	}
 }); 
@@ -20046,11 +20046,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Barbara", 
 	data: {
 		month: {
-			Nov: 31.12, 
-			Dec: 6.77, 
-			Jan: 3.51, 
-			Feb: 7.14, 
-			Mar: 25.04 
+			Dec: 6.55, 
+			Jan: 3.41, 
+			Feb: 7.15, 
+			Mar: 23.86, 
+			Apr: 61.55 
 		}
 	}
 }); 
@@ -20061,11 +20061,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 34.68, 
-			Dec: 6.73, 
-			Jan: 5.58, 
-			Feb: 5.62, 
-			Mar: 24.58 
+			Dec: 6.57, 
+			Jan: 5.53, 
+			Feb: 5.68, 
+			Mar: 23.43, 
+			Apr: 65.63 
 		}
 	}
 }); 
@@ -20076,11 +20076,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Tomas", 
 	data: {
 		month: {
-			Nov: 41.85, 
-			Dec: 7.02, 
-			Jan: 3.31, 
-			Feb: 3.59, 
-			Mar: 20.28 
+			Dec: 6.85, 
+			Jan: 3.24, 
+			Feb: 3.63, 
+			Mar: 19.20, 
+			Apr: 64.65 
 		}
 	}
 }); 
@@ -20091,11 +20091,11 @@ WeatherOutlook.insert({
 	municipality: "Sison", 
 	data: {
 		month: {
-			Nov: 79.98, 
-			Dec: 44.66, 
-			Jan: 5.41, 
-			Feb: 5.31, 
-			Mar: 24.49 
+			Dec: 44.51, 
+			Jan: 5.37, 
+			Feb: 5.36, 
+			Mar: 23.39, 
+			Apr: 69.52 
 		}
 	}
 }); 
@@ -20106,11 +20106,11 @@ WeatherOutlook.insert({
 	municipality: "Sual", 
 	data: {
 		month: {
-			Nov: 65.14, 
-			Dec: 22.12, 
-			Jan: 2.53, 
-			Feb: 2.53, 
-			Mar: 20.54 
+			Dec: 21.98, 
+			Jan: 2.50, 
+			Feb: 2.61, 
+			Mar: 18.81, 
+			Apr: 42.11 
 		}
 	}
 }); 
@@ -20121,11 +20121,11 @@ WeatherOutlook.insert({
 	municipality: "Tayug", 
 	data: {
 		month: {
-			Nov: 53.65, 
-			Dec: 15.8, 
-			Jan: 8.18, 
-			Feb: 7.7, 
-			Mar: 28.09 
+			Dec: 15.63, 
+			Jan: 8.12, 
+			Feb: 7.76, 
+			Mar: 26.87, 
+			Apr: 68.85 
 		}
 	}
 }); 
@@ -20136,11 +20136,11 @@ WeatherOutlook.insert({
 	municipality: "Umingan", 
 	data: {
 		month: {
-			Nov: 85.66, 
-			Dec: 43.51, 
-			Jan: 11.16, 
-			Feb: 10.2, 
-			Mar: 30.86 
+			Dec: 43.28, 
+			Jan: 11.05, 
+			Feb: 10.24, 
+			Mar: 29.57, 
+			Apr: 65.23 
 		}
 	}
 }); 
@@ -20151,11 +20151,11 @@ WeatherOutlook.insert({
 	municipality: "Urbiztondo", 
 	data: {
 		month: {
-			Nov: 27.34, 
-			Dec: 5.06, 
-			Jan: 3.69, 
-			Feb: 8.26, 
-			Mar: 36.69 
+			Dec: 4.88, 
+			Jan: 3.62, 
+			Feb: 8.29, 
+			Mar: 35.52, 
+			Apr: 68.11 
 		}
 	}
 }); 
@@ -20166,11 +20166,11 @@ WeatherOutlook.insert({
 	municipality: "Urdaneta City", 
 	data: {
 		month: {
-			Nov: 22.88, 
-			Dec: 4.87, 
-			Jan: 3.52, 
-			Feb: 4.27, 
-			Mar: 22.23 
+			Dec: 4.70, 
+			Jan: 3.45, 
+			Feb: 4.31, 
+			Mar: 21.12, 
+			Apr: 59.71 
 		}
 	}
 }); 
@@ -20181,11 +20181,11 @@ WeatherOutlook.insert({
 	municipality: "Villasis", 
 	data: {
 		month: {
-			Nov: 24.86, 
-			Dec: 5.44, 
-			Jan: 3.36, 
-			Feb: 3.78, 
-			Mar: 19.22 
+			Dec: 5.30, 
+			Jan: 3.32, 
+			Feb: 3.83, 
+			Mar: 18.14, 
+			Apr: 62.77 
 		}
 	}
 }); 
@@ -20196,11 +20196,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 374.09, 
-			Dec: 369.15, 
-			Jan: 131.43, 
-			Feb: 93.11, 
-			Mar: 110.88 
+			Dec: 368.74, 
+			Jan: 131.26, 
+			Feb: 92.99, 
+			Mar: 111.00, 
+			Apr: 79.15 
 		}
 	}
 }); 
@@ -20211,11 +20211,11 @@ WeatherOutlook.insert({
 	municipality: "Agdangan", 
 	data: {
 		month: {
-			Nov: 353.19, 
-			Dec: 337.47, 
-			Jan: 110.65, 
-			Feb: 81.19, 
-			Mar: 77.6 
+			Dec: 337.03, 
+			Jan: 110.55, 
+			Feb: 81.09, 
+			Mar: 77.97, 
+			Apr: 69.40 
 		}
 	}
 }); 
@@ -20226,11 +20226,11 @@ WeatherOutlook.insert({
 	municipality: "Alabat", 
 	data: {
 		month: {
-			Nov: 488.71, 
-			Dec: 610.09, 
-			Jan: 181.94, 
-			Feb: 140.31, 
-			Mar: 129.48 
+			Dec: 609.65, 
+			Jan: 181.85, 
+			Feb: 140.22, 
+			Mar: 129.86, 
+			Apr: 69.22 
 		}
 	}
 }); 
@@ -20241,11 +20241,11 @@ WeatherOutlook.insert({
 	municipality: "Atimonan", 
 	data: {
 		month: {
-			Nov: 417.85, 
-			Dec: 440.91, 
-			Jan: 146.24, 
-			Feb: 107.74, 
-			Mar: 103.97 
+			Dec: 440.49, 
+			Jan: 146.15, 
+			Feb: 107.65, 
+			Mar: 104.30, 
+			Apr: 72.94 
 		}
 	}
 }); 
@@ -20256,11 +20256,11 @@ WeatherOutlook.insert({
 	municipality: "Buenavista", 
 	data: {
 		month: {
-			Nov: 335.41, 
-			Dec: 393.9, 
-			Jan: 137.05, 
-			Feb: 96.1, 
-			Mar: 115.35 
+			Dec: 393.66, 
+			Jan: 137.01, 
+			Feb: 96.05, 
+			Mar: 115.77, 
+			Apr: 81.32 
 		}
 	}
 }); 
@@ -20271,11 +20271,11 @@ WeatherOutlook.insert({
 	municipality: "Burdeos", 
 	data: {
 		month: {
-			Nov: 442.7, 
-			Dec: 407.08, 
-			Jan: 171.55, 
-			Feb: 117.2, 
-			Mar: 140.06 
+			Dec: 406.82, 
+			Jan: 171.53, 
+			Feb: 117.24, 
+			Mar: 140.20, 
+			Apr: 94.07 
 		}
 	}
 }); 
@@ -20286,11 +20286,11 @@ WeatherOutlook.insert({
 	municipality: "Calauag", 
 	data: {
 		month: {
-			Nov: 451.5, 
-			Dec: 504.81, 
-			Jan: 150.15, 
-			Feb: 113.9, 
-			Mar: 131.29 
+			Dec: 504.50, 
+			Jan: 150.08, 
+			Feb: 113.84, 
+			Mar: 131.63, 
+			Apr: 79.48 
 		}
 	}
 }); 
@@ -20301,11 +20301,11 @@ WeatherOutlook.insert({
 	municipality: "Candelaria", 
 	data: {
 		month: {
-			Nov: 247.72, 
-			Dec: 224.5, 
-			Jan: 68.62, 
-			Feb: 46.58, 
-			Mar: 56.24 
+			Dec: 224.16, 
+			Jan: 68.47, 
+			Feb: 46.50, 
+			Mar: 55.99, 
+			Apr: 53.92 
 		}
 	}
 }); 
@@ -20316,11 +20316,11 @@ WeatherOutlook.insert({
 	municipality: "Catanauan", 
 	data: {
 		month: {
-			Nov: 306.1, 
-			Dec: 320.63, 
-			Jan: 111.66, 
-			Feb: 79.38, 
-			Mar: 92.86 
+			Dec: 320.37, 
+			Jan: 111.59, 
+			Feb: 79.32, 
+			Mar: 93.22, 
+			Apr: 70.31 
 		}
 	}
 }); 
@@ -20331,11 +20331,11 @@ WeatherOutlook.insert({
 	municipality: "Dolores", 
 	data: {
 		month: {
-			Nov: 254.17, 
-			Dec: 222.52, 
-			Jan: 63.57, 
-			Feb: 47.62, 
-			Mar: 59.09 
+			Dec: 222.23, 
+			Jan: 63.46, 
+			Feb: 47.57, 
+			Mar: 58.79, 
+			Apr: 57.31 
 		}
 	}
 }); 
@@ -20346,11 +20346,11 @@ WeatherOutlook.insert({
 	municipality: "General Luna", 
 	data: {
 		month: {
-			Nov: 364.48, 
-			Dec: 388.71, 
-			Jan: 132.58, 
-			Feb: 96.39, 
-			Mar: 110.39 
+			Dec: 388.41, 
+			Jan: 132.50, 
+			Feb: 96.32, 
+			Mar: 110.71, 
+			Apr: 79.34 
 		}
 	}
 }); 
@@ -20361,11 +20361,11 @@ WeatherOutlook.insert({
 	municipality: "General Nakar", 
 	data: {
 		month: {
-			Nov: 431.77, 
-			Dec: 300.06, 
-			Jan: 143.25, 
+			Dec: 299.85, 
+			Jan: 143.18, 
 			Feb: 95.71, 
-			Mar: 135.4 
+			Mar: 135.03, 
+			Apr: 113.02 
 		}
 	}
 }); 
@@ -20376,11 +20376,11 @@ WeatherOutlook.insert({
 	municipality: "Guinayangan", 
 	data: {
 		month: {
-			Nov: 418.83, 
-			Dec: 486.81, 
-			Jan: 154.68, 
-			Feb: 112.35, 
-			Mar: 139.33 
+			Dec: 486.51, 
+			Jan: 154.60, 
+			Feb: 112.27, 
+			Mar: 139.72, 
+			Apr: 89.66 
 		}
 	}
 }); 
@@ -20391,11 +20391,11 @@ WeatherOutlook.insert({
 	municipality: "Gumaca", 
 	data: {
 		month: {
-			Nov: 410.51, 
-			Dec: 472.77, 
-			Jan: 148.63, 
-			Feb: 112.19, 
-			Mar: 117.73 
+			Dec: 472.41, 
+			Jan: 148.55, 
+			Feb: 112.11, 
+			Mar: 118.10, 
+			Apr: 78.81 
 		}
 	}
 }); 
@@ -20406,11 +20406,11 @@ WeatherOutlook.insert({
 	municipality: "Hinunangan", 
 	data: {
 		month: {
-			Nov: 352.45, 
-			Dec: 437.04, 
-			Jan: 477.56, 
-			Feb: 234.08, 
-			Mar: 246.28 
+			Dec: 437.33, 
+			Jan: 477.70, 
+			Feb: 234.23, 
+			Mar: 248.44, 
+			Apr: 155.41 
 		}
 	}
 }); 
@@ -20421,11 +20421,11 @@ WeatherOutlook.insert({
 	municipality: "Infanta", 
 	data: {
 		month: {
-			Nov: 460.5, 
-			Dec: 325.97, 
-			Jan: 252.45, 
-			Feb: 170.34, 
-			Mar: 205.19 
+			Dec: 325.57, 
+			Jan: 252.29, 
+			Feb: 170.28, 
+			Mar: 205.04, 
+			Apr: 134.41 
 		}
 	}
 }); 
@@ -20436,11 +20436,11 @@ WeatherOutlook.insert({
 	municipality: "Jomalig", 
 	data: {
 		month: {
-			Nov: 369, 
-			Dec: 415.34, 
-			Jan: 158.83, 
+			Dec: 415.14, 
+			Jan: 158.82, 
 			Feb: 106.01, 
-			Mar: 110.59 
+			Mar: 110.82, 
+			Apr: 73.48 
 		}
 	}
 }); 
@@ -20451,11 +20451,11 @@ WeatherOutlook.insert({
 	municipality: "Lopez", 
 	data: {
 		month: {
-			Nov: 401.86, 
-			Dec: 453.94, 
-			Jan: 146.34, 
-			Feb: 108.56, 
-			Mar: 126.76 
+			Dec: 453.65, 
+			Jan: 146.26, 
+			Feb: 108.48, 
+			Mar: 127.11, 
+			Apr: 87.94 
 		}
 	}
 }); 
@@ -20466,11 +20466,11 @@ WeatherOutlook.insert({
 	municipality: "Lucban", 
 	data: {
 		month: {
-			Nov: 357.16, 
-			Dec: 318.33, 
-			Jan: 93.78, 
-			Feb: 67.92, 
-			Mar: 90.06 
+			Dec: 318.02, 
+			Jan: 93.68, 
+			Feb: 67.86, 
+			Mar: 89.98, 
+			Apr: 71.27 
 		}
 	}
 }); 
@@ -20481,11 +20481,11 @@ WeatherOutlook.insert({
 	municipality: "Lucena City", 
 	data: {
 		month: {
-			Nov: 305.19, 
-			Dec: 284.49, 
-			Jan: 79.02, 
-			Feb: 62.75, 
-			Mar: 60.62 
+			Dec: 284.21, 
+			Jan: 78.94, 
+			Feb: 62.70, 
+			Mar: 60.63, 
+			Apr: 51.20 
 		}
 	}
 }); 
@@ -20496,11 +20496,11 @@ WeatherOutlook.insert({
 	municipality: "Macalelon", 
 	data: {
 		month: {
-			Nov: 390.49, 
-			Dec: 431.57, 
-			Jan: 135.88, 
-			Feb: 102.96, 
-			Mar: 117.22 
+			Dec: 431.25, 
+			Jan: 135.81, 
+			Feb: 102.89, 
+			Mar: 117.55, 
+			Apr: 83.03 
 		}
 	}
 }); 
@@ -20511,11 +20511,11 @@ WeatherOutlook.insert({
 	municipality: "Mauban", 
 	data: {
 		month: {
-			Nov: 390.85, 
-			Dec: 385.03, 
-			Jan: 118.15, 
-			Feb: 83.31, 
-			Mar: 105.67 
+			Dec: 384.77, 
+			Jan: 118.08, 
+			Feb: 83.27, 
+			Mar: 105.71, 
+			Apr: 72.07 
 		}
 	}
 }); 
@@ -20526,11 +20526,11 @@ WeatherOutlook.insert({
 	municipality: "Mulanay", 
 	data: {
 		month: {
-			Nov: 260.04, 
-			Dec: 276, 
-			Jan: 91.22, 
-			Feb: 59.3, 
-			Mar: 77.88 
+			Dec: 275.76, 
+			Jan: 91.16, 
+			Feb: 59.24, 
+			Mar: 78.31, 
+			Apr: 55.31 
 		}
 	}
 }); 
@@ -20541,11 +20541,11 @@ WeatherOutlook.insert({
 	municipality: "Padre Burgos", 
 	data: {
 		month: {
-			Nov: 375.27, 
-			Dec: 371.95, 
-			Jan: 129.71, 
-			Feb: 93.15, 
-			Mar: 86.59 
+			Dec: 371.60, 
+			Jan: 129.63, 
+			Feb: 93.06, 
+			Mar: 86.89, 
+			Apr: 69.68 
 		}
 	}
 }); 
@@ -20556,11 +20556,11 @@ WeatherOutlook.insert({
 	municipality: "Pagbilao", 
 	data: {
 		month: {
-			Nov: 338.16, 
-			Dec: 332.11, 
-			Jan: 97.76, 
-			Feb: 72.34, 
-			Mar: 75.13 
+			Dec: 331.78, 
+			Jan: 97.67, 
+			Feb: 72.27, 
+			Mar: 75.28, 
+			Apr: 62.48 
 		}
 	}
 }); 
@@ -20571,11 +20571,11 @@ WeatherOutlook.insert({
 	municipality: "Panukulan", 
 	data: {
 		month: {
-			Nov: 445.47, 
-			Dec: 388.73, 
-			Jan: 166.03, 
-			Feb: 116.36, 
-			Mar: 147.42 
+			Dec: 388.52, 
+			Jan: 166.02, 
+			Feb: 116.39, 
+			Mar: 147.53, 
+			Apr: 100.39 
 		}
 	}
 }); 
@@ -20586,11 +20586,11 @@ WeatherOutlook.insert({
 	municipality: "Patnanungan", 
 	data: {
 		month: {
-			Nov: 429.96, 
-			Dec: 431.83, 
-			Jan: 162.89, 
-			Feb: 114.65, 
-			Mar: 129.5 
+			Dec: 431.61, 
+			Jan: 162.87, 
+			Feb: 114.67, 
+			Mar: 129.64, 
+			Apr: 85.49 
 		}
 	}
 }); 
@@ -20601,11 +20601,11 @@ WeatherOutlook.insert({
 	municipality: "Perez", 
 	data: {
 		month: {
-			Nov: 452.58, 
-			Dec: 527.6, 
-			Jan: 151.5, 
-			Feb: 116.92, 
-			Mar: 116.12 
+			Dec: 527.20, 
+			Jan: 151.40, 
+			Feb: 116.83, 
+			Mar: 116.41, 
+			Apr: 67.73 
 		}
 	}
 }); 
@@ -20616,11 +20616,11 @@ WeatherOutlook.insert({
 	municipality: "Pitogo", 
 	data: {
 		month: {
-			Nov: 398.2, 
-			Dec: 422.22, 
-			Jan: 138.81, 
-			Feb: 105.41, 
-			Mar: 113.28 
+			Dec: 421.88, 
+			Jan: 138.73, 
+			Feb: 105.32, 
+			Mar: 113.61, 
+			Apr: 80.69 
 		}
 	}
 }); 
@@ -20631,11 +20631,11 @@ WeatherOutlook.insert({
 	municipality: "Plaridel", 
 	data: {
 		month: {
-			Nov: 428.6, 
-			Dec: 512.92, 
-			Jan: 160.37, 
-			Feb: 125.72, 
-			Mar: 115.57 
+			Dec: 512.54, 
+			Jan: 160.30, 
+			Feb: 125.61, 
+			Mar: 116.00, 
+			Apr: 72.10 
 		}
 	}
 }); 
@@ -20646,11 +20646,11 @@ WeatherOutlook.insert({
 	municipality: "Polillo", 
 	data: {
 		month: {
-			Nov: 415.64, 
-			Dec: 400.89, 
-			Jan: 158.66, 
-			Feb: 113.51, 
-			Mar: 140.01 
+			Dec: 400.67, 
+			Jan: 158.65, 
+			Feb: 113.54, 
+			Mar: 140.10, 
+			Apr: 83.70 
 		}
 	}
 }); 
@@ -20661,11 +20661,11 @@ WeatherOutlook.insert({
 	municipality: "Quezon", 
 	data: {
 		month: {
-			Nov: 487.01, 
-			Dec: 590.99, 
-			Jan: 172.79, 
-			Feb: 132.9, 
-			Mar: 125.21 
+			Dec: 590.62, 
+			Jan: 172.71, 
+			Feb: 132.80, 
+			Mar: 125.57, 
+			Apr: 71.20 
 		}
 	}
 }); 
@@ -20676,11 +20676,11 @@ WeatherOutlook.insert({
 	municipality: "Real", 
 	data: {
 		month: {
-			Nov: 411.69, 
-			Dec: 347.26, 
-			Jan: 149.56, 
-			Feb: 97.03, 
-			Mar: 134.07 
+			Dec: 347.02, 
+			Jan: 149.49, 
+			Feb: 97.01, 
+			Mar: 133.88, 
+			Apr: 94.28 
 		}
 	}
 }); 
@@ -20691,11 +20691,11 @@ WeatherOutlook.insert({
 	municipality: "Sampaloc", 
 	data: {
 		month: {
-			Nov: 377.08, 
-			Dec: 356.56, 
-			Jan: 104.97, 
-			Feb: 79.74, 
-			Mar: 102.62 
+			Dec: 356.32, 
+			Jan: 104.90, 
+			Feb: 79.70, 
+			Mar: 102.59, 
+			Apr: 72.69 
 		}
 	}
 }); 
@@ -20706,11 +20706,11 @@ WeatherOutlook.insert({
 	municipality: "San Andres", 
 	data: {
 		month: {
-			Nov: 180.95, 
-			Dec: 155.34, 
-			Jan: 58.87, 
-			Feb: 43.82, 
-			Mar: 51.05 
+			Dec: 155.12, 
+			Jan: 58.83, 
+			Feb: 43.76, 
+			Mar: 51.60, 
+			Apr: 54.59 
 		}
 	}
 }); 
@@ -20721,11 +20721,11 @@ WeatherOutlook.insert({
 	municipality: "San Antonio", 
 	data: {
 		month: {
-			Nov: 177.72, 
-			Dec: 160.21, 
-			Jan: 54.72, 
-			Feb: 42.66, 
-			Mar: 48.54 
+			Dec: 159.73, 
+			Jan: 54.46, 
+			Feb: 42.50, 
+			Mar: 48.07, 
+			Apr: 50.79 
 		}
 	}
 }); 
@@ -20736,11 +20736,11 @@ WeatherOutlook.insert({
 	municipality: "San Francisco", 
 	data: {
 		month: {
-			Nov: 172.69, 
-			Dec: 157.35, 
-			Jan: 68.3, 
-			Feb: 37.07, 
-			Mar: 46.37 
+			Dec: 157.15, 
+			Jan: 68.26, 
+			Feb: 37.02, 
+			Mar: 46.89, 
+			Apr: 42.90 
 		}
 	}
 }); 
@@ -20751,11 +20751,11 @@ WeatherOutlook.insert({
 	municipality: "San Narciso", 
 	data: {
 		month: {
-			Nov: 258.44, 
-			Dec: 280.16, 
-			Jan: 94.39, 
-			Feb: 64.99, 
-			Mar: 80.3 
+			Dec: 279.92, 
+			Jan: 94.35, 
+			Feb: 64.94, 
+			Mar: 80.78, 
+			Apr: 60.15 
 		}
 	}
 }); 
@@ -20766,11 +20766,11 @@ WeatherOutlook.insert({
 	municipality: "Sariaya", 
 	data: {
 		month: {
-			Nov: 274.66, 
-			Dec: 257.44, 
-			Jan: 74.32, 
-			Feb: 48.89, 
-			Mar: 55.64 
+			Dec: 257.10, 
+			Jan: 74.18, 
+			Feb: 48.80, 
+			Mar: 55.49, 
+			Apr: 51.33 
 		}
 	}
 }); 
@@ -20781,11 +20781,11 @@ WeatherOutlook.insert({
 	municipality: "Tagkawayan", 
 	data: {
 		month: {
-			Nov: 489.86, 
-			Dec: 550.47, 
-			Jan: 184.14, 
-			Feb: 134.27, 
-			Mar: 170.98 
+			Dec: 550.22, 
+			Jan: 184.11, 
+			Feb: 134.23, 
+			Mar: 171.48, 
+			Apr: 100.83 
 		}
 	}
 }); 
@@ -20796,11 +20796,11 @@ WeatherOutlook.insert({
 	municipality: "Tayabas City", 
 	data: {
 		month: {
-			Nov: 346.4, 
-			Dec: 324.78, 
-			Jan: 87.78, 
-			Feb: 64.09, 
-			Mar: 76.67 
+			Dec: 324.43, 
+			Jan: 87.66, 
+			Feb: 64.02, 
+			Mar: 76.65, 
+			Apr: 62.52 
 		}
 	}
 }); 
@@ -20811,11 +20811,11 @@ WeatherOutlook.insert({
 	municipality: "Tiaong", 
 	data: {
 		month: {
-			Nov: 204.02, 
-			Dec: 181.49, 
-			Jan: 58.38, 
-			Feb: 44, 
-			Mar: 50.17 
+			Dec: 181.17, 
+			Jan: 58.25, 
+			Feb: 43.93, 
+			Mar: 49.81, 
+			Apr: 49.67 
 		}
 	}
 }); 
@@ -20826,11 +20826,11 @@ WeatherOutlook.insert({
 	municipality: "Unisan", 
 	data: {
 		month: {
-			Nov: 405.23, 
-			Dec: 430.57, 
-			Jan: 144.03, 
-			Feb: 111.3, 
-			Mar: 109.61 
+			Dec: 430.18, 
+			Jan: 143.95, 
+			Feb: 111.21, 
+			Mar: 110.00, 
+			Apr: 75.60 
 		}
 	}
 }); 
@@ -20841,11 +20841,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 336.24, 
-			Dec: 224.66, 
-			Jan: 81.97, 
-			Feb: 76.83, 
-			Mar: 125.2 
+			Dec: 224.58, 
+			Jan: 82.00, 
+			Feb: 76.91, 
+			Mar: 124.65, 
+			Apr: 113.76 
 		}
 	}
 }); 
@@ -20856,11 +20856,11 @@ WeatherOutlook.insert({
 	municipality: "Aglipay", 
 	data: {
 		month: {
-			Nov: 294.79, 
-			Dec: 187.62, 
-			Jan: 72.69, 
-			Feb: 69.22, 
-			Mar: 118.65 
+			Dec: 187.53, 
+			Jan: 72.71, 
+			Feb: 69.30, 
+			Mar: 118.13, 
+			Apr: 101.11 
 		}
 	}
 }); 
@@ -20871,11 +20871,11 @@ WeatherOutlook.insert({
 	municipality: "Cabarroguis", 
 	data: {
 		month: {
-			Nov: 272.04, 
-			Dec: 180.31, 
+			Dec: 180.18, 
 			Jan: 65.86, 
-			Feb: 61.96, 
-			Mar: 109.4 
+			Feb: 62.02, 
+			Mar: 108.77, 
+			Apr: 109.90 
 		}
 	}
 }); 
@@ -20886,11 +20886,11 @@ WeatherOutlook.insert({
 	municipality: "Diffun", 
 	data: {
 		month: {
-			Nov: 248.95, 
-			Dec: 168.36, 
-			Jan: 56.02, 
-			Feb: 52.6, 
-			Mar: 94.56 
+			Dec: 168.26, 
+			Jan: 56.04, 
+			Feb: 52.67, 
+			Mar: 93.89, 
+			Apr: 102.60 
 		}
 	}
 }); 
@@ -20901,11 +20901,11 @@ WeatherOutlook.insert({
 	municipality: "Maddela", 
 	data: {
 		month: {
-			Nov: 431.26, 
-			Dec: 311.52, 
-			Jan: 102.12, 
-			Feb: 97.01, 
-			Mar: 146.53 
+			Dec: 311.39, 
+			Jan: 102.13, 
+			Feb: 97.07, 
+			Mar: 146.11, 
+			Apr: 116.46 
 		}
 	}
 }); 
@@ -20916,11 +20916,11 @@ WeatherOutlook.insert({
 	municipality: "Nagtipunan", 
 	data: {
 		month: {
-			Nov: 329.05, 
-			Dec: 207.16, 
-			Jan: 83.28, 
-			Feb: 77.09, 
-			Mar: 126.66 
+			Dec: 207.07, 
+			Jan: 83.29, 
+			Feb: 77.16, 
+			Mar: 126.05, 
+			Apr: 120.05 
 		}
 	}
 }); 
@@ -20931,11 +20931,11 @@ WeatherOutlook.insert({
 	municipality: "Saguday", 
 	data: {
 		month: {
-			Nov: 243.78, 
-			Dec: 157.43, 
-			Jan: 59.49, 
-			Feb: 53.71, 
-			Mar: 98.53 
+			Dec: 157.25, 
+			Jan: 59.46, 
+			Feb: 53.76, 
+			Mar: 97.94, 
+			Apr: 93.03 
 		}
 	}
 }); 
@@ -20946,11 +20946,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 269.3, 
-			Dec: 217.62, 
-			Jan: 55.48, 
-			Feb: 35.52, 
-			Mar: 55.02 
+			Dec: 217.33, 
+			Jan: 55.35, 
+			Feb: 35.48, 
+			Mar: 54.53, 
+			Apr: 53.56 
 		}
 	}
 }); 
@@ -20961,11 +20961,11 @@ WeatherOutlook.insert({
 	municipality: "Angono", 
 	data: {
 		month: {
-			Nov: 205.89, 
-			Dec: 152.78, 
-			Jan: 25.18, 
-			Feb: 15.7, 
-			Mar: 22.86 
+			Dec: 152.46, 
+			Jan: 25.02, 
+			Feb: 15.65, 
+			Mar: 22.33, 
+			Apr: 34.05 
 		}
 	}
 }); 
@@ -20976,11 +20976,11 @@ WeatherOutlook.insert({
 	municipality: "Antipolo City", 
 	data: {
 		month: {
-			Nov: 261.56, 
-			Dec: 201.71, 
-			Jan: 58.53, 
-			Feb: 37.91, 
-			Mar: 62.23 
+			Dec: 201.48, 
+			Jan: 58.45, 
+			Feb: 37.90, 
+			Mar: 61.73, 
+			Apr: 59.70 
 		}
 	}
 }); 
@@ -20991,11 +20991,11 @@ WeatherOutlook.insert({
 	municipality: "Baras", 
 	data: {
 		month: {
-			Nov: 251.65, 
-			Dec: 228.56, 
-			Jan: 56.12, 
-			Feb: 35.23, 
-			Mar: 52.6 
+			Dec: 228.23, 
+			Jan: 55.97, 
+			Feb: 35.17, 
+			Mar: 52.15, 
+			Apr: 47.47 
 		}
 	}
 }); 
@@ -21006,11 +21006,11 @@ WeatherOutlook.insert({
 	municipality: "Binangonan", 
 	data: {
 		month: {
-			Nov: 269.96, 
-			Dec: 226.18, 
-			Jan: 38.7, 
-			Feb: 25.16, 
-			Mar: 33.1 
+			Dec: 225.95, 
+			Jan: 38.61, 
+			Feb: 25.13, 
+			Mar: 32.63, 
+			Apr: 34.40 
 		}
 	}
 }); 
@@ -21021,11 +21021,11 @@ WeatherOutlook.insert({
 	municipality: "Cainta", 
 	data: {
 		month: {
-			Nov: 151.31, 
-			Dec: 98.13, 
-			Jan: 22.8, 
-			Feb: 15.47, 
-			Mar: 23.56 
+			Dec: 97.82, 
+			Jan: 22.66, 
+			Feb: 15.43, 
+			Mar: 22.97, 
+			Apr: 33.89 
 		}
 	}
 }); 
@@ -21036,11 +21036,11 @@ WeatherOutlook.insert({
 	municipality: "Cardona", 
 	data: {
 		month: {
-			Nov: 283.67, 
-			Dec: 242.28, 
-			Jan: 45.26, 
-			Feb: 28.02, 
-			Mar: 36.75 
+			Dec: 241.94, 
+			Jan: 45.10, 
+			Feb: 27.95, 
+			Mar: 36.29, 
+			Apr: 35.29 
 		}
 	}
 }); 
@@ -21051,11 +21051,11 @@ WeatherOutlook.insert({
 	municipality: "Jala-Jala", 
 	data: {
 		month: {
-			Nov: 310.61, 
-			Dec: 275.76, 
-			Jan: 67.02, 
-			Feb: 37.98, 
-			Mar: 52.22 
+			Dec: 275.47, 
+			Jan: 66.90, 
+			Feb: 37.94, 
+			Mar: 51.86, 
+			Apr: 47.18 
 		}
 	}
 }); 
@@ -21066,11 +21066,11 @@ WeatherOutlook.insert({
 	municipality: "Morong", 
 	data: {
 		month: {
-			Nov: 217.52, 
-			Dec: 192.42, 
-			Jan: 42.43, 
-			Feb: 26.57, 
-			Mar: 39.75 
+			Dec: 192.07, 
+			Jan: 42.26, 
+			Feb: 26.50, 
+			Mar: 39.25, 
+			Apr: 39.12 
 		}
 	}
 }); 
@@ -21081,11 +21081,11 @@ WeatherOutlook.insert({
 	municipality: "Pililla", 
 	data: {
 		month: {
-			Nov: 301.43, 
-			Dec: 275.09, 
-			Jan: 66.14, 
-			Feb: 39.68, 
-			Mar: 56.24 
+			Dec: 274.78, 
+			Jan: 66.00, 
+			Feb: 39.62, 
+			Mar: 55.86, 
+			Apr: 47.73 
 		}
 	}
 }); 
@@ -21096,11 +21096,11 @@ WeatherOutlook.insert({
 	municipality: "Rodriguez", 
 	data: {
 		month: {
-			Nov: 319.68, 
-			Dec: 227.09, 
-			Jan: 67.56, 
-			Feb: 44.79, 
-			Mar: 74.77 
+			Dec: 226.88, 
+			Jan: 67.49, 
+			Feb: 44.81, 
+			Mar: 74.18, 
+			Apr: 79.63 
 		}
 	}
 }); 
@@ -21111,11 +21111,11 @@ WeatherOutlook.insert({
 	municipality: "San Mateo", 
 	data: {
 		month: {
-			Nov: 223.89, 
-			Dec: 159.41, 
-			Jan: 37.25, 
+			Dec: 159.17, 
+			Jan: 37.16, 
 			Feb: 26.17, 
-			Mar: 45.03 
+			Mar: 44.40, 
+			Apr: 49.43 
 		}
 	}
 }); 
@@ -21126,11 +21126,11 @@ WeatherOutlook.insert({
 	municipality: "Tanay", 
 	data: {
 		month: {
-			Nov: 296.23, 
-			Dec: 260.56, 
-			Jan: 76.91, 
-			Feb: 49.33, 
-			Mar: 76.49 
+			Dec: 260.32, 
+			Jan: 76.82, 
+			Feb: 49.31, 
+			Mar: 76.10, 
+			Apr: 62.66 
 		}
 	}
 }); 
@@ -21141,26 +21141,26 @@ WeatherOutlook.insert({
 	municipality: "Taytay", 
 	data: {
 		month: {
-			Nov: 178.13, 
-			Dec: 129.05, 
-			Jan: 19.42, 
-			Feb: 13.77, 
-			Mar: 18.86 
+			Dec: 128.71, 
+			Jan: 19.26, 
+			Feb: 13.71, 
+			Mar: 18.29, 
+			Apr: 32.40 
 		}
 	}
 }); 
 
 WeatherOutlook.insert({ 
 	region: "Region IV-A: CALABARZON", 
-	province: "Antipolo", 
+	province: "Rizal", 
 	municipality: "Teresa", 
 	data: {
 		month: {
-			Nov: 202.36, 
-			Dec: 164.47, 
-			Jan: 35.81, 
-			Feb: 21.51, 
-			Mar: 33.3 
+			Dec: 164.14, 
+			Jan: 35.65, 
+			Feb: 21.45, 
+			Mar: 32.79, 
+			Apr: 37.38 
 		}
 	}
 }); 
@@ -21171,11 +21171,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 230.29, 
-			Dec: 162.84, 
-			Jan: 84.98, 
-			Feb: 44.17, 
-			Mar: 51.81 
+			Dec: 162.57, 
+			Jan: 84.92, 
+			Feb: 44.13, 
+			Mar: 52.15, 
+			Apr: 57.05 
 		}
 	}
 }); 
@@ -21186,11 +21186,11 @@ WeatherOutlook.insert({
 	municipality: "Alcantara", 
 	data: {
 		month: {
-			Nov: 222.53, 
-			Dec: 162.58, 
-			Jan: 75.17, 
-			Feb: 38.1, 
-			Mar: 40.61 
+			Dec: 162.24, 
+			Jan: 75.00, 
+			Feb: 37.99, 
+			Mar: 40.81, 
+			Apr: 55.62 
 		}
 	}
 }); 
@@ -21201,11 +21201,11 @@ WeatherOutlook.insert({
 	municipality: "Banton", 
 	data: {
 		month: {
-			Nov: 231.93, 
-			Dec: 155.23, 
-			Jan: 73.45, 
-			Feb: 38.27, 
-			Mar: 37.39 
+			Dec: 154.69, 
+			Jan: 73.19, 
+			Feb: 38.00, 
+			Mar: 37.55, 
+			Apr: 49.54 
 		}
 	}
 }); 
@@ -21216,11 +21216,11 @@ WeatherOutlook.insert({
 	municipality: "Cajidiocan", 
 	data: {
 		month: {
-			Nov: 245.52, 
-			Dec: 179.18, 
-			Jan: 113.52, 
-			Feb: 57.89, 
-			Mar: 80.17 
+			Dec: 179.03, 
+			Jan: 113.50, 
+			Feb: 57.86, 
+			Mar: 80.75, 
+			Apr: 63.85 
 		}
 	}
 }); 
@@ -21231,11 +21231,11 @@ WeatherOutlook.insert({
 	municipality: "Calatrava", 
 	data: {
 		month: {
-			Nov: 239.45, 
-			Dec: 161.71, 
-			Jan: 83.56, 
-			Feb: 43.98, 
-			Mar: 49.76 
+			Dec: 161.37, 
+			Jan: 83.40, 
+			Feb: 43.86, 
+			Mar: 50.01, 
+			Apr: 59.00 
 		}
 	}
 }); 
@@ -21246,11 +21246,11 @@ WeatherOutlook.insert({
 	municipality: "Concepcion", 
 	data: {
 		month: {
-			Nov: 180.06, 
-			Dec: 115.34, 
-			Jan: 49.8, 
-			Feb: 31.49, 
-			Mar: 25.25 
+			Dec: 114.76, 
+			Jan: 49.59, 
+			Feb: 31.37, 
+			Mar: 25.44, 
+			Apr: 35.61 
 		}
 	}
 }); 
@@ -21261,11 +21261,11 @@ WeatherOutlook.insert({
 	municipality: "Corcuera", 
 	data: {
 		month: {
-			Nov: 231.4, 
-			Dec: 146.5, 
-			Jan: 80.23, 
-			Feb: 48.54, 
-			Mar: 39.98 
+			Dec: 146.05, 
+			Jan: 80.02, 
+			Feb: 48.35, 
+			Mar: 40.18, 
+			Apr: 53.44 
 		}
 	}
 }); 
@@ -21276,11 +21276,11 @@ WeatherOutlook.insert({
 	municipality: "Ferrol", 
 	data: {
 		month: {
-			Nov: 206.27, 
-			Dec: 156.93, 
-			Jan: 60.9, 
-			Feb: 31.17, 
-			Mar: 31.3 
+			Dec: 156.56, 
+			Jan: 60.72, 
+			Feb: 31.06, 
+			Mar: 31.48, 
+			Apr: 51.74 
 		}
 	}
 }); 
@@ -21291,11 +21291,11 @@ WeatherOutlook.insert({
 	municipality: "Looc", 
 	data: {
 		month: {
-			Nov: 222.33, 
-			Dec: 167.27, 
-			Jan: 71.87, 
-			Feb: 39.86, 
-			Mar: 38.94 
+			Dec: 166.91, 
+			Jan: 71.69, 
+			Feb: 39.75, 
+			Mar: 39.12, 
+			Apr: 53.17 
 		}
 	}
 }); 
@@ -21306,11 +21306,11 @@ WeatherOutlook.insert({
 	municipality: "Magdiwang", 
 	data: {
 		month: {
-			Nov: 243.13, 
-			Dec: 164.9, 
-			Jan: 109, 
-			Feb: 51.19, 
-			Mar: 77.39 
+			Dec: 164.73, 
+			Jan: 108.96, 
+			Feb: 51.15, 
+			Mar: 77.90, 
+			Apr: 64.82 
 		}
 	}
 }); 
@@ -21321,11 +21321,11 @@ WeatherOutlook.insert({
 	municipality: "Odiongan", 
 	data: {
 		month: {
-			Nov: 215.43, 
-			Dec: 162.73, 
-			Jan: 68.04, 
-			Feb: 34.23, 
-			Mar: 37.35 
+			Dec: 162.43, 
+			Jan: 67.90, 
+			Feb: 34.14, 
+			Mar: 37.59, 
+			Apr: 55.24 
 		}
 	}
 }); 
@@ -21336,11 +21336,11 @@ WeatherOutlook.insert({
 	municipality: "Romblon", 
 	data: {
 		month: {
-			Nov: 237.31, 
-			Dec: 163.76, 
-			Jan: 97.16, 
-			Feb: 53.4, 
-			Mar: 63.28 
+			Dec: 163.49, 
+			Jan: 97.04, 
+			Feb: 53.31, 
+			Mar: 63.62, 
+			Apr: 63.93 
 		}
 	}
 }); 
@@ -21351,11 +21351,11 @@ WeatherOutlook.insert({
 	municipality: "San Agustin", 
 	data: {
 		month: {
-			Nov: 233.5, 
-			Dec: 161.4, 
-			Jan: 84.53, 
-			Feb: 40.21, 
-			Mar: 50.2 
+			Dec: 161.10, 
+			Jan: 84.42, 
+			Feb: 40.13, 
+			Mar: 50.50, 
+			Apr: 59.34 
 		}
 	}
 }); 
@@ -21366,11 +21366,11 @@ WeatherOutlook.insert({
 	municipality: "San Andres", 
 	data: {
 		month: {
-			Nov: 228.73, 
-			Dec: 163.91, 
-			Jan: 77.2, 
-			Feb: 44.62, 
-			Mar: 45.33 
+			Dec: 163.60, 
+			Jan: 77.06, 
+			Feb: 44.53, 
+			Mar: 45.58, 
+			Apr: 56.94 
 		}
 	}
 }); 
@@ -21381,11 +21381,11 @@ WeatherOutlook.insert({
 	municipality: "San Fernando", 
 	data: {
 		month: {
-			Nov: 237.62, 
-			Dec: 169.78, 
-			Jan: 101.53, 
-			Feb: 49.45, 
-			Mar: 70.96 
+			Dec: 169.63, 
+			Jan: 101.50, 
+			Feb: 49.42, 
+			Mar: 71.50, 
+			Apr: 59.89 
 		}
 	}
 }); 
@@ -21396,11 +21396,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 271.69, 
-			Dec: 190.9, 
-			Jan: 94.34, 
-			Feb: 54.21, 
-			Mar: 49.67 
+			Dec: 190.41, 
+			Jan: 94.13, 
+			Feb: 54.07, 
+			Mar: 49.75, 
+			Apr: 55.49 
 		}
 	}
 }); 
@@ -21411,11 +21411,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Fe", 
 	data: {
 		month: {
-			Nov: 235.97, 
-			Dec: 162.23, 
-			Jan: 79.46, 
-			Feb: 48.04, 
-			Mar: 42.2 
+			Dec: 161.82, 
+			Jan: 79.29, 
+			Feb: 47.94, 
+			Mar: 42.35, 
+			Apr: 53.79 
 		}
 	}
 }); 
@@ -21426,11 +21426,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Maria", 
 	data: {
 		month: {
-			Nov: 222.45, 
-			Dec: 158.88, 
-			Jan: 79.11, 
-			Feb: 35.93, 
-			Mar: 42.39 
+			Dec: 158.56, 
+			Jan: 78.95, 
+			Feb: 35.83, 
+			Mar: 42.64, 
+			Apr: 56.60 
 		}
 	}
 }); 
@@ -21441,11 +21441,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 411.68, 
-			Dec: 494.18, 
-			Jan: 357.09, 
-			Feb: 218.66, 
-			Mar: 250.23 
+			Dec: 494.50, 
+			Jan: 357.41, 
+			Feb: 218.83, 
+			Mar: 252.22, 
+			Apr: 160.73 
 		}
 	}
 }); 
@@ -21456,11 +21456,11 @@ WeatherOutlook.insert({
 	municipality: "Almagro", 
 	data: {
 		month: {
-			Nov: 245.09, 
-			Dec: 268.45, 
-			Jan: 203.7, 
-			Feb: 125.66, 
-			Mar: 129.09 
+			Dec: 268.64, 
+			Jan: 203.91, 
+			Feb: 125.73, 
+			Mar: 130.53, 
+			Apr: 86.03 
 		}
 	}
 }); 
@@ -21471,11 +21471,11 @@ WeatherOutlook.insert({
 	municipality: "Basey", 
 	data: {
 		month: {
-			Nov: 437.5, 
-			Dec: 549.16, 
-			Jan: 398.63, 
-			Feb: 256.02, 
-			Mar: 269.84 
+			Dec: 549.44, 
+			Jan: 398.86, 
+			Feb: 256.17, 
+			Mar: 271.91, 
+			Apr: 174.93 
 		}
 	}
 }); 
@@ -21486,11 +21486,11 @@ WeatherOutlook.insert({
 	municipality: "Calbayog City", 
 	data: {
 		month: {
-			Nov: 410.8, 
-			Dec: 492.88, 
-			Jan: 344.43, 
-			Feb: 206.85, 
-			Mar: 242.39 
+			Dec: 493.07, 
+			Jan: 344.66, 
+			Feb: 206.95, 
+			Mar: 243.99, 
+			Apr: 165.39 
 		}
 	}
 }); 
@@ -21501,11 +21501,11 @@ WeatherOutlook.insert({
 	municipality: "Calbiga", 
 	data: {
 		month: {
-			Nov: 441.54, 
-			Dec: 552.01, 
-			Jan: 373.2, 
-			Feb: 240.71, 
-			Mar: 277.25 
+			Dec: 552.28, 
+			Jan: 373.46, 
+			Feb: 240.85, 
+			Mar: 279.21, 
+			Apr: 176.21 
 		}
 	}
 }); 
@@ -21516,11 +21516,11 @@ WeatherOutlook.insert({
 	municipality: "Catbalogan City", 
 	data: {
 		month: {
-			Nov: 314.18, 
-			Dec: 358.54, 
-			Jan: 275.36, 
-			Feb: 157.65, 
-			Mar: 178.58 
+			Dec: 358.74, 
+			Jan: 275.61, 
+			Feb: 157.76, 
+			Mar: 180.61, 
+			Apr: 118.06 
 		}
 	}
 }); 
@@ -21531,11 +21531,11 @@ WeatherOutlook.insert({
 	municipality: "Daram", 
 	data: {
 		month: {
-			Nov: 352.04, 
-			Dec: 415.37, 
-			Jan: 337.23, 
-			Feb: 204.19, 
-			Mar: 204.13 
+			Dec: 415.64, 
+			Jan: 337.49, 
+			Feb: 204.34, 
+			Mar: 205.96, 
+			Apr: 129.40 
 		}
 	}
 }); 
@@ -21546,11 +21546,11 @@ WeatherOutlook.insert({
 	municipality: "Gandara", 
 	data: {
 		month: {
-			Nov: 426.81, 
-			Dec: 501.79, 
-			Jan: 360.43, 
-			Feb: 217.37, 
-			Mar: 258.78 
+			Dec: 502.09, 
+			Jan: 360.76, 
+			Feb: 217.52, 
+			Mar: 260.83, 
+			Apr: 171.36 
 		}
 	}
 }); 
@@ -21561,11 +21561,11 @@ WeatherOutlook.insert({
 	municipality: "Hinabangan", 
 	data: {
 		month: {
-			Nov: 472.37, 
-			Dec: 578.51, 
-			Jan: 389.95, 
-			Feb: 247.08, 
-			Mar: 301.8 
+			Dec: 578.80, 
+			Jan: 390.23, 
+			Feb: 247.22, 
+			Mar: 303.81, 
+			Apr: 190.30 
 		}
 	}
 }); 
@@ -21576,11 +21576,11 @@ WeatherOutlook.insert({
 	municipality: "Jiabong", 
 	data: {
 		month: {
-			Nov: 382.94, 
-			Dec: 450.09, 
-			Jan: 327.17, 
-			Feb: 188.63, 
-			Mar: 237.32 
+			Dec: 450.56, 
+			Jan: 327.63, 
+			Feb: 188.86, 
+			Mar: 239.57, 
+			Apr: 152.87 
 		}
 	}
 }); 
@@ -21591,11 +21591,11 @@ WeatherOutlook.insert({
 	municipality: "Marabut", 
 	data: {
 		month: {
-			Nov: 421.96, 
-			Dec: 539.46, 
-			Jan: 418.67, 
-			Feb: 251.86, 
-			Mar: 248.73 
+			Dec: 539.75, 
+			Jan: 418.89, 
+			Feb: 252.01, 
+			Mar: 250.98, 
+			Apr: 167.90 
 		}
 	}
 }); 
@@ -21606,11 +21606,11 @@ WeatherOutlook.insert({
 	municipality: "Matuguinao", 
 	data: {
 		month: {
-			Nov: 485.79, 
-			Dec: 569.88, 
-			Jan: 407.21, 
-			Feb: 231.87, 
-			Mar: 309.79 
+			Dec: 570.21, 
+			Jan: 407.57, 
+			Feb: 232.04, 
+			Mar: 311.88, 
+			Apr: 175.29 
 		}
 	}
 }); 
@@ -21621,11 +21621,11 @@ WeatherOutlook.insert({
 	municipality: "Motiong", 
 	data: {
 		month: {
-			Nov: 414.82, 
-			Dec: 491.11, 
-			Jan: 350.17, 
-			Feb: 207.81, 
-			Mar: 262.22 
+			Dec: 491.53, 
+			Jan: 350.61, 
+			Feb: 208.01, 
+			Mar: 264.53, 
+			Apr: 166.38 
 		}
 	}
 }); 
@@ -21636,11 +21636,11 @@ WeatherOutlook.insert({
 	municipality: "Pagsanghan", 
 	data: {
 		month: {
-			Nov: 399.67, 
-			Dec: 444.23, 
-			Jan: 333.37, 
-			Feb: 205.96, 
-			Mar: 218.35 
+			Dec: 444.39, 
+			Jan: 333.58, 
+			Feb: 206.04, 
+			Mar: 220.31, 
+			Apr: 148.29 
 		}
 	}
 }); 
@@ -21651,11 +21651,11 @@ WeatherOutlook.insert({
 	municipality: "Paranas", 
 	data: {
 		month: {
-			Nov: 457.75, 
-			Dec: 542.34, 
-			Jan: 382.39, 
-			Feb: 235.02, 
-			Mar: 291.93 
+			Dec: 542.66, 
+			Jan: 382.74, 
+			Feb: 235.19, 
+			Mar: 294.10, 
+			Apr: 178.95 
 		}
 	}
 }); 
@@ -21666,11 +21666,11 @@ WeatherOutlook.insert({
 	municipality: "Pinabacdao", 
 	data: {
 		month: {
-			Nov: 435.95, 
-			Dec: 544.48, 
-			Jan: 376.42, 
-			Feb: 244.12, 
-			Mar: 279.13 
+			Dec: 544.74, 
+			Jan: 376.65, 
+			Feb: 244.26, 
+			Mar: 281.08, 
+			Apr: 173.70 
 		}
 	}
 }); 
@@ -21681,11 +21681,11 @@ WeatherOutlook.insert({
 	municipality: "San Jorge", 
 	data: {
 		month: {
-			Nov: 417.5, 
-			Dec: 488.83, 
-			Jan: 350.73, 
-			Feb: 211.5, 
-			Mar: 256.59 
+			Dec: 489.21, 
+			Jan: 351.14, 
+			Feb: 211.69, 
+			Mar: 258.87, 
+			Apr: 169.07 
 		}
 	}
 }); 
@@ -21696,11 +21696,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose de Buan", 
 	data: {
 		month: {
-			Nov: 469.85, 
-			Dec: 555.86, 
-			Jan: 386.77, 
-			Feb: 231.19, 
-			Mar: 300.58 
+			Dec: 556.30, 
+			Jan: 387.22, 
+			Feb: 231.40, 
+			Mar: 302.93, 
+			Apr: 184.10 
 		}
 	}
 }); 
@@ -21711,11 +21711,11 @@ WeatherOutlook.insert({
 	municipality: "San Sebastian", 
 	data: {
 		month: {
-			Nov: 408.33, 
-			Dec: 508.65, 
-			Jan: 347.76, 
-			Feb: 212.26, 
-			Mar: 244.76 
+			Dec: 508.93, 
+			Jan: 348.04, 
+			Feb: 212.41, 
+			Mar: 246.76, 
+			Apr: 157.45 
 		}
 	}
 }); 
@@ -21726,11 +21726,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Margarita", 
 	data: {
 		month: {
-			Nov: 400.78, 
-			Dec: 480.65, 
-			Jan: 330.3, 
-			Feb: 210.67, 
-			Mar: 229.87 
+			Dec: 480.93, 
+			Jan: 330.60, 
+			Feb: 210.81, 
+			Mar: 231.73, 
+			Apr: 168.10 
 		}
 	}
 }); 
@@ -21741,11 +21741,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Rita", 
 	data: {
 		month: {
-			Nov: 405.36, 
-			Dec: 505.41, 
-			Jan: 381.42, 
-			Feb: 244.21, 
-			Mar: 241.15 
+			Dec: 505.65, 
+			Jan: 381.63, 
+			Feb: 244.33, 
+			Mar: 243.12, 
+			Apr: 150.80 
 		}
 	}
 }); 
@@ -21756,11 +21756,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Nino", 
 	data: {
 		month: {
-			Nov: 331.24, 
-			Dec: 369.7, 
-			Jan: 281.26, 
-			Feb: 175.15, 
-			Mar: 185.03 
+			Dec: 369.85, 
+			Jan: 281.43, 
+			Feb: 175.22, 
+			Mar: 186.53, 
+			Apr: 125.81 
 		}
 	}
 }); 
@@ -21771,11 +21771,11 @@ WeatherOutlook.insert({
 	municipality: "Tagapul-An", 
 	data: {
 		month: {
-			Nov: 261.36, 
-			Dec: 320.8, 
-			Jan: 240.47, 
-			Feb: 141.3, 
-			Mar: 160.08 
+			Dec: 321.07, 
+			Jan: 240.76, 
+			Feb: 141.37, 
+			Mar: 161.50, 
+			Apr: 99.15 
 		}
 	}
 }); 
@@ -21786,11 +21786,11 @@ WeatherOutlook.insert({
 	municipality: "Talalora", 
 	data: {
 		month: {
-			Nov: 395.14, 
-			Dec: 476.42, 
-			Jan: 357.36, 
-			Feb: 221.65, 
-			Mar: 227.29 
+			Dec: 476.68, 
+			Jan: 357.59, 
+			Feb: 221.78, 
+			Mar: 229.16, 
+			Apr: 136.79 
 		}
 	}
 }); 
@@ -21801,11 +21801,11 @@ WeatherOutlook.insert({
 	municipality: "Tarangnan", 
 	data: {
 		month: {
-			Nov: 349.19, 
-			Dec: 399.21, 
-			Jan: 330.28, 
-			Feb: 197.5, 
-			Mar: 197.86 
+			Dec: 399.44, 
+			Jan: 330.55, 
+			Feb: 197.62, 
+			Mar: 199.80, 
+			Apr: 136.10 
 		}
 	}
 }); 
@@ -21816,11 +21816,11 @@ WeatherOutlook.insert({
 	municipality: "Villareal", 
 	data: {
 		month: {
-			Nov: 407.85, 
-			Dec: 494.31, 
-			Jan: 362.72, 
-			Feb: 228.87, 
-			Mar: 241.44 
+			Dec: 494.58, 
+			Jan: 362.96, 
+			Feb: 229.01, 
+			Mar: 243.35, 
+			Apr: 150.34 
 		}
 	}
 }); 
@@ -21831,11 +21831,11 @@ WeatherOutlook.insert({
 	municipality: "Zumarraga", 
 	data: {
 		month: {
-			Nov: 357.57, 
-			Dec: 412.61, 
-			Jan: 318.51, 
-			Feb: 186.13, 
-			Mar: 200.31 
+			Dec: 412.81, 
+			Jan: 318.71, 
+			Feb: 186.23, 
+			Mar: 202.17, 
+			Apr: 126.97 
 		}
 	}
 }); 
@@ -21846,11 +21846,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 160.42, 
-			Dec: 134.54, 
-			Jan: 124.45, 
-			Feb: 96.85, 
-			Mar: 116.21 
+			Dec: 135.01, 
+			Jan: 124.54, 
+			Feb: 97.16, 
+			Mar: 117.75, 
+			Apr: 100.26 
 		}
 	}
 }); 
@@ -21861,11 +21861,11 @@ WeatherOutlook.insert({
 	municipality: "Alabel", 
 	data: {
 		month: {
-			Nov: 129.74, 
-			Dec: 136.51, 
-			Jan: 120.57, 
-			Feb: 99.58, 
-			Mar: 104.9 
+			Dec: 136.93, 
+			Jan: 120.63, 
+			Feb: 99.86, 
+			Mar: 106.54, 
+			Apr: 81.53 
 		}
 	}
 }); 
@@ -21876,11 +21876,11 @@ WeatherOutlook.insert({
 	municipality: "Glan", 
 	data: {
 		month: {
-			Nov: 165.79, 
-			Dec: 135.31, 
-			Jan: 138.99, 
-			Feb: 91.86, 
-			Mar: 115.64 
+			Dec: 135.72, 
+			Jan: 139.08, 
+			Feb: 92.17, 
+			Mar: 117.44, 
+			Apr: 98.53 
 		}
 	}
 }); 
@@ -21891,11 +21891,11 @@ WeatherOutlook.insert({
 	municipality: "Kiamba", 
 	data: {
 		month: {
-			Nov: 207.33, 
-			Dec: 145.91, 
-			Jan: 108.88, 
-			Feb: 95.74, 
-			Mar: 122.47 
+			Dec: 146.38, 
+			Jan: 108.95, 
+			Feb: 96.03, 
+			Mar: 123.83, 
+			Apr: 121.71 
 		}
 	}
 }); 
@@ -21906,11 +21906,11 @@ WeatherOutlook.insert({
 	municipality: "Maasim", 
 	data: {
 		month: {
-			Nov: 133.77, 
-			Dec: 84.65, 
-			Jan: 120.38, 
-			Feb: 85.27, 
-			Mar: 97.56 
+			Dec: 85.22, 
+			Jan: 120.52, 
+			Feb: 85.64, 
+			Mar: 98.93, 
+			Apr: 83.23 
 		}
 	}
 }); 
@@ -21921,11 +21921,11 @@ WeatherOutlook.insert({
 	municipality: "Maitum", 
 	data: {
 		month: {
-			Nov: 192.53, 
-			Dec: 144.65, 
-			Jan: 109.8, 
-			Feb: 103.11, 
-			Mar: 139.98 
+			Dec: 145.07, 
+			Jan: 109.85, 
+			Feb: 103.37, 
+			Mar: 141.18, 
+			Apr: 145.63 
 		}
 	}
 }); 
@@ -21936,11 +21936,11 @@ WeatherOutlook.insert({
 	municipality: "Malapatan", 
 	data: {
 		month: {
-			Nov: 160.56, 
-			Dec: 153.8, 
-			Jan: 143.35, 
-			Feb: 102.69, 
-			Mar: 122.6 
+			Dec: 154.23, 
+			Jan: 143.42, 
+			Feb: 102.98, 
+			Mar: 124.31, 
+			Apr: 96.68 
 		}
 	}
 }); 
@@ -21951,11 +21951,11 @@ WeatherOutlook.insert({
 	municipality: "Malungon", 
 	data: {
 		month: {
-			Nov: 144.96, 
-			Dec: 141.98, 
-			Jan: 118.72, 
-			Feb: 102.19, 
-			Mar: 116.41 
+			Dec: 142.41, 
+			Jan: 118.77, 
+			Feb: 102.45, 
+			Mar: 117.93, 
+			Apr: 89.42 
 		}
 	}
 }); 
@@ -21966,11 +21966,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 220.08, 
-			Dec: 155.74, 
-			Jan: 111.23, 
-			Feb: 114.42, 
-			Mar: 157.77 
+			Dec: 156.24, 
+			Jan: 111.24, 
+			Feb: 114.57, 
+			Mar: 158.00, 
+			Apr: 164.27 
 		}
 	}
 }); 
@@ -21981,11 +21981,11 @@ WeatherOutlook.insert({
 	municipality: "Barira", 
 	data: {
 		month: {
-			Nov: 247.34, 
-			Dec: 186.21, 
+			Dec: 186.66, 
 			Jan: 129.77, 
-			Feb: 134.18, 
-			Mar: 199.09 
+			Feb: 134.30, 
+			Mar: 199.61, 
+			Apr: 197.16 
 		}
 	}
 }); 
@@ -21996,11 +21996,11 @@ WeatherOutlook.insert({
 	municipality: "Buldon", 
 	data: {
 		month: {
-			Nov: 257.91, 
-			Dec: 204.6, 
-			Jan: 132.38, 
-			Feb: 142.56, 
-			Mar: 199.5 
+			Dec: 205.04, 
+			Jan: 132.37, 
+			Feb: 142.68, 
+			Mar: 200.09, 
+			Apr: 199.08 
 		}
 	}
 }); 
@@ -22011,11 +22011,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Blah T. Sinsuat", 
 	data: {
 		month: {
-			Nov: 234.44, 
-			Dec: 152.42, 
-			Jan: 103.06, 
-			Feb: 103.08, 
-			Mar: 149.51 
+			Dec: 153.12, 
+			Jan: 103.12, 
+			Feb: 103.11, 
+			Mar: 148.87, 
+			Apr: 144.38 
 		}
 	}
 }); 
@@ -22026,11 +22026,11 @@ WeatherOutlook.insert({
 	municipality: "Datu Odin Sinsuat", 
 	data: {
 		month: {
-			Nov: 189.27, 
-			Dec: 124.21, 
-			Jan: 95.06, 
-			Feb: 100.88, 
-			Mar: 129.16 
+			Dec: 124.79, 
+			Jan: 95.08, 
+			Feb: 100.96, 
+			Mar: 129.13, 
+			Apr: 145.74 
 		}
 	}
 }); 
@@ -22041,11 +22041,11 @@ WeatherOutlook.insert({
 	municipality: "Kabuntalan", 
 	data: {
 		month: {
-			Nov: 211.16, 
-			Dec: 148.84, 
-			Jan: 103.98, 
-			Feb: 106.62, 
-			Mar: 135.26 
+			Dec: 149.33, 
+			Jan: 103.97, 
+			Feb: 106.72, 
+			Mar: 135.62, 
+			Apr: 139.65 
 		}
 	}
 }); 
@@ -22056,11 +22056,11 @@ WeatherOutlook.insert({
 	municipality: "Matanog", 
 	data: {
 		month: {
-			Nov: 254.96, 
-			Dec: 191.84, 
-			Jan: 128.68, 
-			Feb: 133.06, 
-			Mar: 209.81 
+			Dec: 192.30, 
+			Jan: 128.67, 
+			Feb: 133.17, 
+			Mar: 210.25, 
+			Apr: 201.70 
 		}
 	}
 }); 
@@ -22071,11 +22071,11 @@ WeatherOutlook.insert({
 	municipality: "Northern Kabuntalan", 
 	data: {
 		month: {
-			Nov: 208, 
-			Dec: 157, 
-			Jan: 110.4, 
-			Feb: 118.31, 
-			Mar: 144.27 
+			Dec: 157.47, 
+			Jan: 110.39, 
+			Feb: 118.42, 
+			Mar: 144.74, 
+			Apr: 146.23 
 		}
 	}
 }); 
@@ -22086,11 +22086,11 @@ WeatherOutlook.insert({
 	municipality: "Parang", 
 	data: {
 		month: {
-			Nov: 210.98, 
-			Dec: 154.55, 
-			Jan: 115.54, 
-			Feb: 114.39, 
-			Mar: 161.57 
+			Dec: 155.02, 
+			Jan: 115.53, 
+			Feb: 114.49, 
+			Mar: 161.92, 
+			Apr: 180.01 
 		}
 	}
 }); 
@@ -22101,11 +22101,11 @@ WeatherOutlook.insert({
 	municipality: "Sultan Kudarat", 
 	data: {
 		month: {
-			Nov: 197.17, 
-			Dec: 138.39, 
+			Dec: 138.88, 
 			Jan: 116.48, 
-			Feb: 114.91, 
-			Mar: 147.34 
+			Feb: 115.02, 
+			Mar: 147.69, 
+			Apr: 168.36 
 		}
 	}
 }); 
@@ -22116,11 +22116,11 @@ WeatherOutlook.insert({
 	municipality: "Sultan Mastura", 
 	data: {
 		month: {
-			Nov: 205.04, 
-			Dec: 148.34, 
-			Jan: 116.67, 
-			Feb: 112.85, 
-			Mar: 148.42 
+			Dec: 148.77, 
+			Jan: 116.64, 
+			Feb: 112.99, 
+			Mar: 148.91, 
+			Apr: 174.89 
 		}
 	}
 }); 
@@ -22131,11 +22131,11 @@ WeatherOutlook.insert({
 	municipality: "Upi", 
 	data: {
 		month: {
-			Nov: 207.76, 
-			Dec: 133.17, 
-			Jan: 97.3, 
-			Feb: 99.9, 
-			Mar: 140.84 
+			Dec: 133.81, 
+			Jan: 97.35, 
+			Feb: 99.99, 
+			Mar: 140.45, 
+			Apr: 145.77 
 		}
 	}
 }); 
@@ -22146,11 +22146,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 177.09, 
-			Dec: 122.59, 
-			Jan: 107.92, 
-			Feb: 64.88, 
-			Mar: 91.89 
+			Dec: 122.91, 
+			Jan: 107.90, 
+			Feb: 64.92, 
+			Mar: 92.82, 
+			Apr: 51.87 
 		}
 	}
 }); 
@@ -22161,11 +22161,11 @@ WeatherOutlook.insert({
 	municipality: "Enrique Villanueva", 
 	data: {
 		month: {
-			Nov: 180.57, 
-			Dec: 126.54, 
-			Jan: 108.2, 
-			Feb: 67.48, 
-			Mar: 108.82 
+			Dec: 126.86, 
+			Jan: 108.19, 
+			Feb: 67.53, 
+			Mar: 109.80, 
+			Apr: 55.57 
 		}
 	}
 }); 
@@ -22176,11 +22176,11 @@ WeatherOutlook.insert({
 	municipality: "Larena", 
 	data: {
 		month: {
-			Nov: 181.73, 
-			Dec: 128.25, 
-			Jan: 110.33, 
-			Feb: 67.67, 
-			Mar: 104.78 
+			Dec: 128.54, 
+			Jan: 110.29, 
+			Feb: 67.70, 
+			Mar: 105.72, 
+			Apr: 55.02 
 		}
 	}
 }); 
@@ -22191,11 +22191,11 @@ WeatherOutlook.insert({
 	municipality: "Lazi", 
 	data: {
 		month: {
-			Nov: 135.64, 
-			Dec: 91.78, 
-			Jan: 86.48, 
-			Feb: 50.3, 
-			Mar: 70 
+			Dec: 92.13, 
+			Jan: 86.50, 
+			Feb: 50.37, 
+			Mar: 70.95, 
+			Apr: 40.94 
 		}
 	}
 }); 
@@ -22206,11 +22206,11 @@ WeatherOutlook.insert({
 	municipality: "Maria", 
 	data: {
 		month: {
-			Nov: 194.85, 
-			Dec: 128.25, 
-			Jan: 116.74, 
-			Feb: 67.53, 
-			Mar: 92.37 
+			Dec: 128.57, 
+			Jan: 116.72, 
+			Feb: 67.57, 
+			Mar: 93.33, 
+			Apr: 54.55 
 		}
 	}
 }); 
@@ -22221,11 +22221,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 182.1, 
-			Dec: 130.71, 
-			Jan: 112.2, 
-			Feb: 69, 
-			Mar: 83.14 
+			Dec: 131.00, 
+			Jan: 112.15, 
+			Feb: 69.02, 
+			Mar: 84.01, 
+			Apr: 51.30 
 		}
 	}
 }); 
@@ -22236,11 +22236,11 @@ WeatherOutlook.insert({
 	municipality: "Siquijor", 
 	data: {
 		month: {
-			Nov: 185.33, 
-			Dec: 130.62, 
-			Jan: 112.58, 
-			Feb: 67.98, 
-			Mar: 93.45 
+			Dec: 130.94, 
+			Jan: 112.57, 
+			Feb: 68.03, 
+			Mar: 94.36, 
+			Apr: 53.74 
 		}
 	}
 }); 
@@ -22251,11 +22251,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 358.83, 
-			Dec: 445.35, 
-			Jan: 285.91, 
+			Dec: 445.36, 
+			Jan: 286.05, 
 			Feb: 193.49, 
-			Mar: 177.78 
+			Mar: 179.02, 
+			Apr: 121.92 
 		}
 	}
 }); 
@@ -22266,11 +22266,11 @@ WeatherOutlook.insert({
 	municipality: "Barcelona", 
 	data: {
 		month: {
-			Nov: 370.13, 
-			Dec: 505.89, 
-			Jan: 308.79, 
-			Feb: 233.38, 
-			Mar: 202.31 
+			Dec: 505.94, 
+			Jan: 308.95, 
+			Feb: 233.39, 
+			Mar: 203.61, 
+			Apr: 108.23 
 		}
 	}
 }); 
@@ -22281,11 +22281,11 @@ WeatherOutlook.insert({
 	municipality: "Bulan", 
 	data: {
 		month: {
-			Nov: 346.93, 
-			Dec: 422.45, 
-			Jan: 274.63, 
-			Feb: 179.71, 
-			Mar: 166.77 
+			Dec: 422.48, 
+			Jan: 274.77, 
+			Feb: 179.72, 
+			Mar: 167.96, 
+			Apr: 117.67 
 		}
 	}
 }); 
@@ -22296,11 +22296,11 @@ WeatherOutlook.insert({
 	municipality: "Bulusan", 
 	data: {
 		month: {
-			Nov: 384.93, 
-			Dec: 507.67, 
-			Jan: 311.55, 
-			Feb: 211.53, 
-			Mar: 214.7 
+			Dec: 507.70, 
+			Jan: 311.71, 
+			Feb: 211.55, 
+			Mar: 215.98, 
+			Apr: 124.46 
 		}
 	}
 }); 
@@ -22311,11 +22311,11 @@ WeatherOutlook.insert({
 	municipality: "Casiguran", 
 	data: {
 		month: {
-			Nov: 373.43, 
-			Dec: 488.77, 
-			Jan: 336.77, 
-			Feb: 231.22, 
-			Mar: 216.15 
+			Dec: 488.81, 
+			Jan: 336.94, 
+			Feb: 231.23, 
+			Mar: 217.49, 
+			Apr: 136.24 
 		}
 	}
 }); 
@@ -22326,11 +22326,11 @@ WeatherOutlook.insert({
 	municipality: "Castilla", 
 	data: {
 		month: {
-			Nov: 323.14, 
-			Dec: 385.97, 
-			Jan: 248.04, 
+			Dec: 385.96, 
+			Jan: 248.18, 
 			Feb: 172.97, 
-			Mar: 143.86 
+			Mar: 145.10, 
+			Apr: 114.98 
 		}
 	}
 }); 
@@ -22341,11 +22341,11 @@ WeatherOutlook.insert({
 	municipality: "Donsol", 
 	data: {
 		month: {
-			Nov: 335.21, 
-			Dec: 377.1, 
-			Jan: 215.46, 
-			Feb: 142.95, 
-			Mar: 121.3 
+			Dec: 377.01, 
+			Jan: 215.51, 
+			Feb: 142.92, 
+			Mar: 122.28, 
+			Apr: 98.94 
 		}
 	}
 }); 
@@ -22356,11 +22356,11 @@ WeatherOutlook.insert({
 	municipality: "Gubat", 
 	data: {
 		month: {
-			Nov: 372.11, 
-			Dec: 492.22, 
-			Jan: 309.8, 
-			Feb: 230.79, 
-			Mar: 196.5 
+			Dec: 492.25, 
+			Jan: 309.99, 
+			Feb: 230.80, 
+			Mar: 197.87, 
+			Apr: 116.83 
 		}
 	}
 }); 
@@ -22371,11 +22371,11 @@ WeatherOutlook.insert({
 	municipality: "Irosin", 
 	data: {
 		month: {
-			Nov: 372.81, 
-			Dec: 472.31, 
-			Jan: 303.99, 
-			Feb: 200.11, 
-			Mar: 204.22 
+			Dec: 472.36, 
+			Jan: 304.14, 
+			Feb: 200.13, 
+			Mar: 205.46, 
+			Apr: 126.29 
 		}
 	}
 }); 
@@ -22386,11 +22386,11 @@ WeatherOutlook.insert({
 	municipality: "Juban", 
 	data: {
 		month: {
-			Nov: 378.69, 
-			Dec: 474.33, 
-			Jan: 322.02, 
+			Dec: 474.38, 
+			Jan: 322.19, 
 			Feb: 216.64, 
-			Mar: 205.38 
+			Mar: 206.67, 
+			Apr: 138.41 
 		}
 	}
 }); 
@@ -22401,11 +22401,11 @@ WeatherOutlook.insert({
 	municipality: "Magallanes", 
 	data: {
 		month: {
-			Nov: 371.75, 
-			Dec: 454.5, 
-			Jan: 288.63, 
-			Feb: 196.44, 
-			Mar: 173.07 
+			Dec: 454.50, 
+			Jan: 288.78, 
+			Feb: 196.45, 
+			Mar: 174.32, 
+			Apr: 129.02 
 		}
 	}
 }); 
@@ -22416,11 +22416,11 @@ WeatherOutlook.insert({
 	municipality: "Matnog", 
 	data: {
 		month: {
-			Nov: 367.1, 
-			Dec: 450.89, 
-			Jan: 290.08, 
-			Feb: 181.53, 
-			Mar: 180.95 
+			Dec: 450.95, 
+			Jan: 290.23, 
+			Feb: 181.57, 
+			Mar: 182.17, 
+			Apr: 119.58 
 		}
 	}
 }); 
@@ -22431,11 +22431,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 331.42, 
-			Dec: 370.02, 
-			Jan: 230.21, 
+			Dec: 369.98, 
+			Jan: 230.31, 
 			Feb: 160.15, 
-			Mar: 132.92 
+			Mar: 134.02, 
+			Apr: 108.49 
 		}
 	}
 }); 
@@ -22446,11 +22446,11 @@ WeatherOutlook.insert({
 	municipality: "Prieto Diaz", 
 	data: {
 		month: {
-			Nov: 381.1, 
-			Dec: 480.1, 
-			Jan: 317.18, 
+			Dec: 480.19, 
+			Jan: 317.36, 
 			Feb: 216.09, 
-			Mar: 190.23 
+			Mar: 191.55, 
+			Apr: 129.68 
 		}
 	}
 }); 
@@ -22461,11 +22461,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Magdalena", 
 	data: {
 		month: {
-			Nov: 379.82, 
-			Dec: 477.2, 
-			Jan: 300.07, 
-			Feb: 194.6, 
-			Mar: 194.27 
+			Dec: 477.23, 
+			Jan: 300.19, 
+			Feb: 194.61, 
+			Mar: 195.49, 
+			Apr: 122.40 
 		}
 	}
 }); 
@@ -22476,11 +22476,11 @@ WeatherOutlook.insert({
 	municipality: "Sorsogon City", 
 	data: {
 		month: {
-			Nov: 358.18, 
-			Dec: 458.97, 
-			Jan: 308.06, 
+			Dec: 458.99, 
+			Jan: 308.26, 
 			Feb: 204.68, 
-			Mar: 191.64 
+			Mar: 193.05, 
+			Apr: 137.24 
 		}
 	}
 }); 
@@ -22491,11 +22491,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 144.35, 
-			Dec: 115.23, 
-			Jan: 105.72, 
-			Feb: 100.23, 
-			Mar: 116.16 
+			Dec: 115.69, 
+			Jan: 105.79, 
+			Feb: 100.51, 
+			Mar: 117.41, 
+			Apr: 101.48 
 		}
 	}
 }); 
@@ -22506,11 +22506,11 @@ WeatherOutlook.insert({
 	municipality: "Banga", 
 	data: {
 		month: {
-			Nov: 114.27, 
-			Dec: 98.87, 
-			Jan: 100.55, 
-			Feb: 96.78, 
-			Mar: 110.59 
+			Dec: 99.31, 
+			Jan: 100.60, 
+			Feb: 97.02, 
+			Mar: 111.81, 
+			Apr: 99.90 
 		}
 	}
 }); 
@@ -22521,11 +22521,11 @@ WeatherOutlook.insert({
 	municipality: "General Santos City", 
 	data: {
 		month: {
-			Nov: 89.28, 
-			Dec: 72.59, 
-			Jan: 103.35, 
-			Feb: 82.76, 
-			Mar: 73.57 
+			Dec: 73.10, 
+			Jan: 103.44, 
+			Feb: 83.07, 
+			Mar: 74.98, 
+			Apr: 62.61 
 		}
 	}
 }); 
@@ -22536,11 +22536,11 @@ WeatherOutlook.insert({
 	municipality: "Koronadal City", 
 	data: {
 		month: {
-			Nov: 126.55, 
-			Dec: 113.35, 
-			Jan: 98.28, 
-			Feb: 100.59, 
-			Mar: 116.34 
+			Dec: 113.78, 
+			Jan: 98.29, 
+			Feb: 100.80, 
+			Mar: 117.50, 
+			Apr: 96.90 
 		}
 	}
 }); 
@@ -22551,11 +22551,11 @@ WeatherOutlook.insert({
 	municipality: "Lake Sebu", 
 	data: {
 		month: {
-			Nov: 197.63, 
-			Dec: 142.38, 
-			Jan: 113.91, 
-			Feb: 114.2, 
-			Mar: 148.43 
+			Dec: 142.80, 
+			Jan: 113.94, 
+			Feb: 114.45, 
+			Mar: 149.63, 
+			Apr: 138.45 
 		}
 	}
 }); 
@@ -22566,11 +22566,11 @@ WeatherOutlook.insert({
 	municipality: "Norala", 
 	data: {
 		month: {
-			Nov: 119.44, 
-			Dec: 97.2, 
-			Jan: 95.92, 
-			Feb: 96.67, 
-			Mar: 112.47 
+			Dec: 97.62, 
+			Jan: 95.93, 
+			Feb: 96.86, 
+			Mar: 113.50, 
+			Apr: 98.76 
 		}
 	}
 }); 
@@ -22581,11 +22581,11 @@ WeatherOutlook.insert({
 	municipality: "Polomolok", 
 	data: {
 		month: {
-			Nov: 96.11, 
-			Dec: 78.13, 
-			Jan: 103.88, 
-			Feb: 89.67, 
-			Mar: 84.67 
+			Dec: 78.62, 
+			Jan: 103.96, 
+			Feb: 89.96, 
+			Mar: 86.05, 
+			Apr: 73.93 
 		}
 	}
 }); 
@@ -22596,11 +22596,11 @@ WeatherOutlook.insert({
 	municipality: "Santo Nino", 
 	data: {
 		month: {
-			Nov: 118.72, 
-			Dec: 90.68, 
-			Jan: 101.07, 
-			Feb: 102.01, 
-			Mar: 116.57 
+			Dec: 91.10, 
+			Jan: 101.08, 
+			Feb: 102.22, 
+			Mar: 117.69, 
+			Apr: 108.18 
 		}
 	}
 }); 
@@ -22611,11 +22611,11 @@ WeatherOutlook.insert({
 	municipality: "Surallah", 
 	data: {
 		month: {
-			Nov: 141.25, 
-			Dec: 111.88, 
-			Jan: 106.4, 
-			Feb: 105.46, 
-			Mar: 124.72 
+			Dec: 112.32, 
+			Jan: 106.45, 
+			Feb: 105.71, 
+			Mar: 125.95, 
+			Apr: 113.96 
 		}
 	}
 }); 
@@ -22626,11 +22626,11 @@ WeatherOutlook.insert({
 	municipality: "Tampakan", 
 	data: {
 		month: {
-			Nov: 170.92, 
-			Dec: 150.54, 
-			Jan: 104.55, 
-			Feb: 104.64, 
-			Mar: 124.11 
+			Dec: 150.96, 
+			Jan: 104.56, 
+			Feb: 104.85, 
+			Mar: 125.35, 
+			Apr: 96.89 
 		}
 	}
 }); 
@@ -22641,11 +22641,11 @@ WeatherOutlook.insert({
 	municipality: "Tantangan", 
 	data: {
 		month: {
-			Nov: 126.88, 
-			Dec: 110.11, 
-			Jan: 93.26, 
-			Feb: 94.25, 
-			Mar: 114.94 
+			Dec: 110.52, 
+			Jan: 93.25, 
+			Feb: 94.42, 
+			Mar: 115.93, 
+			Apr: 87.00 
 		}
 	}
 }); 
@@ -22656,11 +22656,11 @@ WeatherOutlook.insert({
 	municipality: "T'Boli", 
 	data: {
 		month: {
-			Nov: 164.44, 
-			Dec: 125.13, 
-			Jan: 112.7, 
-			Feb: 96.31, 
-			Mar: 111.75 
+			Dec: 125.65, 
+			Jan: 112.81, 
+			Feb: 96.64, 
+			Mar: 113.10, 
+			Apr: 99.52 
 		}
 	}
 }); 
@@ -22671,11 +22671,11 @@ WeatherOutlook.insert({
 	municipality: "Tupi", 
 	data: {
 		month: {
-			Nov: 143.51, 
-			Dec: 124.68, 
-			Jan: 105.53, 
-			Feb: 103.39, 
-			Mar: 117.58 
+			Dec: 125.14, 
+			Jan: 105.59, 
+			Feb: 103.65, 
+			Mar: 118.91, 
+			Apr: 95.08 
 		}
 	}
 }); 
@@ -22686,11 +22686,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 342.65, 
-			Dec: 452.61, 
-			Jan: 412.12, 
-			Feb: 232.58, 
-			Mar: 244.69 
+			Dec: 452.90, 
+			Jan: 412.24, 
+			Feb: 232.72, 
+			Mar: 247.03, 
+			Apr: 159.79 
 		}
 	}
 }); 
@@ -22701,11 +22701,11 @@ WeatherOutlook.insert({
 	municipality: "Anahawan", 
 	data: {
 		month: {
-			Nov: 366.29, 
-			Dec: 496.04, 
-			Jan: 446.97, 
-			Feb: 259.98, 
-			Mar: 281.85 
+			Dec: 496.37, 
+			Jan: 447.14, 
+			Feb: 260.17, 
+			Mar: 284.13, 
+			Apr: 179.62 
 		}
 	}
 }); 
@@ -22716,11 +22716,11 @@ WeatherOutlook.insert({
 	municipality: "Bontoc", 
 	data: {
 		month: {
-			Nov: 336.27, 
-			Dec: 412.6, 
-			Jan: 372.44, 
-			Feb: 212.79, 
-			Mar: 214.32 
+			Dec: 412.92, 
+			Jan: 372.61, 
+			Feb: 212.97, 
+			Mar: 216.47, 
+			Apr: 153.72 
 		}
 	}
 }); 
@@ -22731,11 +22731,11 @@ WeatherOutlook.insert({
 	municipality: "Hinunangan", 
 	data: {
 		month: {
-			Nov: 384.51, 
-			Dec: 486.3, 
-			Jan: 434.75, 
-			Feb: 223.99, 
-			Mar: 272.59 
+			Dec: 486.60, 
+			Jan: 434.90, 
+			Feb: 224.16, 
+			Mar: 274.78, 
+			Apr: 184.83 
 		}
 	}
 }); 
@@ -22746,11 +22746,11 @@ WeatherOutlook.insert({
 	municipality: "Hinundayan", 
 	data: {
 		month: {
-			Nov: 371.51, 
-			Dec: 488.74, 
-			Jan: 448.07, 
-			Feb: 240.92, 
-			Mar: 271.55 
+			Dec: 489.03, 
+			Jan: 448.20, 
+			Feb: 241.07, 
+			Mar: 273.76, 
+			Apr: 180.76 
 		}
 	}
 }); 
@@ -22761,11 +22761,11 @@ WeatherOutlook.insert({
 	municipality: "Libagon", 
 	data: {
 		month: {
-			Nov: 363.43, 
-			Dec: 474.42, 
-			Jan: 420.01, 
-			Feb: 242.4, 
-			Mar: 257.7 
+			Dec: 474.79, 
+			Jan: 420.21, 
+			Feb: 242.60, 
+			Mar: 259.98, 
+			Apr: 169.78 
 		}
 	}
 }); 
@@ -22776,11 +22776,11 @@ WeatherOutlook.insert({
 	municipality: "Liloan", 
 	data: {
 		month: {
-			Nov: 336.2, 
-			Dec: 489.9, 
-			Jan: 451.53, 
-			Feb: 272.3, 
-			Mar: 265.41 
+			Dec: 490.27, 
+			Jan: 451.71, 
+			Feb: 272.50, 
+			Mar: 267.90, 
+			Apr: 165.69 
 		}
 	}
 }); 
@@ -22791,11 +22791,11 @@ WeatherOutlook.insert({
 	municipality: "Limasawa", 
 	data: {
 		month: {
-			Nov: 210.7, 
-			Dec: 315.92, 
-			Jan: 288.64, 
-			Feb: 175.15, 
-			Mar: 153.45 
+			Dec: 316.34, 
+			Jan: 288.84, 
+			Feb: 175.38, 
+			Mar: 156.28, 
+			Apr: 99.84 
 		}
 	}
 }); 
@@ -22806,11 +22806,11 @@ WeatherOutlook.insert({
 	municipality: "Maasin City", 
 	data: {
 		month: {
-			Nov: 300.46, 
-			Dec: 381.92, 
-			Jan: 345.47, 
-			Feb: 209.38, 
-			Mar: 205.19 
+			Dec: 382.23, 
+			Jan: 345.59, 
+			Feb: 209.54, 
+			Mar: 207.52, 
+			Apr: 108.87 
 		}
 	}
 }); 
@@ -22821,11 +22821,11 @@ WeatherOutlook.insert({
 	municipality: "Macrohon", 
 	data: {
 		month: {
-			Nov: 289.94, 
-			Dec: 398.17, 
-			Jan: 393.69, 
-			Feb: 232.97, 
-			Mar: 204.64 
+			Dec: 398.54, 
+			Jan: 393.84, 
+			Feb: 233.18, 
+			Mar: 207.40, 
+			Apr: 115.50 
 		}
 	}
 }); 
@@ -22836,11 +22836,11 @@ WeatherOutlook.insert({
 	municipality: "Malitbog", 
 	data: {
 		month: {
-			Nov: 309.67, 
-			Dec: 437.52, 
-			Jan: 379.28, 
-			Feb: 234.04, 
-			Mar: 220.6 
+			Dec: 437.94, 
+			Jan: 379.49, 
+			Feb: 234.26, 
+			Mar: 223.20, 
+			Apr: 135.20 
 		}
 	}
 }); 
@@ -22851,11 +22851,11 @@ WeatherOutlook.insert({
 	municipality: "Padre Burgos", 
 	data: {
 		month: {
-			Nov: 303.52, 
-			Dec: 440.67, 
-			Jan: 398.96, 
-			Feb: 241.83, 
-			Mar: 214.29 
+			Dec: 441.14, 
+			Jan: 399.21, 
+			Feb: 242.09, 
+			Mar: 217.15, 
+			Apr: 133.32 
 		}
 	}
 }); 
@@ -22866,11 +22866,11 @@ WeatherOutlook.insert({
 	municipality: "Pintuyan", 
 	data: {
 		month: {
-			Nov: 321.62, 
-			Dec: 472.45, 
-			Jan: 484.52, 
-			Feb: 286.67, 
-			Mar: 289.91 
+			Dec: 472.87, 
+			Jan: 484.72, 
+			Feb: 286.88, 
+			Mar: 292.37, 
+			Apr: 165.84 
 		}
 	}
 }); 
@@ -22881,11 +22881,11 @@ WeatherOutlook.insert({
 	municipality: "Saint Bernard", 
 	data: {
 		month: {
-			Nov: 369.08, 
-			Dec: 485.91, 
-			Jan: 423.33, 
-			Feb: 248.65, 
-			Mar: 267.7 
+			Dec: 486.22, 
+			Jan: 423.47, 
+			Feb: 248.82, 
+			Mar: 270.00, 
+			Apr: 174.41 
 		}
 	}
 }); 
@@ -22896,11 +22896,11 @@ WeatherOutlook.insert({
 	municipality: "San Francisco", 
 	data: {
 		month: {
-			Nov: 336.31, 
-			Dec: 498.96, 
-			Jan: 462.08, 
-			Feb: 272.65, 
-			Mar: 264 
+			Dec: 499.42, 
+			Jan: 462.33, 
+			Feb: 272.89, 
+			Mar: 266.59, 
+			Apr: 168.28 
 		}
 	}
 }); 
@@ -22911,11 +22911,11 @@ WeatherOutlook.insert({
 	municipality: "San Juan", 
 	data: {
 		month: {
-			Nov: 235.76, 
-			Dec: 306.94, 
-			Jan: 301.01, 
-			Feb: 175, 
-			Mar: 178.94 
+			Dec: 307.26, 
+			Jan: 301.16, 
+			Feb: 175.17, 
+			Mar: 181.23, 
+			Apr: 109.62 
 		}
 	}
 }); 
@@ -22926,11 +22926,11 @@ WeatherOutlook.insert({
 	municipality: "San Ricardo", 
 	data: {
 		month: {
-			Nov: 336.23, 
-			Dec: 503.95, 
-			Jan: 492.95, 
-			Feb: 289.84, 
-			Mar: 303.34 
+			Dec: 504.34, 
+			Jan: 493.13, 
+			Feb: 290.04, 
+			Mar: 305.76, 
+			Apr: 181.07 
 		}
 	}
 }); 
@@ -22941,11 +22941,11 @@ WeatherOutlook.insert({
 	municipality: "Silago", 
 	data: {
 		month: {
-			Nov: 413.55, 
-			Dec: 496.15, 
-			Jan: 454.73, 
-			Feb: 206.97, 
-			Mar: 265.65 
+			Dec: 496.44, 
+			Jan: 454.90, 
+			Feb: 207.13, 
+			Mar: 267.80, 
+			Apr: 202.62 
 		}
 	}
 }); 
@@ -22956,11 +22956,11 @@ WeatherOutlook.insert({
 	municipality: "Sogod", 
 	data: {
 		month: {
-			Nov: 394.21, 
-			Dec: 479, 
-			Jan: 419.78, 
-			Feb: 212.09, 
-			Mar: 251.32 
+			Dec: 479.29, 
+			Jan: 419.93, 
+			Feb: 212.25, 
+			Mar: 253.44, 
+			Apr: 192.81 
 		}
 	}
 }); 
@@ -22971,11 +22971,11 @@ WeatherOutlook.insert({
 	municipality: "Tomas Oppus", 
 	data: {
 		month: {
-			Nov: 328.36, 
-			Dec: 428.46, 
-			Jan: 372.16, 
-			Feb: 226.11, 
-			Mar: 224.77 
+			Dec: 428.78, 
+			Jan: 372.30, 
+			Feb: 226.28, 
+			Mar: 227.04, 
+			Apr: 145.88 
 		}
 	}
 }); 
@@ -22986,11 +22986,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 193.22, 
-			Dec: 126.86, 
-			Jan: 107.66, 
-			Feb: 109.4, 
-			Mar: 141.51 
+			Dec: 127.29, 
+			Jan: 107.67, 
+			Feb: 109.59, 
+			Mar: 142.35, 
+			Apr: 134.34 
 		}
 	}
 }); 
@@ -23001,11 +23001,11 @@ WeatherOutlook.insert({
 	municipality: "Bagumbayan", 
 	data: {
 		month: {
-			Nov: 193.3, 
-			Dec: 129.7, 
+			Dec: 130.11, 
 			Jan: 105.14, 
-			Feb: 115.47, 
-			Mar: 141.78 
+			Feb: 115.66, 
+			Mar: 142.77, 
+			Apr: 132.42 
 		}
 	}
 }); 
@@ -23016,11 +23016,11 @@ WeatherOutlook.insert({
 	municipality: "Buluan Lake", 
 	data: {
 		month: {
-			Nov: 157.92, 
-			Dec: 141.7, 
-			Jan: 94.85, 
-			Feb: 88.68, 
-			Mar: 107.57 
+			Dec: 142.12, 
+			Jan: 94.83, 
+			Feb: 88.83, 
+			Mar: 108.50, 
+			Apr: 79.43 
 		}
 	}
 }); 
@@ -23031,11 +23031,11 @@ WeatherOutlook.insert({
 	municipality: "Columbio", 
 	data: {
 		month: {
-			Nov: 157.29, 
-			Dec: 143.2, 
-			Jan: 111.87, 
-			Feb: 103.42, 
-			Mar: 117.14 
+			Dec: 143.61, 
+			Jan: 111.82, 
+			Feb: 103.57, 
+			Mar: 118.11, 
+			Apr: 95.68 
 		}
 	}
 }); 
@@ -23046,11 +23046,11 @@ WeatherOutlook.insert({
 	municipality: "Esperanza", 
 	data: {
 		month: {
-			Nov: 202.67, 
-			Dec: 130.95, 
-			Jan: 101.67, 
-			Feb: 103.76, 
-			Mar: 144.95 
+			Dec: 131.39, 
+			Jan: 101.66, 
+			Feb: 103.91, 
+			Mar: 145.67, 
+			Apr: 128.75 
 		}
 	}
 }); 
@@ -23061,11 +23061,11 @@ WeatherOutlook.insert({
 	municipality: "Isulan", 
 	data: {
 		month: {
-			Nov: 213.65, 
-			Dec: 140.58, 
+			Dec: 141.01, 
 			Jan: 103.32, 
-			Feb: 110.17, 
-			Mar: 144.72 
+			Feb: 110.34, 
+			Mar: 145.53, 
+			Apr: 138.89 
 		}
 	}
 }); 
@@ -23076,11 +23076,11 @@ WeatherOutlook.insert({
 	municipality: "Kalamansig", 
 	data: {
 		month: {
-			Nov: 250.64, 
-			Dec: 131.62, 
-			Jan: 115.8, 
-			Feb: 129.98, 
-			Mar: 169.4 
+			Dec: 132.06, 
+			Jan: 115.82, 
+			Feb: 130.16, 
+			Mar: 170.12, 
+			Apr: 177.11 
 		}
 	}
 }); 
@@ -23091,11 +23091,11 @@ WeatherOutlook.insert({
 	municipality: "Lambayong", 
 	data: {
 		month: {
-			Nov: 134.41, 
-			Dec: 87.42, 
-			Jan: 95.24, 
-			Feb: 87.66, 
-			Mar: 118.13 
+			Dec: 87.86, 
+			Jan: 95.22, 
+			Feb: 87.80, 
+			Mar: 118.88, 
+			Apr: 111.66 
 		}
 	}
 }); 
@@ -23106,11 +23106,11 @@ WeatherOutlook.insert({
 	municipality: "Lebak", 
 	data: {
 		month: {
-			Nov: 226.9, 
-			Dec: 126.12, 
-			Jan: 112.49, 
-			Feb: 113.74, 
-			Mar: 155.06 
+			Dec: 126.62, 
+			Jan: 112.51, 
+			Feb: 113.88, 
+			Mar: 155.42, 
+			Apr: 156.36 
 		}
 	}
 }); 
@@ -23121,11 +23121,11 @@ WeatherOutlook.insert({
 	municipality: "Lutayan", 
 	data: {
 		month: {
-			Nov: 136.81, 
-			Dec: 124.03, 
-			Jan: 97.39, 
-			Feb: 94.28, 
-			Mar: 109.71 
+			Dec: 124.45, 
+			Jan: 97.37, 
+			Feb: 94.44, 
+			Mar: 110.70, 
+			Apr: 88.75 
 		}
 	}
 }); 
@@ -23136,11 +23136,11 @@ WeatherOutlook.insert({
 	municipality: "Palimbang", 
 	data: {
 		month: {
-			Nov: 223.85, 
-			Dec: 134.67, 
-			Jan: 117.91, 
-			Feb: 117.02, 
-			Mar: 160.74 
+			Dec: 135.10, 
+			Jan: 117.94, 
+			Feb: 117.26, 
+			Mar: 161.67, 
+			Apr: 170.38 
 		}
 	}
 }); 
@@ -23151,11 +23151,11 @@ WeatherOutlook.insert({
 	municipality: "President Quirino", 
 	data: {
 		month: {
-			Nov: 123.78, 
-			Dec: 104.49, 
-			Jan: 94.57, 
-			Feb: 87.09, 
-			Mar: 116.69 
+			Dec: 104.90, 
+			Jan: 94.52, 
+			Feb: 87.22, 
+			Mar: 117.52, 
+			Apr: 82.47 
 		}
 	}
 }); 
@@ -23166,11 +23166,11 @@ WeatherOutlook.insert({
 	municipality: "Sen. Ninoy Aquino", 
 	data: {
 		month: {
-			Nov: 198.46, 
-			Dec: 108.89, 
-			Jan: 114.11, 
-			Feb: 120.73, 
-			Mar: 155.08 
+			Dec: 109.32, 
+			Jan: 114.13, 
+			Feb: 120.93, 
+			Mar: 156.02, 
+			Apr: 157.16 
 		}
 	}
 }); 
@@ -23181,11 +23181,11 @@ WeatherOutlook.insert({
 	municipality: "Tacurong City", 
 	data: {
 		month: {
-			Nov: 128.49, 
-			Dec: 100.04, 
-			Jan: 94.52, 
-			Feb: 87.5, 
-			Mar: 120.25 
+			Dec: 100.46, 
+			Jan: 94.50, 
+			Feb: 87.64, 
+			Mar: 121.10, 
+			Apr: 91.47 
 		}
 	}
 }); 
@@ -23196,11 +23196,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 168.18, 
-			Dec: 130.28, 
-			Jan: 102.53, 
-			Feb: 89.52, 
-			Mar: 98.06 
+			Dec: 130.40, 
+			Jan: 102.24, 
+			Feb: 89.80, 
+			Mar: 99.95, 
+			Apr: 115.97 
 		}
 	}
 }); 
@@ -23211,11 +23211,11 @@ WeatherOutlook.insert({
 	municipality: "Hadji Panglima Tahil", 
 	data: {
 		month: {
-			Nov: 185.26, 
-			Dec: 141.25, 
-			Jan: 98.4, 
-			Feb: 88.04, 
-			Mar: 105.88 
+			Dec: 141.46, 
+			Jan: 98.20, 
+			Feb: 88.39, 
+			Mar: 107.79, 
+			Apr: 131.91 
 		}
 	}
 }); 
@@ -23226,11 +23226,11 @@ WeatherOutlook.insert({
 	municipality: "Indanan", 
 	data: {
 		month: {
-			Nov: 185.05, 
-			Dec: 151.69, 
-			Jan: 126.91, 
-			Feb: 114.27, 
-			Mar: 120.81 
+			Dec: 151.89, 
+			Jan: 126.67, 
+			Feb: 114.67, 
+			Mar: 122.87, 
+			Apr: 169.13 
 		}
 	}
 }); 
@@ -23241,11 +23241,11 @@ WeatherOutlook.insert({
 	municipality: "Jolo", 
 	data: {
 		month: {
-			Nov: 194.74, 
-			Dec: 153.45, 
-			Jan: 128.85, 
-			Feb: 115.05, 
-			Mar: 124.34 
+			Dec: 153.68, 
+			Jan: 128.66, 
+			Feb: 115.48, 
+			Mar: 126.42, 
+			Apr: 171.59 
 		}
 	}
 }); 
@@ -23256,11 +23256,11 @@ WeatherOutlook.insert({
 	municipality: "Kalingalan Caluang", 
 	data: {
 		month: {
-			Nov: 183.22, 
-			Dec: 131.91, 
-			Jan: 116.88, 
-			Feb: 101.82, 
-			Mar: 109.37 
+			Dec: 132.11, 
+			Jan: 116.71, 
+			Feb: 102.16, 
+			Mar: 111.23, 
+			Apr: 127.94 
 		}
 	}
 }); 
@@ -23271,11 +23271,11 @@ WeatherOutlook.insert({
 	municipality: "Lugus", 
 	data: {
 		month: {
-			Nov: 152.29, 
-			Dec: 115.06, 
-			Jan: 100.18, 
-			Feb: 101.41, 
-			Mar: 106.62 
+			Dec: 115.15, 
+			Jan: 99.91, 
+			Feb: 101.69, 
+			Mar: 108.58, 
+			Apr: 114.75 
 		}
 	}
 }); 
@@ -23286,11 +23286,11 @@ WeatherOutlook.insert({
 	municipality: "Luuk", 
 	data: {
 		month: {
-			Nov: 182.26, 
-			Dec: 119.41, 
-			Jan: 115.24, 
-			Feb: 96.46, 
-			Mar: 104.07 
+			Dec: 119.55, 
+			Jan: 114.99, 
+			Feb: 96.73, 
+			Mar: 105.81, 
+			Apr: 122.14 
 		}
 	}
 }); 
@@ -23301,11 +23301,11 @@ WeatherOutlook.insert({
 	municipality: "Maimbung", 
 	data: {
 		month: {
-			Nov: 187.12, 
-			Dec: 146.01, 
-			Jan: 126.39, 
-			Feb: 115.18, 
-			Mar: 124.74 
+			Dec: 146.24, 
+			Jan: 126.18, 
+			Feb: 115.60, 
+			Mar: 126.81, 
+			Apr: 164.99 
 		}
 	}
 }); 
@@ -23316,11 +23316,11 @@ WeatherOutlook.insert({
 	municipality: "Old Panamao", 
 	data: {
 		month: {
-			Nov: 184.08, 
-			Dec: 131.6, 
-			Jan: 114.31, 
-			Feb: 100.74, 
-			Mar: 110.36 
+			Dec: 131.74, 
+			Jan: 114.03, 
+			Feb: 101.02, 
+			Mar: 112.21, 
+			Apr: 135.25 
 		}
 	}
 }); 
@@ -23331,11 +23331,11 @@ WeatherOutlook.insert({
 	municipality: "Pandami", 
 	data: {
 		month: {
-			Nov: 127.53, 
-			Dec: 106.1, 
-			Jan: 66.25, 
-			Feb: 65.96, 
-			Mar: 75.37 
+			Dec: 106.24, 
+			Jan: 66.06, 
+			Feb: 66.25, 
+			Mar: 77.43, 
+			Apr: 77.18 
 		}
 	}
 }); 
@@ -23346,11 +23346,11 @@ WeatherOutlook.insert({
 	municipality: "Panglima Estino", 
 	data: {
 		month: {
-			Nov: 182.89, 
-			Dec: 133.82, 
-			Jan: 115.86, 
-			Feb: 104.13, 
-			Mar: 114.36 
+			Dec: 134.05, 
+			Jan: 115.70, 
+			Feb: 104.52, 
+			Mar: 116.32, 
+			Apr: 141.93 
 		}
 	}
 }); 
@@ -23361,11 +23361,11 @@ WeatherOutlook.insert({
 	municipality: "Pangutaran", 
 	data: {
 		month: {
-			Nov: 169.95, 
-			Dec: 144.92, 
-			Jan: 72.27, 
-			Feb: 59.26, 
-			Mar: 66.03 
+			Dec: 145.02, 
+			Jan: 71.98, 
+			Feb: 59.51, 
+			Mar: 68.08, 
+			Apr: 80.80 
 		}
 	}
 }); 
@@ -23376,11 +23376,11 @@ WeatherOutlook.insert({
 	municipality: "Parang", 
 	data: {
 		month: {
-			Nov: 174.63, 
-			Dec: 151.91, 
-			Jan: 115.4, 
-			Feb: 108.98, 
-			Mar: 117.31 
+			Dec: 152.07, 
+			Jan: 115.11, 
+			Feb: 109.32, 
+			Mar: 119.31, 
+			Apr: 156.86 
 		}
 	}
 }); 
@@ -23391,11 +23391,11 @@ WeatherOutlook.insert({
 	municipality: "Pata", 
 	data: {
 		month: {
-			Nov: 171.84, 
-			Dec: 138.68, 
-			Jan: 117.91, 
-			Feb: 104.91, 
-			Mar: 108.73 
+			Dec: 138.83, 
+			Jan: 117.68, 
+			Feb: 105.24, 
+			Mar: 110.66, 
+			Apr: 126.89 
 		}
 	}
 }); 
@@ -23406,11 +23406,11 @@ WeatherOutlook.insert({
 	municipality: "Patikul", 
 	data: {
 		month: {
-			Nov: 192.08, 
-			Dec: 143.94, 
-			Jan: 122.08, 
-			Feb: 106.54, 
-			Mar: 115.21 
+			Dec: 144.10, 
+			Jan: 121.80, 
+			Feb: 106.88, 
+			Mar: 117.19, 
+			Apr: 154.00 
 		}
 	}
 }); 
@@ -23421,11 +23421,11 @@ WeatherOutlook.insert({
 	municipality: "Siasi", 
 	data: {
 		month: {
-			Nov: 162.69, 
-			Dec: 121.48, 
-			Jan: 126.18, 
-			Feb: 117.64, 
-			Mar: 118.3 
+			Dec: 121.49, 
+			Jan: 125.87, 
+			Feb: 117.89, 
+			Mar: 120.33, 
+			Apr: 111.80 
 		}
 	}
 }); 
@@ -23436,11 +23436,11 @@ WeatherOutlook.insert({
 	municipality: "Talipao", 
 	data: {
 		month: {
-			Nov: 185.73, 
-			Dec: 137.45, 
-			Jan: 122.57, 
-			Feb: 111.37, 
-			Mar: 123.02 
+			Dec: 137.63, 
+			Jan: 122.31, 
+			Feb: 111.73, 
+			Mar: 125.02, 
+			Apr: 154.72 
 		}
 	}
 }); 
@@ -23451,11 +23451,11 @@ WeatherOutlook.insert({
 	municipality: "Tapul", 
 	data: {
 		month: {
-			Nov: 174.6, 
-			Dec: 131.04, 
-			Jan: 109.64, 
-			Feb: 108.59, 
-			Mar: 109.18 
+			Dec: 131.17, 
+			Jan: 109.40, 
+			Feb: 108.90, 
+			Mar: 111.13, 
+			Apr: 122.91 
 		}
 	}
 }); 
@@ -23466,11 +23466,11 @@ WeatherOutlook.insert({
 	municipality: "Tongkil", 
 	data: {
 		month: {
-			Nov: 138.53, 
-			Dec: 99.52, 
-			Jan: 110.35, 
-			Feb: 78.63, 
-			Mar: 91.98 
+			Dec: 99.68, 
+			Jan: 110.12, 
+			Feb: 78.89, 
+			Mar: 93.52, 
+			Apr: 95.13 
 		}
 	}
 }); 
@@ -23481,11 +23481,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 356.89, 
-			Dec: 510.14, 
-			Jan: 533.32, 
-			Feb: 339.35, 
-			Mar: 319.95 
+			Dec: 510.38, 
+			Jan: 533.34, 
+			Feb: 339.49, 
+			Mar: 322.56, 
+			Apr: 231.83 
 		}
 	}
 }); 
@@ -23496,11 +23496,11 @@ WeatherOutlook.insert({
 	municipality: "Alegria", 
 	data: {
 		month: {
-			Nov: 366.23, 
-			Dec: 577.38, 
-			Jan: 550.69, 
-			Feb: 398.5, 
-			Mar: 346.75 
+			Dec: 577.67, 
+			Jan: 550.74, 
+			Feb: 398.66, 
+			Mar: 349.02, 
+			Apr: 267.07 
 		}
 	}
 }); 
@@ -23511,11 +23511,11 @@ WeatherOutlook.insert({
 	municipality: "Bacuag", 
 	data: {
 		month: {
-			Nov: 362.2, 
-			Dec: 534.24, 
-			Jan: 550.8, 
-			Feb: 373.38, 
-			Mar: 341.45 
+			Dec: 534.56, 
+			Jan: 550.88, 
+			Feb: 373.54, 
+			Mar: 343.76, 
+			Apr: 264.81 
 		}
 	}
 }); 
@@ -23526,11 +23526,11 @@ WeatherOutlook.insert({
 	municipality: "Burgos", 
 	data: {
 		month: {
-			Nov: 369.94, 
-			Dec: 517.75, 
-			Jan: 540.06, 
-			Feb: 296.92, 
-			Mar: 270.75 
+			Dec: 518.44, 
+			Jan: 540.46, 
+			Feb: 297.34, 
+			Mar: 274.38, 
+			Apr: 208.31 
 		}
 	}
 }); 
@@ -23541,11 +23541,11 @@ WeatherOutlook.insert({
 	municipality: "Claver", 
 	data: {
 		month: {
-			Nov: 365.17, 
-			Dec: 571.84, 
-			Jan: 558.87, 
-			Feb: 400.23, 
-			Mar: 357.99 
+			Dec: 572.14, 
+			Jan: 558.91, 
+			Feb: 400.39, 
+			Mar: 360.40, 
+			Apr: 256.99 
 		}
 	}
 }); 
@@ -23556,11 +23556,11 @@ WeatherOutlook.insert({
 	municipality: "Dapa", 
 	data: {
 		month: {
-			Nov: 354.83, 
-			Dec: 484.63, 
-			Jan: 514.52, 
-			Feb: 316.83, 
-			Mar: 282.63 
+			Dec: 484.81, 
+			Jan: 514.49, 
+			Feb: 316.97, 
+			Mar: 285.59, 
+			Apr: 213.89 
 		}
 	}
 }); 
@@ -23571,11 +23571,11 @@ WeatherOutlook.insert({
 	municipality: "Del Carmen", 
 	data: {
 		month: {
-			Nov: 356.8, 
-			Dec: 465.6, 
-			Jan: 527.75, 
-			Feb: 307.57, 
-			Mar: 264.13 
+			Dec: 465.88, 
+			Jan: 527.80, 
+			Feb: 307.75, 
+			Mar: 267.42, 
+			Apr: 191.81 
 		}
 	}
 }); 
@@ -23586,11 +23586,11 @@ WeatherOutlook.insert({
 	municipality: "General Luna", 
 	data: {
 		month: {
-			Nov: 309.26, 
-			Dec: 424.29, 
-			Jan: 451.18, 
-			Feb: 273.1, 
-			Mar: 233.43 
+			Dec: 424.62, 
+			Jan: 451.29, 
+			Feb: 273.31, 
+			Mar: 236.34, 
+			Apr: 190.41 
 		}
 	}
 }); 
@@ -23601,11 +23601,11 @@ WeatherOutlook.insert({
 	municipality: "Gigaquit", 
 	data: {
 		month: {
-			Nov: 364.47, 
-			Dec: 545.66, 
-			Jan: 552.53, 
-			Feb: 386, 
-			Mar: 340.96 
+			Dec: 545.98, 
+			Jan: 552.58, 
+			Feb: 386.15, 
+			Mar: 343.30, 
+			Apr: 254.22 
 		}
 	}
 }); 
@@ -23616,11 +23616,11 @@ WeatherOutlook.insert({
 	municipality: "Mainit", 
 	data: {
 		month: {
-			Nov: 357.93, 
-			Dec: 542.75, 
-			Jan: 534.57, 
-			Feb: 369, 
-			Mar: 336.82 
+			Dec: 542.94, 
+			Jan: 534.53, 
+			Feb: 369.09, 
+			Mar: 339.00, 
+			Apr: 250.12 
 		}
 	}
 }); 
@@ -23631,11 +23631,11 @@ WeatherOutlook.insert({
 	municipality: "Mainit Lake", 
 	data: {
 		month: {
-			Nov: 364.07, 
-			Dec: 556.4, 
-			Jan: 539.2, 
-			Feb: 372.49, 
-			Mar: 319.68 
+			Dec: 556.72, 
+			Jan: 539.28, 
+			Feb: 372.67, 
+			Mar: 321.89, 
+			Apr: 253.88 
 		}
 	}
 }); 
@@ -23646,11 +23646,11 @@ WeatherOutlook.insert({
 	municipality: "Malimono", 
 	data: {
 		month: {
-			Nov: 338.52, 
-			Dec: 514.89, 
-			Jan: 518.51, 
-			Feb: 353.84, 
-			Mar: 323.8 
+			Dec: 515.20, 
+			Jan: 518.60, 
+			Feb: 354.00, 
+			Mar: 325.97, 
+			Apr: 212.51 
 		}
 	}
 }); 
@@ -23661,11 +23661,11 @@ WeatherOutlook.insert({
 	municipality: "Pilar", 
 	data: {
 		month: {
-			Nov: 357.88, 
-			Dec: 489.8, 
-			Jan: 526, 
-			Feb: 308.85, 
-			Mar: 274.75 
+			Dec: 490.29, 
+			Jan: 526.23, 
+			Feb: 309.14, 
+			Mar: 278.06, 
+			Apr: 208.23 
 		}
 	}
 }); 
@@ -23676,11 +23676,11 @@ WeatherOutlook.insert({
 	municipality: "Placer", 
 	data: {
 		month: {
-			Nov: 358.8, 
-			Dec: 500.32, 
-			Jan: 536.68, 
-			Feb: 342.49, 
-			Mar: 337.85 
+			Dec: 500.65, 
+			Jan: 536.77, 
+			Feb: 342.66, 
+			Mar: 340.17, 
+			Apr: 240.39 
 		}
 	}
 }); 
@@ -23691,11 +23691,11 @@ WeatherOutlook.insert({
 	municipality: "San Benito", 
 	data: {
 		month: {
-			Nov: 364.56, 
-			Dec: 516.88, 
-			Jan: 558.44, 
-			Feb: 299.26, 
-			Mar: 283.38 
+			Dec: 517.28, 
+			Jan: 558.58, 
+			Feb: 299.51, 
+			Mar: 286.96, 
+			Apr: 209.02 
 		}
 	}
 }); 
@@ -23706,11 +23706,11 @@ WeatherOutlook.insert({
 	municipality: "San Francisco", 
 	data: {
 		month: {
-			Nov: 350.91, 
-			Dec: 483.68, 
-			Jan: 501.79, 
-			Feb: 320.58, 
-			Mar: 361.78 
+			Dec: 483.94, 
+			Jan: 501.83, 
+			Feb: 320.70, 
+			Mar: 363.99, 
+			Apr: 223.64 
 		}
 	}
 }); 
@@ -23721,11 +23721,11 @@ WeatherOutlook.insert({
 	municipality: "San Isidro", 
 	data: {
 		month: {
-			Nov: 361.94, 
-			Dec: 495.44, 
-			Jan: 543.43, 
-			Feb: 300.25, 
-			Mar: 276.33 
+			Dec: 495.87, 
+			Jan: 543.60, 
+			Feb: 300.51, 
+			Mar: 279.83, 
+			Apr: 208.16 
 		}
 	}
 }); 
@@ -23736,11 +23736,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Monica", 
 	data: {
 		month: {
-			Nov: 361.21, 
-			Dec: 515.86, 
-			Jan: 543.81, 
-			Feb: 295.26, 
-			Mar: 276.17 
+			Dec: 516.39, 
+			Jan: 544.07, 
+			Feb: 295.59, 
+			Mar: 279.78, 
+			Apr: 207.22 
 		}
 	}
 }); 
@@ -23751,11 +23751,11 @@ WeatherOutlook.insert({
 	municipality: "Sison", 
 	data: {
 		month: {
-			Nov: 354.54, 
-			Dec: 497.71, 
-			Jan: 520.83, 
-			Feb: 336.9, 
-			Mar: 357.6 
+			Dec: 498.03, 
+			Jan: 520.93, 
+			Feb: 337.08, 
+			Mar: 359.86, 
+			Apr: 240.49 
 		}
 	}
 }); 
@@ -23766,11 +23766,11 @@ WeatherOutlook.insert({
 	municipality: "Socorro", 
 	data: {
 		month: {
-			Nov: 355.45, 
-			Dec: 487.94, 
-			Jan: 528.85, 
-			Feb: 331.09, 
-			Mar: 305.05 
+			Dec: 488.23, 
+			Jan: 528.91, 
+			Feb: 331.27, 
+			Mar: 307.79, 
+			Apr: 225.73 
 		}
 	}
 }); 
@@ -23781,11 +23781,11 @@ WeatherOutlook.insert({
 	municipality: "Surigao City", 
 	data: {
 		month: {
-			Nov: 350.13, 
-			Dec: 469.51, 
-			Jan: 525.7, 
-			Feb: 305.09, 
-			Mar: 335.89 
+			Dec: 469.84, 
+			Jan: 525.81, 
+			Feb: 305.26, 
+			Mar: 338.28, 
+			Apr: 225.63 
 		}
 	}
 }); 
@@ -23796,11 +23796,11 @@ WeatherOutlook.insert({
 	municipality: "Tagana-An", 
 	data: {
 		month: {
-			Nov: 370.89, 
-			Dec: 501.9, 
-			Jan: 537.33, 
-			Feb: 322.12, 
-			Mar: 341.58 
+			Dec: 502.29, 
+			Jan: 537.49, 
+			Feb: 322.33, 
+			Mar: 343.99, 
+			Apr: 248.45 
 		}
 	}
 }); 
@@ -23811,11 +23811,11 @@ WeatherOutlook.insert({
 	municipality: "Tubod", 
 	data: {
 		month: {
-			Nov: 362.24, 
-			Dec: 539.57, 
-			Jan: 544.38, 
-			Feb: 371.8, 
-			Mar: 337.57 
+			Dec: 539.82, 
+			Jan: 544.40, 
+			Feb: 371.92, 
+			Mar: 339.82, 
+			Apr: 264.32 
 		}
 	}
 }); 
@@ -23826,11 +23826,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 346.42, 
-			Dec: 563.97, 
-			Jan: 597.02, 
-			Feb: 393.25, 
-			Mar: 381.45 
+			Dec: 564.30, 
+			Jan: 597.01, 
+			Feb: 393.43, 
+			Mar: 384.09, 
+			Apr: 276.62 
 		}
 	}
 }); 
@@ -23841,11 +23841,11 @@ WeatherOutlook.insert({
 	municipality: "Barobo", 
 	data: {
 		month: {
-			Nov: 347.87, 
-			Dec: 586.21, 
-			Jan: 607.37, 
-			Feb: 368.94, 
-			Mar: 387.42 
+			Dec: 586.52, 
+			Jan: 607.33, 
+			Feb: 369.11, 
+			Mar: 389.74, 
+			Apr: 294.66 
 		}
 	}
 }); 
@@ -23856,11 +23856,11 @@ WeatherOutlook.insert({
 	municipality: "Bayabas", 
 	data: {
 		month: {
-			Nov: 341.36, 
-			Dec: 535.45, 
-			Jan: 624.69, 
-			Feb: 392, 
-			Mar: 366.96 
+			Dec: 535.88, 
+			Jan: 624.80, 
+			Feb: 392.26, 
+			Mar: 369.76, 
+			Apr: 269.64 
 		}
 	}
 }); 
@@ -23871,11 +23871,11 @@ WeatherOutlook.insert({
 	municipality: "Bislig City", 
 	data: {
 		month: {
-			Nov: 340.72, 
-			Dec: 572.1, 
-			Jan: 592.83, 
-			Feb: 358.04, 
-			Mar: 385.72 
+			Dec: 572.41, 
+			Jan: 592.76, 
+			Feb: 358.22, 
+			Mar: 387.99, 
+			Apr: 322.89 
 		}
 	}
 }); 
@@ -23886,11 +23886,11 @@ WeatherOutlook.insert({
 	municipality: "Cagwait", 
 	data: {
 		month: {
-			Nov: 345.13, 
-			Dec: 555.72, 
-			Jan: 623.89, 
-			Feb: 399.82, 
-			Mar: 384.25 
+			Dec: 556.11, 
+			Jan: 623.95, 
+			Feb: 400.06, 
+			Mar: 387.04, 
+			Apr: 278.06 
 		}
 	}
 }); 
@@ -23901,11 +23901,11 @@ WeatherOutlook.insert({
 	municipality: "Cantilan", 
 	data: {
 		month: {
-			Nov: 351.48, 
-			Dec: 561.93, 
-			Jan: 566.49, 
-			Feb: 410.12, 
-			Mar: 358.9 
+			Dec: 562.17, 
+			Jan: 566.41, 
+			Feb: 410.21, 
+			Mar: 361.44, 
+			Apr: 247.72 
 		}
 	}
 }); 
@@ -23916,11 +23916,11 @@ WeatherOutlook.insert({
 	municipality: "Carmen", 
 	data: {
 		month: {
-			Nov: 345.5, 
-			Dec: 587.05, 
-			Jan: 582.56, 
-			Feb: 418.59, 
-			Mar: 388.83 
+			Dec: 587.33, 
+			Jan: 582.48, 
+			Feb: 418.71, 
+			Mar: 391.65, 
+			Apr: 252.23 
 		}
 	}
 }); 
@@ -23931,11 +23931,11 @@ WeatherOutlook.insert({
 	municipality: "Carrascal", 
 	data: {
 		month: {
-			Nov: 361.56, 
-			Dec: 582.09, 
-			Jan: 564.68, 
-			Feb: 411.25, 
-			Mar: 364.26 
+			Dec: 582.39, 
+			Jan: 564.69, 
+			Feb: 411.39, 
+			Mar: 366.74, 
+			Apr: 258.19 
 		}
 	}
 }); 
@@ -23946,11 +23946,11 @@ WeatherOutlook.insert({
 	municipality: "Cortes", 
 	data: {
 		month: {
-			Nov: 351.65, 
-			Dec: 536.66, 
-			Jan: 554.07, 
-			Feb: 380, 
-			Mar: 324.18 
+			Dec: 536.87, 
+			Jan: 553.94, 
+			Feb: 380.06, 
+			Mar: 326.86, 
+			Apr: 229.86 
 		}
 	}
 }); 
@@ -23961,11 +23961,11 @@ WeatherOutlook.insert({
 	municipality: "Hinatuan", 
 	data: {
 		month: {
-			Nov: 358.46, 
-			Dec: 613.42, 
-			Jan: 605.25, 
-			Feb: 367.56, 
-			Mar: 368.21 
+			Dec: 613.72, 
+			Jan: 605.19, 
+			Feb: 367.72, 
+			Mar: 370.50, 
+			Apr: 334.77 
 		}
 	}
 }); 
@@ -23976,11 +23976,11 @@ WeatherOutlook.insert({
 	municipality: "Lanuza", 
 	data: {
 		month: {
-			Nov: 349.69, 
-			Dec: 564.51, 
-			Jan: 574.7, 
-			Feb: 403.91, 
-			Mar: 370.43 
+			Dec: 564.86, 
+			Jan: 574.71, 
+			Feb: 404.11, 
+			Mar: 373.34, 
+			Apr: 244.44 
 		}
 	}
 }); 
@@ -23991,11 +23991,11 @@ WeatherOutlook.insert({
 	municipality: "Lianga", 
 	data: {
 		month: {
-			Nov: 338.19, 
-			Dec: 552.15, 
-			Jan: 607.8, 
-			Feb: 376.43, 
-			Mar: 399 
+			Dec: 552.48, 
+			Jan: 607.78, 
+			Feb: 376.61, 
+			Mar: 401.42, 
+			Apr: 269.12 
 		}
 	}
 }); 
@@ -24006,11 +24006,11 @@ WeatherOutlook.insert({
 	municipality: "Lingig", 
 	data: {
 		month: {
-			Nov: 343.73, 
-			Dec: 513.82, 
-			Jan: 564.55, 
-			Feb: 348.57, 
-			Mar: 351.21 
+			Dec: 514.11, 
+			Jan: 564.45, 
+			Feb: 348.72, 
+			Mar: 353.46, 
+			Apr: 301.08 
 		}
 	}
 }); 
@@ -24021,11 +24021,11 @@ WeatherOutlook.insert({
 	municipality: "Madrid", 
 	data: {
 		month: {
-			Nov: 344.88, 
-			Dec: 590.22, 
-			Jan: 582.48, 
-			Feb: 423.78, 
-			Mar: 386.83 
+			Dec: 590.54, 
+			Jan: 582.47, 
+			Feb: 423.94, 
+			Mar: 389.54, 
+			Apr: 257.75 
 		}
 	}
 }); 
@@ -24036,11 +24036,11 @@ WeatherOutlook.insert({
 	municipality: "Marihatag", 
 	data: {
 		month: {
-			Nov: 348.15, 
-			Dec: 569.36, 
-			Jan: 626.23, 
-			Feb: 398.67, 
-			Mar: 390.27 
+			Dec: 569.65, 
+			Jan: 626.18, 
+			Feb: 398.82, 
+			Mar: 392.94, 
+			Apr: 279.70 
 		}
 	}
 }); 
@@ -24051,11 +24051,11 @@ WeatherOutlook.insert({
 	municipality: "San Agustin", 
 	data: {
 		month: {
-			Nov: 354.32, 
-			Dec: 557.83, 
-			Jan: 615.53, 
-			Feb: 391.4, 
-			Mar: 388.22 
+			Dec: 558.15, 
+			Jan: 615.50, 
+			Feb: 391.57, 
+			Mar: 390.79, 
+			Apr: 276.63 
 		}
 	}
 }); 
@@ -24066,11 +24066,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 330.63, 
-			Dec: 538.59, 
-			Jan: 619.31, 
-			Feb: 416.29, 
-			Mar: 419.11 
+			Dec: 538.92, 
+			Jan: 619.26, 
+			Feb: 416.45, 
+			Mar: 422.19, 
+			Apr: 271.34 
 		}
 	}
 }); 
@@ -24081,11 +24081,11 @@ WeatherOutlook.insert({
 	municipality: "Tagbina", 
 	data: {
 		month: {
-			Nov: 348.16, 
-			Dec: 595.1, 
-			Jan: 601.92, 
-			Feb: 368.74, 
-			Mar: 396.49 
+			Dec: 595.41, 
+			Jan: 601.88, 
+			Feb: 368.91, 
+			Mar: 398.76, 
+			Apr: 310.54 
 		}
 	}
 }); 
@@ -24096,11 +24096,11 @@ WeatherOutlook.insert({
 	municipality: "Tago", 
 	data: {
 		month: {
-			Nov: 335.35, 
-			Dec: 545.91, 
-			Jan: 625.82, 
-			Feb: 410.68, 
-			Mar: 399.04 
+			Dec: 546.24, 
+			Jan: 625.79, 
+			Feb: 410.86, 
+			Mar: 402.01, 
+			Apr: 273.77 
 		}
 	}
 }); 
@@ -24111,11 +24111,11 @@ WeatherOutlook.insert({
 	municipality: "Tandag City", 
 	data: {
 		month: {
-			Nov: 344.11, 
-			Dec: 545.96, 
-			Jan: 600.55, 
-			Feb: 408.18, 
-			Mar: 383.31 
+			Dec: 546.28, 
+			Jan: 600.50, 
+			Feb: 408.34, 
+			Mar: 386.35, 
+			Apr: 258.00 
 		}
 	}
 }); 
@@ -24126,11 +24126,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 62.48, 
-			Dec: 18.28, 
-			Jan: 4.67, 
-			Feb: 8.71, 
-			Mar: 24 
+			Dec: 18.09, 
+			Jan: 4.59, 
+			Feb: 8.72, 
+			Mar: 23.00, 
+			Apr: 57.45 
 		}
 	}
 }); 
@@ -24141,11 +24141,11 @@ WeatherOutlook.insert({
 	municipality: "Anao", 
 	data: {
 		month: {
-			Nov: 48.34, 
-			Dec: 9.21, 
-			Jan: 3.86, 
-			Feb: 4.79, 
-			Mar: 18.66 
+			Dec: 9.02, 
+			Jan: 3.78, 
+			Feb: 4.81, 
+			Mar: 17.63, 
+			Apr: 57.29 
 		}
 	}
 }); 
@@ -24156,11 +24156,11 @@ WeatherOutlook.insert({
 	municipality: "Bamban", 
 	data: {
 		month: {
-			Nov: 79.94, 
-			Dec: 29.82, 
-			Jan: 4.89, 
-			Feb: 8.53, 
-			Mar: 23.92 
+			Dec: 29.64, 
+			Jan: 4.82, 
+			Feb: 8.54, 
+			Mar: 22.96, 
+			Apr: 51.48 
 		}
 	}
 }); 
@@ -24171,11 +24171,11 @@ WeatherOutlook.insert({
 	municipality: "Camiling", 
 	data: {
 		month: {
-			Nov: 49.6, 
-			Dec: 14.24, 
-			Jan: 3.83, 
-			Feb: 9.5, 
-			Mar: 33.52 
+			Dec: 14.09, 
+			Jan: 3.77, 
+			Feb: 9.54, 
+			Mar: 32.46, 
+			Apr: 65.41 
 		}
 	}
 }); 
@@ -24186,11 +24186,11 @@ WeatherOutlook.insert({
 	municipality: "Capas", 
 	data: {
 		month: {
-			Nov: 75.01, 
-			Dec: 20.94, 
-			Jan: 4.47, 
+			Dec: 20.73, 
+			Jan: 4.38, 
 			Feb: 8.33, 
-			Mar: 21.32 
+			Mar: 20.34, 
+			Apr: 52.95 
 		}
 	}
 }); 
@@ -24201,11 +24201,11 @@ WeatherOutlook.insert({
 	municipality: "Concepcion", 
 	data: {
 		month: {
-			Nov: 65.33, 
-			Dec: 19.96, 
-			Jan: 7.1, 
-			Feb: 9.68, 
-			Mar: 21.7 
+			Dec: 19.76, 
+			Jan: 7.01, 
+			Feb: 9.70, 
+			Mar: 20.83, 
+			Apr: 47.76 
 		}
 	}
 }); 
@@ -24216,11 +24216,11 @@ WeatherOutlook.insert({
 	municipality: "Gerona", 
 	data: {
 		month: {
-			Nov: 32.94, 
-			Dec: 5.72, 
-			Jan: 4.21, 
-			Feb: 6.72, 
-			Mar: 19.04 
+			Dec: 5.55, 
+			Jan: 4.14, 
+			Feb: 6.75, 
+			Mar: 18.07, 
+			Apr: 52.87 
 		}
 	}
 }); 
@@ -24231,11 +24231,11 @@ WeatherOutlook.insert({
 	municipality: "La Paz", 
 	data: {
 		month: {
-			Nov: 67.24, 
-			Dec: 15.26, 
-			Jan: 7.15, 
-			Feb: 8.95, 
-			Mar: 21.17 
+			Dec: 15.09, 
+			Jan: 7.09, 
+			Feb: 8.97, 
+			Mar: 20.29, 
+			Apr: 49.72 
 		}
 	}
 }); 
@@ -24246,11 +24246,11 @@ WeatherOutlook.insert({
 	municipality: "Mayantoc", 
 	data: {
 		month: {
-			Nov: 81.98, 
-			Dec: 30.96, 
-			Jan: 4.18, 
-			Feb: 13.33, 
-			Mar: 34.18 
+			Dec: 30.77, 
+			Jan: 4.10, 
+			Feb: 13.35, 
+			Mar: 33.11, 
+			Apr: 71.46 
 		}
 	}
 }); 
@@ -24261,11 +24261,11 @@ WeatherOutlook.insert({
 	municipality: "Moncada", 
 	data: {
 		month: {
-			Nov: 41.81, 
-			Dec: 8.04, 
-			Jan: 3.52, 
-			Feb: 4.66, 
-			Mar: 19.63 
+			Dec: 7.86, 
+			Jan: 3.45, 
+			Feb: 4.69, 
+			Mar: 18.60, 
+			Apr: 57.71 
 		}
 	}
 }); 
@@ -24276,11 +24276,11 @@ WeatherOutlook.insert({
 	municipality: "Paniqui", 
 	data: {
 		month: {
-			Nov: 32.25, 
-			Dec: 5.86, 
-			Jan: 3.53, 
-			Feb: 5.4, 
-			Mar: 19.59 
+			Dec: 5.72, 
+			Jan: 3.49, 
+			Feb: 5.45, 
+			Mar: 18.61, 
+			Apr: 55.00 
 		}
 	}
 }); 
@@ -24291,11 +24291,11 @@ WeatherOutlook.insert({
 	municipality: "Pura", 
 	data: {
 		month: {
-			Nov: 39.95, 
-			Dec: 6.07, 
-			Jan: 4.44, 
-			Feb: 5.92, 
-			Mar: 18.07 
+			Dec: 5.86, 
+			Jan: 4.35, 
+			Feb: 5.93, 
+			Mar: 17.09, 
+			Apr: 52.35 
 		}
 	}
 }); 
@@ -24306,11 +24306,11 @@ WeatherOutlook.insert({
 	municipality: "Ramos", 
 	data: {
 		month: {
-			Nov: 41.43, 
-			Dec: 6.11, 
-			Jan: 3.84, 
-			Feb: 4.71, 
-			Mar: 17.42 
+			Dec: 5.92, 
+			Jan: 3.77, 
+			Feb: 4.73, 
+			Mar: 16.42, 
+			Apr: 53.62 
 		}
 	}
 }); 
@@ -24321,11 +24321,11 @@ WeatherOutlook.insert({
 	municipality: "San Clemente", 
 	data: {
 		month: {
-			Nov: 61.9, 
-			Dec: 23.46, 
-			Jan: 4.06, 
-			Feb: 12.02, 
-			Mar: 40.08 
+			Dec: 23.32, 
+			Jan: 4.02, 
+			Feb: 12.07, 
+			Mar: 39.00, 
+			Apr: 74.91 
 		}
 	}
 }); 
@@ -24336,11 +24336,11 @@ WeatherOutlook.insert({
 	municipality: "San Jose", 
 	data: {
 		month: {
-			Nov: 84.79, 
-			Dec: 28.77, 
-			Jan: 4.11, 
-			Feb: 9.96, 
-			Mar: 24.87 
+			Dec: 28.59, 
+			Jan: 4.03, 
+			Feb: 9.97, 
+			Mar: 23.84, 
+			Apr: 61.88 
 		}
 	}
 }); 
@@ -24351,11 +24351,11 @@ WeatherOutlook.insert({
 	municipality: "San Manuel", 
 	data: {
 		month: {
-			Nov: 48.85, 
-			Dec: 9.21, 
-			Jan: 3.69, 
-			Feb: 4.01, 
-			Mar: 20.08 
+			Dec: 9.06, 
+			Jan: 3.64, 
+			Feb: 4.05, 
+			Mar: 19.03, 
+			Apr: 62.23 
 		}
 	}
 }); 
@@ -24366,11 +24366,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Ignacia", 
 	data: {
 		month: {
-			Nov: 48.69, 
-			Dec: 12.36, 
-			Jan: 3.69, 
-			Feb: 9.06, 
-			Mar: 24.79 
+			Dec: 12.19, 
+			Jan: 3.62, 
+			Feb: 9.08, 
+			Mar: 23.79, 
+			Apr: 57.62 
 		}
 	}
 }); 
@@ -24381,11 +24381,11 @@ WeatherOutlook.insert({
 	municipality: "Tarlac City", 
 	data: {
 		month: {
-			Nov: 56.57, 
-			Dec: 14.58, 
-			Jan: 6.24, 
-			Feb: 9.19, 
-			Mar: 21.71 
+			Dec: 14.40, 
+			Jan: 6.17, 
+			Feb: 9.21, 
+			Mar: 20.80, 
+			Apr: 53.56 
 		}
 	}
 }); 
@@ -24396,11 +24396,11 @@ WeatherOutlook.insert({
 	municipality: "Victoria", 
 	data: {
 		month: {
-			Nov: 44.45, 
-			Dec: 8.17, 
-			Jan: 5.96, 
-			Feb: 7.43, 
-			Mar: 18.48 
+			Dec: 7.99, 
+			Jan: 5.90, 
+			Feb: 7.46, 
+			Mar: 17.55, 
+			Apr: 51.55 
 		}
 	}
 }); 
@@ -24411,11 +24411,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 174.91, 
-			Dec: 190.11, 
-			Jan: 131.53, 
-			Feb: 107.65, 
-			Mar: 113.14 
+			Dec: 190.01, 
+			Jan: 131.19, 
+			Feb: 107.89, 
+			Mar: 115.57, 
+			Apr: 105.46 
 		}
 	}
 }); 
@@ -24426,11 +24426,11 @@ WeatherOutlook.insert({
 	municipality: "Bongao", 
 	data: {
 		month: {
-			Nov: 176.05, 
-			Dec: 192.02, 
-			Jan: 140.08, 
-			Feb: 121.11, 
-			Mar: 126.13 
+			Dec: 191.87, 
+			Jan: 139.71, 
+			Feb: 121.36, 
+			Mar: 128.70, 
+			Apr: 115.23 
 		}
 	}
 }); 
@@ -24441,11 +24441,11 @@ WeatherOutlook.insert({
 	municipality: "Languyan", 
 	data: {
 		month: {
-			Nov: 192.95, 
-			Dec: 187.44, 
-			Jan: 100.17, 
-			Feb: 92.48, 
-			Mar: 107.07 
+			Dec: 187.16, 
+			Jan: 99.60, 
+			Feb: 92.54, 
+			Mar: 109.35, 
+			Apr: 114.72 
 		}
 	}
 }); 
@@ -24456,11 +24456,11 @@ WeatherOutlook.insert({
 	municipality: "Mapun", 
 	data: {
 		month: {
-			Nov: 198.81, 
-			Dec: 240.02, 
-			Jan: 204.6, 
-			Feb: 63.46, 
-			Mar: 84.92 
+			Dec: 239.90, 
+			Jan: 204.09, 
+			Feb: 63.52, 
+			Mar: 87.05, 
+			Apr: 83.16 
 		}
 	}
 }); 
@@ -24471,11 +24471,11 @@ WeatherOutlook.insert({
 	municipality: "Panglima Sugala", 
 	data: {
 		month: {
-			Nov: 171.8, 
-			Dec: 178.92, 
-			Jan: 119.58, 
-			Feb: 105.79, 
-			Mar: 112.46 
+			Dec: 178.84, 
+			Jan: 119.29, 
+			Feb: 106.11, 
+			Mar: 115.13, 
+			Apr: 112.30 
 		}
 	}
 }); 
@@ -24486,11 +24486,11 @@ WeatherOutlook.insert({
 	municipality: "Sapa-Sapa", 
 	data: {
 		month: {
-			Nov: 170.63, 
-			Dec: 191.6, 
-			Jan: 120.28, 
-			Feb: 114.31, 
-			Mar: 123.47 
+			Dec: 191.80, 
+			Jan: 120.33, 
+			Feb: 114.87, 
+			Mar: 126.17, 
+			Apr: 122.25 
 		}
 	}
 }); 
@@ -24501,11 +24501,11 @@ WeatherOutlook.insert({
 	municipality: "Sibutu", 
 	data: {
 		month: {
-			Nov: 185.65, 
-			Dec: 204.19, 
-			Jan: 120.86, 
-			Feb: 133.53, 
-			Mar: 138.65 
+			Dec: 203.99, 
+			Jan: 120.45, 
+			Feb: 133.68, 
+			Mar: 140.94, 
+			Apr: 116.42 
 		}
 	}
 }); 
@@ -24516,11 +24516,11 @@ WeatherOutlook.insert({
 	municipality: "Simunul", 
 	data: {
 		month: {
-			Nov: 177.37, 
-			Dec: 208.48, 
-			Jan: 136.24, 
-			Feb: 138.11, 
-			Mar: 143.46 
+			Dec: 208.25, 
+			Jan: 135.77, 
+			Feb: 138.29, 
+			Mar: 145.99, 
+			Apr: 119.04 
 		}
 	}
 }); 
@@ -24531,11 +24531,11 @@ WeatherOutlook.insert({
 	municipality: "Sitangkai", 
 	data: {
 		month: {
-			Nov: 188.43, 
-			Dec: 203.03, 
-			Jan: 111.93, 
-			Feb: 134.26, 
-			Mar: 144 
+			Dec: 202.83, 
+			Jan: 111.52, 
+			Feb: 134.41, 
+			Mar: 146.30, 
+			Apr: 118.83 
 		}
 	}
 }); 
@@ -24546,11 +24546,11 @@ WeatherOutlook.insert({
 	municipality: "South Ubian", 
 	data: {
 		month: {
-			Nov: 127.72, 
-			Dec: 129.68, 
-			Jan: 111.57, 
-			Feb: 84.97, 
-			Mar: 91.15 
+			Dec: 129.67, 
+			Jan: 111.31, 
+			Feb: 85.26, 
+			Mar: 93.36, 
+			Apr: 79.37 
 		}
 	}
 }); 
@@ -24561,11 +24561,11 @@ WeatherOutlook.insert({
 	municipality: "Tandubas", 
 	data: {
 		month: {
-			Nov: 189.11, 
-			Dec: 191.49, 
-			Jan: 115.34, 
-			Feb: 102.5, 
-			Mar: 115.41 
+			Dec: 191.38, 
+			Jan: 114.97, 
+			Feb: 102.72, 
+			Mar: 117.74, 
+			Apr: 118.04 
 		}
 	}
 }); 
@@ -24576,11 +24576,11 @@ WeatherOutlook.insert({
 	municipality: "Turtle Islands", 
 	data: {
 		month: {
-			Nov: 143.38, 
-			Dec: 199.49, 
-			Jan: 214.3, 
-			Feb: 128.74, 
-			Mar: 83.08 
+			Dec: 199.47, 
+			Jan: 214.04, 
+			Feb: 128.99, 
+			Mar: 85.54, 
+			Apr: 54.11 
 		}
 	}
 }); 
@@ -24591,11 +24591,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 69.63, 
-			Dec: 28.5, 
-			Jan: 3.56, 
-			Feb: 4.81, 
-			Mar: 17.52 
+			Dec: 28.35, 
+			Jan: 3.51, 
+			Feb: 4.84, 
+			Mar: 16.24, 
+			Apr: 44.79 
 		}
 	}
 }); 
@@ -24606,11 +24606,11 @@ WeatherOutlook.insert({
 	municipality: "Botolan", 
 	data: {
 		month: {
-			Nov: 75.94, 
-			Dec: 21.2, 
-			Jan: 3.4, 
-			Feb: 5.96, 
-			Mar: 17.99 
+			Dec: 20.99, 
+			Jan: 3.30, 
+			Feb: 5.95, 
+			Mar: 16.77, 
+			Apr: 48.05 
 		}
 	}
 }); 
@@ -24621,11 +24621,11 @@ WeatherOutlook.insert({
 	municipality: "Cabangan", 
 	data: {
 		month: {
-			Nov: 71.98, 
-			Dec: 18.16, 
-			Jan: 2.86, 
-			Feb: 2.57, 
-			Mar: 8.47 
+			Dec: 17.99, 
+			Jan: 2.80, 
+			Feb: 2.59, 
+			Mar: 7.05, 
+			Apr: 40.66 
 		}
 	}
 }); 
@@ -24636,11 +24636,11 @@ WeatherOutlook.insert({
 	municipality: "Candelaria", 
 	data: {
 		month: {
-			Nov: 73.28, 
-			Dec: 32.12, 
-			Jan: 3.89, 
-			Feb: 7.31, 
-			Mar: 32.3 
+			Dec: 31.98, 
+			Jan: 3.85, 
+			Feb: 7.35, 
+			Mar: 31.09, 
+			Apr: 65.68 
 		}
 	}
 }); 
@@ -24651,11 +24651,11 @@ WeatherOutlook.insert({
 	municipality: "Castillejos", 
 	data: {
 		month: {
-			Nov: 72.74, 
-			Dec: 31.73, 
-			Jan: 3.19, 
-			Feb: 4.11, 
-			Mar: 7.72 
+			Dec: 31.66, 
+			Jan: 3.20, 
+			Feb: 4.17, 
+			Mar: 6.40, 
+			Apr: 30.07 
 		}
 	}
 }); 
@@ -24666,11 +24666,11 @@ WeatherOutlook.insert({
 	municipality: "Iba", 
 	data: {
 		month: {
-			Nov: 62.06, 
-			Dec: 28.42, 
-			Jan: 3.66, 
-			Feb: 3.22, 
-			Mar: 16.81 
+			Dec: 28.24, 
+			Jan: 3.58, 
+			Feb: 3.23, 
+			Mar: 15.62, 
+			Apr: 47.65 
 		}
 	}
 }); 
@@ -24681,11 +24681,11 @@ WeatherOutlook.insert({
 	municipality: "Masinloc", 
 	data: {
 		month: {
-			Nov: 69.31, 
-			Dec: 27.07, 
-			Jan: 3.8, 
-			Feb: 5.74, 
-			Mar: 25.84 
+			Dec: 26.90, 
+			Jan: 3.73, 
+			Feb: 5.76, 
+			Mar: 24.68, 
+			Apr: 58.59 
 		}
 	}
 }); 
@@ -24696,11 +24696,11 @@ WeatherOutlook.insert({
 	municipality: "Olongapo City", 
 	data: {
 		month: {
-			Nov: 88.18, 
-			Dec: 52.74, 
-			Jan: 4.08, 
-			Feb: 4.35, 
-			Mar: 8.44 
+			Dec: 52.51, 
+			Jan: 3.97, 
+			Feb: 4.33, 
+			Mar: 7.34, 
+			Apr: 29.10 
 		}
 	}
 }); 
@@ -24711,11 +24711,11 @@ WeatherOutlook.insert({
 	municipality: "Palauig", 
 	data: {
 		month: {
-			Nov: 63.29, 
-			Dec: 28.9, 
-			Jan: 3.78, 
-			Feb: 4.66, 
-			Mar: 21.74 
+			Dec: 28.72, 
+			Jan: 3.70, 
+			Feb: 4.67, 
+			Mar: 20.58, 
+			Apr: 50.89 
 		}
 	}
 }); 
@@ -24726,11 +24726,11 @@ WeatherOutlook.insert({
 	municipality: "San Antonio", 
 	data: {
 		month: {
-			Nov: 47.88, 
-			Dec: 19.71, 
-			Jan: 3.24, 
-			Feb: 2.76, 
-			Mar: 5.29 
+			Dec: 19.34, 
+			Jan: 3.02, 
+			Feb: 2.67, 
+			Mar: 3.75, 
+			Apr: 23.56 
 		}
 	}
 }); 
@@ -24741,11 +24741,11 @@ WeatherOutlook.insert({
 	municipality: "San Felipe", 
 	data: {
 		month: {
-			Nov: 52.84, 
-			Dec: 12.53, 
-			Jan: 2.52, 
-			Feb: 2.42, 
-			Mar: 8.13 
+			Dec: 12.41, 
+			Jan: 2.49, 
+			Feb: 2.46, 
+			Mar: 6.59, 
+			Apr: 36.39 
 		}
 	}
 }); 
@@ -24756,11 +24756,11 @@ WeatherOutlook.insert({
 	municipality: "San Marcelino", 
 	data: {
 		month: {
-			Nov: 81.99, 
-			Dec: 35.27, 
-			Jan: 3.65, 
-			Feb: 5.26, 
-			Mar: 15.99 
+			Dec: 35.02, 
+			Jan: 3.53, 
+			Feb: 5.24, 
+			Mar: 14.72, 
+			Apr: 40.74 
 		}
 	}
 }); 
@@ -24771,11 +24771,11 @@ WeatherOutlook.insert({
 	municipality: "San Narciso", 
 	data: {
 		month: {
-			Nov: 44.19, 
-			Dec: 13.34, 
-			Jan: 2.58, 
-			Feb: 2.37, 
-			Mar: 5.56 
+			Dec: 12.93, 
+			Jan: 2.32, 
+			Feb: 2.26, 
+			Mar: 3.88, 
+			Apr: 28.93 
 		}
 	}
 }); 
@@ -24786,11 +24786,11 @@ WeatherOutlook.insert({
 	municipality: "Santa Cruz", 
 	data: {
 		month: {
-			Nov: 54.91, 
-			Dec: 22.47, 
-			Jan: 4.07, 
-			Feb: 5.2, 
-			Mar: 27.56 
+			Dec: 22.36, 
+			Jan: 4.05, 
+			Feb: 5.27, 
+			Mar: 26.17, 
+			Apr: 54.14 
 		}
 	}
 }); 
@@ -24801,11 +24801,11 @@ WeatherOutlook.insert({
 	municipality: "Subic", 
 	data: {
 		month: {
-			Nov: 84.05, 
-			Dec: 45.45, 
-			Jan: 3.72, 
-			Feb: 4.51, 
-			Mar: 9.27 
+			Dec: 45.42, 
+			Jan: 3.75, 
+			Feb: 4.59, 
+			Mar: 8.09, 
+			Apr: 29.22 
 		}
 	}
 }); 
@@ -24816,11 +24816,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 287.68, 
-			Dec: 213.75, 
-			Jan: 122.08, 
-			Feb: 90.97, 
-			Mar: 126.63 
+			Dec: 214.13, 
+			Jan: 121.96, 
+			Feb: 91.02, 
+			Mar: 127.02, 
+			Apr: 112.93 
 		}
 	}
 }); 
@@ -24831,11 +24831,11 @@ WeatherOutlook.insert({
 	municipality: "Bacungan", 
 	data: {
 		month: {
-			Nov: 299.13, 
-			Dec: 199.97, 
-			Jan: 110.32, 
-			Feb: 112.46, 
-			Mar: 149.42 
+			Dec: 200.52, 
+			Jan: 110.10, 
+			Feb: 112.34, 
+			Mar: 148.89, 
+			Apr: 141.67 
 		}
 	}
 }); 
@@ -24846,11 +24846,11 @@ WeatherOutlook.insert({
 	municipality: "Baliguian", 
 	data: {
 		month: {
-			Nov: 263.79, 
-			Dec: 198.42, 
-			Jan: 102.61, 
-			Feb: 73.5, 
-			Mar: 123.25 
+			Dec: 198.71, 
+			Jan: 102.37, 
+			Feb: 73.52, 
+			Mar: 123.78, 
+			Apr: 120.53 
 		}
 	}
 }); 
@@ -24861,11 +24861,11 @@ WeatherOutlook.insert({
 	municipality: "Dapitan City", 
 	data: {
 		month: {
-			Nov: 290.83, 
-			Dec: 227.99, 
-			Jan: 133.84, 
-			Feb: 75.72, 
-			Mar: 98.98 
+			Dec: 228.31, 
+			Jan: 133.74, 
+			Feb: 75.70, 
+			Mar: 99.58, 
+			Apr: 81.66 
 		}
 	}
 }); 
@@ -24876,11 +24876,11 @@ WeatherOutlook.insert({
 	municipality: "Dipolog City", 
 	data: {
 		month: {
-			Nov: 353.32, 
-			Dec: 297.95, 
-			Jan: 158.68, 
-			Feb: 94.21, 
-			Mar: 131.69 
+			Dec: 298.30, 
+			Jan: 158.61, 
+			Feb: 94.25, 
+			Mar: 132.24, 
+			Apr: 110.89 
 		}
 	}
 }); 
@@ -24891,11 +24891,11 @@ WeatherOutlook.insert({
 	municipality: "Godod", 
 	data: {
 		month: {
-			Nov: 293.86, 
-			Dec: 194.95, 
-			Jan: 125.35, 
-			Feb: 111.63, 
-			Mar: 170.96 
+			Dec: 195.44, 
+			Jan: 125.15, 
+			Feb: 111.55, 
+			Mar: 170.70, 
+			Apr: 167.74 
 		}
 	}
 }); 
@@ -24906,11 +24906,11 @@ WeatherOutlook.insert({
 	municipality: "Gutalac", 
 	data: {
 		month: {
-			Nov: 235.99, 
-			Dec: 175.82, 
-			Jan: 106.95, 
+			Dec: 176.11, 
+			Jan: 106.72, 
 			Feb: 76.46, 
-			Mar: 125.63 
+			Mar: 126.13, 
+			Apr: 118.54 
 		}
 	}
 }); 
@@ -24921,11 +24921,11 @@ WeatherOutlook.insert({
 	municipality: "Jose Dalman", 
 	data: {
 		month: {
-			Nov: 303.39, 
-			Dec: 219.69, 
-			Jan: 120.92, 
-			Feb: 88.81, 
-			Mar: 112.29 
+			Dec: 220.06, 
+			Jan: 120.81, 
+			Feb: 88.84, 
+			Mar: 112.65, 
+			Apr: 93.45 
 		}
 	}
 }); 
@@ -24936,11 +24936,11 @@ WeatherOutlook.insert({
 	municipality: "Kalawit", 
 	data: {
 		month: {
-			Nov: 238, 
-			Dec: 169.47, 
-			Jan: 117.9, 
-			Feb: 87.06, 
-			Mar: 144.52 
+			Dec: 169.79, 
+			Jan: 117.71, 
+			Feb: 87.07, 
+			Mar: 144.96, 
+			Apr: 138.15 
 		}
 	}
 }); 
@@ -24951,11 +24951,11 @@ WeatherOutlook.insert({
 	municipality: "Katipunan", 
 	data: {
 		month: {
-			Nov: 350.72, 
-			Dec: 279.23, 
-			Jan: 148.55, 
-			Feb: 98.71, 
-			Mar: 137.8 
+			Dec: 279.59, 
+			Jan: 148.45, 
+			Feb: 98.73, 
+			Mar: 138.26, 
+			Apr: 113.17 
 		}
 	}
 }); 
@@ -24966,11 +24966,11 @@ WeatherOutlook.insert({
 	municipality: "La Libertad", 
 	data: {
 		month: {
-			Nov: 364.88, 
-			Dec: 275.46, 
-			Jan: 158.16, 
-			Feb: 102.6, 
-			Mar: 133.01 
+			Dec: 275.81, 
+			Jan: 158.09, 
+			Feb: 102.64, 
+			Mar: 133.58, 
+			Apr: 101.51 
 		}
 	}
 }); 
@@ -24981,11 +24981,11 @@ WeatherOutlook.insert({
 	municipality: "Labason", 
 	data: {
 		month: {
-			Nov: 234.22, 
-			Dec: 173.36, 
-			Jan: 114.29, 
+			Dec: 173.69, 
+			Jan: 114.10, 
 			Feb: 88.27, 
-			Mar: 138.04 
+			Mar: 138.44, 
+			Apr: 130.18 
 		}
 	}
 }); 
@@ -24996,11 +24996,11 @@ WeatherOutlook.insert({
 	municipality: "Liloy", 
 	data: {
 		month: {
-			Nov: 257.24, 
-			Dec: 171.78, 
-			Jan: 115.48, 
-			Feb: 94.55, 
-			Mar: 141.1 
+			Dec: 172.16, 
+			Jan: 115.30, 
+			Feb: 94.52, 
+			Mar: 141.31, 
+			Apr: 134.91 
 		}
 	}
 }); 
@@ -25011,11 +25011,11 @@ WeatherOutlook.insert({
 	municipality: "Manukan", 
 	data: {
 		month: {
-			Nov: 319.2, 
-			Dec: 245.98, 
-			Jan: 131.06, 
-			Feb: 88.71, 
-			Mar: 117.73 
+			Dec: 246.32, 
+			Jan: 130.93, 
+			Feb: 88.69, 
+			Mar: 118.13, 
+			Apr: 95.32 
 		}
 	}
 }); 
@@ -25026,11 +25026,11 @@ WeatherOutlook.insert({
 	municipality: "Mutia", 
 	data: {
 		month: {
-			Nov: 363.53, 
-			Dec: 299.41, 
-			Jan: 166.08, 
-			Feb: 119.86, 
-			Mar: 148.83 
+			Dec: 299.79, 
+			Jan: 166.04, 
+			Feb: 119.92, 
+			Mar: 149.38, 
+			Apr: 110.24 
 		}
 	}
 }); 
@@ -25041,11 +25041,11 @@ WeatherOutlook.insert({
 	municipality: "Pinan", 
 	data: {
 		month: {
-			Nov: 361.09, 
-			Dec: 294.83, 
-			Jan: 159.55, 
-			Feb: 107.96, 
-			Mar: 141.62 
+			Dec: 295.20, 
+			Jan: 159.48, 
+			Feb: 108.00, 
+			Mar: 142.15, 
+			Apr: 113.99 
 		}
 	}
 }); 
@@ -25056,11 +25056,11 @@ WeatherOutlook.insert({
 	municipality: "Polanco", 
 	data: {
 		month: {
-			Nov: 360.5, 
-			Dec: 298.5, 
-			Jan: 159.1, 
-			Feb: 93.09, 
-			Mar: 131.21 
+			Dec: 298.86, 
+			Jan: 159.05, 
+			Feb: 93.15, 
+			Mar: 131.80, 
+			Apr: 111.50 
 		}
 	}
 }); 
@@ -25071,11 +25071,11 @@ WeatherOutlook.insert({
 	municipality: "Pres. Manuel A. Roxas", 
 	data: {
 		month: {
-			Nov: 343.87, 
-			Dec: 271.45, 
-			Jan: 144.56, 
-			Feb: 94.42, 
-			Mar: 130.17 
+			Dec: 271.80, 
+			Jan: 144.44, 
+			Feb: 94.40, 
+			Mar: 130.59, 
+			Apr: 104.68 
 		}
 	}
 }); 
@@ -25086,11 +25086,11 @@ WeatherOutlook.insert({
 	municipality: "Rizal", 
 	data: {
 		month: {
-			Nov: 351.57, 
-			Dec: 257.18, 
-			Jan: 152.46, 
-			Feb: 93.94, 
-			Mar: 120.96 
+			Dec: 257.54, 
+			Jan: 152.43, 
+			Feb: 94.01, 
+			Mar: 121.64, 
+			Apr: 90.42 
 		}
 	}
 }); 
@@ -25101,11 +25101,11 @@ WeatherOutlook.insert({
 	municipality: "Salug", 
 	data: {
 		month: {
-			Nov: 274.66, 
-			Dec: 173.96, 
-			Jan: 115.44, 
-			Feb: 103.39, 
-			Mar: 147.83 
+			Dec: 174.42, 
+			Jan: 115.25, 
+			Feb: 103.31, 
+			Mar: 147.70, 
+			Apr: 144.48 
 		}
 	}
 }); 
@@ -25116,11 +25116,11 @@ WeatherOutlook.insert({
 	municipality: "Sergio Osmena Sr.", 
 	data: {
 		month: {
-			Nov: 341.26, 
-			Dec: 286.22, 
-			Jan: 155.11, 
-			Feb: 117.84, 
-			Mar: 152.87 
+			Dec: 286.61, 
+			Jan: 155.03, 
+			Feb: 117.86, 
+			Mar: 153.24, 
+			Apr: 114.62 
 		}
 	}
 }); 
@@ -25131,11 +25131,11 @@ WeatherOutlook.insert({
 	municipality: "Siayan", 
 	data: {
 		month: {
-			Nov: 299.07, 
-			Dec: 218.22, 
-			Jan: 118.36, 
-			Feb: 111.93, 
-			Mar: 141.69 
+			Dec: 218.71, 
+			Jan: 118.19, 
+			Feb: 111.84, 
+			Mar: 141.49, 
+			Apr: 124.09 
 		}
 	}
 }); 
@@ -25146,11 +25146,11 @@ WeatherOutlook.insert({
 	municipality: "Sibuco", 
 	data: {
 		month: {
-			Nov: 180.99, 
-			Dec: 105.04, 
-			Jan: 82.47, 
-			Feb: 67.95, 
-			Mar: 68.66 
+			Dec: 105.41, 
+			Jan: 82.28, 
+			Feb: 68.08, 
+			Mar: 69.41, 
+			Apr: 69.32 
 		}
 	}
 }); 
@@ -25161,11 +25161,11 @@ WeatherOutlook.insert({
 	municipality: "Sibutad", 
 	data: {
 		month: {
-			Nov: 329.98, 
-			Dec: 246.6, 
-			Jan: 148.52, 
-			Feb: 84.74, 
-			Mar: 111.24 
+			Dec: 246.95, 
+			Jan: 148.47, 
+			Feb: 84.79, 
+			Mar: 111.93, 
+			Apr: 85.33 
 		}
 	}
 }); 
@@ -25176,11 +25176,11 @@ WeatherOutlook.insert({
 	municipality: "Sindangan", 
 	data: {
 		month: {
-			Nov: 274.7, 
-			Dec: 178.8, 
-			Jan: 105.67, 
-			Feb: 94.72, 
-			Mar: 111.39 
+			Dec: 179.25, 
+			Jan: 105.49, 
+			Feb: 94.65, 
+			Mar: 111.33, 
+			Apr: 95.81 
 		}
 	}
 }); 
@@ -25191,11 +25191,11 @@ WeatherOutlook.insert({
 	municipality: "Siocon", 
 	data: {
 		month: {
-			Nov: 281.09, 
-			Dec: 222.06, 
-			Jan: 91.61, 
-			Feb: 63.58, 
-			Mar: 114.26 
+			Dec: 222.35, 
+			Jan: 91.37, 
+			Feb: 63.62, 
+			Mar: 114.86, 
+			Apr: 115.19 
 		}
 	}
 }); 
@@ -25206,11 +25206,11 @@ WeatherOutlook.insert({
 	municipality: "Sirawai", 
 	data: {
 		month: {
-			Nov: 261.12, 
-			Dec: 198.76, 
-			Jan: 86.79, 
-			Feb: 64.38, 
-			Mar: 105.13 
+			Dec: 199.06, 
+			Jan: 86.58, 
+			Feb: 64.44, 
+			Mar: 105.82, 
+			Apr: 108.97 
 		}
 	}
 }); 
@@ -25221,11 +25221,11 @@ WeatherOutlook.insert({
 	municipality: "Tampilisan", 
 	data: {
 		month: {
-			Nov: 254.23, 
-			Dec: 167.22, 
-			Jan: 123.22, 
-			Feb: 96.54, 
-			Mar: 158.49 
+			Dec: 167.61, 
+			Jan: 123.04, 
+			Feb: 96.51, 
+			Mar: 158.67, 
+			Apr: 150.95 
 		}
 	}
 }); 
@@ -25236,11 +25236,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 254.7, 
-			Dec: 202.17, 
-			Jan: 129.69, 
-			Feb: 110, 
-			Mar: 146.78 
+			Dec: 202.64, 
+			Jan: 129.64, 
+			Feb: 110.08, 
+			Mar: 147.07, 
+			Apr: 132.59 
 		}
 	}
 }); 
@@ -25251,11 +25251,11 @@ WeatherOutlook.insert({
 	municipality: "Aurora", 
 	data: {
 		month: {
-			Nov: 282.3, 
-			Dec: 248.8, 
-			Jan: 168.11, 
-			Feb: 137.17, 
-			Mar: 174.57 
+			Dec: 249.23, 
+			Jan: 168.07, 
+			Feb: 137.23, 
+			Mar: 174.78, 
+			Apr: 126.80 
 		}
 	}
 }); 
@@ -25266,11 +25266,11 @@ WeatherOutlook.insert({
 	municipality: "Bayog", 
 	data: {
 		month: {
-			Nov: 316.28, 
-			Dec: 222.34, 
-			Jan: 127.48, 
-			Feb: 124.25, 
-			Mar: 175.09 
+			Dec: 222.87, 
+			Jan: 127.27, 
+			Feb: 124.14, 
+			Mar: 174.67, 
+			Apr: 167.41 
 		}
 	}
 }); 
@@ -25281,11 +25281,11 @@ WeatherOutlook.insert({
 	municipality: "Dimataling", 
 	data: {
 		month: {
-			Nov: 226.87, 
-			Dec: 180.09, 
-			Jan: 126.9, 
-			Feb: 97.85, 
-			Mar: 151.57 
+			Dec: 180.50, 
+			Jan: 126.80, 
+			Feb: 97.90, 
+			Mar: 151.93, 
+			Apr: 152.85 
 		}
 	}
 }); 
@@ -25296,11 +25296,11 @@ WeatherOutlook.insert({
 	municipality: "Dinas", 
 	data: {
 		month: {
-			Nov: 229.44, 
-			Dec: 192.11, 
-			Jan: 131.14, 
-			Feb: 104.52, 
-			Mar: 154.11 
+			Dec: 192.53, 
+			Jan: 131.04, 
+			Feb: 104.57, 
+			Mar: 154.45, 
+			Apr: 151.05 
 		}
 	}
 }); 
@@ -25311,11 +25311,11 @@ WeatherOutlook.insert({
 	municipality: "Dumalinao", 
 	data: {
 		month: {
-			Nov: 252.29, 
-			Dec: 217.38, 
-			Jan: 137.38, 
-			Feb: 117.08, 
-			Mar: 159.6 
+			Dec: 217.78, 
+			Jan: 137.27, 
+			Feb: 117.10, 
+			Mar: 159.88, 
+			Apr: 140.31 
 		}
 	}
 }); 
@@ -25326,11 +25326,11 @@ WeatherOutlook.insert({
 	municipality: "Dumingag", 
 	data: {
 		month: {
-			Nov: 304.31, 
-			Dec: 244.73, 
-			Jan: 138.27, 
-			Feb: 118.99, 
-			Mar: 152.71 
+			Dec: 245.15, 
+			Jan: 138.15, 
+			Feb: 118.97, 
+			Mar: 152.87, 
+			Apr: 124.74 
 		}
 	}
 }); 
@@ -25341,11 +25341,11 @@ WeatherOutlook.insert({
 	municipality: "Guipos", 
 	data: {
 		month: {
-			Nov: 245.76, 
-			Dec: 209.25, 
-			Jan: 133.28, 
-			Feb: 113.46, 
-			Mar: 160 
+			Dec: 209.68, 
+			Jan: 133.18, 
+			Feb: 113.48, 
+			Mar: 160.25, 
+			Apr: 145.90 
 		}
 	}
 }); 
@@ -25356,11 +25356,11 @@ WeatherOutlook.insert({
 	municipality: "Josefina", 
 	data: {
 		month: {
-			Nov: 336.18, 
-			Dec: 298.06, 
-			Jan: 184.09, 
-			Feb: 138.47, 
-			Mar: 168.18 
+			Dec: 298.46, 
+			Jan: 184.05, 
+			Feb: 138.53, 
+			Mar: 168.56, 
+			Apr: 120.52 
 		}
 	}
 }); 
@@ -25371,11 +25371,11 @@ WeatherOutlook.insert({
 	municipality: "Kumalarang", 
 	data: {
 		month: {
-			Nov: 277.47, 
-			Dec: 220.34, 
-			Jan: 131.18, 
-			Feb: 116.45, 
-			Mar: 169.52 
+			Dec: 220.78, 
+			Jan: 131.02, 
+			Feb: 116.42, 
+			Mar: 169.54, 
+			Apr: 157.27 
 		}
 	}
 }); 
@@ -25386,11 +25386,11 @@ WeatherOutlook.insert({
 	municipality: "Labangan", 
 	data: {
 		month: {
-			Nov: 274.45, 
-			Dec: 232.51, 
-			Jan: 145.82, 
-			Feb: 129.18, 
-			Mar: 168.72 
+			Dec: 232.96, 
+			Jan: 145.75, 
+			Feb: 129.22, 
+			Mar: 168.97, 
+			Apr: 134.69 
 		}
 	}
 }); 
@@ -25401,11 +25401,11 @@ WeatherOutlook.insert({
 	municipality: "Lakewood", 
 	data: {
 		month: {
-			Nov: 307.53, 
-			Dec: 232.59, 
-			Jan: 131.02, 
-			Feb: 126.32, 
-			Mar: 173.99 
+			Dec: 233.09, 
+			Jan: 130.86, 
+			Feb: 126.25, 
+			Mar: 173.81, 
+			Apr: 158.33 
 		}
 	}
 }); 
@@ -25416,11 +25416,11 @@ WeatherOutlook.insert({
 	municipality: "Lakewood Lake", 
 	data: {
 		month: {
-			Nov: 307.13, 
-			Dec: 232.34, 
-			Jan: 132.36, 
-			Feb: 123.63, 
-			Mar: 177.9 
+			Dec: 232.77, 
+			Jan: 132.18, 
+			Feb: 123.61, 
+			Mar: 177.88, 
+			Apr: 157.04 
 		}
 	}
 }); 
@@ -25431,11 +25431,11 @@ WeatherOutlook.insert({
 	municipality: "Lapuyan", 
 	data: {
 		month: {
-			Nov: 255.31, 
-			Dec: 213.39, 
-			Jan: 131.87, 
-			Feb: 108.22, 
-			Mar: 165.58 
+			Dec: 213.84, 
+			Jan: 131.77, 
+			Feb: 108.24, 
+			Mar: 165.79, 
+			Apr: 156.43 
 		}
 	}
 }); 
@@ -25446,11 +25446,11 @@ WeatherOutlook.insert({
 	municipality: "Mahayag", 
 	data: {
 		month: {
-			Nov: 319.28, 
-			Dec: 264.54, 
-			Jan: 161.65, 
-			Feb: 128.08, 
-			Mar: 160.81 
+			Dec: 264.94, 
+			Jan: 161.56, 
+			Feb: 128.10, 
+			Mar: 161.12, 
+			Apr: 123.48 
 		}
 	}
 }); 
@@ -25461,11 +25461,11 @@ WeatherOutlook.insert({
 	municipality: "Margosatubig", 
 	data: {
 		month: {
-			Nov: 226.13, 
-			Dec: 183.43, 
-			Jan: 129.27, 
-			Feb: 97.42, 
-			Mar: 153.18 
+			Dec: 183.84, 
+			Jan: 129.14, 
+			Feb: 97.45, 
+			Mar: 153.49, 
+			Apr: 161.82 
 		}
 	}
 }); 
@@ -25476,11 +25476,11 @@ WeatherOutlook.insert({
 	municipality: "Midsalip", 
 	data: {
 		month: {
-			Nov: 294.35, 
-			Dec: 238.16, 
-			Jan: 134.37, 
-			Feb: 130.35, 
-			Mar: 163.07 
+			Dec: 238.61, 
+			Jan: 134.22, 
+			Feb: 130.32, 
+			Mar: 163.10, 
+			Apr: 142.31 
 		}
 	}
 }); 
@@ -25491,11 +25491,11 @@ WeatherOutlook.insert({
 	municipality: "Molave", 
 	data: {
 		month: {
-			Nov: 319.6, 
-			Dec: 265.23, 
-			Jan: 169.52, 
-			Feb: 131.06, 
-			Mar: 161.93 
+			Dec: 265.64, 
+			Jan: 169.46, 
+			Feb: 131.10, 
+			Mar: 162.28, 
+			Apr: 123.81 
 		}
 	}
 }); 
@@ -25506,11 +25506,11 @@ WeatherOutlook.insert({
 	municipality: "Pagadian City", 
 	data: {
 		month: {
-			Nov: 280.01, 
-			Dec: 230.61, 
-			Jan: 139.39, 
+			Dec: 231.04, 
+			Jan: 139.26, 
 			Feb: 127.86, 
-			Mar: 170 
+			Mar: 170.14, 
+			Apr: 143.35 
 		}
 	}
 }); 
@@ -25521,11 +25521,11 @@ WeatherOutlook.insert({
 	municipality: "Pitogo", 
 	data: {
 		month: {
-			Nov: 205.6, 
-			Dec: 148.16, 
-			Jan: 109.05, 
-			Feb: 81.09, 
-			Mar: 130.34 
+			Dec: 148.58, 
+			Jan: 108.97, 
+			Feb: 81.17, 
+			Mar: 130.74, 
+			Apr: 135.34 
 		}
 	}
 }); 
@@ -25536,11 +25536,11 @@ WeatherOutlook.insert({
 	municipality: "Ramon Magsaysay", 
 	data: {
 		month: {
-			Nov: 282.1, 
-			Dec: 248.93, 
-			Jan: 157.62, 
-			Feb: 132.28, 
-			Mar: 164.76 
+			Dec: 249.34, 
+			Jan: 157.54, 
+			Feb: 132.31, 
+			Mar: 165.04, 
+			Apr: 131.33 
 		}
 	}
 }); 
@@ -25551,11 +25551,11 @@ WeatherOutlook.insert({
 	municipality: "San Miguel", 
 	data: {
 		month: {
-			Nov: 251.81, 
-			Dec: 214.98, 
-			Jan: 132.62, 
-			Feb: 109.07, 
-			Mar: 163.29 
+			Dec: 215.38, 
+			Jan: 132.49, 
+			Feb: 109.08, 
+			Mar: 163.54, 
+			Apr: 153.09 
 		}
 	}
 }); 
@@ -25566,11 +25566,11 @@ WeatherOutlook.insert({
 	municipality: "San Pablo", 
 	data: {
 		month: {
-			Nov: 237.32, 
-			Dec: 200.5, 
-			Jan: 134.52, 
-			Feb: 109.97, 
-			Mar: 154.06 
+			Dec: 200.92, 
+			Jan: 134.46, 
+			Feb: 110.03, 
+			Mar: 154.41, 
+			Apr: 143.42 
 		}
 	}
 }); 
@@ -25581,11 +25581,11 @@ WeatherOutlook.insert({
 	municipality: "Sominot", 
 	data: {
 		month: {
-			Nov: 290.4, 
-			Dec: 245.42, 
-			Jan: 146.43, 
-			Feb: 129.48, 
-			Mar: 163.64 
+			Dec: 245.81, 
+			Jan: 146.32, 
+			Feb: 129.50, 
+			Mar: 163.88, 
+			Apr: 138.03 
 		}
 	}
 }); 
@@ -25596,11 +25596,11 @@ WeatherOutlook.insert({
 	municipality: "Tabina", 
 	data: {
 		month: {
-			Nov: 236.97, 
-			Dec: 163.12, 
-			Jan: 118.84, 
-			Feb: 92.55, 
-			Mar: 144.88 
+			Dec: 163.54, 
+			Jan: 118.77, 
+			Feb: 92.62, 
+			Mar: 145.28, 
+			Apr: 151.80 
 		}
 	}
 }); 
@@ -25611,11 +25611,11 @@ WeatherOutlook.insert({
 	municipality: "Tambulig", 
 	data: {
 		month: {
-			Nov: 305.99, 
-			Dec: 272.97, 
-			Jan: 182.23, 
-			Feb: 142.83, 
-			Mar: 170.45 
+			Dec: 273.40, 
+			Jan: 182.19, 
+			Feb: 142.91, 
+			Mar: 170.75, 
+			Apr: 126.39 
 		}
 	}
 }); 
@@ -25626,11 +25626,11 @@ WeatherOutlook.insert({
 	municipality: "Tigbao", 
 	data: {
 		month: {
-			Nov: 281.69, 
-			Dec: 231.05, 
-			Jan: 134.74, 
-			Feb: 124.84, 
-			Mar: 172.05 
+			Dec: 231.50, 
+			Jan: 134.60, 
+			Feb: 124.83, 
+			Mar: 172.12, 
+			Apr: 151.87 
 		}
 	}
 }); 
@@ -25641,11 +25641,11 @@ WeatherOutlook.insert({
 	municipality: "Tukuran", 
 	data: {
 		month: {
-			Nov: 271.98, 
-			Dec: 234.77, 
-			Jan: 155.83, 
-			Feb: 132.01, 
-			Mar: 170.03 
+			Dec: 235.19, 
+			Jan: 155.78, 
+			Feb: 132.07, 
+			Mar: 170.30, 
+			Apr: 127.72 
 		}
 	}
 }); 
@@ -25656,11 +25656,11 @@ WeatherOutlook.insert({
 	municipality: "Vincenzo A. Sagun", 
 	data: {
 		month: {
-			Nov: 220.1, 
-			Dec: 183.21, 
-			Jan: 128.09, 
-			Feb: 95.35, 
-			Mar: 152.8 
+			Dec: 183.61, 
+			Jan: 127.98, 
+			Feb: 95.39, 
+			Mar: 153.15, 
+			Apr: 155.91 
 		}
 	}
 }); 
@@ -25671,11 +25671,11 @@ WeatherOutlook.insert({
 	municipality: "Zamboanga City", 
 	data: {
 		month: {
-			Nov: 168.5, 
-			Dec: 106.46, 
-			Jan: 83.07, 
-			Feb: 68.85, 
-			Mar: 80.17 
+			Dec: 106.87, 
+			Jan: 82.83, 
+			Feb: 68.92, 
+			Mar: 80.80, 
+			Apr: 91.42 
 		}
 	}
 }); 
@@ -25686,11 +25686,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 228.81, 
-			Dec: 183.72, 
-			Jan: 122.2, 
+			Dec: 184.12, 
+			Jan: 122.04, 
 			Feb: 95.17, 
-			Mar: 157.51 
+			Mar: 157.78, 
+			Apr: 153.66 
 		}
 	}
 }); 
@@ -25701,11 +25701,11 @@ WeatherOutlook.insert({
 	municipality: "Alicia", 
 	data: {
 		month: {
-			Nov: 196.75, 
-			Dec: 193.54, 
-			Jan: 130.82, 
-			Feb: 103.58, 
-			Mar: 182.68 
+			Dec: 193.95, 
+			Jan: 130.70, 
+			Feb: 103.62, 
+			Mar: 183.03, 
+			Apr: 171.87 
 		}
 	}
 }); 
@@ -25716,11 +25716,11 @@ WeatherOutlook.insert({
 	municipality: "Buug", 
 	data: {
 		month: {
-			Nov: 271.35, 
-			Dec: 219.15, 
-			Jan: 129.44, 
-			Feb: 116.26, 
-			Mar: 167.27 
+			Dec: 219.62, 
+			Jan: 129.29, 
+			Feb: 116.23, 
+			Mar: 167.25, 
+			Apr: 161.92 
 		}
 	}
 }); 
@@ -25731,11 +25731,11 @@ WeatherOutlook.insert({
 	municipality: "Diplahan", 
 	data: {
 		month: {
-			Nov: 277.28, 
-			Dec: 205.63, 
-			Jan: 130.56, 
-			Feb: 111.28, 
-			Mar: 166.17 
+			Dec: 206.07, 
+			Jan: 130.39, 
+			Feb: 111.26, 
+			Mar: 166.17, 
+			Apr: 169.79 
 		}
 	}
 }); 
@@ -25746,11 +25746,11 @@ WeatherOutlook.insert({
 	municipality: "Imelda", 
 	data: {
 		month: {
-			Nov: 230.51, 
-			Dec: 198.66, 
-			Jan: 131.49, 
-			Feb: 106.23, 
-			Mar: 175.08 
+			Dec: 199.07, 
+			Jan: 131.35, 
+			Feb: 106.24, 
+			Mar: 175.31, 
+			Apr: 167.36 
 		}
 	}
 }); 
@@ -25761,11 +25761,11 @@ WeatherOutlook.insert({
 	municipality: "Ipil", 
 	data: {
 		month: {
-			Nov: 227.65, 
-			Dec: 170.62, 
-			Jan: 120.22, 
-			Feb: 88.47, 
-			Mar: 146.41 
+			Dec: 170.97, 
+			Jan: 120.04, 
+			Feb: 88.49, 
+			Mar: 146.84, 
+			Apr: 141.29 
 		}
 	}
 }); 
@@ -25776,11 +25776,11 @@ WeatherOutlook.insert({
 	municipality: "Kabasalan", 
 	data: {
 		month: {
-			Nov: 283.45, 
-			Dec: 204.7, 
-			Jan: 132, 
-			Feb: 108.89, 
-			Mar: 180.77 
+			Dec: 205.14, 
+			Jan: 131.81, 
+			Feb: 108.85, 
+			Mar: 180.71, 
+			Apr: 175.97 
 		}
 	}
 }); 
@@ -25791,11 +25791,11 @@ WeatherOutlook.insert({
 	municipality: "Mabuhay", 
 	data: {
 		month: {
-			Nov: 185.94, 
-			Dec: 180.5, 
-			Jan: 126.96, 
-			Feb: 100.24, 
-			Mar: 176.7 
+			Dec: 180.94, 
+			Jan: 126.85, 
+			Feb: 100.29, 
+			Mar: 177.02, 
+			Apr: 168.64 
 		}
 	}
 }); 
@@ -25806,11 +25806,11 @@ WeatherOutlook.insert({
 	municipality: "Malangas", 
 	data: {
 		month: {
-			Nov: 235.27, 
-			Dec: 202.24, 
-			Jan: 129.33, 
-			Feb: 105.04, 
-			Mar: 169.46 
+			Dec: 202.65, 
+			Jan: 129.19, 
+			Feb: 105.05, 
+			Mar: 169.71, 
+			Apr: 163.80 
 		}
 	}
 }); 
@@ -25821,11 +25821,11 @@ WeatherOutlook.insert({
 	municipality: "Naga", 
 	data: {
 		month: {
-			Nov: 237.22, 
-			Dec: 166.72, 
-			Jan: 120.74, 
+			Dec: 167.12, 
+			Jan: 120.57, 
 			Feb: 91.11, 
-			Mar: 157.88 
+			Mar: 158.09, 
+			Apr: 151.17 
 		}
 	}
 }); 
@@ -25836,11 +25836,11 @@ WeatherOutlook.insert({
 	municipality: "Olutanga", 
 	data: {
 		month: {
-			Nov: 183.9, 
-			Dec: 156.76, 
-			Jan: 123.91, 
-			Feb: 91.46, 
-			Mar: 155.36 
+			Dec: 157.20, 
+			Jan: 123.81, 
+			Feb: 91.55, 
+			Mar: 155.74, 
+			Apr: 157.30 
 		}
 	}
 }); 
@@ -25851,11 +25851,11 @@ WeatherOutlook.insert({
 	municipality: "Payao", 
 	data: {
 		month: {
-			Nov: 197.57, 
-			Dec: 182, 
-			Jan: 124.13, 
-			Feb: 96.1, 
-			Mar: 163.14 
+			Dec: 182.39, 
+			Jan: 123.99, 
+			Feb: 96.13, 
+			Mar: 163.48, 
+			Apr: 155.73 
 		}
 	}
 }); 
@@ -25866,11 +25866,11 @@ WeatherOutlook.insert({
 	municipality: "Roseller Lim", 
 	data: {
 		month: {
-			Nov: 221.27, 
-			Dec: 173.31, 
-			Jan: 109.98, 
-			Feb: 78.69, 
-			Mar: 130.64 
+			Dec: 173.62, 
+			Jan: 109.78, 
+			Feb: 78.73, 
+			Mar: 131.21, 
+			Apr: 128.03 
 		}
 	}
 }); 
@@ -25881,11 +25881,11 @@ WeatherOutlook.insert({
 	municipality: "Siay", 
 	data: {
 		month: {
-			Nov: 256.97, 
-			Dec: 192.63, 
-			Jan: 130.54, 
-			Feb: 104.24, 
-			Mar: 167.7 
+			Dec: 193.06, 
+			Jan: 130.38, 
+			Feb: 104.22, 
+			Mar: 167.83, 
+			Apr: 165.34 
 		}
 	}
 }); 
@@ -25896,11 +25896,11 @@ WeatherOutlook.insert({
 	municipality: "Talusan", 
 	data: {
 		month: {
-			Nov: 181.89, 
-			Dec: 169.62, 
-			Jan: 124.33, 
-			Feb: 96.31, 
-			Mar: 166.33 
+			Dec: 170.06, 
+			Jan: 124.21, 
+			Feb: 96.36, 
+			Mar: 166.68, 
+			Apr: 161.67 
 		}
 	}
 }); 
@@ -25911,11 +25911,11 @@ WeatherOutlook.insert({
 	municipality: "Titay", 
 	data: {
 		month: {
-			Nov: 237.13, 
-			Dec: 167.32, 
-			Jan: 122.44, 
-			Feb: 90.92, 
-			Mar: 154.05 
+			Dec: 167.67, 
+			Jan: 122.25, 
+			Feb: 90.93, 
+			Mar: 154.43, 
+			Apr: 147.94 
 		}
 	}
 }); 
@@ -25926,11 +25926,11 @@ WeatherOutlook.insert({
 	municipality: "Tungawan", 
 	data: {
 		month: {
-			Nov: 216.81, 
-			Dec: 169.73, 
-			Jan: 98.73, 
-			Feb: 70.12, 
-			Mar: 113.81 
+			Dec: 170.04, 
+			Jan: 98.53, 
+			Feb: 70.17, 
+			Mar: 114.44, 
+			Apr: 118.10 
 		}
 	}
 }); 
@@ -25941,11 +25941,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 255.417267248265, 
-			Dec: 240.996782415947, 
-			Jan: 175.072636529834, 
-			Feb: 118.201192876184, 
-			Mar: 137.050489984027 
+			Dec: 241.94887982847, 
+			Jan: 175.696387315529, 
+			Feb: 118.71803455527, 
+			Mar: 138.265525015868, 
+			Apr: 109.529844053124 
 		}
 	}
 }); 
@@ -25956,11 +25956,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 203.19, 
-			Dec: 158.18, 
-			Jan: 106.49, 
-			Feb: 73.15, 
-			Mar: 92.74 
+			Dec: 158.36, 
+			Jan: 106.51, 
+			Feb: 73.20, 
+			Mar: 93.51, 
+			Apr: 74.03 
 		}
 	}
 }); 
@@ -25971,11 +25971,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 220.98, 
-			Dec: 98.36, 
-			Jan: 27.52, 
-			Feb: 28.1, 
-			Mar: 55.32 
+			Dec: 99.34, 
+			Jan: 28.21, 
+			Feb: 28.64, 
+			Mar: 54.53, 
+			Apr: 94.93 
 		}
 	}
 }); 
@@ -25986,11 +25986,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 81.29, 
-			Dec: 27.94, 
+			Dec: 27.81, 
 			Jan: 7.52, 
-			Feb: 8.02, 
-			Mar: 24.57 
+			Feb: 8.10, 
+			Mar: 23.48, 
+			Apr: 46.67 
 		}
 	}
 }); 
@@ -26001,11 +26001,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 307.02, 
-			Dec: 188.13, 
-			Jan: 80.34, 
-			Feb: 61.66, 
-			Mar: 85.6 
+			Dec: 188.52, 
+			Jan: 80.04, 
+			Feb: 61.63, 
+			Mar: 84.92, 
+			Apr: 82.52 
 		}
 	}
 }); 
@@ -26016,11 +26016,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 159.02, 
-			Dec: 91.81, 
-			Jan: 29.83, 
-			Feb: 26.26, 
-			Mar: 44.07 
+			Dec: 91.18, 
+			Jan: 29.90, 
+			Feb: 26.25, 
+			Mar: 43.07, 
+			Apr: 58.63 
 		}
 	}
 }); 
@@ -26031,11 +26031,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 243.93, 
-			Dec: 211.32, 
-			Jan: 61.47, 
-			Feb: 41.72, 
-			Mar: 54.72 
+			Dec: 210.91, 
+			Jan: 61.32, 
+			Feb: 41.66, 
+			Mar: 54.35, 
+			Apr: 51.20 
 		}
 	}
 }); 
@@ -26046,11 +26046,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 216.39, 
-			Dec: 159.79, 
-			Jan: 65.92, 
-			Feb: 37.34, 
-			Mar: 45.98 
+			Dec: 159.48, 
+			Jan: 65.73, 
+			Feb: 37.25, 
+			Mar: 46.02, 
+			Apr: 58.25 
 		}
 	}
 }); 
@@ -26061,11 +26061,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 396.97, 
-			Dec: 438, 
-			Jan: 241.37, 
-			Feb: 151.82, 
-			Mar: 161.85 
+			Dec: 437.51, 
+			Jan: 241.06, 
+			Feb: 151.53, 
+			Mar: 162.79, 
+			Apr: 109.05 
 		}
 	}
 }); 
@@ -26076,11 +26076,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 257.07, 
-			Dec: 193.27, 
-			Jan: 98.61, 
-			Feb: 65.27, 
-			Mar: 85.08 
+			Dec: 195.55, 
+			Jan: 101.36, 
+			Feb: 67.07, 
+			Mar: 87.51, 
+			Apr: 68.81 
 		}
 	}
 }); 
@@ -26091,11 +26091,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 197.37, 
-			Dec: 170.92, 
-			Jan: 142.7, 
-			Feb: 88.65, 
-			Mar: 107.52 
+			Dec: 171.15, 
+			Jan: 142.73, 
+			Feb: 88.75, 
+			Mar: 108.88, 
+			Apr: 63.07 
 		}
 	}
 }); 
@@ -26106,11 +26106,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 398.96, 
-			Dec: 478.19, 
-			Jan: 380.55, 
-			Feb: 220.76, 
-			Mar: 243.6 
+			Dec: 477.99, 
+			Jan: 380.42, 
+			Feb: 220.72, 
+			Mar: 245.23, 
+			Apr: 156.57 
 		}
 	}
 }); 
@@ -26121,11 +26121,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 257.06, 
-			Dec: 199.88, 
-			Jan: 124.66, 
-			Feb: 98.71, 
-			Mar: 143.64 
+			Dec: 200.30, 
+			Jan: 124.55, 
+			Feb: 98.76, 
+			Mar: 143.95, 
+			Apr: 133.06 
 		}
 	}
 }); 
@@ -26136,11 +26136,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 269.8, 
-			Dec: 261.91, 
-			Jan: 211.66, 
-			Feb: 154.39, 
-			Mar: 179.99 
+			Dec: 262.27, 
+			Jan: 211.59, 
+			Feb: 154.44, 
+			Mar: 180.69, 
+			Apr: 124.72 
 		}
 	}
 }); 
@@ -26151,11 +26151,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 207.68, 
-			Dec: 245.56, 
-			Jan: 274.26, 
-			Feb: 209.95, 
-			Mar: 220.05 
+			Dec: 245.92, 
+			Jan: 274.21, 
+			Feb: 210.15, 
+			Mar: 221.86, 
+			Apr: 183.48 
 		}
 	}
 }); 
@@ -26166,11 +26166,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 172.99, 
-			Dec: 135.84, 
-			Jan: 117.76, 
-			Feb: 108.08, 
-			Mar: 133.02 
+			Dec: 136.29, 
+			Jan: 117.79, 
+			Feb: 108.29, 
+			Mar: 134.08, 
+			Apr: 123.59 
 		}
 	}
 }); 
@@ -26181,11 +26181,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 331.28, 
-			Dec: 497.34, 
-			Jan: 528.26, 
-			Feb: 342.24, 
-			Mar: 338.71 
+			Dec: 496.30, 
+			Jan: 526.39, 
+			Feb: 341.21, 
+			Mar: 339.90, 
+			Apr: 231.63 
 		}
 	}
 }); 
@@ -26196,11 +26196,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 180.58, 
-			Dec: 143.07, 
-			Jan: 109.44, 
-			Feb: 99.04, 
-			Mar: 120.18 
+			Dec: 143.14, 
+			Jan: 109.11, 
+			Feb: 99.10, 
+			Mar: 121.27, 
+			Apr: 125.43 
 		}
 	}
 }); 
@@ -26211,12 +26211,11 @@ WeatherOutlook.insert({
 	municipality: "All", 
 	data: {
 		month: {
-			Nov: 151.05, 
-			Dec: 93.06, 
-			Jan: 17.42, 
-			Feb: 11.17, 
-			Mar: 19.11 
+			Dec: 92.74, 
+			Jan: 17.26, 
+			Feb: 11.12, 
+			Mar: 18.44, 
+			Apr: 26.62 
 		}
 	}
 }); 
-
